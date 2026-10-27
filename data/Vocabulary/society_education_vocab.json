@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "se_001",
+    "expression": "社会",
+    "category": "Society & Education",
+    "furigana": "しゃかい",
+    "romaji": "shakai",
+    "meaningSinhala": "සමාජය / Society",
+    "kanjiBreakup": "社 (company/shrine) + 会 (meet)",
+    "story": "මිනිසුන් එකතු වී ජීවත් වන සමාජ පද්ධතිය."
+  },
+  {
+    "id": "se_002",
+    "expression": "経済",
+    "category": "Society & Education",
+    "furigana": "けいざい",
+    "romaji": "keizai",
+    "meaningSinhala": "ආර්ථිකය / Economy",
+    "kanjiBreakup": "経 (manage) + 済 (accomplish)",
+    "story": "මුදල් සංසරණය සහ වෙළඳාම සිදුවන ආර්ථික ක්‍රමය."
+  },
+  {
+    "id": "se_003",
+    "expression": "政治",
+    "category": "Society & Education",
+    "furigana": "せいじ",
+    "romaji": "seiji",
+    "meaningSinhala": "දේශපාලනය / Politics",
+    "kanjiBreakup": "政 (politics) + 治 (govern)",
+    "story": "රටක් පාලනය කරන දේශපාලන ක්‍රියාවලිය."
+  },
+  {
+    "id": "se_004",
+    "expression": "法律",
+    "category": "Society & Education",
+    "furigana": "ほうりつ",
+    "romaji": "houritsu",
+    "meaningSinhala": "නැඟුණු නීතිය / Law",
+    "kanjiBreakup": "法 (law) + 律 (rule)",
+    "story": "සමාජයක් පාලනය කිරීමට අනුගමනය කරන නීති පද්ධතිය."
+  },
+  {
+    "id": "se_005",
+    "expression": "文化",
+    "category": "Society & Education",
+    "furigana": "ぶんか",
+    "romaji": "bunka",
+    "meaningSinhala": "සංස්කෘතිය / Culture",
+    "kanjiBreakup": "文 (literature) + 化 (change)",
+    "story": "ජනතාවගේ සිරිත විරිත් සහ කලාවන්."
+  },
+  {
+    "id": "se_006",
+    "expression": "歴史",
+    "category": "Society & Education",
+    "furigana": "れきし",
+    "romaji": "rekishi",
+    "meaningSinhala": "ඉතිහාසය / History",
+    "kanjiBreakup": "歴 (pass through) + 史 (history)",
+    "story": "පසුගිය කාලයේ සිදුවී ගිය ඓතිහාසික සිදුවීම්."
+  },
+  {
+    "id": "se_007",
+    "expression": "科学",
+    "category": "Society & Education",
+    "furigana": "かがく",
+    "romaji": "kagaku",
+    "meaningSinhala": "විද්‍යාව / Science",
+    "kanjiBreakup": "科 (department) + 学 (study)",
+    "story": "භෞතික ලෝකය අධ්‍යයනය කරන විද්‍යාත්මක අංශය."
+  },
+  {
+    "id": "se_008",
+    "expression": "技術",
+    "category": "Society & Education",
+    "furigana": "ぎじゅつ",
+    "romaji": "gijutsu",
+    "meaningSinhala": "තාක්ෂණය / Technology",
+    "kanjiBreakup": "技 (skill) + 術 (art)",
+    "story": "විද්‍යාත්මක ඥානය යොදා සාදන නව තාක්ෂණය."
+  },
+  {
+    "id": "se_009",
+    "expression": "情報",
+    "category": "Society & Education",
+    "furigana": "じょうほう",
+    "romaji": "jouhou",
+    "meaningSinhala": "තොරතුරු / Information",
+    "kanjiBreakup": "情 (feeling) + 報 (report)",
+    "story": "අප වෙත ලැබෙන විවිධ පුවත් සහ තොරතුරු."
+  },
+  {
+    "id": "se_010",
+    "expression": "教育",
+    "category": "Society & Education",
+    "furigana": "きょういく",
+    "romaji": "kyouiku",
+    "meaningSinhala": "අධ්‍යාපනය / Education",
+    "kanjiBreakup": "教 (teach) + 育 (raise)",
+    "story": "පාසල්වලින් සහ විශ්වවිද්‍යාලවලින් ලබා දෙන අධ්‍යාපනය."
+  },
+  {
+    "id": "se_011",
+    "expression": "学校",
+    "category": "Society & Education",
+    "furigana": "がっこう",
+    "romaji": "gakkou",
+    "meaningSinhala": "පාසල / School",
+    "kanjiBreakup": "学 (study) + 校 (school)",
+    "story": "අධ්‍යාපනය ලබන අධ්‍යාපන ආයතනය."
+  },
+  {
+    "id": "se_012",
+    "expression": "大学",
+    "category": "Society & Education",
+    "furigana": "だいがく",
+    "romaji": "daigaku",
+    "meaningSinhala": "විශ්වවිද්‍යාලය / University",
+    "kanjiBreakup": "大 (big) + 学 (study)",
+    "story": "උසස් අධ්‍යාපනය ලබන විශ්වවිද්‍යාලය."
+  },
+  {
+    "id": "se_013",
+    "expression": "学生",
+    "category": "Society & Education",
+    "furigana": "がくせい",
+    "romaji": "gakusei",
+    "meaningSinhala": "ශිෂ්‍යයා / Student",
+    "kanjiBreakup": "学 (study) + 生 (life)",
+    "story": "විශ්වවිද්‍යාලයේ හෝ විද්‍යාලයේ ඉගෙන ගන්නා ශිෂ්‍යයා."
+  },
+  {
+    "id": "se_014",
+    "expression": "生徒",
+    "category": "Society & Education",
+    "furigana": "せいと",
+    "romaji": "seito",
+    "meaningSinhala": "පාසල් සිසුවා / Pupil / Student",
+    "kanjiBreakup": "生 (life) + 徒 (follower)",
+    "story": "පාසලේ ඉගෙන ගන්නා සිසුවා."
+  },
+  {
+    "id": "se_015",
+    "expression": "先生",
+    "category": "Society & Education",
+    "furigana": "せんせい",
+    "romaji": "sensei",
+    "meaningSinhala": "ගුරුවරයා / Teacher",
+    "kanjiBreakup": "先 (ahead) + 生 (life)",
+    "story": "අපට උගන්වන ගුරුතුමා හෝ ගුරුතුමිය."
+  },
+  {
+    "id": "se_016",
+    "expression": "教授",
+    "category": "Society & Education",
+    "furigana": "きょうじゅ",
+    "romaji": "kyouju",
+    "meaningSinhala": "මහාචාර්ය / Professor",
+    "kanjiBreakup": "教 (teach) + 授 (grant)",
+    "story": "විශ්වවිද්‍යාලයක උගන්වන මහාචාර්යවරයා."
+  },
+  {
+    "id": "se_017",
+    "expression": "授業",
+    "category": "Society & Education",
+    "furigana": "じゅぎょう",
+    "romaji": "jugyou",
+    "meaningSinhala": "දේශනය / පාඩම / Class / Lesson",
+    "kanjiBreakup": "授 (grant) + 業 (work)",
+    "story": "පන්ති කාමරයේ උගන්වන පාඩම් වේලාව."
+  },
+  {
+    "id": "se_018",
+    "expression": "試験",
+    "category": "Society & Education",
+    "furigana": "しけん",
+    "romaji": "shiken",
+    "meaningSinhala": "විභාගය / Exam",
+    "kanjiBreakup": "試 (test) + 験 (examine)",
+    "story": "අපගේ දැනුම මනින විභාගය."
+  },
+  {
+    "id": "se_019",
+    "expression": "成績",
+    "category": "Society & Education",
+    "furigana": "せいせき",
+    "romaji": "seiseki",
+    "meaningSinhala": "ලකුණු / ප්‍රතිඵලය / Grades / Results",
+    "kanjiBreakup": "成 (achieve) + 績 (achievement)",
+    "story": "විභාගයකින් ලබාගත් ලකුණු මට්ටම."
+  },
+  {
+    "id": "se_020",
+    "expression": "卒業",
+    "category": "Society & Education",
+    "furigana": "そつぎょう",
+    "romaji": "sotsugyou",
+    "meaningSinhala": "පාසල්/විශ්වවිද්‍යාල අධ්‍යාපනය අවසන් කිරීම / Graduation",
+    "kanjiBreakup": "卒 (graduate) + 業 (work)",
+    "story": "පාසල් හෝ විශ්වවිද්‍යාල පාඨමාලාව සාර්ථකව නිම කිරීම."
+  },
+  {
+    "id": "se_021",
+    "expression": "入学",
+    "category": "Society & Education",
+    "furigana": "にゅうがく",
+    "romaji": "nyuugaku",
+    "meaningSinhala": "ඇතුළත් වීම / School admission",
+    "kanjiBreakup": "入 (enter) + 学 (study)",
+    "story": "අලුතින් පාසලකට හෝ විශ්වවිද්‍යාලයකට ඇතුළත් වීම."
+  },
+  {
+    "id": "se_022",
+    "expression": "研究",
+    "category": "Society & Education",
+    "furigana": "けんきゅう",
+    "romaji": "kenkyuu",
+    "meaningSinhala": "පර්යේෂණය / Research",
+    "kanjiBreakup": "研 (polish) + 究 (search)",
+    "story": "විද්‍යාත්මකව හෝ අධ්‍යාපනිකව කරුණු සෙවීමේ පර්යේෂණය."
+  },
+  {
+    "id": "se_023",
+    "expression": "論文",
+    "category": "Society & Education",
+    "furigana": "ろんぶん",
+    "romaji": "ronbun",
+    "meaningSinhala": "නිබන්ධනය / Research paper",
+    "kanjiBreakup": "論 (theory) + 文 (writing)",
+    "story": "පර්යේෂණයක් ඇතුළත් කර ලියන ලියවිල්ල."
+  },
+  {
+    "id": "se_024",
+    "expression": "専門",
+    "category": "Society & Education",
+    "furigana": "せんもん",
+    "romaji": "senmon",
+    "meaningSinhala": "විශේෂඥ ක්ෂේත්‍රය / Major / Specialty",
+    "kanjiBreakup": "専 (exclusive) + 門 (gate)",
+    "story": "අප උගත් නිශ්චිත විෂය ක්ෂේත්‍රය."
+  },
+  {
+    "id": "se_025",
+    "expression": "国際",
+    "category": "Society & Education",
+    "furigana": "こくさい",
+    "romaji": "kokusai",
+    "meaningSinhala": "ජාත්‍යන්තර / International",
+    "kanjiBreakup": "国 (country) + 際 (border)",
+    "story": "රටවල් කිහිපයක් සම්බන්ධ වන ජාත්‍යන්තර මට්ටම."
+  },
+  {
+    "id": "se_026",
+    "expression": "外国",
+    "category": "Society & Education",
+    "furigana": "がいこく",
+    "romaji": "gaikoku",
+    "meaningSinhala": "විදේශ රට / Foreign country",
+    "kanjiBreakup": "外 (outside) + 国 (country)",
+    "story": "අපේ රට හැරුණු කොට වෙනත් රටක්."
+  },
+  {
+    "id": "se_027",
+    "expression": "留学生",
+    "category": "Society & Education",
+    "furigana": "りゅうがくせい",
+    "romaji": "ryuugakusei",
+    "meaningSinhala": "විදේශීය ශිෂ්‍යයා / International student",
+    "kanjiBreakup": "留学 (study abroad) + 生 (student)",
+    "story": "වෙනත් රටක සිට ඉගෙනීමට පැමිණි ශිෂ්‍යයා."
+  },
+  {
+    "id": "se_028",
+    "expression": "通訳",
+    "category": "Society & Education",
+    "furigana": "つうやく",
+    "romaji": "tsuuyaku",
+    "meaningSinhala": "ဘာෂා පරිවර්තනය (කැඳවාගෙන යාමේදී) / Interpretation",
+    "kanjiBreakup": "通 (pass) + 訳 (translate)",
+    "story": "කතා කරන දේ ක්ෂණිකව වෙනත් භාෂාවකට පෙරළීම."
+  },
+  {
+    "id": "se_029",
+    "expression": "翻訳",
+    "category": "Society & Education",
+    "furigana": "ほんやく",
+    "romaji": "honyaku",
+    "meaningSinhala": "ලිඛිත පරිවර්තනය / Translation",
+    "kanjiBreakup": "翻 (translate) + 訳 (translate)",
+    "story": "ලියවිල්ලක් වෙනත් භාෂාවකට ලිඛිතව හැරවීම."
+  },
+  {
+    "id": "se_030",
+    "expression": "法律を守る",
+    "category": "Society & Education",
+    "furigana": "ほうりつをまもる",
+    "romaji": "houritsu o mamoru",
+    "meaningSinhala": "නීතිය රැකීම / To obey the law",
+    "kanjiBreakup": "法律 (law) + 守る (protect)",
+    "story": "රටේ නීතිරීතිවලට අනුව කටයුතු කිරීම."
+  },
+  {
+    "id": "se_031",
+    "expression": "投票",
+    "category": "Society & Education",
+    "furigana": "とうひょう",
+    "romaji": "touhyou",
+    "meaningSinhala": "ඡන්දය ප්‍රකාශ කිරීම / Voting",
+    "kanjiBreakup": "投 (throw) + 票 (ticket)",
+    "story": "මැතිවරණයකදී ප්‍රජාතන්ත්‍රවාදීව ඡන්දය දැමීම."
+  },
+  {
+    "id": "se_032",
+    "expression": "選挙",
+    "category": "Society & Education",
+    "furigana": "せんきょ",
+    "romaji": "senkyo",
+    "meaningSinhala": "මැතිවරණය / Election",
+    "kanjiBreakup": "選 (choose) + 挙 (raise)",
+    "story": "රටේ නායකයින් තෝරා පත් කරගන්නා මැතිවරණය."
+  },
+  {
+    "id": "se_033",
+    "expression": "税金",
+    "category": "Society & Education",
+    "furigana": "ぜいきん",
+    "romaji": "zeikin",
+    "meaningSinhala": "බද්ද / Tax",
+    "kanjiBreakup": "税 (tax) + 金 (money)",
+    "story": "රජයට ගෙවිය යුතු බදු මුදල."
+  },
+  {
+    "id": "se_034",
+    "expression": "経済成長",
+    "category": "Society & Education",
+    "furigana": "けいざいせいちょう",
+    "romaji": "keizai seichou",
+    "meaningSinhala": "ආර්ථික වර්ධනය / Economic growth",
+    "kanjiBreakup": "経済 (economy) + 成長 (growth)",
+    "story": "රටක ආර්ථික මට්ටම ඉහළ යාම."
+  },
+  {
+    "id": "se_035",
+    "expression": "失業",
+    "category": "Society & Education",
+    "furigana": "しつぎょう",
+    "romaji": "shitsugyou",
+    "meaningSinhala": "රැකියා විරහිතභාවය / Unemployment",
+    "kanjiBreakup": "失 (lose) + 業 (work)",
+    "story": "රැකියාවක් නොමැතිව සිටීම."
+  },
+  {
+    "id": "se_036",
+    "expression": "人口",
+    "category": "Society & Education",
+    "furigana": "じんこう",
+    "romaji": "jinkou",
+    "meaningSinhala": "ජනගහනය / Population",
+    "kanjiBreakup": "人 (person) + 口 (mouth)",
+    "story": "ප්‍රදේශයක හෝ රටක ජීවත් වන ජනතාවගේ සංඛ්‍යාව."
+  },
+  {
+    "id": "se_037",
+    "expression": "平和",
+    "category": "Society & Education",
+    "furigana": "へいわ",
+    "romaji": "heiwa",
+    "meaningSinhala": "සාමය / Peace",
+    "kanjiBreakup": "平 (flat/peace) + 和 (harmony)",
+    "story": "යුද්ධයක් නැති සැමට නිදහසේ ජීවත් විය හැකි සාමය."
+  },
+  {
+    "id": "se_038",
+    "expression": "戦争",
+    "category": "Society & Education",
+    "furigana": "せんそう",
+    "romaji": "sensou",
+    "meaningSinhala": "යුද්ධය / War",
+    "kanjiBreakup": "戦 (war) + 争 (dispute)",
+    "story": "රටවල් අතර ඇති වන සන්නද්ධ ගැටුම."
+  },
+  {
+    "id": "se_039",
+    "expression": "人権",
+    "category": "Society & Education",
+    "furigana": "じんけん",
+    "romaji": "jinken",
+    "meaningSinhala": "මිනිස් අයිතිවාසිකම් / Human rights",
+    "kanjiBreakup": "人 (person) + 権 (right)",
+    "story": "සෑම මිනිසෙකුටම හිමි විය යුතු මූලික අයිතිවාසිකම්."
+  },
+  {
+    "id": "se_040",
+    "expression": "平等",
+    "category": "Society & Education",
+    "furigana": "びょうどう",
+    "romaji": "byoudou",
+    "meaningSinhala": "සමානාත්මතාව / Equality",
+    "kanjiBreakup": "平 (flat) + 等 (equal)",
+    "story": "සියලු දෙනා නීතිය ඉදිරියේ සමාන වීම."
+  },
+  {
+    "id": "se_041",
+    "expression": "民主主義",
+    "category": "Society & Education",
+    "furigana": "みんしゅしゅぎ",
+    "romaji": "minshu shugi",
+    "meaningSinhala": "ප්‍රජාතන්ත්‍රවාදය / Democracy",
+    "kanjiBreakup": "民主 (democracy) + 主義 (ism)",
+    "story": "ජනතාව විසින් පාලකයින් තෝරා පත් කරගන්නා ක්‍රමය."
+  },
+  {
+    "id": "se_042",
+    "expression": "資本主義",
+    "category": "Society & Education",
+    "furigana": "しほんしゅぎ",
+    "romaji": "shihon shugi",
+    "meaningSinhala": "ධනවාදය / Capitalism",
+    "kanjiBreakup": "資本 (capital) + 主義 (ism)",
+    "story": "පුද්ගලික ව්‍යාපාර සහ වෙළඳපොළ මත පදනම් වූ ආර්ථිකය."
+  },
+  {
+    "id": "se_043",
+    "expression": "労働組合",
+    "category": "Society & Education",
+    "furigana": "ろうどうくみあい",
+    "romaji": "roudou kumiai",
+    "meaningSinhala": "වෘත්තීය සමිතිය / Labor union",
+    "kanjiBreakup": "労働 (labor) + 組合 (union)",
+    "story": "සේවකයින්ගේ අයිතිවාසිකම් වෙනුවෙන් පෙනී සිටින සංගමය."
+  },
+  {
+    "id": "se_044",
+    "expression": "消費者権利",
+    "category": "Society & Education",
+    "furigana": "しょうしゃけんり",
+    "romaji": "shousha kenri",
+    "meaningSinhala": "පාරිභෝගික අයිතිවාසිකම් / Consumer rights",
+    "kanjiBreakup": "消費者 (consumer) + 権利 (right)",
+    "story": "භාණ්ඩ මිලදී ගැනීමේදී පාරිභෝගිකයාට ඇති අයිතිය."
+  },
+  {
+    "id": "se_045",
+    "expression": "福祉政策",
+    "category": "Society & Education",
+    "furigana": "ふくしせいさく",
+    "romaji": "fukushi seisaku",
+    "meaningSinhala": "සුභසාධන ප්‍රතිපත්තිය / Welfare policy",
+    "kanjiBreakup": "福祉 (welfare) + 政策 (policy)",
+    "story": "දුප්පත් ජනතාවට සහ රෝගීන්ට රජයෙන් දෙන ආධාර ප්‍රතිපත්ති."
+  },
+  {
+    "id": "se_046",
+    "expression": "公共事業",
+    "category": "Society & Education",
+    "furigana": "こうきょうじぎょう",
+    "romaji": "koukyou jigyou",
+    "meaningSinhala": "මහජන උපයෝගීතා ව්‍යාපාර / Public works",
+    "kanjiBreakup": "公共 (public) + 事業 (business)",
+    "story": "රජය මඟින් පාරවල් සහ පාලම් සෑදීම."
+  },
+  {
+    "id": "se_047",
+    "expression": "義務教育",
+    "category": "Society & Education",
+    "furigana": "ぎむきょういく",
+    "romaji": "gimu kyouiku",
+    "meaningSinhala": "අනිවාර්ය අධ්‍යාපනය / Compulsory education",
+    "kanjiBreakup": "義務 (duty) + 教育 (education)",
+    "story": "රටක සෑම දරුවකුම ලැබිය යුතු අනිවාර්ය පාසල් අධ්‍යාපනය."
+  },
+  {
+    "id": "se_048",
+    "expression": "高等教育",
+    "category": "Society & Education",
+    "furigana": "こうとうきょういく",
+    "romaji": "koutou kyouiku",
+    "meaningSinhala": "උසස් අධ්‍යාපනය / Higher education",
+    "kanjiBreakup": "高等 (higher) + 教育 (education)",
+    "story": "විශ්වවිද්‍යාල මට්ටමින් ලබා ගන්නා උසස් ඉගෙනුම."
+  },
+  {
+    "id": "se_049",
+    "expression": "学歴",
+    "category": "Society & Education",
+    "furigana": "がくれき",
+    "romaji": "gakureki",
+    "meaningSinhala": "අධ්‍යාපන සුදුසුකම් / Educational background",
+    "kanjiBreakup": "学 (study) + 歴 (history)",
+    "story": "අපි ඉගෙනගත් පාසල් සහ විශ්වවිද්‍යාලවල ඉතිහාසය."
+  },
+  {
+    "id": "se_050",
+    "expression": "奨学金",
+    "category": "Society & Education",
+    "furigana": "しょうがくきん",
+    "romaji": "shougakukin",
+    "meaningSinhala": "ශිෂ්‍යත්ව මුදල / Scholarship",
+    "kanjiBreakup": "奨学 (encourage study) + 金 (money)",
+    "story": "දක්ෂ සිසුන්ට අධ්‍යාපනයට දෙන ආධාර මුදල."
+  },
+  {
+    "id": "se_051",
+    "expression": "学費",
+    "category": "Society & Education",
+    "furigana": "がくひ",
+    "romaji": "gakuhi",
+    "meaningSinhala": "පාසල්/විශ්වවිද්‍යාල ගාස්තු / Tuition fees",
+    "kanjiBreakup": "学 (study) + 費 (cost)",
+    "story": "ඉගෙන ගැනීමට ගෙවන අධ්‍යාපන ගාස්තුව."
+  },
+  {
+    "id": "se_052",
+    "expression": "文部科学省",
+    "category": "Society & Education",
+    "furigana": "もんぶかがくしょう",
+    "romaji": "monbu kagakushou",
+    "meaningSinhala": "අධ්‍යාපන අමාත්‍යාංශය (ජපානයේ) / Ministry of Education, Culture, Sports, Science and Technology",
+    "kanjiBreakup": "文部科学省",
+    "story": "ජපානයේ අධ්‍යාපන කටයුතු පාලනය කරන අමාත්‍යාංශය."
+  },
+  {
+    "id": "se_053",
+    "expression": "教科書",
+    "category": "Society & Education",
+    "furigana": "きょうかしょ",
+    "romaji": "kyoukasho",
+    "meaningSinhala": "පාසල් පෙළ පොත / Textbook",
+    "kanjiBreakup": "教科 (subject) + 書 (book)",
+    "story": "පාසල්වල ඉගැන්වීමට පාවිච්චි කරන පොත."
+  },
+  {
+    "id": "se_054",
+    "expression": "校則",
+    "category": "Society & Education",
+    "furigana": "こうそく",
+    "romaji": "kousoku",
+    "meaningSinhala": "පාසල් නීති / School rules",
+    "kanjiBreakup": "校 (school) + 則 (rule)",
+    "story": "සිසුන් පාසල තුළ පිළිපැදිය යුතු නීති රීති."
+  },
+  {
+    "id": "se_055",
+    "expression": "出席",
+    "category": "Society & Education",
+    "furigana": "しゅっせき",
+    "romaji": "shusseki",
+    "meaningSinhala": "පැමිණීම / Attendance",
+    "kanjiBreakup": "出 (go out) + 席 (seat)",
+    "story": "පන්ති කාමරයට හෝ රැස්වීමකට පැමිණීම."
+  },
+  {
+    "id": "se_056",
+    "expression": "欠席",
+    "category": "Society & Education",
+    "furigana": "けっせき",
+    "romaji": "kesseki",
+    "meaningSinhala": "නොපැමිණීම / Absence",
+    "kanjiBreakup": "欠 (lack) + 席 (seat)",
+    "story": "පාසලට හෝ රැස්වීමට නොපැමිණීම."
+  },
+  {
+    "id": "se_057",
+    "expression": "遅刻",
+    "category": "Society & Education",
+    "furigana": "ちこく",
+    "romaji": "chikoku",
+    "meaningSinhala": "ප්‍රමාද වී පැමිණීම / Being late",
+    "kanjiBreakup": "遅 (late) + 刻 (time)",
+    "story": "වේලාවට ඒමට නොහැකි වීම."
+  },
+  {
+    "id": "se_058",
+    "expression": "補習",
+    "category": "Society & Education",
+    "furigana": "ほしゅう",
+    "romaji": "hoshuū",
+    "meaningSinhala": "අතිරේක පන්තිය / Make-up class / Supplementary lesson",
+    "kanjiBreakup": "補 (supplement) + 修 (study)",
+    "story": "පාඩම් මඟ හැරුණු සිසුන්ට තබන අතිරේක පන්තිය."
+  },
+  {
+    "id": "se_059",
+    "expression": "復習",
+    "category": "Society & Education",
+    "furigana": "ふくしゅう",
+    "romaji": "fukushuu",
+    "meaningSinhala": "පාඩම් පුනරීක්ෂණය කිරීම / Review",
+    "kanjiBreakup": "復 (return) + 修 (study)",
+    "story": "ඉගෙනගත් දේ නැවත බලා මතක් කර ගැනීම."
+  },
+  {
+    "id": "se_060",
+    "expression": "予習",
+    "category": "Society & Education",
+    "furigana": "よしゅう",
+    "romaji": "yoshuu",
+    "meaningSinhala": "පෙර සූදානම / Preparation for a lesson",
+    "kanjiBreakup": "予 (pre) + 修 (study)",
+    "story": "හෙට උගන්වන පාඩම අද කියවා පැමිණීම."
+  },
+  {
+    "id": "se_061",
+    "expression": "問題集",
+    "category": "Society & Education",
+    "furigana": "もんだいしゅう",
+    "romaji": "mondaishuu",
+    "meaningSinhala": "අභ්‍යාස සංග්‍රහය / Workbook",
+    "kanjiBreakup": "問題 (question) + 集 (collection)",
+    "story": "ප්‍රශ්න පත්‍ර සහ අභ්‍යාස ඇති පොත."
+  },
+  {
+    "id": "se_062",
+    "expression": "参考書",
+    "category": "Society & Education",
+    "furigana": "さんこうしょ",
+    "romaji": "sankousho",
+    "meaningSinhala": "ආශ්‍රිත ග්‍රන්ථය / Reference book",
+    "kanjiBreakup": "参考 (reference) + 書 (book)",
+    "story": "වැඩිදුර අධ්‍යයනයට පාවිච්චි කරන පොත."
+  },
+  {
+    "id": "se_063",
+    "expression": "受験",
+    "category": "Society & Education",
+    "furigana": "じゅけん",
+    "romaji": "juken",
+    "meaningSinhala": "විභාගයකට පෙනී සිටීම / Taking an entrance exam",
+    "kanjiBreakup": "受 (take) + 験 (exam)",
+    "story": "විශ්වවිද්‍යාල ප්‍රවේශ විභාගයට ලිවීම."
+  },
+  {
+    "id": "se_064",
+    "expression": "合格",
+    "category": "Society & Education",
+    "furigana": "ごうかく",
+    "romaji": "goukaku",
+    "meaningSinhala": "විභාගය සමත් වීම / Passing an exam",
+    "kanjiBreakup": "合 (match) + 格 (status)",
+    "story": "විභාගයෙන් ඉහළ ලකුණු ලබා සමත් වීම."
+  },
+  {
+    "id": "se_065",
+    "expression": "不合格",
+    "category": "Society & Education",
+    "furigana": "ふごうかく",
+    "romaji": "fugoukaku",
+    "meaningSinhala": "විභාගය අසමත් වීම / Failing an exam",
+    "kanjiBreakup": "不 (not) + 合格 (pass)",
+    "story": "විභාගයෙන් ලකුණු මදි වී අසමත් වීම."
+  },
+  {
+    "id": "se_066",
+    "expression": "偏差値",
+    "category": "Society & Education",
+    "furigana": "へんさち",
+    "romaji": "hensachi",
+    "meaningSinhala": "සාමාන්‍ය ලකුණු මට්ටම / Deviation value",
+    "kanjiBreakup": "偏差 (deviation) + 値 (value)",
+    "story": "ජපානයේ විභාග ලකුණු මට්ටම මනින ක්‍රමය."
+  },
+  {
+    "id": "se_067",
+    "expression": "専門学校",
+    "category": "Society & Education",
+    "furigana": "せんもんがっこう",
+    "romaji": "senmon gakkou",
+    "meaningSinhala": "වෘත්තීය විද්‍යාලය / Vocational school",
+    "kanjiBreakup": "専門 (specialty) + 学校 (school)",
+    "story": "විශේෂ වෘත්තීය පුහුණුවක් ලබා දෙන විද්‍යාලය."
+  },
+  {
+    "id": "se_068",
+    "expression": "短期大学",
+    "category": "Society & Education",
+    "furigana": "たんきだいがく",
+    "romaji": "tanki daigaku",
+    "meaningSinhala": "අර්ධ විශ්වවිද්‍යාලය / Junior college",
+    "kanjiBreakup": "短期 (short-term) + 大学 (university)",
+    "story": "වසර දෙකක උසස් අධ්‍යාපන ආයතනය."
+  },
+  {
+    "id": "se_069",
+    "expression": "大学院",
+    "category": "Society & Education",
+    "furigana": "だいがくいん",
+    "romaji": "daigakuin",
+    "meaningSinhala": "පශ්චාත් උපාධි ආයතනය / Graduate school",
+    "kanjiBreakup": "大学 (university) + 院 (institution)",
+    "story": "උපාධියෙන් පසු වැඩිදුර ඉගෙන ගන්නා ආයතනය."
+  },
+  {
+    "id": "se_070",
+    "expression": "修士号",
+    "category": "Society & Education",
+    "furigana": "しゅうしごう",
+    "romaji": "shuushigou",
+    "meaningSinhala": "ශාස්ත්‍රපති උපාධිය / Master's degree",
+    "kanjiBreakup": "修士 (master) + 号 (title)",
+    "story": "ማስተර්ස් උපාධිය."
+  },
+  {
+    "id": "se_071",
+    "expression": "博士号",
+    "category": "Society & Education",
+    "furigana": "はかせごう / はくしごう",
+    "romaji": "hakasegou",
+    "meaningSinhala": "ආචාර්ය උපාධිය / Doctor's degree",
+    "kanjiBreakup": "博士 (doctor) + 号 (title)",
+    "story": "පී.එච්.ඩී. ආචාර්ය උපාධිය."
+  },
+  {
+    "id": "se_072",
+    "expression": "研究所",
+    "category": "Society & Education",
+    "furigana": "けんきゅうじょ",
+    "romaji": "kenkyuujo",
+    "meaningSinhala": "පර්යේෂණාගාරය / Research institute",
+    "kanjiBreakup": "研究 (research) + 所 (place)",
+    "story": "විද්‍යාත්මක පර්යේෂණ කරන ආයතනය."
+  },
+  {
+    "id": "se_073",
+    "expression": "学会",
+    "category": "Society & Education",
+    "furigana": "がっかい",
+    "romaji": "gakkai",
+    "meaningSinhala": "විද්‍යාත්මක සංගමය / Academic society",
+    "kanjiBreakup": "学 (study) + 会 (society)",
+    "story": "විෂය ක්ෂේත්‍රයේ විද්වතුන් එකතු වන සංගමය."
+  },
+  {
+    "id": "se_074",
+    "expression": "発表",
+    "category": "Society & Education",
+    "furigana": "はっぴょう",
+    "romaji": "happyou",
+    "meaningSinhala": "ඉදිරිපත් කිරීම / Presentation / Announcement",
+    "kanjiBreakup": "発 (emit) + 表 (express)",
+    "story": "පර්යේෂණ ප්‍රතිඵල සභාවක් ඉදිරියේ ඉදිරිපත් කිරීම."
+  },
+  {
+    "id": "se_075",
+    "expression": "討論",
+    "category": "Society & Education",
+    "furigana": "とうろん",
+    "romaji": "touron",
+    "meaningSinhala": "විවාදය / සාකච්ඡාව / Debate / Discussion",
+    "kanjiBreakup": "討 (discuss) + 論 (theory)",
+    "story": "කාරණයක් සම්බන්ධයෙන් විවාද කිරීම."
+  },
+  {
+    "id": "se_076",
+    "expression": "意見交換",
+    "category": "Society & Education",
+    "furigana": "いけんこうかん",
+    "romaji": "iken koukan",
+    "meaningSinhala": "අදහස් හුවමාරු කර ගැනීම / Exchange of opinions",
+    "kanjiBreakup": "意見 (opinion) + 交換 (exchange)",
+    "story": "විවිධ අදහස් සාකච්ඡා කර බෙදා ගැනීම."
+  },
+  {
+    "id": "se_077",
+    "expression": "協力",
+    "category": "Society & Education",
+    "furigana": "きょうりょく",
+    "romaji": "kyouryoku",
+    "meaningSinhala": "සහයෝගය / Cooperation",
+    "kanjiBreakup": "協 (cooperate) + 力 (power)",
+    "story": "එකිනෙකාට උදව් කරමින් වැඩ කිරීම."
+  },
+  {
+    "id": "se_078",
+    "expression": "競争",
+    "category": "Society & Education",
+    "furigana": "きょうそう",
+    "romaji": "kyousou",
+    "meaningSinhala": "තරඟකාරීත්වය / Competition",
+    "kanjiBreakup": "競 (compete) + 争 (dispute)",
+    "story": "ඉදිරියට යාමට කරන තරඟය."
+  },
+  {
+    "id": "se_079",
+    "expression": "参加",
+    "category": "Society & Education",
+    "furigana": "さんか",
+    "romaji": "sanka",
+    "meaningSinhala": "සහභාගී වීම / Participation",
+    "kanjiBreakup": "参 (join) + 加 (add)",
+    "story": "වැඩසටහනකට හෝ රැස්වීමකට එකතු වීම."
+  },
+  {
+    "id": "se_080",
+    "expression": "主催",
+    "category": "Society & Education",
+    "furigana": "しゅさい",
+    "romaji": "shusai",
+    "meaningSinhala": "සංවිධානය කිරීම / Sponsorship / Hosting",
+    "kanjiBreakup": "主 (main) + 催 (sponsor)",
+    "story": "වැඩසටහනක් මූලික වී සංවිධානය කිරීම."
+  },
+  {
+    "id": "se_081",
+    "expression": "寄付",
+    "category": "Society & Education",
+    "furigana": "きふ",
+    "romaji": "kifu",
+    "meaningSinhala": "පරිත්‍යාගය / Donation",
+    "kanjiBreakup": "寄 (contribute) + 付 (attach)",
+    "story": "අනාථ නිවාසවලට හෝ ආයතනවලට මුදල් දීම."
+  },
+  {
+    "id": "se_082",
+    "expression": "ボランティア",
+    "category": "Society & Education",
+    "furigana": "ぼらんてぃあ",
+    "romaji": "borantia",
+    "meaningSinhala": "ස්වේච්ඡා සේවය / Volunteer",
+    "kanjiBreakup": "Loanword",
+    "story": "මුදල් අපේක්ෂාවකින් තොරව කරන සමාජ සේවය."
+  },
+  {
+    "id": "se_083",
+    "expression": "地域社会",
+    "category": "Society & Education",
+    "furigana": "ちいきしゃかい",
+    "romaji": "chiiki shakai",
+    "meaningSinhala": "ප්‍රාදේශීය සමාජය / Local community",
+    "kanjiBreakup": "地域 (region) + 社会 (society)",
+    "story": "අපි පදිංචි ප්‍රදේශයේ සමාජ වටපිටාව."
+  },
+  {
+    "id": "se_084",
+    "expression": "住民",
+    "category": "Society & Education",
+    "furigana": "じゅうみん",
+    "romaji": "juumin",
+    "meaningSinhala": "ප්‍රදේශවාසියා / Resident",
+    "kanjiBreakup": "住 (live) + 民 (people)",
+    "story": "ප්‍රදේශයේ ජීවත් වන ජනතාව."
+  },
+  {
+    "id": "se_085",
+    "expression": "市民",
+    "category": "Society & Education",
+    "furigana": "しみん",
+    "romaji": "shimin",
+    "meaningSinhala": "නගරවාසියා / Citizen",
+    "kanjiBreakup": "市 (city) + 民 (people)",
+    "story": "නගරයක පදිංචි පුරවැසියා."
+  },
+  {
+    "id": "se_086",
+    "expression": "国民",
+    "category": "Society & Education",
+    "furigana": "こくみん",
+    "romaji": "kokumin",
+    "meaningSinhala": "රටවැසියා / Citizen",
+    "kanjiBreakup": "国 (country) + 民 (people)",
+    "story": "රටක පුරවැසියා."
+  },
+  {
+    "id": "se_087",
+    "expression": "政府",
+    "category": "Society & Education",
+    "furigana": "せいふ",
+    "romaji": "seifu",
+    "meaningSinhala": "රජය / Government",
+    "kanjiBreakup": "政 (politics) + 府 (government)",
+    "story": "රට පාලනය කරන රජය."
+  },
+  {
+    "id": "se_088",
+    "expression": "国家",
+    "category": "Society & Education",
+    "furigana": "こっか",
+    "romaji": "kokka",
+    "meaningSinhala": "ජාතිය / රාජ්‍යය / State / Nation",
+    "kanjiBreakup": "国 (country) + 家 (house)",
+    "story": "ස්වාධීන රාජ්‍යය."
+  },
+  {
+    "id": "se_089",
+    "expression": "法律事務所",
+    "category": "Society & Education",
+    "furigana": "ほうりつじむしょ",
+    "romaji": "houritsu jimusho",
+    "meaningSinhala": "නීතිඥ කාර්යාලය / Law office",
+    "kanjiBreakup": "法律 (law) + 事務所 (office)",
+    "story": "නීතිඥයින් උපදෙස් දෙන කාර්යාලය."
+  },
+  {
+    "id": "se_090",
+    "expression": "裁判",
+    "category": "Society & Education",
+    "furigana": "さいばん",
+    "romaji": "saiban",
+    "meaningSinhala": "උසාවි විභාගය / Trial / Judgment",
+    "kanjiBreakup": "裁 (judge) + 判 (judge)",
+    "story": "වරදක් සම්බන්ධයෙන් උසාවියේදී නඩු ඇසීම."
+  },
+  {
+    "id": "se_091",
+    "expression": "裁判所",
+    "category": "Society & Education",
+    "furigana": "さいばんしょ",
+    "romaji": "saibansho",
+    "meaningSinhala": "මහේස්ත්‍රාත්/උසාවිය / Court",
+    "kanjiBreakup": "裁判 (trial) + 所 (place)",
+    "story": "නඩු අසන අධිකරණය."
+  },
+  {
+    "id": "se_092",
+    "expression": "弁護士",
+    "category": "Society & Education",
+    "furigana": "べんごし",
+    "romaji": "bengoshi",
+    "meaningSinhala": "නීතිඥයා / Lawyer",
+    "kanjiBreakup": "弁護 (defend) + 士 (expert)",
+    "story": "උසාවියේදී පෙනී සිටින නීතිඥවරයා."
+  },
+  {
+    "id": "se_093",
+    "expression": "警察官",
+    "category": "Society & Education",
+    "furigana": "けいさつかん",
+    "romaji": "keisatsukan",
+    "meaningSinhala": "පොලිස් නිලධාරියා / Police officer",
+    "kanjiBreakup": "警察 (police) + 官 (official)",
+    "story": "රටේ නීතිය රකින පොලිස් නිලධාරියා."
+  },
+  {
+    "id": "se_094",
+    "expression": "犯罪",
+    "category": "Society & Education",
+    "furigana": "はんざい",
+    "romaji": "hanzai",
+    "meaningSinhala": "अपराधය / Crime",
+    "kanjiBreakup": "犯 (commit crime) + 罪 (sin)",
+    "story": "නීතියට විරුද්ධව කරන වරද."
+  },
+  {
+    "id": "se_095",
+    "expression": "事件",
+    "category": "Society & Education",
+    "furigana": "じけん",
+    "romaji": "jiken",
+    "meaningSinhala": "අනතුර / අපරාධ සිදුවීම / Incident / Case",
+    "kanjiBreakup": "事 (matter) + 件 (event)",
+    "story": "පොලිස් පරීක්ෂණවලට ලක් වන සිදුවීම."
+  },
+  {
+    "id": "se_096",
+    "expression": "事故",
+    "category": "Society & Education",
+    "furigana": "じこ",
+    "romaji": "jiko",
+    "meaningSinhala": "අනතුර / Accident",
+    "kanjiBreakup": "事 (matter) + 事故 (accident)",
+    "story": "වාහන අනතුරක් හෝ හදිසි අනතුරක්."
+  },
+  {
+    "id": "se_097",
+    "expression": "被害",
+    "category": "Society & Education",
+    "furigana": "ひがい",
+    "romaji": "higai",
+    "meaningSinhala": "හානිය / Damage",
+    "kanjiBreakup": "被 (receive) + 害 (harm)",
+    "story": "අනතුරකින් හෝ ව්‍යසනයකින් වන හානිය."
+  },
+  {
+    "id": "se_098",
+    "expression": "加害",
+    "category": "Society & Education",
+    "furigana": "かがい",
+    "romaji": "kagai",
+    "meaningSinhala": "අපරාධය සිදු කිරීම / Causing harm",
+    "kanjiBreakup": "加 (add) + 害 (harm)",
+    "story": "අන් අޔෙකුට හානි කිරීම."
+  },
+  {
+    "id": "se_099",
+    "expression": "解決",
+    "category": "Society & Education",
+    "furigana": "かいけつ",
+    "romaji": "kaiketsu",
+    "meaningSinhala": "විසඳීම / Solution",
+    "kanjiBreakup": "解 (resolve) + 決 (decide)",
+    "story": "ප්‍රශ්නයක් සාර්ථකව විසඳා ගැනීම."
+  },
+  {
+    "id": "se_100",
+    "expression": "調査",
+    "category": "Society & Education",
+    "furigana": "ちょうさ",
+    "romaji": "chousasa",
+    "meaningSinhala": "විමර්ශනය / Investigation",
+    "kanjiBreakup": "調 (investigate) + 査 (examine)",
+    "story": "සිදුවීමක් ගැන සොයා බලන පරීක්ෂණය."
+  },
+  {
+    "id": "se_101",
+    "expression": "国際化",
+    "category": "Society & Education",
+    "furigana": "こくさいか",
+    "romaji": "kokusaika",
+    "meaningSinhala": "ජාත්‍යන්තරකරණය / Internationalization",
+    "kanjiBreakup": "国際 (international) + 化 (change)",
+    "story": "රටවල් අතර සීමා අමතක කර එකිනෙකාට සමීප වීම."
+  },
+  {
+    "id": "se_102",
+    "expression": "多文化",
+    "category": "Society & Education",
+    "furigana": "たぶんか",
+    "romaji": "tabunka",
+    "meaningSinhala": "බහු සංස්කෘතිය / Multicultural",
+    "kanjiBreakup": "多 (multi) + 文化 (culture)",
+    "story": "විවිධ සංස්කෘතීන්ට ගරු කරමින් එකට ජීවත් වීම."
+  },
+  {
+    "id": "se_103",
+    "expression": "少子化",
+    "category": "Society & Education",
+    "furigana": "しょうしか",
+    "romaji": "shoushika",
+    "meaningSinhala": "දරුවන් බිහිවීම අඩුවීම / Declining birthrate",
+    "kanjiBreakup": "少子 (fewer children) + 化 (change)",
+    "story": "රටක උපත් අනුපාතය ක්‍රමයෙන් පහළ යාම."
+  },
+  {
+    "id": "se_104",
+    "expression": "情報化",
+    "category": "Society & Education",
+    "furigana": "じょうほうか",
+    "romaji": "jouhouka",
+    "meaningSinhala": "තොරතුරු තාක්ෂණකරණය / Informationization",
+    "kanjiBreakup": "情報 (information) + 化 (change)",
+    "story": "සමාජය තුළ අන්තර්ජාලය සහ පරිගණක භාවිතය වැඩි වීම."
+  },
+  {
+    "id": "se_105",
+    "expression": "先進国",
+    "category": "Society & Education",
+    "furigana": "せんしんこく",
+    "romaji": "senshinkoku",
+    "meaningSinhala": "දියුණු රට / Developed country",
+    "kanjiBreakup": "先進 (advanced) + 国 (country)",
+    "story": "තාක්ෂණයෙන් සහ ආර්ථිකයෙන් ඉහළ දියුණුවක් ඇති රට."
+  },
+  {
+    "id": "se_106",
+    "expression": "発展途上国",
+    "category": "Society & Education",
+    "furigana": "はってんとじょうこく",
+    "romaji": "hatten toujokoku",
+    "meaningSinhala": "වර්ධනය වන රට / Developing country",
+    "kanjiBreakup": "発展 (development) + 途上 (on the way) + 国",
+    "story": "තවමත් ආර්ථික වශයෙන් දියුණු වෙමින් පවතින රට."
+  },
+  {
+    "id": "se_107",
+    "expression": "国際連合",
+    "category": "Society & Education",
+    "furigana": "こくさいれんごう",
+    "romaji": "kokusai rengou",
+    "meaningSinhala": "එක්සත් ජාතීන්ගේ සංවිධානය / United Nations",
+    "kanjiBreakup": "国際 (international) + 連合 (union)",
+    "story": "ලෝක සාමය රකින ජාත්‍යන්තර සංවිධානය."
+  },
+  {
+    "id": "se_108",
+    "expression": "難民",
+    "category": "Society & Education",
+    "furigana": "なんみん",
+    "romaji": "nanmin",
+    "meaningSinhala": "නාට්‍යකරුවා / Refugees",
+    "kanjiBreakup": "難 (trouble) + 民 (people)",
+    "story": "යුද්ධ හා ව්‍යසන නිසා රට හැර ගිය සරණාගතයින්."
+  },
+  {
+    "id": "se_109",
+    "expression": "世論",
+    "category": "Society & Education",
+    "furigana": "よろん / せろん",
+    "romaji": "yoron",
+    "meaningSinhala": "ජනමතය / Public opinion",
+    "kanjiBreakup": "世 (world) + 論 (theory)",
+    "story": "පොදු ජනතාවගේ පොදු අදහස."
+  },
+  {
+    "id": "se_110",
+    "expression": "世論調査",
+    "category": "Society & Education",
+    "furigana": "よろんちょうさ",
+    "romaji": "yoron chousa",
+    "meaningSinhala": "ජනමත විමසුම / Public opinion poll",
+    "kanjiBreakup": "世論 (public opinion) + 調査 (survey)",
+    "story": "ජනතාවගේ අදහස් මොනවාදැයි සොයා බලන සමීක්ෂණය."
+  },
+  {
+    "id": "se_111",
+    "expression": "広報",
+    "category": "Society & Education",
+    "furigana": "こうほう",
+    "romaji": "kouhou",
+    "meaningSinhala": "මහජන සම්බන්ධතා / Public relations",
+    "kanjiBreakup": "広 (broad) + 報 (report)",
+    "story": "ආයතනයක් හෝ රජයක් ගැන ජනතාව දැනුවත් කිරීම."
+  },
+  {
+    "id": "se_112",
+    "expression": "宣伝",
+    "category": "Society & Education",
+    "furigana": "せんでん",
+    "romaji": "senden",
+    "meaningSinhala": "ප්‍රචාරණය / Advertising",
+    "kanjiBreakup": "宣 (proclaim) + 伝 (transmit)",
+    "story": "භාණ්ඩයක් හෝ සේවාවක් ප්‍රචාරය කිරීම."
+  },
+  {
+    "id": "se_113",
+    "expression": "世間",
+    "category": "Society & Education",
+    "furigana": "せけん",
+    "romaji": "seken",
+    "meaningSinhala": "ලෝකය / සමාජය / World / Society",
+    "kanjiBreakup": "世 (world) + 間 (interval)",
+    "story": "අප වටා සිටින සමාජය සහ මිනිසුන්."
+  },
+  {
+    "id": "se_114",
+    "expression": "情報社会",
+    "category": "Society & Education",
+    "furigana": "じょうほうしゃかい",
+    "romaji": "jouhou shakai",
+    "meaningSinhala": "තොරතුරු සමාජය / Information society",
+    "kanjiBreakup": "情報 (information) + 社会 (society)",
+    "story": "අන්තර්ජාලය සහ පරිගණකය මුල් කරගත් නූතන සමාජය."
+  },
+  {
+    "id": "se_115",
+    "expression": "現代社会",
+    "category": "Society & Education",
+    "furigana": "げんだいしゃかい",
+    "romaji": "gendai shakai",
+    "meaningSinhala": "නූතන සමාජය / Modern society",
+    "kanjiBreakup": "現代 (modern) + 社会 (society)",
+    "story": "අද අපි ජීවත් වන නවීන සමාජ වටපිටාව."
+  },
+  {
+    "id": "se_116",
+    "expression": "国際社会",
+    "category": "Society & Education",
+    "furigana": "こくさいしゃかい",
+    "romaji": "kokusai shakai",
+    "meaningSinhala": "ජාත්‍යන්තර සමාජය / International community",
+    "kanjiBreakup": "国際 (international) + 社会 (society)",
+    "story": "ලොව පුරා ඇති රටවල් එකතු වූ සමාජය."
+  },
+  {
+    "id": "se_117",
+    "expression": "地域住民",
+    "category": "Society & Education",
+    "furigana": "ちいきじゅうみん",
+    "romaji": "chiiki juumin",
+    "meaningSinhala": "ප්‍රදේශවාසීන් / Local residents",
+    "kanjiBreakup": "地域 (region) + 住民 (resident)",
+    "story": "ප්‍රදේශයේ ජීවත් වන ජනතාව."
+  },
+  {
+    "id": "se_118",
+    "expression": "市民活動",
+    "category": "Society & Education",
+    "furigana": "しみんかつどう",
+    "romaji": "shimin katsudou",
+    "meaningSinhala": "පුරවැසි ක්‍රියාකාරකම් / Civic activities",
+    "kanjiBreakup": "市民 (citizen) + 活動 (activity)",
+    "story": "සමාජ සුභසාධනය සඳහා පුරවැසියන් කරන සේවාවන්."
+  },
+  {
+    "id": "se_119",
+    "expression": "ボランティア活動",
+    "category": "Society & Education",
+    "furigana": "ぼらんてぃあかつどう",
+    "romaji": "borantia katsudou",
+    "meaningSinhala": "ස්වේච්ඡා සේවය / Volunteer activities",
+    "kanjiBreakup": "ボランティア (volunteer) + 活動 (activity)",
+    "story": "ප්‍රතිඋපකාර අපේක්ෂා නොකර කරන සමාජ සේවය."
+  },
+  {
+    "id": "se_120",
+    "expression": "社会貢献",
+    "category": "Society & Education",
+    "furigana": "しゃかいこうけん",
+    "romaji": "shakai kouken",
+    "meaningSinhala": "සමාජ දායකත්වය / Social contribution",
+    "kanjiBreakup": "社会 (society) + 貢献 (contribution)",
+    "story": "සමාජයේ දියුණුවට ලබා දෙන දායකත්වය."
+  },
+  {
+    "id": "se_121",
+    "expression": "福祉活動",
+    "category": "Society & Education",
+    "furigana": "ふくしかつどう",
+    "romaji": "fukushi katsudou",
+    "meaningSinhala": "සුභසාධන කටයුතු / Welfare activities",
+    "kanjiBreakup": "福祉 (welfare) + 활동 (activity)",
+    "story": "අසරණ අයට උදව් කරන සුභසාධන සේවා."
+  },
+  {
+    "id": "se_122",
+    "expression": "国際交流",
+    "category": "Society & Education",
+    "furigana": "こくさいこうりゅう",
+    "romaji": "kokusai kouryuu",
+    "meaningSinhala": "ජාත්‍යන්තර හුවමාරුව / International exchange",
+    "kanjiBreakup": "国際 (international) + 交流 (exchange)",
+    "story": "වෙනත් රටවල් සමඟ සංස්කෘතික හා අධ්‍යාපනික හුවමාරු."
+  },
+  {
+    "id": "se_123",
+    "expression": "異文化",
+    "category": "Society & Education",
+    "furigana": "いぶんか",
+    "romaji": "ibunka",
+    "meaningSinhala": "විවිධ සංස්කෘතීන් / Different cultures",
+    "kanjiBreakup": "異 (different) + 文化 (culture)",
+    "story": "අපේ රටට වඩා වෙනස් විදේශීය සංස්කෘතීන්."
+  },
+  {
+    "id": "se_124",
+    "expression": "文化遺産",
+    "category": "Society & Education",
+    "furigana": "ぶんかいさん",
+    "romaji": "bunka isan",
+    "meaningSinhala": "සංස්කෘතික උරුමය / Cultural heritage",
+    "kanjiBreakup": "文化 (culture) + 遺産 (heritage)",
+    "story": "අනාගතය වෙනුවෙන් ආරක්ෂා කරන ඓතිහාසික නිර්මාණ."
+  },
+  {
+    "id": "se_125",
+    "expression": "世界遺産",
+    "category": "Society & Education",
+    "furigana": "せかいいさん",
+    "romaji": "sekai isan",
+    "meaningSinhala": "ලෝක උරුමය / World heritage",
+    "kanjiBreakup": "世界 (world) + 遺産 (heritage)",
+    "story": "යූනෙස්කෝ ආයතනයෙන් නම් කළ ලෝක උරුම."
+  },
+  {
+    "id": "se_126",
+    "expression": "伝統文化",
+    "category": "Society & Education",
+    "furigana": "でんとうぶんか",
+    "romaji": "dentou bunka",
+    "meaningSinhala": "සාම්ප්‍රදායික සංස්කෘතිය / Traditional culture",
+    "kanjiBreakup": "伝統 (tradition) + 文化 (culture)",
+    "story": "පරම්පරාවෙන් පරම්පරාවට එන සංස්කෘතිය."
+  },
+  {
+    "id": "se_127",
+    "expression": "現代文化",
+    "category": "Society & Education",
+    "furigana": "げんだいぶんか",
+    "romaji": "gendai bunka",
+    "meaningSinhala": "නූතන සංස්කෘතිය / Modern culture",
+    "kanjiBreakup": "現代 (modern) + 文化 (culture)",
+    "story": "වර්තමානයේ ජනප්‍රිය සංස්කෘතික අංග."
+  },
+  {
+    "id": "se_128",
+    "expression": "科学技術",
+    "category": "Society & Education",
+    "furigana": "かがくぎじゅつ",
+    "romaji": "kagaku gijutsu",
+    "meaningSinhala": "විද්‍යාව හා තාක්ෂණය / Science and technology",
+    "kanjiBreakup": "科学 (science) + 技術 (technology)",
+    "story": "විද්‍යාත්මක දැනුම මත පදනම් වූ තාක්ෂණය."
+  },
+  {
+    "id": "se_129",
+    "expression": "最先端",
+    "category": "Society & Education",
+    "furigana": "さいせんたん",
+    "romaji": "saisentan",
+    "meaningSinhala": "ඉතා නවීන / Cutting edge / State-of-the-art",
+    "kanjiBreakup": "最先端 (forefront)",
+    "story": "ලෝකයේ බිහි වූ අලුත්ම තාක්ෂණික ක්‍රමය."
+  },
+  {
+    "id": "se_130",
+    "expression": "開発途上国",
+    "category": "Society & Education",
+    "furigana": "かいはつとじょうこうこく",
+    "romaji": "kaihatsu toujokoku",
+    "meaningSinhala": "දියුණු වෙමින් පවතින රට / Developing country",
+    "kanjiBreakup": "開発 (development) + 途上 (on the way) + 国",
+    "story": "ආර්ථික වශයෙන් තවමත් සංවර්ධනය වෙමින් පවතින රට."
+  },
+  {
+    "id": "se_131",
+    "expression": "人口問題",
+    "category": "Society & Education",
+    "furigana": "じんこうもんだい",
+    "romaji": "jinkou mondai",
+    "meaningSinhala": "ජනගහන ගැටලු / Population issues",
+    "kanjiBreakup": "人口 (population) + 問題 (problem)",
+    "story": "ජනගහනය වැඩිවීම හෝ අඩුවීම නිසා ඇති වන ගැටලු."
+  },
+  {
+    "id": "se_132",
+    "expression": "少子高齢化",
+    "category": "Society & Education",
+    "furigana": "しょうしこうれいか",
+    "romaji": "shoushi koureika",
+    "meaningSinhala": "දරුවන් අඩුවීම සහ වැඩිහිටියන් වැඩි වීම / Declining birthrate and aging population",
+    "kanjiBreakup": "少子 (fewer kids) + 高齢化 (aging)",
+    "story": "ජපානය වැනි රටවල පවතින ප්‍රධාන ජනගහන ගැටලුව."
+  },
+  {
+    "id": "se_133",
+    "expression": "労働力",
+    "category": "Society & Education",
+    "furigana": "ろうどうりょく",
+    "romaji": "roudouryoku",
+    "meaningSinhala": "ශ්‍රම බලකාය / Workforce / Labor force",
+    "kanjiBreakup": "労働 (labor) + 力 (power)",
+    "story": "රැකියාවන් සඳහා දායක වන ශ්‍රමිකයින් ප්‍රමාණය."
+  },
+  {
+    "id": "se_134",
+    "expression": "人手不足",
+    "category": "Society & Education",
+    "furigana": "ひとでぶそく",
+    "romaji": "hitode busoku",
+    "meaningSinhala": "සේවක හිඟය / Labor shortage",
+    "kanjiBreakup": "人手 (hands/staff) + 不足 (shortage)",
+    "story": "ආයතනවලට අවශ්‍ය සේවකයින් මදි වීම."
+  },
+  {
+    "id": "se_135",
+    "expression": "雇用問題",
+    "category": "Society & Education",
+    "furigana": "こようもんだい",
+    "romaji": "koyou mondai",
+    "meaningSinhala": "රැකියා නියුක්ති ගැටලු / Employment issues",
+    "kanjiBreakup": "雇用 (employment) + 問題 (problem)",
+    "story": "රැකියා උත්පාදනය සහ විරැකියාව සම්බන්ධ ගැටලු."
+  },
+  {
+    "id": "se_136",
+    "expression": "格差社会",
+    "category": "Society & Education",
+    "furigana": "かくさしゃかい",
+    "romaji": "kakusa shakai",
+    "meaningSinhala": "විෂමතා සමාජය / Divided society / Society with disparities",
+    "kanjiBreakup": "格差 (disparity) + 社会 (society)",
+    "story": "පොහොසතා සහ දිළිඳු අතර පරතරය වැඩි සමාජය."
+  },
+  {
+    "id": "se_137",
+    "expression": "貧困層",
+    "category": "Society & Education",
+    "furigana": "ひんこんそう",
+    "romaji": "hinkonsou",
+    "meaningSinhala": "දිළිඳු ජන කොටස / Impoverished class",
+    "kanjiBreakup": "貧困 (poverty) + 層 (layer)",
+    "story": "ආර්ථික දුෂ්කරතා ඇති ජනතාව."
+  },
+  {
+    "id": "se_138",
+    "expression": "男女共同参画",
+    "category": "Society & Education",
+    "furigana": "だんじょきょうどうさんかく",
+    "romaji": "danjo kyoudou sankaku",
+    "meaningSinhala": "ස්ත්‍රී පුරුෂ සමාජභාවී සමානාත්මතාව / Gender equality",
+    "kanjiBreakup": "男女 (men and women) + 共同 (joint) + 参画 (participation)",
+    "story": "කාන්තාවන්ට සහ පිරිමින්ට සමාන අවස්ථා ලබා දීම."
+  },
+  {
+    "id": "se_139",
+    "expression": "女性進出",
+    "category": "Society & Education",
+    "furigana": "じょせいしんしゅつ",
+    "romaji": "josei shinshutsu",
+    "meaningSinhala": "කාන්තාවන් රැකියා සඳහා ඉදිරියට ඒම / Women's advancement in society",
+    "kanjiBreakup": "女性 (female) + 進出 (advance)",
+    "story": "රැකියා සහ ව්‍යාපාරවලට කාන්තාවන් වැඩිපුර සම්බන්ධ වීම."
+  },
+  {
+    "id": "se_140",
+    "expression": "育児休業",
+    "category": "Society & Education",
+    "furigana": "いくじきゅうぎょう",
+    "romaji": "ikuji kyuugyou",
+    "meaningSinhala": "මාතෘ/පිතෘ නිවාඩුව / Childcare leave",
+    "kanjiBreakup": "育児 (childcare) + 休業 (leave of absence)",
+    "story": "දරුවන් බලාගැනීමට රැකියාවෙන් ලබා ගන්නා නිවාඩුව."
+  },
+  {
+    "id": "se_141",
+    "expression": "育児休暇",
+    "category": "Society & Education",
+    "furigana": "いくじきゅうか",
+    "romaji": "ikuji kyuuka",
+    "meaningSinhala": "දරුවන් බලාගැනීමේ නිවාඩුව / Childcare vacation",
+    "kanjiBreakup": "育児 (childcare) + 休暇 (leave)",
+    "story": "දරුවන් රැකබලා ගැනීමට දෙන නිවාඩු කාලය."
+  },
+  {
+    "id": "se_142",
+    "expression": "保育園",
+    "category": "Society & Education",
+    "furigana": "ほいくえん",
+    "romaji": "hoikuen",
+    "meaningSinhala": "ළදරු පාසල / Nursery school / Daycare",
+    "kanjiBreakup": "保育 (nursing) + 園 (garden)",
+    "story": "පොඩි දරුවන් බලාගන්නා ඩේ කෙයාර් එක."
+  },
+  {
+    "id": "se_143",
+    "expression": "幼稚園",
+    "category": "Society & Education",
+    "furigana": "ようちえん",
+    "romaji": "youchien",
+    "meaningSinhala": "බාලතුන් පාසල / Kindergarten",
+    "kanjiBreakup": "幼稚園 (kindergarten)",
+    "story": "පාසල් යන්න පෙර ළමුන් ඉගෙන ගන්නා තැන."
+  },
+  {
+    "id": "se_144",
+    "expression": "学力低下",
+    "category": "Society & Education",
+    "furigana": "がくりょくていか",
+    "romaji": "gakuryoku teika",
+    "meaningSinhala": "අධ්‍යාපන මට්ටම පහළ යාම / Decline in academic ability",
+    "kanjiBreakup": "学力 (academic ability) + 低下 (decline)",
+    "story": "සිසුන්ගේ ඉගෙනුම් මට්ටම අඩුවීම."
+  },
+  {
+    "id": "se_145",
+    "expression": "不登校",
+    "category": "Society & Education",
+    "furigana": "ふとうこう",
+    "romaji": "futoukou",
+    "meaningSinhala": "පාසල් නොයා සිටීම / School refusal / Truancy",
+    "kanjiBreakup": "不登 (non-attendance) + 校 (school)",
+    "story": "විවිධ හේතු නිසා දරුවන් පාසල් නොයා සිටීම."
+  },
+  {
+    "id": "se_146",
+    "expression": "いじめ",
+    "category": "Society & Education",
+    "furigana": "いじめ",
+    "romaji": "ijime",
+    "meaningSinhala": "හිංසනය / අඩන්තේට්ටම් / Bullying",
+    "kanjiBreakup": "いじめ",
+    "story": "පාසල්වල හෝ ආයතනවල සිසුන්ට කරන හිංසා."
+  },
+  {
+    "id": "se_147",
+    "expression": "問題行動",
+    "category": "Society & Education",
+    "furigana": "もんだいこうどう",
+    "romaji": "mondai koudou",
+    "meaningSinhala": "වරදකාරී හැසිරීම / Problem behavior",
+    "kanjiBreakup": "問題 (problem) + 行動 (action)",
+    "story": "නීතියට හෝ පාසල් නීතිවලට පටහැනිව හැසිරීම."
+  },
+  {
+    "id": "se_148",
+    "expression": "社会問題",
+    "category": "Society & Education",
+    "furigana": "しゃかいもんだい",
+    "romaji": "shakai mondai",
+    "meaningSinhala": "සමාජ ගැටලු / Social issues",
+    "kanjiBreakup": "社会 (society) + 問題 (problem)",
+    "story": "සමාජයේ මුහුණ දෙන ප්‍රධාන ගැටලු."
+  },
+  {
+    "id": "se_149",
+    "expression": "国際問題",
+    "category": "Society & Education",
+    "furigana": "こくさいもんだい",
+    "romaji": "kokusai mondai",
+    "meaningSinhala": "ජාත්‍යන්තර ගැටලු / International issues",
+    "kanjiBreakup": "国際 (international) + 問題 (problem)",
+    "story": "රටවල් අතර ඇති වන දේශපාලන සහ ආර්ථික අර්බුද."
+  },
+  {
+    "id": "se_150",
+    "expression": "環境問題",
+    "category": "Society & Education",
+    "furigana": "かんきょうもんだい",
+    "romaji": "kankyou mondai",
+    "meaningSinhala": "පරිසර ගැටලු / Environmental issues",
+    "kanjiBreakup": "環境 (environment) + 問題 (problem)",
+    "story": "පරිසර දූෂණය සහ ගෝලීය උණුසුම වැනි ගැටලු."
+  },
+  {
+    "id": "se_151",
+    "expression": "エネルギー問題",
+    "category": "Society & Education",
+    "furigana": "えねるぎーもんだい",
+    "romaji": "enerugī mondai",
+    "meaningSinhala": "බලශක්ති අර්බුදය / Energy crisis",
+    "kanjiBreakup": "エネルギー (energy) + 問題 (problem)",
+    "story": "තෙල් සහ විදුලිය හිඟවීම සම්බන්ධ ගැටලු."
+  },
+  {
+    "id": "se_152",
+    "expression": "安全対策",
+    "category": "Society & Education",
+    "furigana": "あんぜんたいさく",
+    "romaji": "anzen taisaku",
+    "meaningSinhala": "ආරක්ෂක පියවර / Safety measures",
+    "kanjiBreakup": "安全 (safety) + 対策 (measure)",
+    "story": "අනතුරු වළක්වා ගැනීමට ගන්නා ආරක්ෂක ක්‍රියාමාර්ග."
+  },
+  {
+    "id": "se_153",
+    "expression": "防災対策",
+    "category": "Society & Education",
+    "furigana": "ぼうさいたいさく",
+    "romaji": "bousai taisaku",
+    "meaningSinhala": "විපත් කළමනාකරණ පියවර / Disaster mitigation measures",
+    "kanjiBreakup": "防災 (disaster prevention) + 対策 (measure)",
+    "story": "භූමිකම්පා සහ සුනාමිවලින් ආරක්ෂා වීමේ ක්‍රම."
+  },
+  {
+    "id": "se_154",
+    "expression": "交通安全",
+    "category": "Society & Education",
+    "furigana": "こうつうあんぜん",
+    "romaji": "koutsuu anzen",
+    "meaningSinhala": "මගී ආරක්ෂාව / Traffic safety",
+    "kanjiBreakup": "交通 (traffic) + 安全 (safety)",
+    "story": "පාරේ යද්දී රථවාහන අනතුරු වලින් ආරක්ෂා වීම."
+  },
+  {
+    "id": "se_155",
+    "expression": "事故防止",
+    "category": "Society & Education",
+    "furigana": "じこぼうし",
+    "romaji": "jiko boushi",
+    "meaningSinhala": "අනතුරු වැළැක්වීම / Accident prevention",
+    "kanjiBreakup": "事故 (accident) + 防止 (prevention)",
+    "story": "අනතුරු සිදුවීම වළක්වා ගැනීමේ ක්‍රමවේදය."
+  },
+  {
+    "id": "se_156",
+    "expression": "犯罪防止",
+    "category": "Society & Education",
+    "furigana": "はんざいぼうし",
+    "romaji": "hanzai boushi",
+    "meaningSinhala": "අපරාධ වැළැක්වීම / Crime prevention",
+    "kanjiBreakup": "犯罪 (crime) + 防止 (prevention)",
+    "story": "සොරකම් සහ අපරාධ සිදුවීම වළක්වා ගැනීම."
+  },
+  {
+    "id": "se_157",
+    "expression": "治安維持",
+    "category": "Society & Education",
+    "furigana": "ちあんいじ",
+    "romaji": "chian iji",
+    "meaningSinhala": "శాන්තිය සහ නීතිය රැකීම / Maintenance of public order",
+    "kanjiBreakup": "治安 (public order) + 維持 (maintain)",
+    "story": "රටේ සාමය සහ නීතිය ආරක්ෂා කිරීම."
+  },
+  {
+    "id": "se_158",
+    "expression": "地方自治",
+    "category": "Society & Education",
+    "furigana": "ちほうじち",
+    "romaji": "chihou jichi",
+    "meaningSinhala": "ප්‍රාදේශීය ස්වයං පාලනය / Local autonomy",
+    "kanjiBreakup": "地方 (local) + 自治 (self-governance)",
+    "story": "ප්‍රදේශවල සංවර්ධන කටයුතු ප්‍රාදේශීය සභා මඟින් කරගැනීම."
+  },
+  {
+    "id": "se_159",
+    "expression": "住民参加",
+    "category": "Society & Education",
+    "furigana": "じゅうみんさんか",
+    "romaji": "juumin sanka",
+    "meaningSinhala": "ප්‍රදේශවාසීන්ගේ සහභාගීත්වය / Citizen participation",
+    "kanjiBreakup": "住民 (resident) + 参加 (participate)",
+    "story": "ගමේ වැඩවලට ප්‍රදේශවාසීන් එකතු වීම."
+  },
+  {
+    "id": "se_160",
+    "expression": "政治家",
+    "category": "Society & Education",
+    "furigana": "せいじか",
+    "romaji": "seijika",
+    "meaningSinhala": "දේශපාලඥයා / Politician",
+    "kanjiBreakup": "政治 (politics) + 家 (expert/specialist)",
+    "story": "රටේ පාලන කටයුතුවල නියැලෙන දේශපාලඥයා."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ag_001",
+    "expression": "理由",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "りゆう",
+    "romaji": "riyuu",
+    "meaningSinhala": "හේතුව / Reason",
+    "kanjiBreakup": "理 (reason) + 由 (reason)",
+    "story": "යම් දෙයක් සිදුවීමට ඇති හේතුව හෝ කරුණ."
+  },
+  {
+    "id": "ag_002",
+    "expression": "原因",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "げんいん",
+    "romaji": "genin",
+    "meaningSinhala": "මූලික හේතුව / Cause",
+    "kanjiBreakup": "原 (origin) + 因 (cause)",
+    "story": "ගැටළුවක් හෝ අසනීපයක් ඇති වීමට මුල් වූ හේතුව."
+  },
+  {
+    "id": "ag_003",
+    "expression": "結果",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "けっか",
+    "romaji": "kekka",
+    "meaningSinhala": "ප්‍රතිඵලය / Result",
+    "kanjiBreakup": "結 (tie) + 果 (fruit)",
+    "story": "ක්‍රියාවක අවසාන ප්‍රතිඵලය."
+  },
+  {
+    "id": "ag_004",
+    "expression": "影響",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "えいきょう",
+    "romaji": "eikyou",
+    "meaningSinhala": "බලපෑම / Influence",
+    "kanjiBreakup": "影 (shadow) + 響 (echo)",
+    "story": "අන් අයගේ ක්‍රියා නිසා අපට ඇති වන බලපෑම."
+  },
+  {
+    "id": "ag_005",
+    "expression": "関係",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんけい",
+    "romaji": "kankei",
+    "meaningSinhala": "සම්බන්ධතාව / Relationship",
+    "kanjiBreakup": "関 (concern) + 係 (connection)",
+    "story": "දෙදෙනෙකු හෝ දෙකක් අතර ඇති සම්බන්ධය."
+  },
+  {
+    "id": "ag_006",
+    "expression": "場合",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ばあい",
+    "romaji": "baai",
+    "meaningSinhala": "අවස්ථාව / Case / Situation",
+    "kanjiBreakup": "場 (place) + 合 (match)",
+    "story": "යම් සිදුවීමක් වන අවස්ථාව හෝ තත්ත්වය."
+  },
+  {
+    "id": "ag_007",
+    "expression": "程度",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ていど",
+    "romaji": "teido",
+    "meaningSinhala": "ප්‍රමාණය / මට්ටම / Degree / Extent",
+    "kanjiBreakup": "程 (extent) + 度 (degree)",
+    "story": "යම් දෙයක පවතින මට්ටම හෝ ප්‍රමාණය."
+  },
+  {
+    "id": "ag_008",
+    "expression": "割合",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "わりあい",
+    "romaji": "wariai",
+    "meaningSinhala": "අනුපාතය / Ratio / Proportion",
+    "kanjiBreakup": "割 (divide) + 合 (match)",
+    "story": "සස්සමක ප්‍රතිශතය හෝ අනුපාතය."
+  },
+  {
+    "id": "ag_009",
+    "expression": "違い",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ちがい",
+    "romaji": "chigai",
+    "meaningSinhala": "වෙනස / Difference",
+    "kanjiBreakup": "違 (differ)",
+    "story": "දෙකක් අතර ඇති වෙනස්කම."
+  },
+  {
+    "id": "ag_010",
+    "expression": "普通",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ふつう",
+    "romaji": "futsuu",
+    "meaningSinhala": "සාමාන්‍ය / Ordinary / Normal",
+    "kanjiBreakup": "普 (general) + 通 (common)",
+    "story": "විශේෂත්වයක් නැති සාමාන්‍ය තත්ත්වය."
+  },
+  {
+    "id": "ag_011",
+    "expression": "特別",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "とくべつ",
+    "romaji": "tokubetsu",
+    "meaningSinhala": "විශේෂ / Special",
+    "kanjiBreakup": "特 (special) + 別 (separate)",
+    "story": "සාමාන්‍ය දේවලට වඩා වෙනස් විශේෂ දෙයක්."
+  },
+  {
+    "id": "ag_012",
+    "expression": "中心",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ちゅうしん",
+    "romaji": "chuushin",
+    "meaningSinhala": "මධ්‍යස්ථානය / Center",
+    "kanjiBreakup": "中 (middle) + 心 (heart)",
+    "story": "මැද පිහිටි ප්‍රධාන ස්ථානය."
+  },
+  {
+    "id": "ag_013",
+    "expression": "実際",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じっさい",
+    "romaji": "jissai",
+    "meaningSinhala": "ඇත්ත වශයෙන්ම / Actually / Reality",
+    "kanjiBreakup": "実 (reality) + 際 (occasion)",
+    "story": "කල්පිතයක් නොව සැබෑ ලෙසම සිදුවන දෙයක්."
+  },
+  {
+    "id": "ag_014",
+    "expression": "基本",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きほん",
+    "romaji": "kihon",
+    "meaningSinhala": "මූලික කරුණු / Basics",
+    "kanjiBreakup": "基 (foundation) + 本 (root)",
+    "story": "ඕනෑම දෙයක ආරම්භක මූලික කරුණු."
+  },
+  {
+    "id": "ag_015",
+    "expression": "重要",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じゅうよう",
+    "romaji": "juuyou",
+    "meaningSinhala": "වැදගත් / Important",
+    "kanjiBreakup": "重 (heavy) + 要 (need)",
+    "story": "අත්‍යවශ්‍ය වන ඉතා වැදගත් කාරණය."
+  },
+  {
+    "id": "ag_016",
+    "expression": "必要",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ひつよう",
+    "romaji": "hitsuyou",
+    "meaningSinhala": "අවශ්‍යයි / Necessary",
+    "kanjiBreakup": "必 (certain) + 要 (need)",
+    "story": "නැතම බැරි අවශ්‍යතාව."
+  },
+  {
+    "id": "ag_017",
+    "expression": "可能",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かのう",
+    "romaji": "kanou",
+    "meaningSinhala": "හැකියි / Possible",
+    "kanjiBreakup": "可 (possible) + 能 (ability)",
+    "story": "කිරීමට පුළුවන් වන අවස්ථාව."
+  },
+  {
+    "id": "ag_018",
+    "expression": "不可能",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ふかのう",
+    "romaji": "fukanou",
+    "meaningSinhala": "කළ නොහැකි / Impossible",
+    "kanjiBreakup": "不 (not) + 可能 (possible)",
+    "story": "කිරීමට කිසිසේත්ම නොහැකි දෙයක්."
+  },
+  {
+    "id": "ag_019",
+    "expression": "複雑",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ふくざつ",
+    "romaji": "fukuzatsu",
+    "meaningSinhala": "සංකීර්ණ / Complicated",
+    "kanjiBreakup": "複 (compound) + 雑 (mixed)",
+    "story": "පැහැදිලි නැති පැටලුණු ස්වභාවය."
+  },
+  {
+    "id": "ag_020",
+    "expression": "簡単",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんたん",
+    "romaji": "kantan",
+    "meaningSinhala": "පහසු / Simple / Easy",
+    "kanjiBreakup": "簡 (simple) + 単 (single)",
+    "story": "ඉතා පහසුවෙන් කළ හැකි දෙයක්."
+  },
+  {
+    "id": "ag_021",
+    "expression": "自由",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じゆう",
+    "romaji": "jiyuu",
+    "meaningSinhala": "නිදහස / Freedom",
+    "kanjiBreakup": "自 (self) + 由 (reason)",
+    "story": "කැමති ආකාරයකට සිටීමට ඇති නිදහස."
+  },
+  {
+    "id": "ag_022",
+    "expression": "安全",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "あんぜん",
+    "romaji": "anzen",
+    "meaningSinhala": "ආරක්ෂිත / Safe",
+    "kanjiBreakup": "安 (safe) + 全 (whole)",
+    "story": "අන්තරායන් නොමැති ආරක්ෂිත බව."
+  },
+  {
+    "id": "ag_023",
+    "expression": "危険",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きけん",
+    "romaji": "kiken",
+    "meaningSinhala": "අනතුරුදායක / Dangerous",
+    "kanjiBreakup": "危 (dangerous) + 険 (steep)",
+    "story": "හානියක් වීමට ඉඩ ඇති අනතුරුදායක තත්ත්වය."
+  },
+  {
+    "id": "ag_024",
+    "expression": "正確",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "せいかく",
+    "romaji": "seikaku",
+    "meaningSinhala": "නිවැරදි / Accurate / Exact",
+    "kanjiBreakup": "正 (correct) + 確 (firm)",
+    "story": "කිසිදු වරදක් නැති නිවැරදි බව."
+  },
+  {
+    "id": "ag_025",
+    "expression": "完璧",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんぺき",
+    "romaji": "kanpeki",
+    "meaningSinhala": "පරිපූර්ණ / Perfect",
+    "kanjiBreakup": "完 (complete) + 壁 (wall)",
+    "story": "කිසිදු අඩුපාඩුවක් නොමැති පරිපූර්ණ බව."
+  },
+  {
+    "id": "ag_026",
+    "expression": "一般",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "いっぱん",
+    "romaji": "ippan",
+    "meaningSinhala": "පොදු / General / Common",
+    "kanjiBreakup": "一 (one) + 般 (general)",
+    "story": "සාමාන්‍ය ජනතාව අතර පොදුවේ පවතින."
+  },
+  {
+    "id": "ag_027",
+    "expression": "直接",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ちょくせつ",
+    "romaji": "chokusetsu",
+    "meaningSinhala": "කෙළින්ම / Direct",
+    "kanjiBreakup": "直 (direct) + 接 (touch)",
+    "story": "අතරමැදියකු නොමැතිව කෙළින්ම සම්බන්ධ වීම."
+  },
+  {
+    "id": "ag_028",
+    "expression": "間接",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんせつ",
+    "romaji": "kansetsu",
+    "meaningSinhala": "වක්‍ර / Indirect",
+    "kanjiBreakup": "間 (between) + 接 (touch)",
+    "story": "අතරමැදියෙකු හරහා සිදුවන."
+  },
+  {
+    "id": "ag_029",
+    "expression": "絶対",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ぜったい",
+    "romaji": "zettai",
+    "meaningSinhala": "නියත වශයෙන්ම / Absolutely",
+    "kanjiBreakup": "絶 (absolute) + 対 (opposite)",
+    "story": "කෙසේ වෙතත් කළ යුතු හෝ වෙනස් නොවන දෙයක්."
+  },
+  {
+    "id": "ag_030",
+    "expression": "特に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "とくに",
+    "romaji": "tokuni",
+    "meaningSinhala": "විශේෂයෙන් / Especially",
+    "kanjiBreakup": "特 (special)",
+    "story": "වෙනත් දේට වඩා විශේෂයෙන් සැළකිය යුතු."
+  },
+  {
+    "id": "ag_031",
+    "expression": "急に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きゅうに",
+    "romaji": "kyuuni",
+    "meaningSinhala": "හදිසියේ / Suddenly",
+    "kanjiBreakup": "急 (hurry)",
+    "story": "කිසිදු අපේක්ෂාවකින් තොරව හදිසියේ සිදු වීම."
+  },
+  {
+    "id": "ag_032",
+    "expression": "確かに",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "たしかに",
+    "romaji": "tashikani",
+    "meaningSinhala": "නිසැකවම / Surely / Certainly",
+    "kanjiBreakup": "確 (firm)",
+    "story": "සැකයක් නැතිව හරියටම සිදුවන බව."
+  },
+  {
+    "id": "ag_033",
+    "expression": "ようやく",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ようやく",
+    "romaji": "youyaku",
+    "meaningSinhala": "අවසානයේදී / Finally",
+    "kanjiBreakup": "ようやく",
+    "story": "බොහෝ උත්සාහයකින් පසු අಂತಿමව සිදු වීම."
+  },
+  {
+    "id": "ag_034",
+    "expression": "つまり",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "つまり",
+    "romaji": "tsumari",
+    "meaningSinhala": "සාරාංශයක් ලෙස / In other words",
+    "kanjiBreakup": "つまり",
+    "story": "සරලව කිවහොත් හෝ වෙනත් වචනවලින් කිවහොත්."
+  },
+  {
+    "id": "ag_035",
+    "expression": "例えば",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "たとえば",
+    "romaji": "tatoeba",
+    "meaningSinhala": "උදාහරණයක් ලෙස / For example",
+    "kanjiBreakup": "例 (example)",
+    "story": "කාරණයක් පැහැදිලි කිරීමට උදාහරණ දැක්වීම."
+  },
+  {
+    "id": "ag_036",
+    "expression": "なぜなら",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "なぜなら",
+    "romaji": "nazenara",
+    "meaningSinhala": "මන්ද යත් / Because",
+    "kanjiBreakup": "なぜなら",
+    "story": "එයට හේතුව කුමක්ද යන්න පැහැදිලි කිරීමට."
+  },
+  {
+    "id": "ag_037",
+    "expression": "代わりに",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かわりに",
+    "romaji": "kawari ni",
+    "meaningSinhala": "ඒ වෙනුවට / Instead of",
+    "kanjiBreakup": "代 (replace)",
+    "story": "යමක් වෙනුවට වෙනත් විකල්පයක් භාවිත කිරීම."
+  },
+  {
+    "id": "ag_038",
+    "expression": "比べて",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "くらべて",
+    "romaji": "kurabete",
+    "meaningSinhala": "සසඳන විට / Compared with",
+    "kanjiBreakup": "比 (compare)",
+    "story": "දැන්වීම් හෝ දත්ත දෙකක් එකිනෙකට සැසඳීම."
+  },
+  {
+    "id": "ag_039",
+    "expression": "可能性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かのうせい",
+    "romaji": "kanousei",
+    "meaningSinhala": "හැකියාව / Potentiality / Possibility",
+    "kanjiBreakup": "可能性 (possibility)",
+    "story": "යම් දෙයක් සිදුවීමට ඇති ඉඩකඩ."
+  },
+  {
+    "id": "ag_040",
+    "expression": "必要性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ひつようせい",
+    "romaji": "hitsuyousei",
+    "meaningSinhala": "අවශ්‍යතාව / Necessity",
+    "kanjiBreakup": "必要性 (necessity)",
+    "story": "යමක් කිරීමේ ඇති අත්‍යවශ්‍ය බව."
+  },
+  {
+    "id": "ag_041",
+    "expression": "重要性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じゅうようせい",
+    "romaji": "juuyousei",
+    "meaningSinhala": "වැදගත්කම / Importance",
+    "kanjiBreakup": "重要性 (importance)",
+    "story": "කාරණයක ඇති බරපතලකම සහ වටිනාකම."
+  },
+  {
+    "id": "ag_042",
+    "expression": "有効性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ゆうこうせい",
+    "romaji": "yuukousei",
+    "meaningSinhala": "ඵලදායීතාව / Effectiveness",
+    "kanjiBreakup": "有効性 (effectiveness)",
+    "story": "ක්‍රමයක් මඟින් ලැබෙන ප්‍රතිඵලදායක බව."
+  },
+  {
+    "id": "ag_043",
+    "expression": "安全性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "あんぜんせい",
+    "romaji": "anzensei",
+    "meaningSinhala": "ආරක්ෂිත බව / Safety",
+    "kanjiBreakup": "安全性 (safety)",
+    "story": "අනතුරුදායක නොවන ආරක්ෂිත මට්ටම."
+  },
+  {
+    "id": "ag_044",
+    "expression": "信頼性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "しんらいせい",
+    "romaji": "shinraisei",
+    "meaningSinhala": "විශ්වාසනීයත්වය / Reliability",
+    "kanjiBreakup": "信頼性 (reliability)",
+    "story": "අපට විශ්වාස කළ හැකි විශ්වාසනීය මට්ටම."
+  },
+  {
+    "id": "ag_045",
+    "expression": "積極性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "せっきょくせい",
+    "romaji": "sekikyokusei",
+    "meaningSinhala": "උනන්දුව / Proactiveness",
+    "kanjiBreakup": "積極性 (proactiveness)",
+    "story": "ඕනෑම වැඩකට උනන්දුවෙන් ඉදිරිපත් වන ගුණය."
+  },
+  {
+    "id": "ag_046",
+    "expression": "自主性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じしゅせい",
+    "romaji": "jishusei",
+    "meaningSinhala": "ස්වයං පාලනය / Independence / Autonomy",
+    "kanjiBreakup": "自主性 (independence)",
+    "story": "අනුන්ගේ උදව් නැතිව තනියම වැඩ කිරීමේ හැකියාව."
+  },
+  {
+    "id": "ag_047",
+    "expression": "計画性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "けいかくせい",
+    "romaji": "keikakusei",
+    "meaningSinhala": "සැලසුම් සහගත බව / Planning ability",
+    "kanjiBreakup": "計画性 (planfulness)",
+    "story": "සියලු දේ සැලසුම් සහගතව කරන ස්වභාවය."
+  },
+  {
+    "id": "ag_048",
+    "expression": "主体性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "しゅたいせい",
+    "romaji": "shutasei",
+    "meaningSinhala": "ස්වයං මූලිකත්වය / Initiative",
+    "kanjiBreakup": "主体性 (initiative)",
+    "story": "මූලික වී වැඩ කටයුතු භාරගෙන කිරීමේ ගුණය."
+  },
+  {
+    "id": "ag_049",
+    "expression": "公平性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "こうへいせい",
+    "romaji": "kouheisei",
+    "meaningSinhala": "සාධාරණත්වය / Fairness",
+    "kanjiBreakup": "公平性 (fairness)",
+    "story": "සියලු දෙනාට එක සමානව සලකන සාධාරණ බව."
+  },
+  {
+    "id": "ag_050",
+    "expression": "透明性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "とうめいせい",
+    "romaji": "toumeisei",
+    "meaningSinhala": "පාරදෘශ්‍යභාවය / Transparency",
+    "kanjiBreakup": "透明性 (transparency)",
+    "story": "කිසිදු රහසක් නොමැතිව සැමට පෙනෙන පාරදෘශ්‍ය බව."
+  },
+  {
+    "id": "ag_051",
+    "expression": "柔軟性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じゅうなんせい",
+    "romaji": "juunansei",
+    "meaningSinhala": "නම්‍යශීලී බව / Flexibility",
+    "kanjiBreakup": "柔軟性 (flexibility)",
+    "story": "পরিস্থিতියට අනුව වෙනස් වීමේ හැකියාව."
+  },
+  {
+    "id": "ag_052",
+    "expression": "多様性",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "たようせい",
+    "romaji": "tayousei",
+    "meaningSinhala": "විවිධත්වය / Diversity",
+    "kanjiBreakup": "多様性 (diversity)",
+    "story": "විවිධ මත සහ සංස්කෘතීන් එකට පැවතීම."
+  },
+  {
+    "id": "ag_053",
+    "expression": "具体化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ぐたいか",
+    "romaji": "gutaika",
+    "meaningSinhala": "ප්‍රායෝගික කිරීම / Concretization",
+    "kanjiBreakup": "具体化 (concretization)",
+    "story": "අදහසක් ප්‍රායෝගිකව ක්‍රියාත්මක කිරීම."
+  },
+  {
+    "id": "ag_054",
+    "expression": "明確化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "めいかくか",
+    "romaji": "meikakuka",
+    "meaningSinhala": "පැහැදිලි කිරීම / Clarification",
+    "kanjiBreakup": "明確化 (clarification)",
+    "story": "සැකයක් නැතිව කරුණක් පැහැදිලි කිරීම."
+  },
+  {
+    "id": "ag_055",
+    "expression": "簡略化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんりゃくか",
+    "romaji": "kanryakuka",
+    "meaningSinhala": "සරල කිරීම / Simplification",
+    "kanjiBreakup": "簡略化 (simplification)",
+    "story": "සංකීර්ණ දෙයක් පහසු කර සරල කිරීම."
+  },
+  {
+    "id": "ag_056",
+    "expression": "効率化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "こうりつか",
+    "romaji": "kouritsuka",
+    "meaningSinhala": "කාර්යක්ෂම කිරීම / Streamlining",
+    "kanjiBreakup": "効率化 (efficiency)",
+    "story": "අඩු වියදමින් වැඩි ප්‍රතිඵල ලැබෙන සේ හැදීම."
+  },
+  {
+    "id": "ag_057",
+    "expression": "自動化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じどうか",
+    "romaji": "jidouka",
+    "meaningSinhala": "ස්වයංක්‍රීය කිරීම / Automation",
+    "kanjiBreakup": "自動化 (automation)",
+    "story": "යන්ත්‍ර මඟින් ස්වයංක්‍රීයව ක්‍රියාත්මක වීම."
+  },
+  {
+    "id": "ag_058",
+    "expression": "一般化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "いっぱんか",
+    "romaji": "ippanka",
+    "meaningSinhala": "පොදුකරණය කිරීම / Generalization",
+    "kanjiBreakup": "一般化 (generalization)",
+    "story": "විශේෂ දෙයක් පොදු තත්ත්වයට පත් කිරීම."
+  },
+  {
+    "id": "ag_059",
+    "expression": "活発化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かっぱつか",
+    "romaji": "kappatsuka",
+    "meaningSinhala": "සක්‍රීය කිරීම / Revitalization",
+    "kanjiBreakup": "活発化 (revitalization)",
+    "story": "ක්‍රියාකාරකම් වැඩි කර දියුණු කිරීම."
+  },
+  {
+    "id": "ag_060",
+    "expression": "深刻化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "しんこくか",
+    "romaji": "shinkokuka",
+    "meaningSinhala": "බරපතල වීම / Aggravation",
+    "kanjiBreakup": "深刻化 (aggravation)",
+    "story": "ප්‍රශ්නයක් වඩාත් බරපතල තත්ත්වයට පත්වීම."
+  },
+  {
+    "id": "ag_061",
+    "expression": "高齢化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "こうれいか",
+    "romaji": "koureika",
+    "meaningSinhala": "ජනගහනය වයසට යාම / Aging (population)",
+    "kanjiBreakup": "高齢化 (aging)",
+    "story": "රටක වැඩිහිටි ජනගහනය වැඩි වීම."
+  },
+  {
+    "id": "ag_062",
+    "expression": "少子化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "しょうしか",
+    "romaji": "shoushika",
+    "meaningSinhala": "උපත් අනුපාතය අඩුවීම / Declining birthrate",
+    "kanjiBreakup": "少子化 (fewer children)",
+    "story": "උපත් අඩුවී දරුවන් බිහිවීම අඩු වීම."
+  },
+  {
+    "id": "ag_063",
+    "expression": "情報化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じょうほうか",
+    "romaji": "jouhouka",
+    "meaningSinhala": "තොරතුරු තාක්ෂණකරණය / Informatization",
+    "kanjiBreakup": "情報化 (informatization)",
+    "story": "සමාජය පරිගණක තාක්ෂණයට යොමු වීම."
+  },
+  {
+    "id": "ag_064",
+    "expression": "国際化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "こくさいか",
+    "romaji": "kokusaika",
+    "meaningSinhala": "ජාත්‍යන්තරකරණය / Internationalization",
+    "kanjiBreakup": "国際化 (internationalization)",
+    "story": "විදේශ රටවල් සමඟ සබඳතා පුළුල් වීම."
+  },
+  {
+    "id": "ag_065",
+    "expression": "工業化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "こうぎょうか",
+    "romaji": "kougyouka",
+    "meaningSinhala": "කාර්මිකරණය / Industrialization",
+    "kanjiBreakup": "工業化 (industrialization)",
+    "story": " කර්මාන්තශාලා සහ යන්ත්‍ර සූත්‍ර දියුණු වීම."
+  },
+  {
+    "id": "ag_066",
+    "expression": "近代化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きんだいか",
+    "romaji": "kindaika",
+    "meaningSinhala": "නවීකරණය / Modernization",
+    "kanjiBreakup": "近代化 (modernization)",
+    "story": "පැරණි ක්‍රම අත්හැර නවීන ක්‍රමවලට මාරු වීම."
+  },
+  {
+    "id": "ag_067",
+    "expression": "西洋化",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "せいようか",
+    "romaji": "seiyouka",
+    "meaningSinhala": "බටහිරකරණය / Westernization",
+    "kanjiBreakup": "西洋化 (westernization)",
+    "story": "බටහිර සංස්කෘතිය සහ ජීවන රටාව අනුගමනය කිරීම."
+  },
+  {
+    "id": "ag_068",
+    "expression": "結果として",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "けっかとして",
+    "romaji": "kekka to shite",
+    "meaningSinhala": "ප්‍රතිඵලයක් ලෙස / As a result",
+    "kanjiBreakup": "結果 (result)",
+    "story": "යම් ක්‍රියාවක අවසාන ප්‍රතිඵලය ලෙස සිදු වීම."
+  },
+  {
+    "id": "ag_069",
+    "expression": "目的のために",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "もくてきのために",
+    "romaji": "mokuteki no tame ni",
+    "meaningSinhala": "අරමුණ වෙනුවෙන් / For the purpose of",
+    "kanjiBreakup": "目的 (purpose)",
+    "story": "නිශ්චිත ඉලක්කයක් සපුරා ගැනීම සඳහා."
+  },
+  {
+    "id": "ag_070",
+    "expression": "計画に従って",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "けいかくにしたがって",
+    "romaji": "keikaku ni shitagatte",
+    "meaningSinhala": "සැලැස්මට අනුව / According to the plan",
+    "kanjiBreakup": "計画 (plan)",
+    "story": "කලින් සකස් කළ සැලැස්මට එකඟව."
+  },
+  {
+    "id": "ag_071",
+    "expression": "意見によって",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "いけんによって",
+    "romaji": "iken ni yotte",
+    "meaningSinhala": "අදහස් මත පදනම්ව / Depending on the opinion",
+    "kanjiBreakup": "意見 (opinion)",
+    "story": "විවිධ පුද්ගලයින්ගේ අදහස් අනුව වෙනස් වීම."
+  },
+  {
+    "id": "ag_072",
+    "expression": "法律に基づいて",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ほうりつに基づ(もと)づいて",
+    "romaji": "houritsu ni motozuite",
+    "meaningSinhala": "නීතියට අනුව / Based on the law",
+    "kanjiBreakup": "法律 (law)",
+    "story": "නීතිමය පදනම මත පිහිටා කටයුතු කිරීම."
+  },
+  {
+    "id": "ag_073",
+    "expression": "状況に応じて",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じょうきょうに応じて",
+    "romaji": "joukyou ni oujite",
+    "meaningSinhala": "තත්ත්වයට ගැළපෙන පරිදි / According to the situation",
+    "kanjiBreakup": "状況 (situation)",
+    "story": "වෙනස් වන පරිසරයට සහ තත්ත්වයට අනුව."
+  },
+  {
+    "id": "ag_074",
+    "expression": "条件として",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じょうけんとして",
+    "romaji": "jouken to shite",
+    "meaningSinhala": "කොන්දේසියක් ලෙස / As a condition",
+    "kanjiBreakup": "条件 (condition)",
+    "story": "ඉටු කළ යුතු අත්‍යවශ්‍ය කොන්දේසියක් ලෙස."
+  },
+  {
+    "id": "ag_075",
+    "expression": "理由により",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "りゆうにより",
+    "romaji": "riyuu ni yori",
+    "meaningSinhala": "හේතුව නිසා / Due to the reason",
+    "kanjiBreakup": "理由 (reason)",
+    "story": "නිශ්චිත හේතුවක් මුල් කරගෙන."
+  },
+  {
+    "id": "ag_076",
+    "expression": "違いに関して",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ちがいに関して",
+    "romaji": "chigai ni kanshite",
+    "meaningSinhala": "වෙනස්කම් සම්බන්ධයෙන් / Regarding the difference",
+    "kanjiBreakup": "違い (difference)",
+    "story": "දෙකක් අතර ඇති වෙනස්කම් ගැන කතා කරද්දී."
+  },
+  {
+    "id": "ag_077",
+    "expression": "関係において",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんけいにおいて",
+    "romaji": "kankei ni oite",
+    "meaningSinhala": "සම්බන්ධතාව තුළ / In the relationship",
+    "kanjiBreakup": "関係 (relationship)",
+    "story": "දෙදෙනෙකු අතර ඇති බැඳීම තුළ."
+  },
+  {
+    "id": "ag_078",
+    "expression": "程度によって",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ていどによって",
+    "romaji": "teido ni yori",
+    "meaningSinhala": "ප්‍රමාණය අනුව / Depending on the extent",
+    "kanjiBreakup": "程度 (degree)",
+    "story": "පවතින ප්‍රමාණය හෝ මට්ටම අනුව වෙනස් වීම."
+  },
+  {
+    "id": "ag_079",
+    "expression": "割合として",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "わりあいとして",
+    "romaji": "wariai to shite",
+    "meaningSinhala": "අනුපාතයක් ලෙස / As a proportion",
+    "kanjiBreakup": "割合 (ratio)",
+    "story": "සස්සමක ප්‍රතිශතයක් ලෙස ගණනය කරද්දී."
+  },
+  {
+    "id": "ag_080",
+    "expression": "場合によっては",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ばあいによっては",
+    "romaji": "baai ni yotte wa",
+    "meaningSinhala": "අවස්ථාවන් අනුව / Depending on the case",
+    "kanjiBreakup": "場合 (case)",
+    "story": "සිදුවන අවස්ථාව මත පදනම්ව වෙනස් විය හැකි විට."
+  },
+  {
+    "id": "ag_081",
+    "expression": "中心として",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ちゅうしんとして",
+    "romaji": "chuushin to shite",
+    "meaningSinhala": "මූලික කරගනිමින් / Centering around",
+    "kanjiBreakup": "中心 (center)",
+    "story": "යමක් මුල් කරගෙන හෝ ප්‍රධාන කොටගෙන."
+  },
+  {
+    "id": "ag_082",
+    "expression": "実際には",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じっさいには",
+    "romaji": "jissai ni wa",
+    "meaningSinhala": "ඇත්ත වශයෙන්ම නම් / In reality",
+    "kanjiBreakup": "実際 (reality)",
+    "story": "පෙනෙන ආකාරයට වඩා සැබෑ තත්ත්වය."
+  },
+  {
+    "id": "ag_083",
+    "expression": "基本として",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きほんとして",
+    "romaji": "kihon to shite",
+    "meaningSinhala": "මූලික වශයෙන් / Basically",
+    "kanjiBreakup": "基本 (basis)",
+    "story": "මූලික සංකල්පය හෝ පදනම ලෙස."
+  },
+  {
+    "id": "ag_084",
+    "expression": "重要性について",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じゅうようせいについて",
+    "romaji": "juuyousei ni tsuite",
+    "meaningSinhala": "වැදගත්කම පිළිබඳව / Regarding the importance",
+    "kanjiBreakup": "重要性 (importance)",
+    "story": "යම් දෙයක ඇති වැදගත්කම ගැන කතා කරද්දී."
+  },
+  {
+    "id": "ag_085",
+    "expression": "必要に応じて",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ひつように応じて",
+    "romaji": "hitsuyou ni oujite",
+    "meaningSinhala": "අවශ්‍ය පරිදි / As needed",
+    "kanjiBreakup": "必要 (necessary)",
+    "story": "අවශ්‍යතාව මත පදනම්ව වෙනස් වන විට."
+  },
+  {
+    "id": "ag_086",
+    "expression": "可能であれば",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かのうであれば",
+    "romaji": "kanou de areba",
+    "meaningSinhala": "හැකි නම් / If possible",
+    "kanjiBreakup": "可能 (possible)",
+    "story": "බාධාවක් නැතිනම් කළ හැකි නම්."
+  },
+  {
+    "id": "ag_087",
+    "expression": "簡単には",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんたんには",
+    "romaji": "kantan ni wa",
+    "meaningSinhala": "පහසුවෙන් / Simply",
+    "kanjiBreakup": "簡単 (easy)",
+    "story": "සංකීර්ණ නොමැතිව ඉතා සරලව."
+  },
+  {
+    "id": "ag_088",
+    "expression": "自由な方法で",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じゆうなほうほうで",
+    "romaji": "jiyuu na houhou de",
+    "meaningSinhala": "නිදහස් ක්‍රමයකට / In a free manner",
+    "kanjiBreakup": "自由 (freedom)",
+    "story": "කිසිදු සීමාවක් නැතිව නිදහසේ."
+  },
+  {
+    "id": "ag_089",
+    "expression": "安全のために",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "あんぜんのために",
+    "romaji": "anzen no tame ni",
+    "meaningSinhala": "ආරක්ෂාව වෙනුවෙන් / For safety",
+    "kanjiBreakup": "安全 (safety)",
+    "story": "අනතුරු වළක්වා ආරක්ෂාව තහවුරු කිරීමට."
+  },
+  {
+    "id": "ag_090",
+    "expression": "危険を避けて",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きけんをさけて",
+    "romaji": "kiken o sakete",
+    "meaningSinhala": "අනතුරුවලින් වැළකී / Avoiding danger",
+    "kanjiBreakup": "危険 (danger)",
+    "story": "අනතුරුදායක තත්ත්වයන් මඟහරිමින්."
+  },
+  {
+    "id": "ag_091",
+    "expression": "正確に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "せいかくに",
+    "romaji": "seikakuni",
+    "meaningSinhala": "නිවැරදිව / Accurately",
+    "kanjiBreakup": "正確 (accurate)",
+    "story": "කිසිදු දෝෂයකින් තොරව හරියටම."
+  },
+  {
+    "id": "ag_092",
+    "expression": "完璧に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんぺきに",
+    "romaji": "kanpekini",
+    "meaningSinhala": "පරිපූර්ණ ලෙස / Perfectly",
+    "kanjiBreakup": "完璧 (perfect)",
+    "story": "අඩුපාඩු නැතිව අංගසම්පූර්ණව."
+  },
+  {
+    "id": "ag_093",
+    "expression": "一般的に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "いっぱんてきに",
+    "romaji": "ippanteki ni",
+    "meaningSinhala": "සාමාන්‍යයෙන් / Generally",
+    "kanjiBreakup": "一般 (general)",
+    "story": "බොහෝ දෙනා අතර පොදුවේ පිළිගත් පරිදි."
+  },
+  {
+    "id": "ag_094",
+    "expression": "直接に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ちょくせつに",
+    "romaji": "chokusetsuni",
+    "meaningSinhala": "කෙළින්ම / Directly",
+    "kanjiBreakup": "直接 (direct)",
+    "story": "අතරමැදියන් නොමැතිව."
+  },
+  {
+    "id": "ag_095",
+    "expression": "間接的に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かんせつてきに",
+    "romaji": "kansetsuteki ni",
+    "meaningSinhala": "වක්‍රාකාරව / Indirectly",
+    "kanjiBreakup": "間接 (indirect)",
+    "story": "වෙනත් මාර්ගයක් හරහා."
+  },
+  {
+    "id": "ag_096",
+    "expression": "絶対に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ぜったいにと",
+    "romaji": "zettai ni",
+    "meaningSinhala": "කෙසේ වෙතත් / Absolutely",
+    "kanjiBreakup": "絶対 (absolute)",
+    "story": "අනිවාර්යයෙන්ම කළ යුතු විට."
+  },
+  {
+    "id": "ag_097",
+    "expression": "特別に",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "とくべつに",
+    "romaji": "tokubetsu ni",
+    "meaningSinhala": "විශේෂයෙන් / Specially",
+    "kanjiBreakup": "特別 (special)",
+    "story": "සාමාන්‍ය දේට වඩා වෙනස් ලෙස."
+  },
+  {
+    "id": "ag_098",
+    "expression": "傾向",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "けいこう",
+    "romaji": "keikou",
+    "meaningSinhala": "ප්‍රවණතාව / Trend / Tendency",
+    "kanjiBreakup": "傾 (lean) + 向 (direction)",
+    "story": "යම් දෙයක් සිදුවීමට ඇති නැඹුරුව හෝ ප්‍රවණතාව."
+  },
+  {
+    "id": "ag_099",
+    "expression": "方針",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ほうしん",
+    "romaji": "houshin",
+    "meaningSinhala": "ප්‍රතිපත්තිය / Policy / Course",
+    "kanjiBreakup": "方 (direction) + 針 (needle)",
+    "story": "කටයුතු කරගෙන යාමට තෝරාගත් මාවත."
+  },
+  {
+    "id": "ag_100",
+    "expression": "基準",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "きじゅん",
+    "romaji": "kijun",
+    "meaningSinhala": "මිනුම් දණ්ඩ / ප්‍රමිතිය / Standard / Criterion",
+    "kanjiBreakup": "基 (base) + 準 (standard)",
+    "story": "තත්ත්වය මැන බැලීමට ගන්නා ප්‍රමිතිය."
+  },
+  {
+    "id": "ag_101",
+    "expression": "条件",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "じょうけん",
+    "romaji": "jouken",
+    "meaningSinhala": "කොන්දේසිය / Condition",
+    "kanjiBreakup": "条 (article) + 件 (matter)",
+    "story": "යමක් කිරීමට ඉටු කළ යුතු කොන්දේසිය."
+  },
+  {
+    "id": "ag_102",
+    "expression": "目的",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "もくてき",
+    "romaji": "mokuteki",
+    "meaningSinhala": "අරමුණ / Purpose / Objective",
+    "kanjiBreakup": "目 (eye) + 的 (target)",
+    "story": "අපි යම් වැඩකින් ළඟා කර ගැනීමට බලාපොරොත්තු වන අරමුණ."
+  },
+  {
+    "id": "ag_103",
+    "expression": "目標",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "もくひょう",
+    "romaji": "mokuhyou",
+    "meaningSinhala": "ඉලක්කය / Target",
+    "kanjiBreakup": "目 (eye) + 標 (mark)",
+    "story": "ඉටු කරගත යුතු නිශ්චිත ඉලක්කය."
+  },
+  {
+    "id": "ag_104",
+    "expression": "傾向がある",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "けいこうがある",
+    "romaji": "keikou ga aru",
+    "meaningSinhala": "ප්‍රවණතාවක් ඇත / To have a tendency",
+    "kanjiBreakup": "傾向 (trend) + ある (exist)",
+    "story": "යම් ආකාරයකට හැසිරීමේ නැඹුරුවක් තිබීම."
+  },
+  {
+    "id": "ag_105",
+    "expression": "に関して",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "にかんして",
+    "romaji": "ni kanshite",
+    "meaningSinhala": "සම්බන්ධයෙන් / Regarding",
+    "kanjiBreakup": "関して (concerning)",
+    "story": "යම් කාරණයක් ගැන කතා කරද්දී."
+  },
+  {
+    "id": "ag_106",
+    "expression": "について",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "について",
+    "romaji": "ni tsuite",
+    "meaningSinhala": "පිළිබඳව / About",
+    "kanjiBreakup": "について",
+    "story": "යම් විෂයක් හෝ කරුණක් ගැන."
+  },
+  {
+    "id": "ag_107",
+    "expression": "によって",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "によって",
+    "romaji": "ni yotte",
+    "meaningSinhala": "විසින් / මඟින් / Depending on",
+    "kanjiBreakup": "によって",
+    "story": "ක්‍රමයක් හෝ හේතුවක් පෙන්වීමට."
+  },
+  {
+    "id": "ag_108",
+    "expression": "に対して",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "に対して",
+    "romaji": "ni taishite",
+    "meaningSinhala": "විරුද්ධව / හමුවේ / Toward / Against",
+    "kanjiBreakup": "対して",
+    "story": "යමෙකුට හෝ යම් දෙයකට දක්වන ප්‍රතිචාරය."
+  },
+  {
+    "id": "ag_109",
+    "expression": "にとって",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "にとって",
+    "romaji": "ni totte",
+    "meaningSinhala": "වෙනුවෙන් / අනුව / For",
+    "kanjiBreakup": "にとって",
+    "story": "යම් පුද්ගලයෙකුගේ දෘෂ්ටිකෝණයෙන්."
+  },
+  {
+    "id": "ag_110",
+    "expression": "として",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "として",
+    "romaji": "to shite",
+    "meaningSinhala": "ලෙස / හැටියට / As",
+    "kanjiBreakup": "として",
+    "story": "නිශ්චිත තත්ත්වයක් හෝ භූමිකාවක් දරමින්."
+  },
+  {
+    "id": "ag_111",
+    "expression": "だけでなく",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "だけでなく",
+    "romaji": "dake de naku",
+    "meaningSinhala": "පමණක් නොව / Not only",
+    "kanjiBreakup": "だけ (only)",
+    "story": "එක දෙයක් පමණක් නොව තවත් දෙයක් ඇතුළත් වන විට."
+  },
+  {
+    "id": "ag_112",
+    "expression": "ばかりか",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ばかりか",
+    "romaji": "bakari ka",
+    "meaningSinhala": "පමණක් නොව (වැඩිදුරටත්) / Not only... but also",
+    "kanjiBreakup": "ばかりか",
+    "story": "සීමාව ඉක්මවා තවත් දෙයක් සිදුවන විට."
+  },
+  {
+    "id": "ag_113",
+    "expression": "ものだ",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ものだ",
+    "romaji": "mono da",
+    "meaningSinhala": "ස්වභාවයයි / සාමාන්‍ය දෙයකි / It is natural to",
+    "kanjiBreakup": "ものだ",
+    "story": "සාමාන්‍යයෙන් සිදුවන ස්වභාවය පෙන්වීමට."
+  },
+  {
+    "id": "ag_114",
+    "expression": "ことだ",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ことだ",
+    "romaji": "koto da",
+    "meaningSinhala": "යුතුය / උපදෙසකි / It is best to / Should",
+    "kanjiBreakup": "ことだ",
+    "story": "අනෙකාට දෙන වැදගත් උපදෙසක් ලෙස."
+  },
+  {
+    "id": "ag_115",
+    "expression": "べきだ",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "べきだ",
+    "romaji": "beki da",
+    "meaningSinhala": "කළ යුතුයි / Should / Must",
+    "kanjiBreakup": "べきだ",
+    "story": "සදාචාරාත්මකව හෝ නීත්‍යානුකූලව කළ යුතු දෙයක්."
+  },
+  {
+    "id": "ag_116",
+    "expression": "ないものか",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ないものか",
+    "romaji": "nai mono ka",
+    "meaningSinhala": "කළ නොහැකිද? / Is there a way to...?",
+    "kanjiBreakup": "ない (not)",
+    "story": "යම් දෙයක් කරගැනීමට ඇත්නම් යැයි පතන විට."
+  },
+  {
+    "id": "ag_117",
+    "expression": "ものらぬ",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ものなら",
+    "romaji": "mono nara",
+    "meaningSinhala": "හැකි නම් / If possible",
+    "kanjiBreakup": "ものなら",
+    "story": "අපහසු වුවත් කිරීමට පුළුවන් නම්."
+  },
+  {
+    "id": "ag_118",
+    "expression": "うちに",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "うちに",
+    "romaji": "uchi ni",
+    "meaningSinhala": "කලින් / තුලදී / While / Before",
+    "kanjiBreakup": "内 (inside)",
+    "story": "තත්ත්වය වෙනස් වීමට පෙර යමක් කිරීම."
+  },
+  {
+    "id": "ag_119",
+    "expression": "あいだに",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "あいだに",
+    "romaji": "aida ni",
+    "meaningSinhala": "තුරතුර / කාලය තුළ / While",
+    "kanjiBreakup": "間 (interval)",
+    "story": "නිශ්චිත කාල පරාසයක් තුළ සිදුවන දෙයක්."
+  },
+  {
+    "id": "ag_120",
+    "expression": "たびに",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "たびに",
+    "romaji": "tabi ni",
+    "meaningSinhala": "පතා / වාරයක් පාසා / Every time",
+    "kanjiBreakup": "度に (every time)",
+    "story": "යම් දෙයක් කරන සෑම අවස්ථාවකදීම."
+  },
+  {
+    "id": "ag_121",
+    "expression": "につれて",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "につれて",
+    "romaji": "ni tsurete",
+    "meaningSinhala": "වත්ම / සමඟම / As... / With...",
+    "kanjiBreakup": "につれて",
+    "story": "එක දෙයක් වෙනස් වීමත් සමඟ තවත් දෙයක් වෙනස් වීම."
+  },
+  {
+    "id": "ag_122",
+    "expression": "に伴って",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "に伴って",
+    "romaji": "ni tomonatte",
+    "meaningSinhala": "සැමවිටම / සමඟ / Along with",
+    "kanjiBreakup": "伴う (accompany)",
+    "story": "සිදුවීමක් සමඟ තවත් වෙනසක් ඇති වීම."
+  },
+  {
+    "id": "ag_123",
+    "expression": "おかげで",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "おかげで",
+    "romaji": "okage de",
+    "meaningSinhala": "ස්තුති වන්නට / පිහිටෙන් / Thanks to",
+    "kanjiBreakup": "陰で",
+    "story": "හොඳ දෙයක් නිසා ලැබුණු වාසිය."
+  },
+  {
+    "id": "ag_124",
+    "expression": "せいで",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "せいで",
+    "romaji": "sei de",
+    "meaningSinhala": "නිසා (නරකට) / Because of (negative)",
+    "kanjiBreakup": "せい (fault)",
+    "story": "නරක දෙයක් නිසා ඇති වූ අවාසිය."
+  },
+  {
+    "id": "ag_125",
+    "expression": "かわりに",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かわりに",
+    "romaji": "kawari ni",
+    "meaningSinhala": "බදු වශයෙන් / වෙනුවට / Instead of",
+    "kanjiBreakup": "代わり",
+    "story": "වෙනත් විකල්පයක් භාවිත කිරීම."
+  },
+  {
+    "id": "ag_126",
+    "expression": "ように",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ように",
+    "romaji": "you ni",
+    "meaningSinhala": "සිදු වන පරිදි / So that",
+    "kanjiBreakup": "ように",
+    "story": "බලාපොරොත්තු වන අරමුණක් සාක්ෂාත් කර ගැනීමට."
+  },
+  {
+    "id": "ag_127",
+    "expression": "ための",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ための",
+    "romaji": "tame no",
+    "meaningSinhala": "සඳහා වන / For the purpose of",
+    "kanjiBreakup": "ため",
+    "story": "අරමුණක් වෙනුවෙන් වෙන් වූ."
+  },
+  {
+    "id": "ag_128",
+    "expression": "よると",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "よると",
+    "romaji": "yoruto",
+    "meaningSinhala": "අනුව / According to",
+    "kanjiBreakup": "依る",
+    "story": "තොරතුරු ලැබුණු මූලාශ්‍රය සඳහන් කිරීමට."
+  },
+  {
+    "id": "ag_129",
+    "expression": "によれば",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "によれば",
+    "romaji": "ni yoreba",
+    "meaningSinhala": "අනුව බලන කල / According to",
+    "kanjiBreakup": "依れば",
+    "story": "වාර්තාවකට හෝ ප්‍රකාශයකට අනුව."
+  },
+  {
+    "id": "ag_130",
+    "expression": "っこない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "っこない",
+    "romaji": "kkonai",
+    "meaningSinhala": "කොහොමටවත් බැහැ / No way / Impossible",
+    "kanjiBreakup": "っこない",
+    "story": "කිසිසේත්ම කළ නොහැකි බව දැඩිව පැවසීමට."
+  },
+  {
+    "id": "ag_131",
+    "expression": "かねない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "かねない",
+    "romaji": "kanenai",
+    "meaningSinhala": "කිරීමට ඉඩ ඇත (නරකට) / Might happen",
+    "kanjiBreakup": "かねる (cannot)",
+    "story": "නරක ප්‍රතිඵලයක් ගෙන දීමට ඉඩ ඇති බව."
+  },
+  {
+    "id": "ag_132",
+    "expression": "うる",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "うる",
+    "romaji": "uru",
+    "meaningSinhala": "හැකියාව ඇත / Can / Possible",
+    "kanjiBreakup": "得る",
+    "story": "න්‍යායාත්මකව සිදුවීමට ඇති හැකියාව."
+  },
+  {
+    "id": "ag_133",
+    "expression": "ざるを得ない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ざるをえない",
+    "romaji": "zaru o enai",
+    "meaningSinhala": "කිරීමට සිදු වෙනවා / Must / Have to",
+    "kanjiBreakup": "ざるを得ない",
+    "story": "කැමැත්තක් නැතත් කිරීමට සිදුවන විට."
+  },
+  {
+    "id": "ag_134",
+    "expression": "ほかない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ほかない",
+    "romaji": "hoka nai",
+    "meaningSinhala": "පැහැදිලි වෙනත් මඟක් නැත / Have no other choice",
+    "kanjiBreakup": "他にない",
+    "story": "වෙනත් විකල්පයක් නොමැති විට."
+  },
+  {
+    "id": "ag_135",
+    "expression": "ものでない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ものでない",
+    "romaji": "mono de nai",
+    "meaningSinhala": "කළ යුතු දෙයක් නොවේ / Should not do",
+    "kanjiBreakup": "ものでない",
+    "story": "සදාචාරයට පටහැනි දෙයක් නොකළ යුතු බවට."
+  },
+  {
+    "id": "ag_136",
+    "expression": "ことか",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ことか",
+    "romaji": "koto ka",
+    "meaningSinhala": "කෙසේ නම්... ද? / How...!",
+    "kanjiBreakup": "ことか",
+    "story": "මහා පුදුමයක් හෝ හැඟීමක් ප්‍රකාශ කිරීමට."
+  },
+  {
+    "id": "ag_137",
+    "expression": "ものがある",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "ものがある",
+    "romaji": "mono ga aru",
+    "meaningSinhala": "ස්වභාවයක් ඇත / There is a sense of...",
+    "kanjiBreakup": "ものがある",
+    "story": "සැලකිය යුතු මට්ටමක හැඟීමක් පවතින විට."
+  },
+  {
+    "id": "ag_138",
+    "expression": "わけがない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "わけがない",
+    "romaji": "wake ga nai",
+    "meaningSinhala": "සිදුවිය හැකි දෙයක් නොවේ / There is no way that...",
+    "kanjiBreakup": "訳がない",
+    "story": "तර්කානුකූලව කිසිසේත්ම විය නොහැකි විට."
+  },
+  {
+    "id": "ag_139",
+    "expression": "わけではない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "わけではない",
+    "romaji": "wake de wa nai",
+    "meaningSinhala": "එයින් අදහස් වන්නේ සියල්ලම නොවේ / It doesn't mean that...",
+    "kanjiBreakup": "訳ではない",
+    "story": "සම්පූර්ණයෙන්ම එසේ යැයි කිව නොහැකි විට."
+  },
+  {
+    "id": "ag_140",
+    "expression": "とは限らない",
+    "category": "Abstract Concepts & Grammar",
+    "furigana": "とはかぎらない",
+    "romaji": "to wa kagiranai",
+    "meaningSinhala": "සැමවිටම එසේ වන්නේ නැත / Not necessarily",
+    "kanjiBreakup": "限らない",
+    "story": "සර්වසාධාරණ නීතියක් නොවන විට."
+  }
+]

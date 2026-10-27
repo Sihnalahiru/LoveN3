@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "tv_001",
+    "expression": "乗り換え",
+    "category": "Transport & Travel",
+    "furigana": "のりかえ",
+    "romaji": "norikae",
+    "meaningSinhala": "ප්‍රවාහන මාධ්‍ය මාරු කිරීම / Transfer",
+    "kanjiBreakup": "乗る (ride) + 換え (change)",
+    "story": "බස් එකෙන් බැහැලා වෙනත් දුම්රියකට මාරු වෙලා යද්දී කරන මාරුව."
+  },
+  {
+    "id": "tv_002",
+    "expression": "切符売り場",
+    "category": "Transport & Travel",
+    "furigana": "きっぷうりば",
+    "romaji": "kippuuriba",
+    "meaningSinhala": "ටිකට් කවුන්ටරය / Ticket counter",
+    "kanjiBreakup": "切符 (ticket) + 売り場 (selling place)",
+    "story": "ටිකට් එකක් මිලදී ගන්න කවුන්ටරය ළඟට යනවා."
+  },
+  {
+    "id": "tv_003",
+    "expression": "出発",
+    "category": "Transport & Travel",
+    "furigana": "しゅっぱつ",
+    "romaji": "shuppatsu",
+    "meaningSinhala": "පිටත්ව යාම / Departure",
+    "kanjiBreakup": "出 (exit) + 発 (start)",
+    "story": "ගමනක් යන්න නියමිත වේලාවට පිටත්ව යනවා."
+  },
+  {
+    "id": "tv_004",
+    "expression": "到着",
+    "category": "Transport & Travel",
+    "furigana": "とうちゃく",
+    "romaji": "touchaku",
+    "meaningSinhala": "පැමිණීම / Arrival",
+    "kanjiBreakup": "到 (arrive) + 着 (reach)",
+    "story": "වේලාවටම නියමිත ගමනාන්තයට ළඟා වෙනවා."
+  },
+  {
+    "id": "tv_005",
+    "expression": "目的地",
+    "category": "Transport & Travel",
+    "furigana": "もくてきち",
+    "romaji": "mokutekichi",
+    "meaningSinhala": "ගමනාන්තය / Destination",
+    "kanjiBreakup": "目的 (purpose) + 地 (place)",
+    "story": "අපි යන්න බලාපොරොත්තු වන අවසාන ස්ථානය."
+  },
+  {
+    "id": "tv_006",
+    "expression": "片道",
+    "category": "Transport & Travel",
+    "furigana": "かたみち",
+    "romaji": "katamichi",
+    "meaningSinhala": "එක් දිශාවකට පමණක් වන ගමන / One-way",
+    "kanjiBreakup": "片 (single) + 道 (road)",
+    "story": "ආපසු ඒමක් නොමැතිව එක් පැත්තකට පමණක් ටිකට් එකක් ගන්නවා."
+  },
+  {
+    "id": "tv_007",
+    "expression": "往復",
+    "category": "Transport & Travel",
+    "furigana": "おうふく",
+    "romaji": "oufuku",
+    "meaningSinhala": "යන එන ගමන / Round trip",
+    "kanjiBreakup": "往 (go) + 復 (return)",
+    "story": "ගිහින් ආපහු එන්න යෑම සහ ඒම යන දෙකටම ටිකට් ගන්නවා."
+  },
+  {
+    "id": "tv_008",
+    "expression": "運賃",
+    "category": "Transport & Travel",
+    "furigana": "うんちん",
+    "romaji": "unchin",
+    "meaningSinhala": "ප්‍රවාහන ගාස්තුව / Fare",
+    "kanjiBreakup": "運 (carry) + 賃 (fee)",
+    "story": "බස් එකේ හෝ රထားයේ යන්න ගෙවන මුදල."
+  },
+  {
+    "id": "tv_009",
+    "expression": "時刻表",
+    "category": "Transport & Travel",
+    "furigana": "じこくひょう",
+    "romaji": "jikokuhyou",
+    "meaningSinhala": "වේලා සටහන / Timetable",
+    "kanjiBreakup": "時 (time) + 刻 (moment) + 表 (table)",
+    "story": "දුම්රිය සහ බස් කාලසටහන් බලාගන්න සටහන."
+  },
+  {
+    "id": "tv_010",
+    "expression": "改札口",
+    "category": "Transport & Travel",
+    "furigana": "かいさつぐち",
+    "romaji": "kaisatsuguchi",
+    "meaningSinhala": "ටිකට් පරීක්ෂා කරන දොරටුව / Ticket gate",
+    "kanjiBreakup": "改札 (examination) + 口 (gate)",
+    "story": "ස්ටේෂන් එකට ඇතුළු වන සහ පිටවන දොරටුව."
+  },
+  {
+    "id": "tv_011",
+    "expression": "特急",
+    "category": "Transport & Travel",
+    "furigana": "とっきゅう",
+    "romaji": "tokkyuu",
+    "meaningSinhala": "විශේෂ වේගවත් දුම්රිය / Express train",
+    "kanjiBreakup": "特 (special) + 急 (hurry)",
+    "story": "නැවතුම් අඩු ව මගීන් ඉක්මනින් ගෙන යන රထားයක්."
+  },
+  {
+    "id": "tv_012",
+    "expression": "急行",
+    "category": "Transport & Travel",
+    "furigana": "きゅうこう",
+    "romaji": "kyuukou",
+    "meaningSinhala": "ක්ෂණික දුම්රිය / Rapid train",
+    "kanjiBreakup": "急 (hurry) + 行 (go)",
+    "story": "සාමාන්‍ය රထားවලට වඩා වේගයෙන් යන රထားයක්."
+  },
+  {
+    "id": "tv_013",
+    "expression": "各駅停車",
+    "category": "Transport & Travel",
+    "furigana": "かくえきていしゃ",
+    "romaji": "kakuekiteisha",
+    "meaningSinhala": "සියලු ස්ටේෂන් වල නවත්වන දුම්රිය / Local train",
+    "kanjiBreakup": "各 (each) + 駅 (station) + 停車 (stop)",
+    "story": "ප්‍රධාන සහ කුඩා සියලුම ස්ටේෂන්වල නතර කරන රထားය."
+  },
+  {
+    "id": "tv_014",
+    "expression": "終点",
+    "category": "Transport & Travel",
+    "furigana": "しゅうてん",
+    "romaji": "shuuten",
+    "meaningSinhala": "අවසාන නැවතුම්පළ / Terminal station",
+    "kanjiBreakup": "終 (end) + 点 (point)",
+    "story": "දුම්රිය ගමන සම්පූර්ණයෙන් නිම වන අවසාන ස්ටේෂන් එක."
+  },
+  {
+    "id": "tv_015",
+    "expression": "乗車券",
+    "category": "Transport & Travel",
+    "furigana": "じょうしゃけん",
+    "romaji": "joushaken",
+    "meaningSinhala": "ගමන් ටිකට්පත / Passenger ticket",
+    "kanjiBreakup": "乗車 (boarding) + 券 (ticket)",
+    "story": "වාහනයක හෝ රထားයක ගමන් කිරීමට අදාළ ටිකට්පත."
+  },
+  {
+    "id": "tv_016",
+    "expression": "定期券",
+    "category": "Transport & Travel",
+    "furigana": "ていきけん",
+    "romaji": "teikiken",
+    "meaningSinhala": "මාසික ගමන් බලපත්‍රය / Commuter pass",
+    "kanjiBreakup": "定期 (periodic) + 券 (ticket)",
+    "story": "රැකියාවට හෝ පාසලට යාමට ගන්නා මාසික පාස් එක."
+  },
+  {
+    "id": "tv_017",
+    "expression": "窓口",
+    "category": "Transport & Travel",
+    "furigana": "まどぐち",
+    "romaji": "madoguchi",
+    "meaningSinhala": "සේවා කවුළුව / Window counter",
+    "kanjiBreakup": "窓 (window) + 口 (mouth)",
+    "story": "ප්‍රශ්න අසන්න හෝ ටිකට් මිලදී ගන්නා කවුළුව."
+  },
+  {
+    "id": "tv_018",
+    "expression": "遅延",
+    "category": "Transport & Travel",
+    "furigana": "ちえん",
+    "romaji": "chien",
+    "meaningSinhala": "ප්‍රමාදය / Delay",
+    "kanjiBreakup": "遅 (late) + 延 (postpone)",
+    "story": "කාලසටහනට වඩා රထားය හෝ බසය ප්‍රමාද වීම."
+  },
+  {
+    "id": "tv_019",
+    "expression": "運行",
+    "category": "Transport & Travel",
+    "furigana": "うんこう",
+    "romaji": "unkou",
+    "meaningSinhala": "ධාවනය / Operation",
+    "kanjiBreakup": "運 (carry) + 行 (go)",
+    "story": "ප්‍රවාහන සේවාවන් ක්‍රියාත්මක වීම සහ ධාවනය."
+  },
+  {
+    "id": "tv_020",
+    "expression": "満員",
+    "category": "Transport & Travel",
+    "furigana": "まんいん",
+    "romaji": "manin",
+    "meaningSinhala": "මගීන්ගෙන් පිරී ඇත / Fully packed",
+    "kanjiBreakup": "満 (full) + 員 (person)",
+    "story": "මගීන්ගෙන් සම්පූර්ණයෙන්ම පිරී ගිය වාහනයක්."
+  },
+  {
+    "id": "tv_021",
+    "expression": "踏切",
+    "category": "Transport & Travel",
+    "furigana": "ふみきり",
+    "romaji": "fumikiri",
+    "meaningSinhala": "රේල් පාර මාරුවන ස්ථානය / Level crossing",
+    "kanjiBreakup": "踏 (step) + 切 (cut)",
+    "story": "පාර හරහා රේල් පටුන මාරු වන ස්ථානය."
+  },
+  {
+    "id": "tv_022",
+    "expression": "線路",
+    "category": "Transport & Travel",
+    "furigana": "せんろ",
+    "romaji": "senro",
+    "meaningSinhala": "රේල් පාර / Railway track",
+    "kanjiBreakup": "線 (line) + 路 (road)",
+    "story": "දුම්රිය ගමන් කරන යකඩ පීලි පද්ධතිය."
+  },
+  {
+    "id": "tv_023",
+    "expression": "ホーム",
+    "category": "Transport & Travel",
+    "furigana": "ほーむ",
+    "romaji": "hōmu",
+    "meaningSinhala": "වේදිකාව / Platform",
+    "kanjiBreakup": "English loanword",
+    "story": "මගීන් රထားයට නගින්න බලාගෙන ඉන්න වේදිකාව."
+  },
+  {
+    "id": "tv_024",
+    "expression": "乗客",
+    "category": "Transport & Travel",
+    "furigana": "じょうきゃく",
+    "romaji": "joukyaku",
+    "meaningSinhala": "මගියා / Passenger",
+    "kanjiBreakup": "乗 (ride) + 客 (guest)",
+    "story": "වාහනයක හෝ රထားයක ගමන් කරන පුද්ගලයා."
+  },
+  {
+    "id": "tv_025",
+    "expression": "運転手",
+    "category": "Transport & Travel",
+    "furigana": "うんてんしゅ",
+    "romaji": "untenshu",
+    "meaningSinhala": "රියදුරා / Driver",
+    "kanjiBreakup": "運転 (drive) + 手 (person)",
+    "story": "වාහනය පදවන රියදුරු මහතා."
+  },
+  {
+    "id": "tv_026",
+    "expression": "車掌",
+    "category": "Transport & Travel",
+    "furigana": "しゃしょう",
+    "romaji": "shashou",
+    "meaningSinhala": "කන්ඩක්ටර් / Conductor",
+    "kanjiBreakup": "車 (car) + 掌 (manage)",
+    "story": "රටේ හෝ බස් එකේ ටිකට් පරීක්ෂා කරන නිලධාරියා."
+  },
+  {
+    "id": "tv_027",
+    "expression": "交通",
+    "category": "Transport & Travel",
+    "furigana": "こうつう",
+    "romaji": "koutsuu",
+    "meaningSinhala": "ගමනාගමනය / Traffic",
+    "kanjiBreakup": "交 (cross) + 通 (pass)",
+    "story": "මගීන් සහ වාහන ගමන් කිරීමේ සංසරණය."
+  },
+  {
+    "id": "tv_028",
+    "expression": "道路",
+    "category": "Transport & Travel",
+    "furigana": "どうろ",
+    "romaji": "douro",
+    "meaningSinhala": "මහා මාර්ගය / Road",
+    "kanjiBreakup": "道 (road) + 路 (path)",
+    "story": "වාහන ගමන් කරන තාර දැමූ පාර."
+  },
+  {
+    "id": "tv_029",
+    "expression": "高速道路",
+    "category": "Transport & Travel",
+    "furigana": "こうそくだうろ",
+    "romaji": "kousokudouro",
+    "meaningSinhala": "අධිවේගී මාර්ගය / Expressway",
+    "kanjiBreakup": "高速 (high speed) + 道路 (road)",
+    "story": "වේග සීමාවන් වැඩි වාහන ඉක්මනින් යන පාර."
+  },
+  {
+    "id": "tv_030",
+    "expression": "渋滞",
+    "category": "Transport & Travel",
+    "furigana": "じゅうたい",
+    "romaji": "juutai",
+    "meaningSinhala": "වාහන තදබදය / Traffic jam",
+    "kanjiBreakup": "渋 (slow) + 滞 (stagnate)",
+    "story": "වාහන ගොඩගැසී පාරේ ගමනාගමනය හිරවීම."
+  },
+  {
+    "id": "tv_031",
+    "expression": "信号",
+    "category": "Transport & Travel",
+    "furigana": "しんごう",
+    "romaji": "singou",
+    "meaningSinhala": "වාහන ආලෝක සංඥාව / Traffic light",
+    "kanjiBreakup": "信 (signal) + 号 (issue)",
+    "story": "පාර පාලනය කරන රතු, කහ, කොළ ලයිට් කණුව."
+  },
+  {
+    "id": "tv_032",
+    "expression": "横断歩道",
+    "category": "Transport & Travel",
+    "furigana": "おうだんほどう",
+    "romaji": "oudanhodou",
+    "meaningSinhala": "මගී මාරුව / Zebra crossing",
+    "kanjiBreakup": "横断 (cross) + 歩道 (walkway)",
+    "story": "පාදචාරීන්ට පාර මාරු වීමට සකුරු කළ ඉර."
+  },
+  {
+    "id": "tv_033",
+    "expression": "駐車場",
+    "category": "Transport & Travel",
+    "furigana": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaningSinhala": "වාහන ගාල් කරන ස්ථානය / Parking lot",
+    "kanjiBreakup": "駐車 (park) + 場 (place)",
+    "story": "මෝටර් රථ නවතා තබන ආරක්ෂිත ඉඩම."
+  },
+  {
+    "id": "tv_034",
+    "expression": "駐輪場",
+    "category": "Transport & Travel",
+    "furigana": "ちゅうりんじょう",
+    "romaji": "chuurinjou",
+    "meaningSinhala": "බයිසිකල් ගාල් කරන ස්ථානය / Bike parking",
+    "kanjiBreakup": "駐 (park) + 輪 (wheel) + 場 (place)",
+    "story": "පාපැදි සහ මෝටර් බයිසිකල් නවත්වන තැන."
+  },
+  {
+    "id": "tv_035",
+    "expression": "空港",
+    "category": "Transport & Travel",
+    "furigana": "くうこう",
+    "romaji": "kuukou",
+    "meaningSinhala": "ගුවන් තොටුපළ / Airport",
+    "kanjiBreakup": "空 (sky) + 港 (port)",
+    "story": "ගුවන් යානා ගොඩබසින සහ පිටවන ස්ථානය."
+  },
+  {
+    "id": "tv_036",
+    "expression": "航空",
+    "category": "Transport & Travel",
+    "furigana": "こうくう",
+    "romaji": "koukuu",
+    "meaningSinhala": "ගුවන් සේවය / Aviation",
+    "kanjiBreakup": "航 (navigate) + 空 (sky)",
+    "story": "ගුවන් ගමන් කටයුතු හා සේවාවන්."
+  },
+  {
+    "id": "tv_037",
+    "expression": "便",
+    "category": "Transport & Travel",
+    "furigana": "びん",
+    "romaji": "bin",
+    "meaningSinhala": "ගුවන් හෝ නැව් වාරය / Flight / Trip",
+    "kanjiBreakup": "Flight service",
+    "story": "නියමිත ගමනක් සඳහා වෙන් කළ ගුවන් වාරය."
+  },
+  {
+    "id": "tv_038",
+    "expression": "出発ロビー",
+    "category": "Transport & Travel",
+    "furigana": "しゅっぱつろびー",
+    "romaji": "shuppatsu robī",
+    "meaningSinhala": "පිටත්වීමේ ශාලාව / Departure lobby",
+    "kanjiBreakup": "出発 (departure) + ロビー (lobby)",
+    "story": "ගුවන් යාමයට පෙර මගීන් රැස්වන ශාලාව."
+  },
+  {
+    "id": "tv_039",
+    "expression": "到着ロビー",
+    "category": "Transport & Travel",
+    "furigana": "とうちゃくろびー",
+    "romaji": "touchaku robī",
+    "meaningSinhala": "පැමිණීමේ ශාලාව / Arrival lobby",
+    "kanjiBreakup": "到着 (arrival) + ロビー (lobby)",
+    "story": "ගුවන් යානයෙන් බැස පැමිණෙන මගීන් පිළිගන්නා තැන."
+  },
+  {
+    "id": "tv_040",
+    "expression": "手荷物",
+    "category": "Transport & Travel",
+    "furigana": "てにもつ",
+    "romaji": "tenimotsu",
+    "meaningSinhala": "අතින් ගෙන යන බඩු / Luggage",
+    "kanjiBreakup": "手 (hand) + 荷物 (luggage)",
+    "story": "ගමන් බෑග් සහ බඩු බාහිරාදිය."
+  },
+  {
+    "id": "tv_041",
+    "expression": "片道切符",
+    "category": "Transport & Travel",
+    "furigana": "かたみちきっぷ",
+    "romaji": "katamichikippu",
+    "meaningSinhala": "එක් දිශාවකට පමණක් වන ටිකට්පත",
+    "kanjiBreakup": "片道 (one-way) + 切符 (ticket)",
+    "story": "ආපසු ඒමකින් තොරව එක් ගමනකට පමණක් ඇති ටිකට්පත."
+  },
+  {
+    "id": "tv_042",
+    "expression": "往復切符",
+    "category": "Transport & Travel",
+    "furigana": "おうふくきっぷ",
+    "romaji": "oufukukippu",
+    "meaningSinhala": "යන එන දෙපැත්තටම ටිකට්පත",
+    "kanjiBreakup": "往復 (round-trip) + 切符 (ticket)",
+    "story": "ගිහින් ආපහු ඒම සඳහා එකවර ගත් ටිකට්පත."
+  },
+  {
+    "id": "tv_043",
+    "expression": "特急券",
+    "category": "Transport & Travel",
+    "furigana": "とっきゅうけん",
+    "romaji": "tokkyuuken",
+    "meaningSinhala": "විශේෂ දුම්රිය ටිකට්පත",
+    "kanjiBreakup": "特急 (express) + 券 (ticket)",
+    "story": "විශේෂ වේගවත් රထားයක යාමට අමතරව ගන්නා ටිකට්පත."
+  },
+  {
+    "id": "tv_044",
+    "expression": "乗車",
+    "category": "Transport & Travel",
+    "furigana": "じょうしゃ",
+    "romaji": "jousha",
+    "meaningSinhala": "වාහනයකට නැගීම / Boarding",
+    "kanjiBreakup": "乗 (ride) + 車 (car)",
+    "story": "බස් එකකට හෝ රထားයකට ගොඩවීම."
+  },
+  {
+    "id": "tv_045",
+    "expression": "下車",
+    "category": "Transport & Travel",
+    "furigana": "げしゃ",
+    "romaji": "gesha",
+    "meaningSinhala": "වාහනයකින් බැසීම / Alighting",
+    "kanjiBreakup": "下 (down) + 車 (car)",
+    "story": "නැවතුම්පළකදී වාහනයෙන් හෝ රထားයෙන් බිමට බැසීම."
+  },
+  {
+    "id": "tv_046",
+    "expression": "乗り遅れる",
+    "category": "Transport & Travel",
+    "furigana": "のりおくれる",
+    "romaji": "noriokureru",
+    "meaningSinhala": "ප්‍රවාහන මාධ්‍ය මග හැරීම / Miss a train/bus",
+    "kanjiBreakup": "乗り (ride) + 遅れる (late)",
+    "story": "වේලාවට ස්ටේෂන් එකට යන්න බැරිව රထားය මග හැරී යාම."
+  },
+  {
+    "id": "tv_047",
+    "expression": "乗り換える",
+    "category": "Transport & Travel",
+    "furigana": "のりかえる",
+    "romaji": "norikaeru",
+    "meaningSinhala": "ප්‍රවාහන මාධ්‍ය මාරු කිරීම / To transfer",
+    "kanjiBreakup": "乗り (ride) + 換える (change)",
+    "story": "ගමනාන්තයට යාමට වෙනත් රထားයකට මාරු වීම."
+  },
+  {
+    "id": "tv_048",
+    "expression": "見送り",
+    "category": "Transport & Travel",
+    "furigana": "みおくり",
+    "romaji": "miokuri",
+    "meaningSinhala": "සමුදීම / Seeing off",
+    "kanjiBreakup": "見 (see) + 送り (send)",
+    "story": "යන කෙනෙක්ට ස්ටේෂන් එකට ගිහින් සමුදීම."
+  },
+  {
+    "id": "tv_049",
+    "expression": "出迎え",
+    "category": "Transport & Travel",
+    "furigana": "でむかえ",
+    "romaji": "demukae",
+    "meaningSinhala": "පිළිගැනීම / Welcoming / Meeting",
+    "kanjiBreakup": "出 (out) + 迎え (meet)",
+    "story": "පැමිණෙන කෙනෙක් පිළිගැනීමට ස්ටේෂන් එකට යාම."
+  },
+  {
+    "id": "tv_050",
+    "expression": "発車",
+    "category": "Transport & Travel",
+    "furigana": "はっしゃ",
+    "romaji": "hassha",
+    "meaningSinhala": "වාහනය පිටත්වීම / Departure of vehicle",
+    "kanjiBreakup": "発 (start) + 車 (car)",
+    "story": "බස් එක හෝ රထားය ස්ටේෂන් එකෙන් පිටත්ව යාම."
+  },
+  {
+    "id": "tv_051",
+    "expression": "横断",
+    "category": "Transport & Travel",
+    "furigana": "おうだん",
+    "romaji": "oudan",
+    "meaningSinhala": "මාරුවීම / Crossing",
+    "kanjiBreakup": "横 (across) + 断 (cut)",
+    "story": "පාරක් හෝ මුහුදක් හරස් අතට මාරු වීම."
+  },
+  {
+    "id": "tv_052",
+    "expression": "歩行者",
+    "category": "Transport & Travel",
+    "furigana": "ほこうしゃ",
+    "romaji": "hokousha",
+    "meaningSinhala": "පාදචාරියා / Pedestrian",
+    "kanjiBreakup": "歩行 (walk) + 者 (person)",
+    "story": "පාරේ පයින් ගමන් කරන පුද්ගලයා."
+  },
+  {
+    "id": "tv_053",
+    "expression": "横断歩道橋",
+    "category": "Transport & Travel",
+    "furigana": "おうだんほどうきょう",
+    "romaji": "oudanhodoukyou",
+    "meaningSinhala": "පාදචාරී පාලම / Pedestrian bridge",
+    "kanjiBreakup": "横断歩道 (crosswalk) + 橋 (bridge)",
+    "story": "පාර උඩින් මාරු වීමට ඇති පාලම."
+  },
+  {
+    "id": "tv_054",
+    "expression": "地下鉄",
+    "category": "Transport & Travel",
+    "furigana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "meaningSinhala": "භූගත දුම්රිය / Subway",
+    "kanjiBreakup": "地下 (underground) + 鉄 (iron/rail)",
+    "story": "පොළොව යටින් දාවනය වන දුම්රිය."
+  },
+  {
+    "id": "tv_055",
+    "expression": "新幹線",
+    "category": "Transport & Travel",
+    "furigana": "しんかんせん",
+    "romaji": "shinkansen",
+    "meaningSinhala": "ෂින්කන්සෙන් / Bullet train",
+    "kanjiBreakup": "新 (new) + 幹線 (main line)",
+    "story": "ජපානයේ සුප්‍රසිද්ධ අධිවේගී බුලට් රතිපලය."
+  },
+  {
+    "id": "tv_056",
+    "expression": "私鉄",
+    "category": "Transport & Travel",
+    "furigana": "してつ",
+    "romaji": "shitetsu",
+    "meaningSinhala": "පෞද්ගලික දුම්රිය සේවය / Private railway",
+    "kanjiBreakup": "私 (private) + 鉄 (rail)",
+    "story": "රජයට අයත් නොවන පෞද්ගලික දුම්රිය සමාගම."
+  },
+  {
+    "id": "tv_057",
+    "expression": "乗車口",
+    "category": "Transport & Travel",
+    "furigana": "じょうしゃぐち",
+    "romaji": "joushaguchi",
+    "meaningSinhala": "නැගීමේ දොරටුව / Boarding gate",
+    "kanjiBreakup": "乗車 (boarding) + 口 (mouth)",
+    "story": "රထားයට හෝ බස් එකට නගින දොරටුව."
+  },
+  {
+    "id": "tv_058",
+    "expression": "指定席",
+    "category": "Transport & Travel",
+    "furigana": "していせき",
+    "romaji": "shiteiseki",
+    "meaningSinhala": "වෙන් කළ අසුන / Reserved seat",
+    "kanjiBreakup": "指定 (designate) + 席 (seat)",
+    "story": "කල්තියා වෙන් කරවාගත් අසුන."
+  },
+  {
+    "id": "tv_059",
+    "expression": "自由席",
+    "category": "Transport & Travel",
+    "furigana": "じゆうせき",
+    "romaji": "jiyuuseki",
+    "meaningSinhala": "නිදහස් අසුන / Unreserved seat",
+    "kanjiBreakup": "自由 (free) + 席 (seat)",
+    "story": "ටිකට් එක ගෙන කැමති අසුනක ඉඳගන්නා කොටස."
+  },
+  {
+    "id": "tv_060",
+    "expression": "満席",
+    "category": "Transport & Travel",
+    "furigana": "まんせき",
+    "romaji": "manseki",
+    "meaningSinhala": "අසුන් පිරී ඇත / Fully booked",
+    "kanjiBreakup": "満 (full) + 席 (seat)",
+    "story": "සියලුම අසුන් මගීන්ගෙන් පිරී යාම."
+  },
+  {
+    "id": "tv_061",
+    "expression": "空席",
+    "category": "Transport & Travel",
+    "furigana": "くうせき",
+    "romaji": "kuuseki",
+    "meaningSinhala": "හිස් අසුන / Vacant seat",
+    "kanjiBreakup": "空 (empty) + 席 (seat)",
+    "story": "ඉඳගන්නට පුළුවන් හිස් අසුනක්."
+  },
+  {
+    "id": "tv_062",
+    "expression": "普通列車",
+    "category": "Transport & Travel",
+    "furigana": "ふつうれっしゃ",
+    "romaji": "futsuuressha",
+    "meaningSinhala": "සාමාන්‍ය දුම්රිය / Local train",
+    "kanjiBreakup": "普通 (ordinary) + 列車 (train)",
+    "story": "සියලුම ස්ටේෂන්වල නතර වන සාමාන්‍ය රထားය."
+  },
+  {
+    "id": "tv_063",
+    "expression": "快速",
+    "category": "Transport & Travel",
+    "furigana": "かいそく",
+    "romaji": "kaisoku",
+    "meaningSinhala": "වේගවත් දුම්රිය / Rapid train",
+    "kanjiBreakup": "快 (fast) + 速 (speed)",
+    "story": "සාමාන්‍ය ඒවාට වඩා වේගයෙන් යන රထားය."
+  },
+  {
+    "id": "tv_064",
+    "expression": "自動改札機",
+    "category": "Transport & Travel",
+    "furigana": "じどうかいさつき",
+    "romaji": "jidoukaisatsuki",
+    "meaningSinhala": "ස්වයංක්‍රීය ටිකට් ගේට්ටුව / Automatic ticket gate",
+    "kanjiBreakup": "自動 (auto) + 改札機 (gate machine)",
+    "story": "ටිකට් එක දාලා ඇතුළු වන ස්වයංක්‍රීය යන්ත්‍රය."
+  },
+  {
+    "id": "tv_065",
+    "expression": "ICカード",
+    "category": "Transport & Travel",
+    "furigana": "あいしーかーど",
+    "romaji": "aishī kādo",
+    "meaningSinhala": "අයි.සී. කාඩ්පත / IC Card",
+    "kanjiBreakup": "IC + Card",
+    "story": "ජපානයේ බස් සහ රထားවලට පාවිච්චි කරන ස්මාර්ට් කාඩ්පත."
+  },
+  {
+    "id": "tv_066",
+    "expression": "券売機",
+    "category": "Transport & Travel",
+    "furigana": "けんばいき",
+    "romaji": "kenbaiki",
+    "meaningSinhala": "ටිකට් විකුණන යන්ත්‍රය / Ticket machine",
+    "kanjiBreakup": "券 (ticket) + 売 (sell) + 機 (machine)",
+    "story": "ස්වයංක්‍රීයව ටිකට් එකක් මුද්‍රණය කරගන්නා යන්ත්‍රය."
+  },
+  {
+    "id": "tv_067",
+    "expression": "精算機",
+    "category": "Transport & Travel",
+    "furigana": "せいさんき",
+    "romaji": "seisanki",
+    "meaningSinhala": "ගාස්තු ගෙවන යන්ත්‍රය / Fare adjustment machine",
+    "kanjiBreakup": "精算 (adjustment) + 機 (machine)",
+    "story": "ටිකට් එකේ මුදල් මදි වූ විට අතිරේක මුදල් ගෙවන යන්ත්‍රය."
+  },
+  {
+    "id": "tv_068",
+    "expression": "乗り越し",
+    "category": "Transport & Travel",
+    "furigana": "のりこし",
+    "romaji": "norikoshi",
+    "meaningSinhala": "ගමනාන්තය ඉක්මවා යාම / Riding past destination",
+    "kanjiBreakup": "乗り (ride) + 越し (surpass)",
+    "story": "යන්න ඕන ස්ටේෂන් එක පැනලා ඊළඟ එකට යාම."
+  },
+  {
+    "id": "tv_069",
+    "expression": "遅延証明書",
+    "category": "Transport & Travel",
+    "furigana": "ちえんしょうめいしょ",
+    "romaji": "chien shoumeisho",
+    "meaningSinhala": "ප්‍රමාද සහතිකය / Delay certificate",
+    "kanjiBreakup": "遅延 (delay) + 証明書 (certificate)",
+    "story": "රထားය පරක්කු වුණා කියලා ඔෆිස් එකට දෙන්න දෙන සහතිකය."
+  },
+  {
+    "id": "tv_070",
+    "expression": "運転見合わせ",
+    "category": "Transport & Travel",
+    "furigana": "うんてんみあわせ",
+    "romaji": "unten miawase",
+    "meaningSinhala": "තාවකාලික ධාවන අත්හිටුවීම / Suspension of service",
+    "kanjiBreakup": "運転 (operation) + 見合わせ (postpone)",
+    "story": "අනතුරක් නිසා රထား ධාවනය තාවකාලිකව නැවැත්වීම."
+  },
+  {
+    "id": "tv_071",
+    "expression": "人身事故",
+    "category": "Transport & Travel",
+    "furigana": "じんしんじこ",
+    "romaji": "jinshin jiko",
+    "meaningSinhala": "මිනිසුන්ට සිදුවන අනතුරු / Person accident",
+    "kanjiBreakup": "人身 (body/person) + 事故 (accident)",
+    "story": "රේල් පාරේ සිදුවන අනතුරු නිසා රထား ප්‍රමාද වීම."
+  },
+  {
+    "id": "tv_072",
+    "expression": "回数券",
+    "category": "Transport & Travel",
+    "furigana": "かいすうけん",
+    "romaji": "kaisuuken",
+    "meaningSinhala": "වට්ටම් ටිකට් පත / Book of tickets",
+    "kanjiBreakup": "回数 (number of times) + 券 (ticket)",
+    "story": "වර කිහිපයකට එකවර ගන්නා වට්ටම් ටිකට් එක."
+  },
+  {
+    "id": "tv_073",
+    "expression": "団体割引",
+    "category": "Transport & Travel",
+    "furigana": "だんたいわりびき",
+    "romaji": "dantai waribiki",
+    "meaningSinhala": "කණ්ඩායම් වට්ටම / Group discount",
+    "kanjiBreakup": "団体 (group) + 割引 (discount)",
+    "story": "කණ්ඩායමක් ලෙස යද්දී ලැබෙන මිල අඩු කිරීම."
+  },
+  {
+    "id": "tv_074",
+    "expression": "学割",
+    "category": "Transport & Travel",
+    "furigana": "がくわり",
+    "romaji": "gakuwari",
+    "meaningSinhala": "ශිෂ්‍ය වට්ටම / Student discount",
+    "kanjiBreakup": "学生 (student) + 割引 (discount)",
+    "story": "විශාල දුර ගමන් සඳහා සිසුන්ට දෙන වට්ටම."
+  },
+  {
+    "id": "tv_075",
+    "expression": "指定席券",
+    "category": "Transport & Travel",
+    "furigana": "していせきけん",
+    "romaji": "shiteisekiken",
+    "meaningSinhala": "වෙන් කළ අසුනක ටිකට්පත",
+    "kanjiBreakup": "指定 (designate) + 席 (seat) + 券 (ticket)",
+    "story": "අසුන වෙන් කරගත් බවට දෙන ටිකට් පත."
+  },
+  {
+    "id": "tv_076",
+    "expression": "発車ベル",
+    "category": "Transport & Travel",
+    "furigana": "はっしゃべる",
+    "romaji": "hassha beru",
+    "meaningSinhala": "පිටත්වීමේ සීනුව / Departure bell",
+    "kanjiBreakup": "発車 (departure) + ベル (bell)",
+    "story": "රထားය පිටත්වීමට පෙර නාද වන සීනුව."
+  },
+  {
+    "id": "tv_077",
+    "expression": "終電",
+    "category": "Transport & Travel",
+    "furigana": "しゅうでん",
+    "romaji": "shuuden",
+    "meaningSinhala": "අවසාන දුම්රිය / Last train",
+    "kanjiBreakup": "終 (end) + 電 (train)",
+    "story": "රාත්‍රියේ දාවනය වන අන්තිම දුම්රිය."
+  },
+  {
+    "id": "tv_078",
+    "expression": "始発",
+    "category": "Transport & Travel",
+    "furigana": "しはつ",
+    "romaji": "shihatsu",
+    "meaningSinhala": "පළමු දුම්රිය / First train",
+    "kanjiBreakup": "始 (begin) + 発 (start)",
+    "story": "උදේ පාන්දරම ධාවනය වන පළමු රထားය."
+  },
+  {
+    "id": "tv_079",
+    "expression": "終バス",
+    "category": "Transport & Travel",
+    "furigana": "しゅうばす",
+    "romaji": "shuu basu",
+    "meaningSinhala": "අවසාන බස් රථය / Last bus",
+    "kanjiBreakup": "終 (end) + バス (bus)",
+    "story": "රෑට දුවන අන්තිම බස් එක."
+  },
+  {
+    "id": "tv_080",
+    "expression": "直行",
+    "category": "Transport & Travel",
+    "furigana": "ちょっこう",
+    "romaji": "chokkou",
+    "meaningSinhala": "කෙළින්ම යාම / Direct travel",
+    "kanjiBreakup": "直 (direct) + 行 (go)",
+    "story": "මාරු වීම් නැතිව කෙලින්ම ගමනාන්තයට යාම."
+  },
+  {
+    "id": "tv_081",
+    "expression": "経由",
+    "category": "Transport & Travel",
+    "furigana": "けゆ",
+    "romaji": "keiyu",
+    "meaningSinhala": "හරහා යාම / Via / By way of",
+    "kanjiBreakup": "経 (pass) + 由 (reason)",
+    "story": "අතරමැද වෙනත් ප්‍රදේශයක් හරහා යාම."
+  },
+  {
+    "id": "tv_082",
+    "expression": "遠回り",
+    "category": "Transport & Travel",
+    "furigana": "とおまわり",
+    "romaji": "toomawari",
+    "meaningSinhala": "දිගු පාරකින් යාම / Detour",
+    "kanjiBreakup": "遠 (far) + 回り (turn)",
+    "story": "දුර වැඩි වෙනත් පාරකින් රවුමක් ගොස් යාම."
+  },
+  {
+    "id": "tv_083",
+    "expression": "近道",
+    "category": "Transport & Travel",
+    "furigana": "ちかみち",
+    "romaji": "chikamichi",
+    "meaningSinhala": "කෙටි පාර / Shortcut",
+    "kanjiBreakup": "近 (near) + 道 (road)",
+    "story": "දුර අඩු ඉක්මනින් යා හැකි කෙටි පාර."
+  },
+  {
+    "id": "tv_084",
+    "expression": "案内図",
+    "category": "Transport & Travel",
+    "furigana": "あんないず",
+    "romaji": "annainzu",
+    "meaningSinhala": "මාර්ග සිතියම / Guide map",
+    "kanjiBreakup": "案内 (guide) + 図 (drawing)",
+    "story": "පාර පෙන්වන සිතියම."
+  },
+  {
+    "id": "tv_085",
+    "expression": "現在地",
+    "category": "Transport & Travel",
+    "furigana": "げんざいち",
+    "romaji": "genzaichi",
+    "meaningSinhala": "වර්තමාන ස්ථානය / Current location",
+    "kanjiBreakup": "現在 (present) + 地 (place)",
+    "story": "අපි දැන් ඉන්න තැන."
+  },
+  {
+    "id": "tv_086",
+    "expression": "方向",
+    "category": "Transport & Travel",
+    "furigana": "ほうこう",
+    "romaji": "houkou",
+    "meaningSinhala": "දිශාව / Direction",
+    "kanjiBreakup": "方 (direction) + 向 (face)",
+    "story": "යන පැත්ත හෝ දිශාව."
+  },
+  {
+    "id": "tv_087",
+    "expression": "方角",
+    "category": "Transport & Travel",
+    "furigana": "ほうがく",
+    "romaji": "hougaku",
+    "meaningSinhala": "කොන / දිශාව / Compass direction",
+    "kanjiBreakup": "方 (direction) + 角 (corner)",
+    "story": "උතුර, දකුණ ආදී දිශාවන්."
+  },
+  {
+    "id": "tv_088",
+    "expression": "位置",
+    "category": "Transport & Travel",
+    "furigana": "いち",
+    "romaji": "ichi",
+    "meaningSinhala": "පිහිටීම / Position",
+    "kanjiBreakup": "位 (rank) + 置 (place)",
+    "story": "ස්ථානයක පිහිටා ඇති ආකාරය."
+  },
+  {
+    "id": "tv_089",
+    "expression": "移動",
+    "category": "Transport & Travel",
+    "furigana": "いどう",
+    "romaji": "idou",
+    "meaningSinhala": "స్థాన මාරුව / Movement",
+    "kanjiBreakup": "移 (shift) + 動 (move)",
+    "story": "එක තැනක සිට තවත් තැනකට යාම."
+  },
+  {
+    "id": "tv_090",
+    "expression": "交通機関",
+    "category": "Transport & Travel",
+    "furigana": "こうつうきかん",
+    "romaji": "koutsuu kikan",
+    "meaningSinhala": "ප්‍රවාහන මාධ්‍ය / Transport facilities",
+    "kanjiBreakup": "交通 (traffic) + 機関 (agency)",
+    "story": "බස්, රထား, ගුවන් යානා ආදී ප්‍රවාහන ක්‍රම."
+  },
+  {
+    "id": "tv_091",
+    "expression": "歩道",
+    "category": "Transport & Travel",
+    "furigana": "ほどう",
+    "romaji": "hodou",
+    "meaningSinhala": "මගී පාර / Sidewalk",
+    "kanjiBreakup": "歩 (walk) + 道 (path)",
+    "story": "පයින් යන අයට පාර අයිනේ ඇති මග."
+  },
+  {
+    "id": "tv_092",
+    "expression": "横断者",
+    "category": "Transport & Travel",
+    "furigana": "おうだんしゃ",
+    "romaji": "oudansha",
+    "meaningSinhala": "පාර මාරු වන්නා / Pedestrian crossing",
+    "kanjiBreakup": "横断 (cross) + 者 (person)",
+    "story": "පාර හරහා මාරු වන පුද්ගලයා."
+  },
+  {
+    "id": "tv_093",
+    "expression": "交通標識",
+    "category": "Transport & Travel",
+    "furigana": "こうつうひょうしき",
+    "romaji": "koutsuu hyoushiki",
+    "meaningSinhala": "මාර්ග සංඥා පුවරුව / Traffic sign",
+    "kanjiBreakup": "交通 (traffic) + 標識 (sign)",
+    "story": "පාර අයිනේ ඇති රථවාහන නීති පුවරු."
+  },
+  {
+    "id": "tv_094",
+    "expression": "交差点",
+    "category": "Transport & Travel",
+    "furigana": "こうさてん",
+    "romaji": "kousaten",
+    "meaningSinhala": "මංසන්ධිය / Intersection",
+    "kanjiBreakup": "交差 (cross) + 点 (point)",
+    "story": "පාරවල් කිහිපයක් එකිනෙකට හමුවන මංසන්ධිය."
+  },
+  {
+    "id": "tv_095",
+    "expression": "近郊",
+    "category": "Transport & Travel",
+    "furigana": "きんこう",
+    "romaji": "kinkou",
+    "meaningSinhala": "උපනගරය / Suburbs",
+    "kanjiBreakup": "近 (near) + 郊 (outskirts)",
+    "story": "නගරයට ආසන්න උපනගර ප්‍රදේශය."
+  },
+  {
+    "id": "tv_096",
+    "expression": "遠隔",
+    "category": "Transport & Travel",
+    "furigana": "えんかく",
+    "romaji": "enkaku",
+    "meaningSinhala": "ඈත පිහිටි / Remote",
+    "kanjiBreakup": "遠 (far) + 隔 (separate)",
+    "story": "බොහෝ දුරින් පිහිටි ප්‍රදේශයක්."
+  },
+  {
+    "id": "tv_097",
+    "expression": "発着",
+    "category": "Transport & Travel",
+    "furigana": "はっちゃく",
+    "romaji": "hacchaku",
+    "meaningSinhala": "පැමිණීම සහ පිටවීම / Departure & arrival",
+    "kanjiBreakup": "発 (depart) + 着 (arrive)",
+    "story": "වාහන පිටවීම සහ පැමිණීම යන අවස්ථා දෙකම."
+  },
+  {
+    "id": "tv_098",
+    "expression": "特急電車",
+    "category": "Transport & Travel",
+    "furigana": "とっきゅうでんしゃ",
+    "romaji": "tokkyuu densha",
+    "meaningSinhala": "විශේෂ වේගවත් දුම්රිය / Express train",
+    "kanjiBreakup": "特急 (express) + 電車 (train)",
+    "story": "වේගයෙන් ධාවනය වන විදුලි රထားය."
+  },
+  {
+    "id": "tv_099",
+    "expression": "急行電車",
+    "category": "Transport & Travel",
+    "furigana": "きゅうこうでんしゃ",
+    "romaji": "kyuukou densha",
+    "meaningSinhala": "ක්ෂණික දුම්රිය / Rapid train",
+    "kanjiBreakup": "急行 (rapid) + 電車 (train)",
+    "story": "වේගවත් මගී දුම්රිය."
+  },
+  {
+    "id": "tv_100",
+    "expression": "満員電車",
+    "category": "Transport & Travel",
+    "furigana": "まんいんでんしゃ",
+    "romaji": "manin densha",
+    "meaningSinhala": "මගීන්ගෙන් පිරුණු දුම්රිය / Packed train",
+    "kanjiBreakup": "満員 (packed) + 電車 (train)",
+    "story": "උදේ සහ හවස කාර්යබහුල වේලාවන්හි මගීන්ගෙන් පිරුණු රထားය."
+  },
+  {
+    "id": "tv_101",
+    "expression": "ラッシュアワー",
+    "category": "Transport & Travel",
+    "furigana": "らっしゅあわー",
+    "romaji": "rasshu awā",
+    "meaningSinhala": "කාර්යබහුල වේලාව / Rush hour",
+    "kanjiBreakup": "Rush hour",
+    "story": "ජනතාව වැඩට සහ ගෙදරට යන කාර්යබහුල වේලාව."
+  },
+  {
+    "id": "tv_102",
+    "expression": "通勤",
+    "category": "Transport & Travel",
+    "furigana": "つうきん",
+    "romaji": "tsuukin",
+    "meaningSinhala": "රැකියාවට යාම / Commuting to work",
+    "kanjiBreakup": "通 (commute) + 勤 (work)",
+    "story": "නිවසේ සිට කාර්යාලයට දිනපතා යාම."
+  },
+  {
+    "id": "tv_103",
+    "expression": "通学",
+    "category": "Transport & Travel",
+    "furigana": "つうがく",
+    "romaji": "tsuugaku",
+    "meaningSinhala": "පාසලට යාම / Commuting to school",
+    "kanjiBreakup": "通 (commute) + 学 (study)",
+    "story": "ඉගෙන ගැනීමට පාසලට හෝ විශ්වවිද්‍යාලයට යාම."
+  },
+  {
+    "id": "tv_104",
+    "expression": "自動券売機",
+    "category": "Transport & Travel",
+    "furigana": "じどうけんばいき",
+    "romaji": "jidou kenbaiki",
+    "meaningSinhala": "ස්වයංක්‍රීය ටිකට් යන්ත්‍රය / Ticket machine",
+    "kanjiBreakup": "自動 (auto) + 券売機 (ticket machine)",
+    "story": "කාඩ් එකෙන් හෝ මුදලින් ටිකට් ගන්නා යන්ත්‍රය."
+  },
+  {
+    "id": "tv_105",
+    "expression": "始発駅",
+    "category": "Transport & Travel",
+    "furigana": "しはつえき",
+    "romaji": "shihatsueki",
+    "meaningSinhala": "මුල් නැවතුම්පළ / Origin station",
+    "kanjiBreakup": "始発 (first departure) + 駅 (station)",
+    "story": "රඳවන රထားය පටන් ගන්නා ස්ටේෂන් එක."
+  },
+  {
+    "id": "tv_106",
+    "expression": "定期",
+    "category": "Transport & Travel",
+    "furigana": "ていき",
+    "romaji": "teiki",
+    "meaningSinhala": "කාලසීමාව / Period",
+    "kanjiBreakup": "定 (fixed) + 期 (period)",
+    "story": "මාසික කාලසීමාව."
+  },
+  {
+    "id": "tv_107",
+    "expression": "各駅",
+    "category": "Transport & Travel",
+    "furigana": "かくえき",
+    "romaji": "kakueki",
+    "meaningSinhala": "සෑම ස්ටේෂන් එකක්ම / Every station",
+    "kanjiBreakup": "各 (each) + 駅 (station)",
+    "story": "හැම එකකම නතර වේ."
+  },
+  {
+    "id": "tv_108",
+    "expression": "運転",
+    "category": "Transport & Travel",
+    "furigana": "うんてん",
+    "romaji": "unten",
+    "meaningSinhala": "පදවීම / Driving",
+    "kanjiBreakup": "運 (carry) + 転 (turn)",
+    "story": "වාහනයක් පැදවීම."
+  },
+  {
+    "id": "tv_109",
+    "expression": "高速",
+    "category": "Transport & Travel",
+    "furigana": "こうそく",
+    "romaji": "kousoku",
+    "meaningSinhala": "අධිවේගී / High speed",
+    "kanjiBreakup": "高 (high) + 速 (speed)",
+    "story": "අධිවේගී මාර්ගය."
+  },
+  {
+    "id": "tv_110",
+    "expression": "路線図",
+    "category": "Transport & Travel",
+    "furigana": "ろせんず",
+    "romaji": "rosenzu",
+    "meaningSinhala": "දුම්රිය මාර්ග සිතියම / Route map",
+    "kanjiBreakup": "路線 (route) + 図 (map)",
+    "story": "රထား මාර්ග පෙන්වන සිතියම."
+  },
+  {
+    "id": "tv_111",
+    "expression": "乗換駅",
+    "category": "Transport & Travel",
+    "furigana": "のりかええき",
+    "romaji": "norikaeeki",
+    "meaningSinhala": "මාරු වන ස්ටේෂන් එක / Transfer station",
+    "kanjiBreakup": "乗り換え (transfer) + 駅 (station)",
+    "story": "වෙනත් රထားයකට මාරු විය හැකි ස්ටේෂන් එක."
+  },
+  {
+    "id": "tv_112",
+    "expression": "終着駅",
+    "category": "Transport & Travel",
+    "furigana": "しゅうちゃくえき",
+    "romaji": "shuuchakueki",
+    "meaningSinhala": "අවසාන නැවතුම් ස්ටේෂන් එක / Terminal station",
+    "kanjiBreakup": "終着 (terminal) + 駅 (station)",
+    "story": "ගමන අවසන් වන ස්ටේෂන් එක."
+  },
+  {
+    "id": "tv_113",
+    "expression": "乗車率",
+    "category": "Transport & Travel",
+    "furigana": "じょうしゃりつ",
+    "romaji": "jousharitsu",
+    "meaningSinhala": "මගී ධාරිතා අනුපාතය / Congestion rate",
+    "kanjiBreakup": "乗車 (boarding) + 率 (rate)",
+    "story": "රထားයක මගීන් පිරී ඇති ප්‍රතිශතය."
+  },
+  {
+    "id": "tv_114",
+    "expression": "普通",
+    "category": "Transport & Travel",
+    "furigana": "ふつう",
+    "romaji": "futsuu",
+    "meaningSinhala": "සාමාන්‍ය / Ordinary",
+    "kanjiBreakup": "普 (general) + 通 (common)",
+    "story": "සාමාන්‍ය මට්ටම."
+  },
+  {
+    "id": "tv_115",
+    "expression": "指定",
+    "category": "Transport & Travel",
+    "furigana": "してい",
+    "romaji": "shitei",
+    "meaningSinhala": "වෙන් කළ / Designated",
+    "kanjiBreakup": "指 (point) + 定 (fixed)",
+    "story": "විශේෂයෙන් වෙන් කළ."
+  },
+  {
+    "id": "tv_116",
+    "expression": "自由",
+    "category": "Transport & Travel",
+    "furigana": "じゆう",
+    "romaji": "jiyuu",
+    "meaningSinhala": "නිදහස් / Free",
+    "kanjiBreakup": "自 (self) + 由 (reason)",
+    "story": "නිදහස් හෝ ස්වයංකීය."
+  },
+  {
+    "id": "tv_117",
+    "expression": "切符",
+    "category": "Transport & Travel",
+    "furigana": "きっぷ",
+    "romaji": "kippu",
+    "meaningSinhala": "ටිකට්පත / Ticket",
+    "kanjiBreakup": "切 (cut) + 符 (tally)",
+    "story": "ගමන් ටිකට් එක."
+  },
+  {
+    "id": "tv_118",
+    "expression": "改札",
+    "category": "Transport & Travel",
+    "furigana": "かいさつ",
+    "romaji": "kaisatsu",
+    "meaningSinhala": "ටිකට් පරීක්ෂාව / Ticket check",
+    "kanjiBreakup": "改 (change) + 札 (ticket)",
+    "story": "ගේට්ටුවෙන් පරීක්ෂා කිරීම."
+  },
+  {
+    "id": "tv_119",
+    "expression": "乗る",
+    "category": "Transport & Travel",
+    "furigana": "のる",
+    "romaji": "noru",
+    "meaningSinhala": "නගිනවා / To ride",
+    "kanjiBreakup": "乗 (ride)",
+    "story": "වාහනයකට නැගීම."
+  },
+  {
+    "id": "tv_120",
+    "expression": "降りる",
+    "category": "Transport & Travel",
+    "furigana": "おりる",
+    "romaji": "oriru",
+    "meaningSinhala": "බැසීම / To get off",
+    "kanjiBreakup": "降 (descend)",
+    "story": "වාහනයකින් බැසීම."
+  },
+  {
+    "id": "tv_121",
+    "expression": "渡る",
+    "category": "Transport & Travel",
+    "furigana": "わたる",
+    "romaji": "wataru",
+    "meaningSinhala": "මාරු වීම / To cross",
+    "kanjiBreakup": "渡 (cross)",
+    "story": "පාරක් මාරු වීම."
+  },
+  {
+    "id": "tv_122",
+    "expression": "曲がる",
+    "category": "Transport & Travel",
+    "furigana": "まがる",
+    "romaji": "magaru",
+    "meaningSinhala": "හැරීම / To turn",
+    "kanjiBreakup": "曲 (bend)",
+    "story": "മൂනට හැරීම."
+  },
+  {
+    "id": "tv_123",
+    "expression": "進む",
+    "category": "Transport & Travel",
+    "furigana": "すすむ",
+    "romaji": "susumu",
+    "meaningSinhala": "ඉස්සරහට යාම / To advance",
+    "kanjiBreakup": "進 (advance)",
+    "story": "ඉස්සරහට ගමන් කිරීම."
+  },
+  {
+    "id": "tv_124",
+    "expression": "止まる",
+    "category": "Transport & Travel",
+    "furigana": "とまる",
+    "romaji": "tomaru",
+    "meaningSinhala": "නැවතීම / To stop",
+    "kanjiBreakup": "止 (stop)",
+    "story": "නැවතී සිටීම."
+  },
+  {
+    "id": "tv_125",
+    "expression": "動く",
+    "category": "Transport & Travel",
+    "furigana": "うごく",
+    "romaji": "ugoku",
+    "meaningSinhala": "චලනය වීම / To move",
+    "kanjiBreakup": "動 (move)",
+    "story": "චලනය වීම."
+  },
+  {
+    "id": "tv_126",
+    "expression": "混む",
+    "category": "Transport & Travel",
+    "furigana": "こむ",
+    "romaji": "komu",
+    "meaningSinhala": "සෙනඟ පිරී ඇත / To be crowded",
+    "kanjiBreakup": "混 (crowd)",
+    "story": "සෙනඟ ගැවසීම."
+  },
+  {
+    "id": "tv_127",
+    "expression": "乗換案内",
+    "category": "Transport & Travel",
+    "furigana": "のりかえあんない",
+    "romaji": "norikae annai",
+    "meaningSinhala": "මඟ පෙන්වීම / Transfer guide",
+    "kanjiBreakup": "乗り換え (transfer) + 案内 (guide)",
+    "story": "රထား මාරු වන ආකාරය පෙන්වන මාර්ගෝපදේශය."
+  },
+  {
+    "id": "tv_128",
+    "expression": "乗車券売り場",
+    "category": "Transport & Travel",
+    "furigana": "じょうしゃけんうりば",
+    "romaji": "joushaken uriba",
+    "meaningSinhala": "ටිකට් අලෙවි සැල / Ticket sales office",
+    "kanjiBreakup": "乗車券 (ticket) + 売り場 (sales place)",
+    "story": "ගමන් ටිකට්පත් මිලදී ගන්නා ස්ථානය."
+  },
+  {
+    "id": "tv_129",
+    "expression": "定期券売り場",
+    "category": "Transport & Travel",
+    "furigana": "ていきけんうりば",
+    "romaji": "teikiken uriba",
+    "meaningSinhala": "මාසික පාස් අලෙවි සැල / Pass counter",
+    "kanjiBreakup": "定期券 (pass) + 売り場 (sales place)",
+    "story": "මාසික ගමන් බලපත්‍ර නිකුත් කරන ස්ථානය."
+  },
+  {
+    "id": "tv_130",
+    "expression": "案内所",
+    "category": "Transport & Travel",
+    "furigana": "あんないじょ",
+    "romaji": "annaijo",
+    "meaningSinhala": "තොරතුරු මධ්‍යස්ථානය / Information desk",
+    "kanjiBreakup": "案内 (guide) + 所 (place)",
+    "story": "විමසීම් සහ තොරතුරු ලබාගන්නා ස්ථානය."
+  }
+]

@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "ep_001",
+    "expression": "嬉しい",
+    "category": "Emotions & People",
+    "furigana": "うれしい",
+    "romaji": "ureshii",
+    "meaningSinhala": "සතුටුයි / Happy",
+    "kanjiBreakup": "嬉しい (glad)",
+    "story": "හොඳ දෙයක් සිදුවූ විට දැනෙන සතුට."
+  },
+  {
+    "id": "ep_002",
+    "expression": "悲しい",
+    "category": "Emotions & People",
+    "furigana": "かなしい",
+    "romaji": "kanashii",
+    "meaningSinhala": "කණගාටුයි / Sad",
+    "kanjiBreakup": "悲しい (sad)",
+    "story": "දුක්බර දෙයක් වූ විට දැනෙන දුක."
+  },
+  {
+    "id": "ep_003",
+    "expression": "怒る",
+    "category": "Emotions & People",
+    "furigana": "おこる",
+    "romaji": "okoru",
+    "meaningSinhala": "තරහ යනවා / To get angry",
+    "kanjiBreakup": "怒る (angry)",
+    "story": "වරදක් දුටු විට හෝ කේන්තියක් ආ විට."
+  },
+  {
+    "id": "ep_004",
+    "expression": "笑う",
+    "category": "Emotions & People",
+    "furigana": "わらう",
+    "romaji": "warau",
+    "meaningSinhala": "ිනාහ වෙනවා / To laugh",
+    "kanjiBreakup": "笑う (laugh)",
+    "story": "සතුටු දෙයකදී මුවඟට නැගෙන සිනහව."
+  },
+  {
+    "id": "ep_005",
+    "expression": "泣く",
+    "category": "Emotions & People",
+    "furigana": "なく",
+    "romaji": "naku",
+    "meaningSinhala": "අඬනවා / To cry",
+    "kanjiBreakup": "泣く (cry)",
+    "story": "දුක වැඩි වූ විට ඇස්වලින් කඳුළු ගැලීම."
+  },
+  {
+    "id": "ep_006",
+    "expression": "驚く",
+    "category": "Emotions & People",
+    "furigana": "おどろく",
+    "romaji": "odoroku",
+    "meaningSinhala": "පුදුම වෙනවා / To be surprised",
+    "kanjiBreakup": "驚く (surprised)",
+    "story": "අපේක්ෂා නොකළ දෙයක් දුටු විට පුදුම වීම."
+  },
+  {
+    "id": "ep_007",
+    "expression": "心配",
+    "category": "Emotions & People",
+    "furigana": "しんぱい",
+    "romaji": "shinpai",
+    "meaningSinhala": "කණගාටු වීම / බිය වීම / Worry",
+    "kanjiBreakup": "心 (heart) + 配 (distribute)",
+    "story": "යමෙකුගේ ආරක්ෂාව ගැන ඇති වන බිය."
+  },
+  {
+    "id": "ep_008",
+    "expression": "安心",
+    "category": "Emotions & People",
+    "furigana": "あんしん",
+    "romaji": "anshin",
+    "meaningSinhala": "සන්සුන් වීම / Relief",
+    "kanjiBreakup": "安 (safe) + 心 (heart)",
+    "story": "බියක් හෝ සැකයක් නැතිව සැනසීමෙන් සිටීම."
+  },
+  {
+    "id": "ep_009",
+    "expression": "緊張",
+    "category": "Emotions & People",
+    "furigana": "きんちょう",
+    "romaji": "kinchou",
+    "meaningSinhala": "ආතතිය / බය වීම / Nervousness",
+    "kanjiBreakup": "緊張 (tension)",
+    "story": "විභාගයකට හෝ සම්මුඛ පරීක්ෂණයකට යද්දී දැනෙන බය."
+  },
+  {
+    "id": "ep_010",
+    "expression": "リラックス",
+    "category": "Emotions & People",
+    "furigana": "りらっくす",
+    "romaji": "rirakkusu",
+    "meaningSinhala": "විවේකීව සිටීම / Relaxation",
+    "kanjiBreakup": "Loanword",
+    "story": "කිසිදු පීඩනයක් නොමැතිව සැහැල්ලුවෙන් සිටීම."
+  },
+  {
+    "id": "ep_011",
+    "expression": "満足",
+    "category": "Emotions & People",
+    "furigana": "まんぞく",
+    "romaji": "manzoku",
+    "meaningSinhala": "සෘජු සතුට / සෑහීමකට පත්වීම / Satisfaction",
+    "kanjiBreakup": "満 (full) + 足 (foot/enough)",
+    "story": "ලැබුණු දෙයින් සෑහීමකට පත්වීම."
+  },
+  {
+    "id": "ep_012",
+    "expression": "不満",
+    "category": "Emotions & People",
+    "furigana": "ふまん",
+    "romaji": "fuman",
+    "meaningSinhala": "අසතුට / අතෘප්තිය / Dissatisfaction",
+    "kanjiBreakup": "不 (not) + 満 (full)",
+    "story": "බලාපොරොත්තු වූ ආකාරයට සිදු නොවීම නිසා ඇති වන අසතුට."
+  },
+  {
+    "id": "ep_013",
+    "expression": "寂しい",
+    "category": "Emotions & People",
+    "furigana": "さびしい",
+    "romaji": "sabishii",
+    "meaningSinhala": "පාළුවීම / Lonely",
+    "kanjiBreakup": "寂しい (lonely)",
+    "story": "හුදෙකලා වූ විට හෝ කවුරුත් නැති විට දැනෙන පාළුව."
+  },
+  {
+    "id": "ep_014",
+    "expression": "恥ずかしい",
+    "category": "Emotions & People",
+    "furigana": "はずかしい",
+    "romaji": "hazukashii",
+    "meaningSinhala": "ලැජ්ජයි / Embarrassed",
+    "kanjiBreakup": "恥ずかしい (shameful)",
+    "story": "අන් අය ඉදිරියේ වැරදීමක් වූ විට දැනෙන ලැජ්ජාව."
+  },
+  {
+    "id": "ep_015",
+    "expression": "羨ましい",
+    "category": "Emotions & People",
+    "furigana": "うらやましい",
+    "romaji": "urayamashii",
+    "meaningSinhala": "ඊර්ෂ්‍යාව / අනුන්ගේ දේ දකින විට ඇති වන ආශාව / Envious",
+    "kanjiBreakup": "羨ましい (envious)",
+    "story": "වෙනත් අයෙකු ළඟ ඇති දෙයක් තමාටත් තිබුණා නම් යැයි සිතීම."
+  },
+  {
+    "id": "ep_016",
+    "expression": "嫌い",
+    "category": "Emotions & People",
+    "furigana": "きらい",
+    "romaji": "kirai",
+    "meaningSinhala": "අකමැතියි / Hated / Disliked",
+    "kanjiBreakup": "嫌 (dislike)",
+    "story": "යම් දෙයකට හෝ කෙනෙකුට ඇති අකමැත්ත."
+  },
+  {
+    "id": "ep_017",
+    "expression": "好き",
+    "category": "Emotions & People",
+    "furigana": "すき",
+    "romaji": "suki",
+    "meaningSinhala": "කැමතියි / Liked / Favorite",
+    "kanjiBreakup": "好 (like)",
+    "story": "යමෙකුට හෝ යම් දෙයකට ඇති ප්‍රියතාව."
+  },
+  {
+    "id": "ep_018",
+    "expression": "愛",
+    "category": "Emotions & People",
+    "furigana": "あい",
+    "romaji": "ai",
+    "meaningSinhala": "ආදරය / Love",
+    "kanjiBreakup": "愛 (love)",
+    "story": "ගැඹුරු ආදරය සහ සෙනෙහස."
+  },
+  {
+    "id": "ep_019",
+    "expression": "恋",
+    "category": "Emotions & People",
+    "furigana": "こい",
+    "romaji": "koi",
+    "meaningSinhala": "ආදර බැඳීම / Romance",
+    "kanjiBreakup": "恋 (romantic love)",
+    "story": "කෙනෙකු කෙරෙහි ඇති වන ආදර හැඟීම."
+  },
+  {
+    "id": "ep_020",
+    "expression": "夢",
+    "category": "Emotions & People",
+    "furigana": "ゆめ",
+    "romaji": "yume",
+    "meaningSinhala": "හීනය / Dream",
+    "kanjiBreakup": "夢 (dream)",
+    "story": "නිදාගනිද්දී පෙනෙන සිහිනය හෝ අනාගත පැතුම."
+  },
+  {
+    "id": "ep_021",
+    "expression": "希望",
+    "category": "Emotions & People",
+    "furigana": "きぼう",
+    "romaji": "kibou",
+    "meaningSinhala": "බලාපොරොත්තුව / Hope",
+    "kanjiBreakup": "希 (hope) + 望 (desire)",
+    "story": "අනාගතය පිළිබඳ ඇති යහපත් අපේක්ෂාව."
+  },
+  {
+    "id": "ep_022",
+    "expression": "絶望",
+    "category": "Emotions & People",
+    "furigana": "ぜつぼう",
+    "romaji": "zetsubou",
+    "meaningSinhala": "निराశාව / Despair",
+    "kanjiBreakup": "絶 (cut off) + 望 (hope)",
+    "story": "සියලු බලාපොරොත්තු බිඳී යාම."
+  },
+  {
+    "id": "ep_023",
+    "expression": "勇気",
+    "category": "Emotions & People",
+    "furigana": "ゆうき",
+    "romaji": "yuuki",
+    "meaningSinhala": "ධෛර්යය / Courage",
+    "kanjiBreakup": "勇 (brave) + 気 (spirit)",
+    "story": "බිය නැතුව අභියෝගවලට මුහුණ දීමේ ශක්තිය."
+  },
+  {
+    "id": "ep_024",
+    "expression": "自信",
+    "category": "Emotions & People",
+    "furigana": "じしん",
+    "romaji": "jishin",
+    "meaningSinhala": "අභිමානය / ආත්ම විශ්වාසය / Self-confidence",
+    "kanjiBreakup": "自 (self) + 信 (trust)",
+    "story": "තමාගේ හැකියාවන් පිළිබඳ ඇති විශ්වාසය."
+  },
+  {
+    "id": "ep_025",
+    "expression": "誇り",
+    "category": "Emotions & People",
+    "furigana": "ほこり",
+    "romaji": "hokori",
+    "meaningSinhala": "ආඩම්බරය / Pride",
+    "kanjiBreakup": "誇り (pride)",
+    "story": "තමා කළ යම් සාර්ථක දෙයක් ගැන ඇති වන ආඩම්බරය."
+  },
+  {
+    "id": "ep_026",
+    "expression": "後悔",
+    "category": "Emotions & People",
+    "furigana": "こうかい",
+    "romaji": "koukai",
+    "meaningSinhala": "පසුතැවීම / Regret",
+    "kanjiBreakup": "後 (after) + 悔 (repent)",
+    "story": "කළ වැරදි ක්‍රියාවක් ගැන පසුව සිතා දුක් වීම."
+  },
+  {
+    "id": "ep_027",
+    "expression": "感謝",
+    "category": "Emotions & People",
+    "furigana": "かんしゃ",
+    "romaji": "kansha",
+    "meaningSinhala": "කೃತඥතාව / Gratitude",
+    "kanjiBreakup": "感 (feel) + 謝 (thank)",
+    "story": "අන් අය කළ උදව්වකට දක්වන ස්තූතිවන්ත වීම."
+  },
+  {
+    "id": "ep_028",
+    "expression": "同情",
+    "category": "Emotions & People",
+    "furigana": "どうじょう",
+    "romaji": "doujou",
+    "meaningSinhala": "අනුකම්පාව / Sympathy",
+    "kanjiBreakup": "同 (same) + 情 (emotion)",
+    "story": "අනුන්ගේ දුකේදී තමාටත් එය දැනී ඇති වන අනුකම්පාව."
+  },
+  {
+    "id": "ep_029",
+    "expression": "尊敬",
+    "category": "Emotions & People",
+    "furigana": "そんけい",
+    "romaji": "sonkei",
+    "meaningSinhala": "ගෞරවය / Respect",
+    "kanjiBreakup": "尊 (rever) + 敬 (respect)",
+    "story": "ගුණගරුක පුද්ගලයෙකුට දක්වන උසස් ගෞරවය."
+  },
+  {
+    "id": "ep_030",
+    "expression": "嫉妬",
+    "category": "Emotions & People",
+    "furigana": "しっと",
+    "romaji": "shitto",
+    "meaningSinhala": "ඊර්ෂ්‍යාව / Jealousy",
+    "kanjiBreakup": "嫉 (jealousy) + 妬 (envy)",
+    "story": "අනුන්ගේ දියුණුව දැක ඇති වන ඊර්ෂ්‍යාව."
+  },
+  {
+    "id": "ep_031",
+    "expression": "人間",
+    "category": "Emotions & People",
+    "furigana": "にんげん",
+    "romaji": "ningen",
+    "meaningSinhala": "මිනිසා / Human",
+    "kanjiBreakup": "人 (person) + 間 (interval)",
+    "story": "පෘථිවියේ ජීවත් වන බුද්ධිමත් මිනිසා."
+  },
+  {
+    "id": "ep_032",
+    "expression": "他人",
+    "category": "Emotions & People",
+    "furigana": "たにん",
+    "romaji": "tanin",
+    "meaningSinhala": "වෙනත් පුද්ගලයා / Stranger / Other people",
+    "kanjiBreakup": "他 (other) + 人 (person)",
+    "story": "අපට නෑදෑකමක් හෝ සම්බන්ධයක් නැති පිට පුද්ගලයා."
+  },
+  {
+    "id": "ep_033",
+    "expression": "友人",
+    "category": "Emotions & People",
+    "furigana": "ゆうじん",
+    "romaji": "yuujin",
+    "meaningSinhala": "මිතුරා / Friend",
+    "kanjiBreakup": "友 (friend) + 人 (person)",
+    "story": "අපි ඇසුරු කරන හිතවත් යාළුවා."
+  },
+  {
+    "id": "ep_034",
+    "expression": "親友",
+    "category": "Emotions & People",
+    "furigana": "しんゆう",
+    "romaji": "shinyuu",
+    "meaningSinhala": "හොඳම යාළුවා / Best friend",
+    "kanjiBreakup": "親 (intimate) + 友 (friend)",
+    "story": "ජීවිතයේ සියලු රහස් දන්නා හොඳම යාළුවා."
+  },
+  {
+    "id": "ep_035",
+    "expression": "恋人",
+    "category": "Emotions & People",
+    "furigana": "こいびと",
+    "romaji": "koibito",
+    "meaningSinhala": "प्रेමවන්තයා / Lover / Partner",
+    "kanjiBreakup": "恋 (romantic) + 人 (person)",
+    "story": "ආදරවන්තයා හෝ ආදරවන්තිය."
+  },
+  {
+    "id": "ep_036",
+    "expression": "夫婦",
+    "category": "Emotions & People",
+    "furigana": "ふうふ",
+    "romaji": "fuufu",
+    "meaningSinhala": "මහන සහ බිරිඳ / Married couple",
+    "kanjiBreakup": "夫 (husband) + 婦 (wife)",
+    "story": "විවාහක යුවළ."
+  },
+  {
+    "id": "ep_037",
+    "expression": "親",
+    "category": "Emotions & People",
+    "furigana": "おや",
+    "romaji": "oya",
+    "meaningSinhala": "මව්පියන් / Parents",
+    "kanjiBreakup": "親 (parent)",
+    "story": "අපව බිහි කර වැදූ මව සහ පියා."
+  },
+  {
+    "id": "ep_038",
+    "expression": "子供",
+    "category": "Emotions & People",
+    "furigana": "こども",
+    "romaji": "kodomo",
+    "meaningSinhala": "දරුවා / Child",
+    "kanjiBreakup": "子 (child) + 供 (companion)",
+    "story": "මව්පියන්ගේ පුතා හෝ දුව."
+  },
+  {
+    "id": "ep_039",
+    "expression": "兄弟",
+    "category": "Emotions & People",
+    "furigana": "きょうだい",
+    "romaji": "kyoudai",
+    "meaningSinhala": "සෝයුරන් / Brothers / Siblings",
+    "kanjiBreakup": "兄 (older brother) + 弟 (younger brother)",
+    "story": "පවුලේ සහෝදර සහෝදරියන්."
+  },
+  {
+    "id": "ep_040",
+    "expression": "親戚",
+    "category": "Emotions & People",
+    "furigana": "しんせき",
+    "romaji": "shinseki",
+    "meaningSinhala": "නෑදෑයන් / Relatives",
+    "kanjiBreakup": "親 (parent/rel) + 戚 (relative)",
+    "story": "අපේ පවුලේ ලේ නෑදෑයින්."
+  },
+  {
+    "id": "ep_041",
+    "expression": "仲間",
+    "category": "Emotions & People",
+    "furigana": "なかま",
+    "romaji": "nakama",
+    "meaningSinhala": "කණ්ඩායමේ සගයා / Companion / Group member",
+    "kanjiBreakup": "中 (inside) + 間 (space) + 者",
+    "story": "එක් එක් අරමුණක් වෙනුවෙන් එකට වැඩ කරන පිරිස."
+  },
+  {
+    "id": "ep_042",
+    "expression": "客",
+    "category": "Emotions & People",
+    "furigana": "きゃく",
+    "romaji": "kyaku",
+    "meaningSinhala": "අමුත්තා / ගනුදෙනුකරු / Guest / Customer",
+    "kanjiBreakup": "客 (guest)",
+    "story": "අපේ ගෙදරට පැමිණි අමුත්තා."
+  },
+  {
+    "id": "ep_043",
+    "expression": "男性",
+    "category": "Emotions & People",
+    "furigana": "だんせい",
+    "romaji": "dansei",
+    "meaningSinhala": "පිරිමියා / Male",
+    "kanjiBreakup": "男 (man) + 性 (gender)",
+    "story": "පිරිමි ලිංගිකත්වයට අයත් පුද්ගලයා."
+  },
+  {
+    "id": "ep_044",
+    "expression": "女性",
+    "category": "Emotions & People",
+    "furigana": "じょせい",
+    "romaji": "josei",
+    "meaningSinhala": "කාන්තාව / Female",
+    "kanjiBreakup": "女 (woman) + 性 (gender)",
+    "story": "ගැහැණු ලිංගිකත්වයට අයත් තැනැත්තිය."
+  },
+  {
+    "id": "ep_045",
+    "expression": "高齢者",
+    "category": "Emotions & People",
+    "furigana": "こうれいしゃ",
+    "romaji": "koureisha",
+    "meaningSinhala": "වැඩිහිටියා / Elderly person",
+    "kanjiBreakup": "高齢 (old age) + 者 (person)",
+    "story": "වයසක වැඩිහිටි පුරවැසියා."
+  },
+  {
+    "id": "ep_046",
+    "expression": "幼児",
+    "category": "Emotions & People",
+    "furigana": "ようじ",
+    "romaji": "youji",
+    "meaningSinhala": "පොඩි දරුවා / Infant / Toddler",
+    "kanjiBreakup": "幼児 (infant)",
+    "story": "වයස අවුරුදු 1 සිට 5 දක්වා දරුවා."
+  },
+  {
+    "id": "ep_047",
+    "expression": "大人",
+    "category": "Emotions & People",
+    "furigana": "おとな",
+    "romaji": "otona",
+    "meaningSinhala": "වැඩිහිටියා / Adult",
+    "kanjiBreakup": "大 (big) + 人 (person)",
+    "story": "මනාව වැඩුණු වැඩිහිටි පුද්ගලයා."
+  },
+  {
+    "id": "ep_048",
+    "expression": "個人",
+    "category": "Emotions & People",
+    "furigana": "こじん",
+    "romaji": "kojin",
+    "meaningSinhala": "තනි පුද්ගලයා / Individual",
+    "kanjiBreakup": "個 (individual) + 人 (person)",
+    "story": "සමාජයක සිටින තනි තැනැත්තා."
+  },
+  {
+    "id": "ep_049",
+    "expression": "性格",
+    "category": "Emotions & People",
+    "furigana": "せいかく",
+    "romaji": "seikaku",
+    "meaningSinhala": "स्वభാവය / Personality",
+    "kanjiBreakup": "性 (nature) + 格 (character)",
+    "story": "කෙනෙකුගේ ඇතුළාන්ත ස්වභාවය සහ හැසිරීම."
+  },
+  {
+    "id": "ep_050",
+    "expression": "気質",
+    "category": "Emotions & People",
+    "furigana": "きしつ",
+    "romaji": "kishitsu",
+    "meaningSinhala": "සංස්කෘතිය / ස්වභාවය / Temperament",
+    "kanjiBreakup": "気 (spirit) + 質 (quality)",
+    "story": "පුද්ගලයෙකුගේ සහජ ස්වභාවය."
+  },
+  {
+    "id": "ep_051",
+    "expression": "気持",
+    "category": "Emotions & People",
+    "furigana": "きもち",
+    "romaji": "kimochi",
+    "meaningSinhala": "හැඟීම / Feeling",
+    "kanjiBreakup": "気 (spirit) + 持 (hold)",
+    "story": "මනසට දැනෙන ස්වභාවය."
+  },
+  {
+    "id": "ep_052",
+    "expression": "気分",
+    "category": "Emotions & People",
+    "furigana": "きぶん",
+    "romaji": "kibun",
+    "meaningSinhala": "මනෝභාවය / Mood",
+    "kanjiBreakup": "気 (spirit) + 分 (part)",
+    "story": "ඒ මොහොතේ සිරුරට සහ මනසට දැනෙන මනෝභාවය."
+  },
+  {
+    "id": "ep_053",
+    "expression": "感情",
+    "category": "Emotions & People",
+    "furigana": "かんじょう",
+    "romaji": "kanjou",
+    "meaningSinhala": "හැඟීම / Emotion",
+    "kanjiBreakup": "感 (feel) + 情 (emotion)",
+    "story": "සතුට, දුක වැනි හැඟීම් මාලාව."
+  },
+  {
+    "id": "ep_054",
+    "expression": "愛情",
+    "category": "Emotions & People",
+    "furigana": "あいじょう",
+    "romaji": "aijou",
+    "meaningSinhala": "ආදර සෙනෙහස / Affection",
+    "kanjiBreakup": "愛 (love) + 情 (emotion)",
+    "story": "අන් අය කෙරෙහි ඇති වන සෙනෙහස."
+  },
+  {
+    "id": "ep_055",
+    "expression": "表情",
+    "category": "Emotions & People",
+    "furigana": "ひょうじょう",
+    "romaji": "hyoujou",
+    "meaningSinhala": "මුහුණේ ඉරියව් / Facial expression",
+    "kanjiBreakup": "表 (express) + 情 (emotion)",
+    "story": "සතුටු වෙද්දී හෝ දුක් වෙද්දී මුහුණේ මතු වන ඉරියව්."
+  },
+  {
+    "id": "ep_056",
+    "expression": "態度",
+    "category": "Emotions & People",
+    "furigana": "たいど",
+    "romaji": "taido",
+    "meaningSinhala": "හැසිරීම / Attitude",
+    "kanjiBreakup": "態 (appearance) + 度 (attitude)",
+    "story": "අන් අය සමඟ කතාබස් කරන විට පෙන්වන හැසිරීම."
+  },
+  {
+    "id": "ep_057",
+    "expression": "行動",
+    "category": "Emotions & People",
+    "furigana": "こうどう",
+    "romaji": "koudou",
+    "meaningSinhala": "ක්‍රියාකාරකම / Action",
+    "kanjiBreakup": "行 (go) + 動 (move)",
+    "story": "අප කරන කියන ක්‍රියාකාරකම්."
+  },
+  {
+    "id": "ep_058",
+    "expression": "個性",
+    "category": "Emotions & People",
+    "furigana": "こせい",
+    "romaji": "kosei",
+    "meaningSinhala": "විශේෂත්වය / Personality / Individuality",
+    "kanjiBreakup": "個 (individual) + 性 (nature)",
+    "story": "වෙනත් අයගෙන් වෙන් වී පෙනෙන තමන්ටම ආවේණික ගුණාංගය."
+  },
+  {
+    "id": "ep_059",
+    "expression": "魅力",
+    "category": "Emotions & People",
+    "furigana": "みりょく",
+    "romaji": "miryoku",
+    "meaningSinhala": "ආකර්ෂණය / Charm / Appeal",
+    "kanjiBreakup": "魅 (fascinate) + 力 (power)",
+    "story": "අන් අය තමා වෙත ඇද බැඳ තබා ගන්නා ගුණය."
+  },
+  {
+    "id": "ep_060",
+    "expression": "機嫌",
+    "category": "Emotions & People",
+    "furigana": "きげん",
+    "romaji": "kigen",
+    "meaningSinhala": "සතුට / මනස පිහිටා ඇති ආකාරය / Humor / Mood",
+    "kanjiBreakup": "機 (machine) + 嫌 (feel)",
+    "story": "හොඳින් හෝ නරකින් මනස පිහිටා ඇති ආකාරය."
+  },
+  {
+    "id": "ep_061",
+    "expression": "感心",
+    "category": "Emotions & People",
+    "furigana": "かんしん",
+    "romaji": "kanshin",
+    "meaningSinhala": "ප්‍රශංසනීය වීම / Admiration",
+    "kanjiBreakup": "感 (feel) + 心 (heart)",
+    "story": "කෙනෙකුගේ දස්කම් දැක ඇති වන පැහැදීම."
+  },
+  {
+    "id": "ep_062",
+    "expression": "感動",
+    "category": "Emotions & People",
+    "furigana": "かんどう",
+    "romaji": "kandou",
+    "meaningSinhala": "සිත් ඇදගැනීම / Emotion / Impression",
+    "kanjiBreakup": "感 (feel) + 動 (move)",
+    "story": "හදවතට තදින්ම දැනෙන සතුට හෝ දුක."
+  },
+  {
+    "id": "ep_063",
+    "expression": "感謝する",
+    "category": "Emotions & People",
+    "furigana": "かんしゃする",
+    "romaji": "kansha suru",
+    "meaningSinhala": "ස්තූතිවන්ත වීම / To be grateful",
+    "kanjiBreakup": "感謝 (gratitude) + する (do)",
+    "story": "උදව්වක් කළ කෙනෙකුට ස්තූති කිරීම."
+  },
+  {
+    "id": "ep_064",
+    "expression": "感動する",
+    "category": "Emotions & People",
+    "furigana": "かんどうする",
+    "romaji": "kandou suru",
+    "meaningSinhala": "භාවනාත්මක වීම / To be touched / moved",
+    "kanjiBreakup": "感動 (impression) + する (do)",
+    "story": "ලස්සන දෙයක් දැක සිත ගැඹුරින්ම නැමීම."
+  },
+  {
+    "id": "ep_065",
+    "expression": "緊張する",
+    "category": "Emotions & People",
+    "furigana": "きんちょうする",
+    "romaji": "kinchou suru",
+    "meaningSinhala": "බය වීම / ආතතියට පත්වීම / To be nervous",
+    "kanjiBreakup": "緊張 (tension) + する (do)",
+    "story": "සිත තද වී බයට පත්වීම."
+  },
+  {
+    "id": "ep_066",
+    "expression": "安心する",
+    "category": "Emotions & People",
+    "furigana": "あんしんする",
+    "romaji": "anshin suru",
+    "meaningSinhala": "සැනසීමකට පත්වීම / To feel relieved",
+    "kanjiBreakup": "安心 (relief) + する (do)",
+    "story": "බිය පහවී සැනසීම ලැබීම."
+  },
+  {
+    "id": "ep_067",
+    "expression": "心配する",
+    "category": "Emotions & People",
+    "furigana": "しんぱいする",
+    "romaji": "shinpai suru",
+    "meaningSinhala": "කණගාටු වීම / To worry",
+    "kanjiBreakup": "心配 (worry) + する (do)",
+    "story": "අනාරක්ෂිත බවක් නිසා සිත බර වීම."
+  },
+  {
+    "id": "ep_068",
+    "expression": "期待する",
+    "category": "Emotions & People",
+    "furigana": "きたいする",
+    "romaji": "kitai suru",
+    "meaningSinhala": "බලාපොරොත්තු වීම / To expect",
+    "kanjiBreakup": "期 (time) + 待 (wait) + する",
+    "story": "අනාගතයේ යම් හොඳ දෙයක් සිදු වේ යැයි විශ්වාස කිරීම."
+  },
+  {
+    "id": "ep_069",
+    "expression": "満足する",
+    "category": "Emotions & People",
+    "furigana": "まんぞくする",
+    "romaji": "manzoku suru",
+    "meaningSinhala": "සෑහීමකට පත්වීම / To be satisfied",
+    "kanjiBreakup": "満足 (satisfaction) + する",
+    "story": "ලැබුණු දෙයින් සතුටු වීම."
+  },
+  {
+    "id": "ep_070",
+    "expression": "がっかりする",
+    "category": "Emotions & People",
+    "furigana": "がっかりする",
+    "romaji": "gakkari suru",
+    "meaningSinhala": "निराශ වීම / To be disappointed",
+    "kanjiBreakup": "Loanword",
+    "story": "බලාපොරොත්තු වූ දෙයක් නොවූ විට කලකිරීම."
+  },
+  {
+    "id": "ep_071",
+    "expression": "いらいらする",
+    "category": "Emotions & People",
+    "furigana": "いらいらする",
+    "romaji": "iraira suru",
+    "meaningSinhala": "කේන්ති යාම / කලබල වීම / To get irritated",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "සිදුවන දේ ගැන ඉවසිලිවන්තව සිටීමට නොහැකි වීම."
+  },
+  {
+    "id": "ep_072",
+    "expression": "のんびりする",
+    "category": "Emotions & People",
+    "furigana": "のんびりする",
+    "romaji": "nonbiri suru",
+    "meaningSinhala": "සැහැල්ලුවෙන් සිටීම / To relax",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "හදිස්සියක් නැතිව සුවපහසුවෙන් කාලය ගත කිරීම."
+  },
+  {
+    "id": "ep_073",
+    "expression": "はっきりする",
+    "category": "Emotions & People",
+    "furigana": "はっきりする",
+    "romaji": "hakkiri suru",
+    "meaningSinhala": "පැහැදිලි වීම / To be clear",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "කාරණයක් සැකයක් නැතිව පැහැදිලි වීම."
+  },
+  {
+    "id": "ep_074",
+    "expression": "しっかりする",
+    "category": "Emotions & People",
+    "furigana": "しっかりする",
+    "romaji": "shikkari suru",
+    "meaningSinhala": "දැඩිව සිටීම / ප්‍රවේශම් වීම / To pull oneself together",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "නැගී සිටීමට ශක්තිය ඇතුව සිටීම."
+  },
+  {
+    "id": "ep_075",
+    "expression": "うっとりする",
+    "category": "Emotions & People",
+    "furigana": "うっとりする",
+    "romaji": "uttori suru",
+    "meaningSinhala": "සිත් ඇදගැනීම / To be spellbound",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ලස්සන දර්ශනයකට මනස ඇදී යාම."
+  },
+  {
+    "id": "ep_076",
+    "expression": "はっとする",
+    "category": "Emotions & People",
+    "furigana": "はっとする",
+    "romaji": "hatto suru",
+    "meaningSinhala": "ක්ෂණිකව බය වීම / To be startled",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "හදිසියේ සිදුවන දෙයකින් තිගැස්සීම."
+  },
+  {
+    "id": "ep_077",
+    "expression": "ほっとする",
+    "category": "Emotions & People",
+    "furigana": "ほっとする",
+    "romaji": "hotto suru",
+    "meaningSinhala": "සැනසුම් සුසුම් හෙළීම / To feel relieved",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ප්‍රශ්නයක් විසඳුණු පසු දැනෙන සැනසීම."
+  },
+  {
+    "id": "ep_078",
+    "expression": "びっしょりする",
+    "category": "Emotions & People",
+    "furigana": "びっしょりする",
+    "romaji": "bisshori suru",
+    "meaningSinhala": "දියෙන් තෙමී යාම / To be soaking wet",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "වැස්සෙන් සම්පූර්ණයෙන්ම තෙමී යාම."
+  },
+  {
+    "id": "ep_079",
+    "expression": "さっぱりする",
+    "category": "Emotions & People",
+    "furigana": "さっぱりする",
+    "romaji": "sappari suru",
+    "meaningSinhala": "පිරිසිදු වීම / සනීප වීම / To feel refreshed",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "නාගත් පසු හෝ වැඩක් ඉවර කළ පසු දැනෙන සැහැල්ලුව."
+  },
+  {
+    "id": "ep_080",
+    "expression": "すっきりする",
+    "category": "Emotions & People",
+    "furigana": "すっきりする",
+    "romaji": "sukkiri suru",
+    "meaningSinhala": "සැනසීම / පැහැදිලි වීම / To feel refreshed",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ප්‍රශ්නයක් විසඳී මනස සැහැල්ලු වීම."
+  },
+  {
+    "id": "ep_081",
+    "expression": "がたがたする",
+    "category": "Emotions & People",
+    "furigana": "がたがたする",
+    "romaji": "gatagata suru",
+    "meaningSinhala": "සැලීම / වෙව්ලීම / To rattle / tremble",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ශීතලෙන් හෝ බයෙන් සිරුර වෙව්ලීම."
+  },
+  {
+    "id": "ep_082",
+    "expression": "わくわくする",
+    "category": "Emotions & People",
+    "furigana": "わくわくする",
+    "romaji": "wakuwaku suru",
+    "meaningSinhala": "කුතුහලයෙන් සතුටු වීම / To be excited",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "හොඳ දෙයක් සිදුවන්නට යන නිසා සිත උද්දාම වීම."
+  },
+  {
+    "id": "ep_083",
+    "expression": "どきどきする",
+    "category": "Emotions & People",
+    "furigana": "どきどきする",
+    "romaji": "dokidoki suru",
+    "meaningSinhala": "හදවත ගැසීම / To get excited / throb",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "බයෙන් හෝ සතුටින් හදවත වේගයෙන් ගැසීම."
+  },
+  {
+    "id": "ep_084",
+    "expression": "いそいそする",
+    "category": "Emotions & People",
+    "furigana": "いそいそする",
+    "romaji": "isoiso suru",
+    "meaningSinhala": "උනන්දුවෙන් සූදානම් වීම / To bustle about",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "සතුටුදායක ගමනකට ඉක්මනින් සූදානම් වීම."
+  },
+  {
+    "id": "ep_085",
+    "expression": "うろうろする",
+    "category": "Emotions & People",
+    "furigana": "うろうろする",
+    "romaji": "urouro suru",
+    "meaningSinhala": "අතන මෙතන ඇවිදීම / To wander around",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "පාර බලාගත නොහැකිව අවට ඇවිදීම."
+  },
+  {
+    "id": "ep_086",
+    "expression": "ぺこぺこする",
+    "category": "Emotions & People",
+    "furigana": "ぺこぺこする",
+    "romaji": "pekopeko suru",
+    "meaningSinhala": "බඩගින්න / නම්‍යශීලී වීම / To be starving / bow repeatedly",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "බඩගින්නෙන් පෙළීම හෝ නිතර නැමී වැඳීම."
+  },
+  {
+    "id": "ep_087",
+    "expression": "くたくたする",
+    "category": "Emotions & People",
+    "furigana": "くたくたする",
+    "romaji": "kutakuta suru",
+    "meaningSinhala": " මහන්සියෙන් විඩාවට පත්වීම / To be exhausted",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "වැඩ වැඩි නිසා ශරීරය අඩපණ වී යාම."
+  },
+  {
+    "id": "ep_088",
+    "expression": "すらすら",
+    "category": "Emotions & People",
+    "furigana": "すらすら",
+    "romaji": "surasura",
+    "meaningSinhala": "බාධාවකින් තොරව / Smoothly",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "කියවීම හෝ ලිවීම කිසිදු පැකිලීමකින් තොරව කිරීම."
+  },
+  {
+    "id": "ep_089",
+    "expression": "ざわざわ",
+    "category": "Emotions & People",
+    "furigana": "ざわざわ",
+    "romaji": "zawazawa",
+    "meaningSinhala": "කොඳුරන හඬ / Murmur of a crowd",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ජනතාව එකතු වී ඝෝෂා කරන ශබ්දය."
+  },
+  {
+    "id": "ep_090",
+    "expression": "ぺチャぺチャ",
+    "category": "Emotions & People",
+    "furigana": "ぺちゃぺちゃ",
+    "romaji": "pechapecha",
+    "meaningSinhala": "දෙඩවීම / Chatting",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "නැවත නැවත කතා කරමින් සිටීම."
+  },
+  {
+    "id": "ep_091",
+    "expression": "ひそひそ",
+    "category": "Emotions & People",
+    "furigana": "ひそひそ",
+    "romaji": "hisohiso",
+    "meaningSinhala": "කෙඳිරියෙන් කතා කිරීම / Whispering",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "අන් අයට නොඇසෙන සේ රහසින් කතා කිරීම."
+  },
+  {
+    "id": "ep_092",
+    "expression": "めきめき",
+    "category": "Emotions & People",
+    "furigana": "めきめき",
+    "romaji": "mekimeki",
+    "meaningSinhala": "ඉක්මනින් දියුණු වීම / Rapidly",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ඉගෙනීමෙන් හෝ දක්ෂතාවයෙන් ඉක්මනින් දියුණු වීම."
+  },
+  {
+    "id": "ep_093",
+    "expression": "すくすく",
+    "category": "Emotions & People",
+    "furigana": "すくすく",
+    "romaji": "sukusuku",
+    "meaningSinhala": "නිරෝගීව වැඩීම / Growing up healthily",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "දරුවන් නිරෝගීව උස යමින් වැඩීම."
+  },
+  {
+    "id": "ep_094",
+    "expression": "ぐっすり",
+    "category": "Emotions & People",
+    "furigana": "ぐっすり",
+    "romaji": "gussuri",
+    "meaningSinhala": "හොඳින් නින්ද යාම / Soundly (sleeping)",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "කිසිදු බාධාවකින් තොරව ගැඹුරු නින්දකට යාම."
+  },
+  {
+    "id": "ep_095",
+    "expression": "ぬるぬる",
+    "category": "Emotions & People",
+    "furigana": "ぬるぬる",
+    "romaji": "nurunuru",
+    "meaningSinhala": "ලිස්සන සුළු / Slippery / Slimy",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "තෙල් සහිත හෝ ජලය ඇති නිසා ලිස්සන ස්වභාවය."
+  },
+  {
+    "id": "ep_096",
+    "expression": "べこべこ",
+    "category": "Emotions & People",
+    "furigana": "べこべこ",
+    "romaji": "bekobeko",
+    "meaningSinhala": "නැමෙන සුළු / Dentable",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "ලෝහ භාණ්ඩයක් තද කළ විට එබී යාම."
+  },
+  {
+    "id": "ep_097",
+    "expression": "もたもた",
+    "category": "Emotions & People",
+    "furigana": "もたもた",
+    "romaji": "motamota",
+    "meaningSinhala": "පරක්කු වීම / Slow / Clumsy",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "කරන වැඩක් ඉතා මන්දගාමීව කිරීම."
+  },
+  {
+    "id": "ep_098",
+    "expression": "ちゃっかり",
+    "category": "Emotions & People",
+    "furigana": "ちゃっかり",
+    "romaji": "chakkari",
+    "meaningSinhala": "ක්ෂණිකව වාසි ලබා ගන්නා / Shrewd / Calculating",
+    "kanjiBreakup": "Onomatopoeic",
+    "story": "තමාට වාසිදායක ලෙස දක්ෂ ලෙස වැඩ කටයුතු කරගැනීම."
+  },
+  {
+    "id": "ep_099",
+    "expression": "安心感",
+    "category": "Emotions & People",
+    "furigana": "あんしんかん",
+    "romaji": "anshin kan",
+    "meaningSinhala": "සැනසීම / Sense of security",
+    "kanjiBreakup": "安心 (relief) + 感 (feeling)",
+    "story": "මනසට දැනෙන ආරක්ෂිත සහ සැනසුම්දායක හැඟීම."
+  },
+  {
+    "id": "ep_100",
+    "expression": "優しさ",
+    "category": "Emotions & People",
+    "furigana": "やさしさ",
+    "romaji": "yasashisa",
+    "meaningSinhala": "කරුණාවන්තකම / Kindness",
+    "kanjiBreakup": "優しい (kind) + さ (ness)",
+    "story": "අන් අය කෙරෙහි දක්වන මෘදු සහ කරුණාවන්ත ගුණය."
+  },
+  {
+    "id": "ep_101",
+    "expression": "厳しさ",
+    "category": "Emotions & People",
+    "furigana": "きびしさ",
+    "romaji": "kibishisa",
+    "meaningSinhala": "දැඩි බව / Severity",
+    "kanjiBreakup": "厳しい (strict) + さ (ness)",
+    "story": "නියෝග ක්‍රියාත්මක කිරීමේදී පෙන්වන දැඩි ස්වභාවය."
+  },
+  {
+    "id": "ep_102",
+    "expression": "強さ",
+    "category": "Emotions & People",
+    "furigana": "つよさ",
+    "romaji": "tsuyosa",
+    "meaningSinhala": "ශක්තිමත් බව / Strength",
+    "kanjiBreakup": "強い (strong) + さ (ness)",
+    "story": "ශාරීරික හෝ මානසික ශක්තිය."
+  },
+  {
+    "id": "ep_103",
+    "expression": "弱さ",
+    "category": "Emotions & People",
+    "furigana": "よわさ",
+    "romaji": "yowasa",
+    "meaningSinhala": "දුර්වලකම / Weakness",
+    "kanjiBreakup": "弱い (weak) + さ (ness)",
+    "story": "කෙනෙකුගේ ඇති මානසික හෝ ශාරීරික දුර්වලකම."
+  },
+  {
+    "id": "ep_104",
+    "expression": "温もり",
+    "category": "Emotions & People",
+    "furigana": "ぬくもり",
+    "romaji": "nukumori",
+    "meaningSinhala": "උණුසුම / Warmth",
+    "kanjiBreakup": "温もり (warmth)",
+    "story": "ශරීරයට හෝ සිතට දැනෙන සෙනෙහෙබර උණුසුම."
+  },
+  {
+    "id": "ep_105",
+    "expression": "寂寥感",
+    "category": "Emotions & People",
+    "furigana": "せきりょうかん",
+    "romaji": "sekiryou kan",
+    "meaningSinhala": "පාළුව / Desolation",
+    "kanjiBreakup": "寂寥 (lonely) + 感 (feeling)",
+    "story": "හුදෙකලා වූ විට දැනෙන ගැඹුරු පාළුව."
+  },
+  {
+    "id": "ep_106",
+    "expression": "親切",
+    "category": "Emotions & People",
+    "furigana": "しんせつ",
+    "romaji": "shinsetsu",
+    "meaningSinhala": "කාරුණික / Helpful / Kind",
+    "kanjiBreakup": "親 (intimate) + 切 (kind)",
+    "story": "අන් අයට උදව් උපකාර කිරීමට ඇති කැමැත්ත."
+  },
+  {
+    "id": "ep_107",
+    "expression": "誠実",
+    "category": "Emotions & People",
+    "furigana": "せいじつ",
+    "romaji": "seijitsu",
+    "meaningSinhala": "අවංක / Sincere / Honest",
+    "kanjiBreakup": "誠 (sincere) + 実 (reality)",
+    "story": "කිසිදු වංචාවකින් තොරව අවංකව කටයුතු කිරීම."
+  },
+  {
+    "id": "ep_108",
+    "expression": "正直",
+    "category": "Emotions & People",
+    "furigana": "しょうじき",
+    "romaji": "shoujiki",
+    "meaningSinhala": "කැළැල් රහිත / Honest / Frank",
+    "kanjiBreakup": "正 (straight) + 直 (honest)",
+    "story": "ඇත්තම කතා කරන අවංක ස්වභාවය."
+  },
+  {
+    "id": "ep_109",
+    "expression": "素直",
+    "category": "Emotions & People",
+    "furigana": "すなお",
+    "romaji": "sunao",
+    "meaningSinhala": "කීකරු / නම්‍යශීලී / Obedient / Meek",
+    "kanjiBreakup": "素直 (frank)",
+    "story": "අනුන්ගේ උපදෙස් හොඳින් පිළිගන්නා කීකරුකම."
+  },
+  {
+    "id": "ep_110",
+    "expression": "強情",
+    "category": "Emotions & People",
+    "furigana": "ごうじょう",
+    "romaji": "goujou",
+    "meaningSinhala": "මරමිට්ටු / ඔල්මාද / Stubborn",
+    "kanjiBreakup": "強 (strong) + 情 (emotion)",
+    "story": "කවුරු කීවත් තමාගේ මතයේම පිහිටා සිටින stubborn ගුණය."
+  },
+  {
+    "id": "ep_111",
+    "expression": "わがまま",
+    "category": "Emotions & People",
+    "furigana": "わがまま",
+    "romaji": "wagamama",
+    "meaningSinhala": "ස්වාර්ථකාමී / Selfish",
+    "kanjiBreakup": "我 (self) + まま (as one pleases)",
+    "story": "තමාට අවශ්‍ය දේ පමණක්ම ඉටු කරගැනීමට උත්සාහ කරන අය."
+  },
+  {
+    "id": "ep_112",
+    "expression": "頑固",
+    "category": "Emotions & People",
+    "furigana": "がんこ",
+    "romaji": "ganko",
+    "meaningSinhala": "මාරක තද ගති / Stubborn / Obstinate",
+    "kanjiBreakup": "頑 (stubborn) + 固 (hard)",
+    "story": "වෙනස් කළ නොහැකි තද මක්කම ස්වභාවය."
+  },
+  {
+    "id": "ep_113",
+    "expression": "楽観的",
+    "category": "Emotions & People",
+    "furigana": "らっかんてき",
+    "romaji": "rakkanteki",
+    "meaningSinhala": "आशावाद / Optimistic",
+    "kanjiBreakup": "楽観 (optimism) + 的 (ic)",
+    "story": "අනාගතය ගැන සැමවිටම ධනාත්මකව සිතන."
+  },
+  {
+    "id": "ep_114",
+    "expression": "悲観的",
+    "category": "Emotions & People",
+    "furigana": "ひかんてき",
+    "romaji": "hikanteki",
+    "meaningSinhala": "निराशावाद / Pessimistic",
+    "kanjiBreakup": "悲観 (pessimism) + 的 (ic)",
+    "story": "අනාගතය ගැන සැමවිටම සෘණාත්මකව සිතන."
+  },
+  {
+    "id": "ep_115",
+    "expression": "神経質",
+    "category": "Emotions & People",
+    "furigana": "しんけいしつ",
+    "romaji": "shinkeishitsu",
+    "meaningSinhala": "සංවේදී / ඉතා සැලකිලිමත් / Nervous / Touchy",
+    "kanjiBreakup": "神経 (nerve) + 質 (nature)",
+    "story": "කුඩා දෙයකටත් අධික ලෙස කනස්සල්ලට පත්වන."
+  },
+  {
+    "id": "ep_116",
+    "expression": "大雑把",
+    "category": "Emotions & People",
+    "furigana": "おおざっぱ",
+    "romaji": "oozappa",
+    "meaningSinhala": "විධිමත් නොවන / Casual / Rough",
+    "kanjiBreakup": "大 (big) + 雑把 (rough)",
+    "story": "වැඩවලදී වැඩි සැලකිල්ලක් නොදක්වා සාමාන්‍ය පරිදි කරන."
+  },
+  {
+    "id": "ep_117",
+    "expression": "おとなしい",
+    "category": "Emotions & People",
+    "furigana": "おとなしい",
+    "romaji": "otonashii",
+    "meaningSinhala": "නිහඬ / කීකරු / Gentle / Quiet",
+    "kanjiBreakup": "おとなしい",
+    "story": "කැලඹිලි රහිතව නිහඬව ජීවත් වන."
+  },
+  {
+    "id": "ep_118",
+    "expression": "賑やかな",
+    "category": "Emotions & People",
+    "furigana": "にぎやかな",
+    "romaji": "nigiyakana",
+    "meaningSinhala": "කෝලාහල / සතුටුදායක / Lively",
+    "kanjiBreakup": "賑やか (lively)",
+    "story": "මිනිසුන් ගැවසෙන සතුටුදායක පරිසරයක් ඇති."
+  },
+  {
+    "id": "ep_119",
+    "expression": "静かな",
+    "category": "Emotions & People",
+    "furigana": "しずかな",
+    "romaji": "shizukana",
+    "meaningSinhala": "නිහඬ / Quiet",
+    "kanjiBreakup": "静か (quiet)",
+    "story": "ශබ්දයක් නොමැති සන්සුන් පරිසරයක් ඇති."
+  },
+  {
+    "id": "ep_120",
+    "expression": "明るい",
+    "category": "Emotions & People",
+    "furigana": "あかるい",
+    "romaji": "akarui",
+    "meaningSinhala": "ප්‍රීතිමත් / Bright / Cheerful",
+    "kanjiBreakup": "明るい (bright)",
+    "story": "සතුටුදායක සහ ප්‍රීතිමත් ස්වභාවයෙන් යුත්."
+  },
+  {
+    "id": "ep_121",
+    "expression": "暗い",
+    "category": "Emotions & People",
+    "furigana": "くらい",
+    "romaji": "kurai",
+    "meaningSinhala": "දුක්බර / Dark / Gloomy",
+    "kanjiBreakup": "暗い (dark)",
+    "story": "සතුටක් නොමැති දුක්බර ස්වභාවයෙන් යුත්."
+  },
+  {
+    "id": "ep_122",
+    "expression": "優しい",
+    "category": "Emotions & People",
+    "furigana": "やさしい",
+    "romaji": "yasashii",
+    "meaningSinhala": "කරුණාබර / Kind",
+    "kanjiBreakup": "優しい (kind)",
+    "story": "අනුන්ට උදව් කරන කරුණාවන්ත."
+  },
+  {
+    "id": "ep_123",
+    "expression": "厳しい",
+    "category": "Emotions & People",
+    "furigana": "きびしい",
+    "romaji": "kibishii",
+    "meaningSinhala": "දැඩි / Strict",
+    "kanjiBreakup": "厳しい (strict)",
+    "story": "නීති රීති තදින් පවත්වාගෙන යන."
+  },
+  {
+    "id": "ep_124",
+    "expression": "強い",
+    "category": "Emotions & People",
+    "furigana": "つよい",
+    "romaji": "tsuyoi",
+    "meaningSinhala": "ශක්තිමත් / Strong",
+    "kanjiBreakup": "強い (strong)",
+    "story": "මානසිකව හෝ ශාරීරිකව ශක්තිමත්."
+  },
+  {
+    "id": "ep_125",
+    "expression": "弱い",
+    "category": "Emotions & People",
+    "furigana": "よわい",
+    "romaji": "yowai",
+    "meaningSinhala": "දුර්වල / Weak",
+    "kanjiBreakup": "弱い (weak)",
+    "story": "පහසුවෙන් පරාජය වන හෝ දුර්වල."
+  },
+  {
+    "id": "ep_126",
+    "expression": "偉い",
+    "category": "Emotions & People",
+    "furigana": "えらい",
+    "romaji": "erai",
+    "meaningSinhala": "විශිෂ්ඨ / ගෞරවනීය / Great / Admirable",
+    "kanjiBreakup": "偉い (great)",
+    "story": "දක්ෂකම් නිසා සමාජයේ ඉහළ පිළිගැනීමක් ඇති."
+  },
+  {
+    "id": "ep_127",
+    "expression": "ずるい",
+    "category": "Emotions & People",
+    "furigana": "ずるい",
+    "romaji": "zurui",
+    "meaningSinhala": "කපටි / Cunning / Sly",
+    "kanjiBreakup": "ずるい",
+    "story": "තමන්ගේ වාසියට පමණක් සිතා කපටි ලෙස වැඩ කරන."
+  },
+  {
+    "id": "ep_128",
+    "expression": "生意気",
+    "category": "Emotions & People",
+    "furigana": "なまいき",
+    "romaji": "namaiki",
+    "meaningSinhala": "උඩඟු / Impudent / Cocky",
+    "kanjiBreakup": "生 (raw) + 気 (spirit)",
+    "story": "වයසට වඩා උඩඟු ලෙස අහංකාරයෙන් හැසිරෙන."
+  },
+  {
+    "id": "ep_129",
+    "expression": "情けない",
+    "category": "Emotions & People",
+    "furigana": "なさけない",
+    "romaji": "nasakenai",
+    "meaningSinhala": "කනගාටුදායක / Piticful / Pathetic",
+    "kanjiBreakup": "情けない (miserable)",
+    "story": "කෙනෙකුගේ හැසිරීම ගැන ලැජ්ජාවක් හෝ කණගාටුවක් ඇති වන."
+  },
+  {
+    "id": "ep_130",
+    "expression": "懐かしい",
+    "category": "Emotions & People",
+    "furigana": "なつかしい",
+    "romaji": "natsukashii",
+    "meaningSinhala": "මතකයට නඟන / Nostalgic",
+    "kanjiBreakup": "懐かしい (dear)",
+    "story": "පරණ මතක සිහිපත් වෙද්දී සිතට දැනෙන සතුට."
+  },
+  {
+    "id": "ep_131",
+    "expression": "めずらしい",
+    "category": "Emotions & People",
+    "furigana": "めずらしい",
+    "romaji": "mezurashii",
+    "meaningSinhala": "දුර්ලභ / Rare / Unusual",
+    "kanjiBreakup": "珍しい (rare)",
+    "story": "සාමාන්‍යයෙන් දකින්නට නොලැබෙන."
+  },
+  {
+    "id": "ep_132",
+    "expression": "うっとうしい",
+    "category": "Emotions & People",
+    "furigana": "うっとうしい",
+    "romaji": "uttoushii",
+    "meaningSinhala": "කරදරකාරී / Gloomy / Annoying",
+    "kanjiBreakup": "鬱陶しい",
+    "story": "කාලගුණය හෝ සිදුවීමක් නිසා සිතට දැනෙන බර ගතිය."
+  },
+  {
+    "id": "ep_133",
+    "expression": "わずらわしい",
+    "category": "Emotions & People",
+    "furigana": "わずらわしい",
+    "romaji": "wazurashii",
+    "meaningSinhala": "කම්මැලි / කරදරකාරී / Troublesome",
+    "kanjiBreakup": "煩わしい",
+    "story": "කරන්නට කම්මැලි හෝ හිසරදයක් වන දෙයක්."
+  },
+  {
+    "id": "ep_134",
+    "expression": "めんどうくさい",
+    "category": "Emotions & People",
+    "furigana": "めんどうくさい",
+    "romaji": "mendoukusai",
+    "meaningSinhala": "අමාරු / කම්මැලි / Troublesome",
+    "kanjiBreakup": "面倒 (trouble)",
+    "story": "කරදරකාරී නිසා කිරීමට කම්මැලි වන."
+  },
+  {
+    "id": "ep_135",
+    "expression": "つまらない",
+    "category": "Emotions & People",
+    "furigana": "つまらない",
+    "romaji": "tsumaranai",
+    "meaningSinhala": "පල රහිත / Boring / Trivial",
+    "kanjiBreakup": "つまらない",
+    "story": "කිසිදු ප්‍රයෝජනයක් හෝ රසයක් නැති දෙයක්."
+  },
+  {
+    "id": "ep_136",
+    "expression": "もったいない",
+    "category": "Emotions & People",
+    "furigana": "もったいない",
+    "romaji": "mottainai",
+    "meaningSinhala": "අපරාදේ / Wasteful",
+    "kanjiBreakup": "勿体無い",
+    "story": "පාවිච්චි නොකර විසි කිරීමට නාස්ති වන දෙයක්."
+  },
+  {
+    "id": "ep_137",
+    "expression": "うるさい",
+    "category": "Emotions & People",
+    "furigana": "うるさい",
+    "romaji": "urusai",
+    "meaningSinhala": "ශබ්ද වැඩි / නරක කරදරකාරී / Noisy / Annoying",
+    "kanjiBreakup": "煩い",
+    "story": "අධික ශබ්දය නිසා කණට කරදරයක් වන."
+  },
+  {
+    "id": "ep_138",
+    "expression": "騒々しい",
+    "category": "Emotions & People",
+    "furigana": "そうぞうしい",
+    "romaji": "souzoushii",
+    "meaningSinhala": "කෝලාහල / Noisy / Tumultuous",
+    "kanjiBreakup": "騒々しい",
+    "story": "පිරිසක් එක් වී ඝෝෂාකාරී ලෙස හැසිරෙන."
+  },
+  {
+    "id": "ep_139",
+    "expression": "穏やかな",
+    "category": "Emotions & People",
+    "furigana": "おだやかな",
+    "romaji": "odayakana",
+    "meaningSinhala": "සන්සුන් / Calm / Peaceful",
+    "kanjiBreakup": "穏やか (calm)",
+    "story": "කිසිදු කලබලයක් නැති සන්සුන් ස්වභාවය."
+  },
+  {
+    "id": "ep_140",
+    "expression": "活発な",
+    "category": "Emotions & People",
+    "furigana": "かっぱつな",
+    "romaji": "kappatsuna",
+    "meaningSinhala": "ශක්තිමත් / ක්‍රියාශීලී / Active",
+    "kanjiBreakup": "活発 (active)",
+    "story": "ඕනෑම වැඩකට ක්‍රියාශීලීව සම්බන්ධ වන."
+  },
+  {
+    "id": "ep_141",
+    "expression": "素朴な",
+    "category": "Emotions & People",
+    "furigana": "そぼくな",
+    "romaji": "sobokuna",
+    "meaningSinhala": "සරල / Simple / Artless",
+    "kanjiBreakup": "素朴 (simple)",
+    "story": "කිසිදු ආඩම්බරයක් නැති සරල ගැමියෙකු වැනි."
+  },
+  {
+    "id": "ep_142",
+    "expression": "謙虚な",
+    "category": "Emotions & People",
+    "furigana": "けんきょな",
+    "romaji": "kenkyona",
+    "meaningSinhala": "නිහතමානී / Humble",
+    "kanjiBreakup": "謙虚 (humble)",
+    "story": "තමාගේ දස්කම් පෙන්වා නොදී නිහතමානීව සිටින."
+  },
+  {
+    "id": "ep_143",
+    "expression": "傲慢な",
+    "category": "Emotions & People",
+    "furigana": "ごうまんな",
+    "romaji": "goumanna",
+    "meaningSinhala": "අහංකාර / Arrogant",
+    "kanjiBreakup": "傲慢 (arrogant)",
+    "story": "අන් අයට වඩා තමා උසස් යැයි සිතන අහංකාර."
+  },
+  {
+    "id": "ep_144",
+    "expression": "臆病な",
+    "category": "Emotions & People",
+    "furigana": "おくびょうな",
+    "romaji": "okubyouna",
+    "meaningSinhala": "බියගුලු / Cowardly",
+    "kanjiBreakup": "臆病 (coward)",
+    "story": "කුඩා දෙයකටත් බියට පත්වන බියගුලු."
+  },
+  {
+    "id": "ep_145",
+    "expression": "大胆な",
+    "category": "Emotions & People",
+    "furigana": "だいたんな",
+    "romaji": "daitanna",
+    "meaningSinhala": "නොබියව කරන / Bold / Daring",
+    "kanjiBreakup": "大胆 (bold)",
+    "story": "අභියෝගවලට කිසිදු බයක් නැතුව මුහුණ දෙන."
+  },
+  {
+    "id": "ep_146",
+    "expression": "ずる賢い",
+    "category": "Emotions & People",
+    "furigana": "ずるがこい",
+    "romaji": "zurugakoi",
+    "meaningSinhala": "කපටි සහ නරක / Cunning / Crafty",
+    "kanjiBreakup": "狡賢い",
+    "story": "නරක අයුරින් අන් අයව රවටන කපටි."
+  },
+  {
+    "id": "ep_147",
+    "expression": "狡い",
+    "category": "Emotions & People",
+    "furigana": "こすい",
+    "romaji": "kosui",
+    "meaningSinhala": "මසුරු / Sneaky",
+    "kanjiBreakup": "狡い",
+    "story": "තමාට පමණක් වාසි සැලසීමට කටයුතු කරන."
+  },
+  {
+    "id": "ep_148",
+    "expression": "要領が良い",
+    "category": "Emotions & People",
+    "furigana": "ようりょうがいい",
+    "romaji": "youryou ga ii",
+    "meaningSinhala": "වැඩ දන්නා / Clever / Efficient",
+    "kanjiBreakup": "要領 (gist) + 良い (good)",
+    "story": "ඕනෑම වැඩක් ඉතා දක්ෂ ලෙස සහ ඉක්මනින් කරගන්නා."
+  },
+  {
+    "id": "ep_149",
+    "expression": "器用な",
+    "category": "Emotions & People",
+    "furigana": "きような",
+    "romaji": "kiyouna",
+    "meaningSinhala": "දක්ෂ / Skillful",
+    "kanjiBreakup": "器用 (skilful)",
+    "story": "අත්වලින් කරන වැඩ ඉතා දක්ෂ ලෙස කරන."
+  },
+  {
+    "id": "ep_150",
+    "expression": "不器用な",
+    "category": "Emotions & People",
+    "furigana": "ぶきような",
+    "romaji": "bukiyouna",
+    "meaningSinhala": "අදක්ෂ / Clumsy",
+    "kanjiBreakup": "不器用 (clumsy)",
+    "story": "අත්වලින් කරන වැඩ අමාරුවෙන් කරන."
+  },
+  {
+    "id": "ep_151",
+    "expression": "強気な",
+    "category": "Emotions & People",
+    "furigana": "つよきな",
+    "romaji": "tsuyokina",
+    "meaningSinhala": "ස්ථිර / Strong-willed",
+    "kanjiBreakup": "強気 (strong spirit)",
+    "story": "ප්‍රශ්න හමුවේ පසුබබා නොයන දැඩි ස්ථාවරයක සිටින."
+  },
+  {
+    "id": "ep_152",
+    "expression": "弱気な",
+    "category": "Emotions & People",
+    "furigana": "よわきな",
+    "romaji": "yowakina",
+    "meaningSinhala": "දුර්වල මනසින් සිටින / Timid",
+    "kanjiBreakup": "弱気 (weak spirit)",
+    "story": "ප්‍රශ්න හමුවේ බියට පත්වන."
+  },
+  {
+    "id": "ep_153",
+    "expression": "暢気な",
+    "category": "Emotions & People",
+    "furigana": "のんきな",
+    "romaji": "nonkina",
+    "meaningSinhala": "හිතේ බරක් නැති / Carefree",
+    "kanjiBreakup": "気 (spirit)",
+    "story": "කිසිදු කණගාටුවක් නැතිව සැහැල්ලුවෙන් කාලය ගත කරන."
+  },
+  {
+    "id": "ep_154",
+    "expression": "気さくな",
+    "category": "Emotions & People",
+    "furigana": "きさくな",
+    "romaji": "kisakuna",
+    "meaningSinhala": "මිත්‍රශීලී / Friendly",
+    "kanjiBreakup": "気さく (friendly)",
+    "story": "පළමු වරට හමුවුණත් ඉතා මිත්‍රශීලී ලෙස කතා කරන."
+  },
+  {
+    "id": "ep_155",
+    "expression": "社交的な",
+    "category": "Emotions & People",
+    "furigana": "しゃこうてきな",
+    "romaji": "shakoutekina",
+    "meaningSinhala": "සමාජශීලී / Sociable",
+    "kanjiBreakup": "社交 (social) + 的 (ic)",
+    "story": "අන් අය සමඟ පහසුවෙන් හුරුවී කතාබස් කරන."
+  },
+  {
+    "id": "ep_156",
+    "expression": "内気な",
+    "category": "Emotions & People",
+    "furigana": "うちきな",
+    "romaji": "uchikina",
+    "meaningSinhala": "ලාජ්ජශීලී / Timid / Shy",
+    "kanjiBreakup": "内気 (shy)",
+    "story": "අන් අය ඉදිරියට යන්න ලැජ්ජා වන."
+  },
+  {
+    "id": "ep_157",
+    "expression": "頑固な",
+    "category": "Emotions & People",
+    "furigana": "がんこな",
+    "romaji": "gankona",
+    "meaningSinhala": "තද ගති ඇති / Stubborn",
+    "kanjiBreakup": "頑固 (stubborn)",
+    "story": "තමාගේ අදහසම වෙනස් නොකර සිටින."
+  },
+  {
+    "id": "ep_158",
+    "expression": "気まぐれな",
+    "category": "Emotions & People",
+    "furigana": "きまぐれな",
+    "romaji": "kimagurena",
+    "meaningSinhala": "මනස්ගාත / Fickle",
+    "kanjiBreakup": "気まぐれ (whimsical)",
+    "story": "විනාඩියෙන් විනාඩියට අදහස් සහ මනෝභාවය වෙනස් වන."
+  },
+  {
+    "id": "ep_159",
+    "expression": "いい加減な",
+    "category": "Emotions & People",
+    "furigana": "いいかげんな",
+    "romaji": "iikagenna",
+    "meaningSinhala": "වගකීමක් නැති / Irresponsible",
+    "kanjiBreakup": "いい加減 (irresponsible)",
+    "story": "කරන වැඩක් නිසි ලෙස වගකීමකින් තොරව කරන."
+  },
+  {
+    "id": "ep_160",
+    "expression": "真剣な",
+    "category": "Emotions & People",
+    "furigana": "しんけいな / しんけんな",
+    "romaji": "shinken'na",
+    "meaningSinhala": "බැරෑරුම් / Serious",
+    "kanjiBreakup": "真剣 (earnest)",
+    "story": "ඉතා බැරෑරුම් ලෙස අවංකව වැඩ කරන."
+  },
+  {
+    "id": "ep_161",
+    "expression": "呑気な",
+    "category": "Emotions & People",
+    "furigana": "どんきな",
+    "romaji": "donkina",
+    "meaningSinhala": "සන්සුන් / Carefree",
+    "kanjiBreakup": "呑気 (easygoing)",
+    "story": "කිසිදු කලබලයක් නැතිව සන්සුන්ව සිටින."
+  },
+  {
+    "id": "ep_162",
+    "expression": "呑気",
+    "category": "Emotions & People",
+    "furigana": "どんき",
+    "romaji": "donki",
+    "meaningSinhala": "සැහැල්ලු මනස / Easygoing nature",
+    "kanjiBreakup": "呑気",
+    "story": "හදිස්සියක් නැති ස්වභාවය."
+  },
+  {
+    "id": "ep_163",
+    "expression": "冷酷な",
+    "category": "Emotions & People",
+    "furigana": "れいこくな",
+    "romaji": "reikokuna",
+    "meaningSinhala": "ക്രൂര / Callous / Cruel",
+    "kanjiBreakup": "冷酷 (cruel)",
+    "story": "අනුන්ගේ දුක නොසලකා හරින ක්‍රර ස්වභාවය."
+  },
+  {
+    "id": "ep_164",
+    "expression": "温厚な",
+    "category": "Emotions & People",
+    "furigana": "おんこうな",
+    "romaji": "onkouna",
+    "meaningSinhala": "කරුණාවන්ත / Mild / Gentle",
+    "kanjiBreakup": "温厚 (gentle)",
+    "story": "ඉතා සන්සුන් කරුණාවන්ත ගතිගුණ ඇති."
+  },
+  {
+    "id": "ep_165",
+    "expression": "気さく",
+    "category": "Emotions & People",
+    "furigana": "きさく",
+    "romaji": "kisaku",
+    "meaningSinhala": "මිත්‍රශීලී / Approachable",
+    "kanjiBreakup": "気さく",
+    "story": "ප්‍රියජනක ලෙස හැසිරෙන."
+  },
+  {
+    "id": "ep_166",
+    "expression": "謙虚",
+    "category": "Emotions & People",
+    "furigana": "けんきょ",
+    "romaji": "kenkyo",
+    "meaningSinhala": "නිහතමානීකම / Humility",
+    "kanjiBreakup": "謙虚",
+    "story": "තමා උසස් කොට නොසලකන නිහතමානී ගුණය."
+  },
+  {
+    "id": "ep_167",
+    "expression": "無愛想",
+    "category": "Emotions & People",
+    "furigana": "ぶあいそう",
+    "romaji": "buaisou",
+    "meaningSinhala": "මහන්සියි වගේ සිටින / Unfriendly",
+    "kanjiBreakup": "無 (no) + 愛想 (sociability)",
+    "story": "අන් අය සමඟ හිනාවී කතා නොකරන."
+  },
+  {
+    "id": "ep_168",
+    "expression": "気難しい",
+    "category": "Emotions & People",
+    "furigana": "きむずかしい",
+    "romaji": "kimuzukashii",
+    "meaningSinhala": "තරහ යන / Sullen / Hard to please",
+    "kanjiBreakup": "気 (spirit) + 難しい (difficult)",
+    "story": "පහසුවෙන් සතුටු කළ නොහැකි තද ගති ඇති."
+  },
+  {
+    "id": "ep_169",
+    "expression": "無邪気",
+    "category": "Emotions & People",
+    "furigana": "むじゃき",
+    "romaji": "mujaki",
+    "meaningSinhala": "නිරපරාධී / Innocent / Naive",
+    "kanjiBreakup": "無邪気",
+    "story": "කුඩා දරුවෙකු මෙන් කිසිදු කපටිකමක් නැති."
+  },
+  {
+    "id": "ep_170",
+    "expression": "お洒落",
+    "category": "Emotions & People",
+    "furigana": "おしゃれ",
+    "romaji": "oshare",
+    "meaningSinhala": "විලාසිතා කරන / Stylish / Fashionable",
+    "kanjiBreakup": "お洒落",
+    "story": "ඇඳුම් පැළඳුම් පිරිසිදුවට විලාසිතාවට අඳින."
+  }
+]

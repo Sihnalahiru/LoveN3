@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "ne_001",
+    "expression": "自然",
+    "category": "Nature & Environment",
+    "furigana": "しぜん",
+    "romaji": "shizen",
+    "meaningSinhala": "ස්වභාවධර්මය / Nature",
+    "kanjiBreakup": "自 (self) + 然 (so)",
+    "story": "පරිසරය සහ ගස්කොළන් වලින් පිරුණු ස්වභාවික ලෝකය."
+  },
+  {
+    "id": "ne_002",
+    "expression": "環境",
+    "category": "Nature & Environment",
+    "furigana": "かんきょう",
+    "romaji": "kankyou",
+    "meaningSinhala": "පරිසරය / Environment",
+    "kanjiBreakup": "環 (ring) + 境 (boundary)",
+    "story": "අප වටා ඇති ස්වභාවික සහ ජීවත්වන පරිසරය."
+  },
+  {
+    "id": "ne_003",
+    "expression": "気候",
+    "category": "Nature & Environment",
+    "furigana": "きこう",
+    "romaji": "kikou",
+    "meaningSinhala": "කාලගුණය / Climate",
+    "kanjiBreakup": "気 (air/spirit) + 候 (season)",
+    "story": "යම් ප්‍රදේශයක පවතින සාමාන්‍ය කාලගුණික තත්ත්වය."
+  },
+  {
+    "id": "ne_004",
+    "expression": "天気",
+    "category": "Nature & Environment",
+    "furigana": "てんき",
+    "romaji": "tenki",
+    "meaningSinhala": "வானிலை / Weather",
+    "kanjiBreakup": "天 (heaven) + 気 (spirit)",
+    "story": "අහසේ ඇති අව්ව, වැස්ස වැනි තත්ත්වය."
+  },
+  {
+    "id": "ne_005",
+    "expression": "気温",
+    "category": "Nature & Environment",
+    "furigana": "きおん",
+    "romaji": "kion",
+    "meaningSinhala": "උෂ්ණත්වය / Temperature",
+    "kanjiBreakup": "気 (air) + 温 (warm)",
+    "story": "වාතයේ උණුසුම් හෝ සීතල මට්ටම."
+  },
+  {
+    "id": "ne_006",
+    "expression": "湿度",
+    "category": "Nature & Environment",
+    "furigana": "しつど",
+    "romaji": "shitsudo",
+    "meaningSinhala": "ආර්ද්‍රතාව / Humidity",
+    "kanjiBreakup": "湿 (moist) + 度 (degree)",
+    "story": "වාතයේ ඇති තෙතමනය ප්‍රමාණය."
+  },
+  {
+    "id": "ne_007",
+    "expression": "台風",
+    "category": "Nature & Environment",
+    "furigana": "たいふう",
+    "romaji": "taifuu",
+    "meaningSinhala": "සුළි කුණාටුව / Typhoon",
+    "kanjiBreakup": "台 (pedestal) + 風 (wind)",
+    "story": "ජපානයට නිතර බලපාන ප්‍රබල සුළි කුණාටුව."
+  },
+  {
+    "id": "ne_008",
+    "expression": "地震",
+    "category": "Nature & Environment",
+    "furigana": "じしん",
+    "romaji": "jishin",
+    "meaningSinhala": "භූමිකම්පාව / Earthquake",
+    "kanjiBreakup": "地 (earth) + 震 (quake)",
+    "story": "පොළොව කම්පා වන ස්වභාවික සංසිද්ධිය."
+  },
+  {
+    "id": "ne_009",
+    "expression": "津波",
+    "category": "Nature & Environment",
+    "furigana": "つなみ",
+    "romaji": "tsunami",
+    "meaningSinhala": "සුනාමිය / Tsunami",
+    "kanjiBreakup": "津 (port) + 波 (wave)",
+    "story": "මුහුදු රළ ගොඩබිමට ගලා එන ප්‍රබල රළ පහර."
+  },
+  {
+    "id": "ne_010",
+    "expression": "噴火",
+    "category": "Nature & Environment",
+    "furigana": "ふんか",
+    "romaji": "funka",
+    "meaningSinhala": "ගිනිකඳු පිපිරීම / Volcanic eruption",
+    "kanjiBreakup": "噴 (spout) + 火 (fire)",
+    "story": "ගිනිකන්දකින් ලාවා සහ දුම් පිටවීම."
+  },
+  {
+    "id": "ne_011",
+    "expression": "虹",
+    "category": "Nature & Environment",
+    "furigana": "にじ",
+    "romaji": "niji",
+    "meaningSinhala": "දේදුන්න / Rainbow",
+    "kanjiBreakup": "虹 (rainbow)",
+    "story": "වැස්සෙන් පසු අහසේ මතු වන පාට හතේ දේදුන්න."
+  },
+  {
+    "id": "ne_012",
+    "expression": "雷",
+    "category": "Nature & Environment",
+    "furigana": "かみなり",
+    "romaji": "kaminari",
+    "meaningSinhala": "අකුණු ගැසීම / Thunder / Lightning",
+    "kanjiBreakup": "雷 (thunder)",
+    "story": "අහසේ විදුලි කොටා ශබ්ද නගන අවස්ථාව."
+  },
+  {
+    "id": "ne_013",
+    "expression": "霜",
+    "category": "Nature & Environment",
+    "furigana": "しも",
+    "romaji": "shimo",
+    "meaningSinhala": "තුහින / Frost",
+    "kanjiBreakup": "霜 (frost)",
+    "story": "උදෑසන පත්‍ර මත පිහිටන හිම පටලය."
+  },
+  {
+    "id": "ne_014",
+    "expression": "雪",
+    "category": "Nature & Environment",
+    "furigana": "ゆき",
+    "romaji": "yuki",
+    "meaningSinhala": "හිම / Snow",
+    "kanjiBreakup": "雪 (snow)",
+    "story": "ශීත සෘතුවේදී අහසින් වැටෙන සුදු හිම කැට."
+  },
+  {
+    "id": "ne_015",
+    "expression": "氷",
+    "category": "Nature & Environment",
+    "furigana": "こおり",
+    "romaji": "koori",
+    "meaningSinhala": "අයිස් / Ice",
+    "kanjiBreakup": "氷 (ice)",
+    "story": "ජලය සීතල වී ගැටිගැසුණු අයිස්."
+  },
+  {
+    "id": "ne_016",
+    "expression": "星",
+    "category": "Nature & Environment",
+    "furigana": "ほし",
+    "romaji": "hoshi",
+    "meaningSinhala": "තරුව / Star",
+    "kanjiBreakup": "星 (star)",
+    "story": "රාත්‍රී අහසේ බබළන තරු."
+  },
+  {
+    "id": "ne_017",
+    "expression": "月",
+    "category": "Nature & Environment",
+    "furigana": "つき",
+    "romaji": "tsuki",
+    "meaningSinhala": "චන්ද්‍රයා / Moon",
+    "kanjiBreakup": "月 (moon)",
+    "story": "රාත්‍රී අහසේ පායන සඳ."
+  },
+  {
+    "id": "ne_018",
+    "expression": "太陽",
+    "category": "Nature & Environment",
+    "furigana": "たいよう",
+    "romaji": "taiyou",
+    "meaningSinhala": "හිරු / සූර්යයා / Sun",
+    "kanjiBreakup": "太 (big) + 陽 (sun)",
+    "story": "දිවා කාලයේ ආලෝකය දෙන සූර්යයා."
+  },
+  {
+    "id": "ne_019",
+    "expression": "空",
+    "category": "Nature & Environment",
+    "furigana": "そら",
+    "romaji": "sora",
+    "meaningSinhala": "අහස / Sky",
+    "kanjiBreakup": "空 (sky)",
+    "story": "ඉහළින් ඇති නිල් පැහැති අහස."
+  },
+  {
+    "id": "ne_020",
+    "expression": "雲",
+    "category": "Nature & Environment",
+    "furigana": "くも",
+    "romaji": "kumo",
+    "meaningSinhala": "වලාකුළ / Cloud",
+    "kanjiBreakup": "雲 (cloud)",
+    "story": "අහසේ පාවී යන සුදු වලාකුළු."
+  },
+  {
+    "id": "ne_021",
+    "expression": "森",
+    "category": "Nature & Environment",
+    "furigana": "もり",
+    "romaji": "mori",
+    "meaningSinhala": "වනාන්තරය / Forest",
+    "kanjiBreakup": "森 (forest)",
+    "story": "ගස් වැල්වලින් පිරුණු කැලෑව."
+  },
+  {
+    "id": "ne_022",
+    "expression": "林",
+    "category": "Nature & Environment",
+    "furigana": "はやし",
+    "romaji": "hayashi",
+    "meaningSinhala": "කුඩා කැලය / Woods / Grove",
+    "kanjiBreakup": "林 (woods)",
+    "story": "ගස් ස්වල්පයක් ඇති කුඩා වනාන්තරය."
+  },
+  {
+    "id": "ne_023",
+    "expression": "草",
+    "category": "Nature & Environment",
+    "furigana": "くさ",
+    "romaji": "kusa",
+    "meaningSinhala": "තණකොළ / Grass",
+    "kanjiBreakup": "草 (grass)",
+    "story": "බිම වැඩුන තණකොළ සහ පැළෑටි."
+  },
+  {
+    "id": "ne_024",
+    "expression": "花",
+    "category": "Nature & Environment",
+    "furigana": "はな",
+    "romaji": "hana",
+    "meaningSinhala": "මල / Flower",
+    "kanjiBreakup": "花 (flower)",
+    "story": "ශාකවල පිපෙන අලංකාර මල්."
+  },
+  {
+    "id": "ne_025",
+    "expression": "葉",
+    "category": "Nature & Environment",
+    "furigana": "は",
+    "romaji": "ha",
+    "meaningSinhala": "කොළය / Leaf",
+    "kanjiBreakup": "葉 (leaf)",
+    "story": "ගස්වල අත්තක ඇති කොළය."
+  },
+  {
+    "id": "ne_026",
+    "expression": "根",
+    "category": "Nature & Environment",
+    "furigana": "ね",
+    "romaji": "ne",
+    "meaningSinhala": "මුල / Root",
+    "kanjiBreakup": "根 (root)",
+    "story": "පොළොව යටට වර්ධනය වන ශාකයක මුල."
+  },
+  {
+    "id": "ne_027",
+    "expression": "実",
+    "category": "Nature & Environment",
+    "furigana": "み",
+    "romaji": "mi",
+    "meaningSinhala": "පළය / ඵලය / Fruit / Nut",
+    "kanjiBreakup": "実 (fruit)",
+    "story": "ගස්වල හැදෙන ඵල සහ ගෙඩි."
+  },
+  {
+    "id": "ne_028",
+    "expression": "種",
+    "category": "Nature & Environment",
+    "furigana": "たね",
+    "romaji": "tane",
+    "meaningSinhala": "බීජය / Seed",
+    "kanjiBreakup": "種 (seed)",
+    "story": " පැළයක් සෑදීමට ඇති බීජය."
+  },
+  {
+    "id": "ne_029",
+    "expression": "川",
+    "category": "Nature & Environment",
+    "furigana": "かわ",
+    "romaji": "kawa",
+    "meaningSinhala": "ගඟ / River",
+    "kanjiBreakup": "川 (river)",
+    "story": "පොළොව මතින් ගලා යන ජල ධාරාව."
+  },
+  {
+    "id": "ne_030",
+    "expression": "海",
+    "category": "Nature & Environment",
+    "furigana": "うみ",
+    "romaji": "umi",
+    "meaningSinhala": "මුහුද / Sea",
+    "kanjiBreakup": "海 (sea)",
+    "story": "ලුණු වතුරින් පිරුණු විශාල මුහුද."
+  },
+  {
+    "id": "ne_031",
+    "expression": "湖",
+    "category": "Nature & Environment",
+    "furigana": "みずう미",
+    "romaji": "mizuumi",
+    "meaningSinhala": "විල / Lake",
+    "kanjiBreakup": "水 (water) + 湖 (lake)",
+    "story": "වටේටම ගොඩබිම ඇති ජල තටාකය."
+  },
+  {
+    "id": "ne_032",
+    "expression": "島",
+    "category": "Nature & Environment",
+    "furigana": "しま",
+    "romaji": "shima",
+    "meaningSinhala": "දිවයින / Island",
+    "kanjiBreakup": "島 (island)",
+    "story": "වටේටම මුහුද ඇති ගොඩබිම් ප්‍රදේශය."
+  },
+  {
+    "id": "ne_033",
+    "expression": "山",
+    "category": "Nature & Environment",
+    "furigana": "やま",
+    "romaji": "yama",
+    "meaningSinhala": "කන්ද / Mountain",
+    "kanjiBreakup": "山 (mountain)",
+    "story": "උස් වූ භූමියක් වන කන්ද."
+  },
+  {
+    "id": "ne_034",
+    "expression": "谷",
+    "category": "Nature & Environment",
+    "furigana": "たに",
+    "romaji": "tani",
+    "meaningSinhala": "මිටියාවත / Valley",
+    "kanjiBreakup": "谷 (valley)",
+    "story": "කඳු දෙකක් අතර පිහිටි පහත් බිම."
+  },
+  {
+    "id": "ne_035",
+    "expression": "岩",
+    "category": "Nature & Environment",
+    "furigana": "いわ",
+    "romaji": "iwa",
+    "meaningSinhala": "පාෂාණය / ගල / Rock",
+    "kanjiBreakup": "岩 (rock)",
+    "story": "పెద్ద ගල් පර්වතය."
+  },
+  {
+    "id": "ne_036",
+    "expression": "砂",
+    "category": "Nature & Environment",
+    "furigana": "すな",
+    "romaji": "suna",
+    "meaningSinhala": "වැලි / Sand",
+    "kanjiBreakup": "砂 (sand)",
+    "story": "මුහුදු වෙරළේ හෝ කාන්තාරයේ ඇති වැලි."
+  },
+  {
+    "id": "ne_037",
+    "expression": "泥",
+    "category": "Nature & Environment",
+    "furigana": "どろ",
+    "romaji": "doro",
+    "meaningSinhala": "මඩ / Mud",
+    "kanjiBreakup": "泥 (mud)",
+    "story": "ජලය සමඟ මිශ්‍ර වූ තෙත් මඩ."
+  },
+  {
+    "id": "ne_038",
+    "expression": "動物",
+    "category": "Nature & Environment",
+    "furigana": "どうぶつ",
+    "romaji": "doubutsu",
+    "meaningSinhala": "සතා / Animal",
+    "kanjiBreakup": "動 (move) + 物 (thing)",
+    "story": "පොළොවේ ජීවත් වන සතුන්."
+  },
+  {
+    "id": "ne_039",
+    "expression": "植物",
+    "category": "Nature & Environment",
+    "furigana": "しょくぶつ",
+    "romaji": "shokubutsu",
+    "meaningSinhala": "ශාකය / Plant",
+    "kanjiBreakup": "植 (plant) + 物 (thing)",
+    "story": "පොළොවේ වැඩෙන ගස්කොළන්."
+  },
+  {
+    "id": "ne_040",
+    "expression": "昆虫",
+    "category": "Nature & Environment",
+    "furigana": "こんちゅう",
+    "romaji": "konchuu",
+    "meaningSinhala": "කෘමියා / Insect",
+    "kanjiBreakup": "昆 (insect) + 虫 (bug)",
+    "story": "කුහුඹුවන් සහ සමනලුන් වැනි සතුන්."
+  },
+  {
+    "id": "ne_041",
+    "expression": "環境保護",
+    "category": "Nature & Environment",
+    "furigana": "かんきょうほご",
+    "romaji": "kankyou hoga",
+    "meaningSinhala": "පරිසර ආරක්ෂාව / Environmental protection",
+    "kanjiBreakup": "環境 (environment) + 保護 (protection)",
+    "story": "පරිසරය දූෂණයෙන් ආරක්ෂා කර ගැනීම."
+  },
+  {
+    "id": "ne_042",
+    "expression": "地球温暖化",
+    "category": "Nature & Environment",
+    "furigana": "ちきゅうおんだんか",
+    "romaji": "chikyuu ondanka",
+    "meaningSinhala": "පෘථිවි උණුසුම් වීම / Global warming",
+    "kanjiBreakup": "地球 (earth) + 温暖化 (warming)",
+    "story": "පෘථිවියේ උෂ්ණත්වය ක්‍රමයෙන් ඉහළ යාම."
+  },
+  {
+    "id": "ne_043",
+    "expression": "大気汚染",
+    "category": "Nature & Environment",
+    "furigana": "たいきおせん",
+    "romaji": "taiki osen",
+    "meaningSinhala": "වායු දූෂණය / Air pollution",
+    "kanjiBreakup": "大気 (atmosphere) + 汚染 (pollution)",
+    "story": "කර්මාන්තශාලා දුම නිසා වාතය නරක් වීම."
+  },
+  {
+    "id": "ne_044",
+    "expression": "水質汚濁",
+    "category": "Nature & Environment",
+    "furigana": "すいしつおだく",
+    "romaji": "suishitsu odaku",
+    "meaningSinhala": "ජල දූෂණය / Water pollution",
+    "kanjiBreakup": "水質 (water quality) + 汚濁 (pollution)",
+    "story": "කර්මාන්ත අපද්‍රව්‍ය නිසා ජලය කිළිටි වීම."
+  },
+  {
+    "id": "ne_045",
+    "expression": "自然破壊",
+    "category": "Nature & Environment",
+    "furigana": "しぜんはかい",
+    "romaji": "shizen hakai",
+    "meaningSinhala": "ස්වභාවධර්මය විනාශ වීම / Destruction of nature",
+    "kanjiBreakup": "自然 (nature) + 破壊 (destruction)",
+    "story": "කැලෑ කපා දැමීම නිසා පරිසරය විනාශ වීම."
+  },
+  {
+    "id": "ne_046",
+    "expression": "絶滅危惧種",
+    "category": "Nature & Environment",
+    "furigana": "ぜつめつきぐしゅ",
+    "romaji": "zetsumetsu kigushu",
+    "meaningSinhala": "වඳ වී යාමේ තර්ජනයට ලක් වූ ජීවීන් / Endangered species",
+    "kanjiBreakup": "絶滅 (extinction) + 危惧 (fear) + 種 (species)",
+    "story": "ඉදිරියේදී මිහිමතින් නැති වී යා හැකි සත්ත්ව සහ ශාක විශේෂ."
+  },
+  {
+    "id": "ne_047",
+    "expression": "生態系",
+    "category": "Nature & Environment",
+    "furigana": "せいたいけい",
+    "romaji": "seitaikei",
+    "meaningSinhala": "පරිසර පද්ධතිය / Ecosystem",
+    "kanjiBreakup": "生態 (ecology) + 系 (system)",
+    "story": "ජීවීන් සහ පරිසරය අතර ඇති අන්‍යෝන්‍ය සම්බන්ධතාව."
+  },
+  {
+    "id": "ne_048",
+    "expression": "資源リサイクル",
+    "category": "Nature & Environment",
+    "furigana": "しげんりさいくる",
+    "romaji": "shigen risaikuru",
+    "meaningSinhala": "සම්පත් පුනഃචක්‍රීකරණය / Resource recycling",
+    "kanjiBreakup": "資源 (resource) + リサイクル (recycle)",
+    "story": "ඉවතලන ද්‍රව්‍ය නැවත ප්‍රයෝජනයට ගැනීම."
+  },
+  {
+    "id": "ne_049",
+    "expression": "再生可能エネルギー",
+    "category": "Nature & Environment",
+    "furigana": "さいせいかのうえねるぎー",
+    "romaji": "saisei kanou enerugī",
+    "meaningSinhala": "පුනර්ජනනීය බලශක්තිය / Renewable energy",
+    "kanjiBreakup": "再生 (regenerate) + 可能 (possible) + エネルギー (energy)",
+    "story": "සූර්යාලෝකය සහ සුළං මඟින් ලබන බලශක්තිය."
+  },
+  {
+    "id": "ne_050",
+    "expression": "太陽光発電",
+    "category": "Nature & Environment",
+    "furigana": "たいようこうはつでん",
+    "romaji": "taiyoukou hatsuden",
+    "meaningSinhala": "සූර්ය විදුලි උත්පාදනය / Solar power generation",
+    "kanjiBreakup": "太陽光 (sunlight) + 発電 (power generation)",
+    "story": "හිරු එළියෙන් විදුලිය නිපදවීම."
+  },
+  {
+    "id": "ne_051",
+    "expression": "風力発電",
+    "category": "Nature & Environment",
+    "furigana": "ふうりょくはつでん",
+    "romaji": "fuuryoku hatsuden",
+    "meaningSinhala": "සුළං විදුලි උත්පාදනය / Wind power generation",
+    "kanjiBreakup": "風力 (wind power) + 発電 (generation)",
+    "story": "සුළඟේ බලයෙන් විදුලිය නිපදවීම."
+  },
+  {
+    "id": "ne_052",
+    "expression": "温室効果ガス",
+    "category": "Nature & Environment",
+    "furigana": "おんしつこうかがす",
+    "romaji": "onshitsu kouka gasu",
+    "meaningSinhala": " හරිතාගාර වායු / Greenhouse gas",
+    "kanjiBreakup": "温室効果 (greenhouse effect) + ガス (gas)",
+    "story": "පෘථිවි උණුසුම වැඩි කරන වායු වර්ග."
+  },
+  {
+    "id": "ne_053",
+    "expression": "森林伐採",
+    "category": "Nature & Environment",
+    "furigana": "しんりんばっさい",
+    "romaji": "shinrin bassai",
+    "meaningSinhala": "වනාන්තර විනාශය / Deforestation",
+    "kanjiBreakup": "森林 (forest) + 伐採 (felling)",
+    "story": "ගස් වැල් කපා දැමීමේ ක්‍රියාවලිය."
+  },
+  {
+    "id": "ne_054",
+    "expression": "植林",
+    "category": "Nature & Environment",
+    "furigana": "しょくりん",
+    "romaji": "shokurin",
+    "meaningSinhala": "ගස් සිටුවීම / Afforestation / Tree planting",
+    "kanjiBreakup": "植 (plant) + 林 (woods)",
+    "story": "හිස් බිම්වල නැවත ගස් වැල් සිටුවීම."
+  },
+  {
+    "id": "ne_055",
+    "expression": "気象庁",
+    "category": "Nature & Environment",
+    "furigana": "きしょうちょう",
+    "romaji": "kishouchou",
+    "meaningSinhala": "කාලගුණ විද්‍යා දෙපාර්තමේන්තුව / Meteorological Agency",
+    "kanjiBreakup": "気象 (weather) + 庁 (agency)",
+    "story": "කාලගුණය පුරෝකථනය කරන රජයේ ආයතනය."
+  },
+  {
+    "id": "ne_056",
+    "expression": "天気予報",
+    "category": "Nature & Environment",
+    "furigana": "てんきよほう",
+    "romaji": "tenki yohou",
+    "meaningSinhala": "කාලගුණ අනාවැකිය / Weather forecast",
+    "kanjiBreakup": "天気 (weather) + 予報 (forecast)",
+    "story": "හෙට දවසේ අව්ව හෝ වැස්ස ගැන දන්වන ප්‍රවෘත්තිය."
+  },
+  {
+    "id": "ne_057",
+    "expression": "最高気温",
+    "category": "Nature & Environment",
+    "furigana": "さいこうきおん",
+    "romaji": "saikou kion",
+    "meaningSinhala": "උපරිම උෂ්ණත්වය / Maximum temperature",
+    "kanjiBreakup": "最高 (maximum) + 気温 (temperature)",
+    "story": "දවසක වාර්තා වන වැඩිම උණුසුම."
+  },
+  {
+    "id": "ne_058",
+    "expression": "最低気温",
+    "category": "Nature & Environment",
+    "furigana": "さいていきおん",
+    "romaji": "saitei kion",
+    "meaningSinhala": "අවම උෂ්ණත්වය / Minimum temperature",
+    "kanjiBreakup": "最低 (minimum) + 気温 (temperature)",
+    "story": "දවසක වාර්තා වන අඩුම උෂ්ණත්වය."
+  },
+  {
+    "id": "ne_059",
+    "expression": "梅雨",
+    "category": "Nature & Environment",
+    "furigana": "つゆ / ばいう",
+    "romaji": "tsuyu",
+    "meaningSinhala": "වැසි සෘතුව (ජපානයේ) / Rainy season in Japan",
+    "kanjiBreakup": "梅雨 (rainy season)",
+    "story": "ජපානයේ ජූනි මාසයේ ඇති වන වැසි සහිත කාලය."
+  },
+  {
+    "id": "ne_060",
+    "expression": "春一番",
+    "category": "Nature & Environment",
+    "furigana": "はるいちばん",
+    "romaji": "haru ichiban",
+    "meaningSinhala": "වසන්තයේ පළමු දකුණු සුළඟ / First gale of spring",
+    "kanjiBreakup": "春 (spring) + 一番 (first)",
+    "story": "වසන්තය ආරම්භයේදී හමන උණුසුම් සුළඟ."
+  },
+  {
+    "id": "ne_061",
+    "expression": "秋晴れ",
+    "category": "Nature & Environment",
+    "furigana": "あきばれ",
+    "romaji": "akibare",
+    "meaningSinhala": "සරත් සෘතුවේ පැහැදිලි අහස / Clear autumn weather",
+    "kanjiBreakup": "秋 (autumn) + 晴れ (clear)",
+    "story": "සරත් සෘතුවේ පවතින ලස්සන අව්ව සහිත කාලගුණය."
+  },
+  {
+    "id": "ne_062",
+    "expression": "夕立",
+    "category": "Nature & Environment",
+    "furigana": "ゆうだち",
+    "romaji": "yuudachi",
+    "meaningSinhala": "හදිසි සවස් කාලීන වැස්ස / Evening shower",
+    "kanjiBreakup": "夕 (evening) + 立 (stand)",
+    "story": "හවසට හදිසියේ වැටෙන තද වැස්ස."
+  },
+  {
+    "id": "ne_063",
+    "expression": "干ばつ",
+    "category": "Nature & Environment",
+    "furigana": "かんばつ",
+    "romaji": "kanbatsu",
+    "meaningSinhala": "වියළි කාලගුණය / නියඟය / Drought",
+    "kanjiBreakup": "干ばつ (drought)",
+    "story": "වැස්ස නොමැතිකම නිසා ජලය සිඳී යාම."
+  },
+  {
+    "id": "ne_064",
+    "expression": "豪雨",
+    "category": "Nature & Environment",
+    "furigana": "ごうう",
+    "romaji": "gouu",
+    "meaningSinhala": "මහා වර්ෂාව / Heavy rain / Downpour",
+    "kanjiBreakup": "豪 (grand) + 雨 (rain)",
+    "story": "ගංවතුර ඇති වන පරිදි වහින මහා වැස්ස."
+  },
+  {
+    "id": "ne_065",
+    "expression": "大雪",
+    "category": "Nature & Environment",
+    "furigana": "おおゆき",
+    "romaji": "ooyuki",
+    "meaningSinhala": "මහා හිම පතනය / Heavy snow",
+    "kanjiBreakup": "大 (big) + 雪 (snow)",
+    "story": "අධික ලෙස හිම වැටෙන කාලගුණය."
+  },
+  {
+    "id": "ne_066",
+    "expression": "吹雪",
+    "category": "Nature & Environment",
+    "furigana": "ふぶき",
+    "romaji": "fubuki",
+    "meaningSinhala": "හිම කුණාටුව / Blizzard",
+    "kanjiBreakup": "吹雪 (snowstorm)",
+    "story": "හිම සමඟ වේගයෙන් හමන සුළඟ."
+  },
+  {
+    "id": "ne_067",
+    "expression": "雷雨",
+    "category": "Nature & Environment",
+    "furigana": "らいう",
+    "romaji": "raiu",
+    "meaningSinhala": "අකුණු සමඟ වැස්ස / Thunderstorm",
+    "kanjiBreakup": "雷 (thunder) + 雨 (rain)",
+    "story": "අකුණු සහ විදුලිය සමඟ ඇති වන වැස්ස."
+  },
+  {
+    "id": "ne_068",
+    "expression": "濃霧",
+    "category": "Nature & Environment",
+    "furigana": "のうむ",
+    "romaji": "noumu",
+    "meaningSinhala": "ඝන මීදුම / Thick fog",
+    "kanjiBreakup": "濃 (thick) + 霧 (fog)",
+    "story": "පාර බලාගත නොහැකි වන පරිදි වැටෙන ඝන මීදුම."
+  },
+  {
+    "id": "ne_069",
+    "expression": "満月",
+    "category": "Nature & Environment",
+    "furigana": "まんげつ",
+    "romaji": "mangetsu",
+    "meaningSinhala": "පූර්ණ චන්ද්‍රයා / Full moon",
+    "kanjiBreakup": "満 (full) + 月 (moon)",
+    "story": "හඳ සම්පූර්ණයෙන්ම පෙනෙන පුරහඳ දිනය."
+  },
+  {
+    "id": "ne_070",
+    "expression": "三日月",
+    "category": "Nature & Environment",
+    "furigana": "みかづき",
+    "romaji": "mikazuki",
+    "meaningSinhala": "වක්කඩ සඳ / Crescent moon",
+    "kanjiBreakup": "三日月",
+    "story": "අලුත් සඳ පායන දවස්වල පෙනෙන දෑකැති හැඩැති සඳ."
+  },
+  {
+    "id": "ne_071",
+    "expression": "流星",
+    "category": "Nature & Environment",
+    "furigana": "りゅうせい",
+    "romaji": "ryuusei",
+    "meaningSinhala": "උල්කාපාතය / Shooting star",
+    "kanjiBreakup": "流 (flow) + 星 (star)",
+    "story": "අහසින් කඩා වැටෙන උල්කාපාත."
+  },
+  {
+    "id": "ne_072",
+    "expression": "銀河",
+    "category": "Nature & Environment",
+    "furigana": "ぎんが",
+    "romaji": "ginga",
+    "meaningSinhala": "ක්ෂීරපථය / Galaxy / Milky Way",
+    "kanjiBreakup": "銀 (silver) + 河 (river)",
+    "story": "තරු බහුල අහසේ ඇති ක්ෂීරපථය."
+  },
+  {
+    "id": "ne_073",
+    "expression": "地平線",
+    "category": "Nature & Environment",
+    "furigana": "ちへいせん",
+    "romaji": "chiheisen",
+    "meaningSinhala": "දිගු ක්ෂිතිජය / Horizon (land)",
+    "kanjiBreakup": "地平 (horizon) + 線 (line)",
+    "story": "පොළොවත් අහසත් එකතු වන රේඛාව."
+  },
+  {
+    "id": "ne_074",
+    "expression": "地殻",
+    "category": "Nature & Environment",
+    "furigana": "ちかく",
+    "romaji": "chikaku",
+    "meaningSinhala": "පොළොවේ පෘಷ್ಠය / Earth's crust",
+    "kanjiBreakup": "地 (earth) + 殻 (shell)",
+    "story": "පොළොවේ පිටතින්ම ඇති ඝන කබොල."
+  },
+  {
+    "id": "ne_075",
+    "expression": "地層",
+    "category": "Nature & Environment",
+    "furigana": "ちそう",
+    "romaji": "chisou",
+    "meaningSinhala": "භූ ස්ථරය / Strata / Geological layer",
+    "kanjiBreakup": "地 (earth) + 層 (layer)",
+    "story": "පොළොව යට පස් සහ ගල් ස්ථර පිහිටා ඇති ආකාරය."
+  },
+  {
+    "id": "ne_076",
+    "expression": "化石",
+    "category": "Nature & Environment",
+    "furigana": "かせき",
+    "romaji": "kaseki",
+    "meaningSinhala": "जीਵਾşමය / Fossil",
+    "kanjiBreakup": "化 (change) + 石 (stone)",
+    "story": "වඳ වී ගිය සත්ත්ව හා ශාකවල පොළොව යට සිර වූ අවශේෂ."
+  },
+  {
+    "id": "ne_077",
+    "expression": "鉱山",
+    "category": "Nature & Environment",
+    "furigana": "こうざん",
+    "romaji": "kouzan",
+    "meaningSinhala": "ඛනිජ කණු / Mine",
+    "kanjiBreakup": "鉱 (mineral) + 山 (mountain)",
+    "story": "රන්, තඹ සහ ගල් අඟුරු හාරන කඳුකර ප්‍රදේශ."
+  },
+  {
+    "id": "ne_078",
+    "expression": "温泉",
+    "category": "Nature & Environment",
+    "furigana": "おんせん",
+    "romaji": "onsen",
+    "meaningSinhala": "උණු දිය උල්පත / Hot spring",
+    "kanjiBreakup": "温 (warm) + 泉 (spring)",
+    "story": "ජපානයේ ස්වභාවික උණු වතුර නාන තටාක."
+  },
+  {
+    "id": "ne_079",
+    "expression": "滝",
+    "category": "Nature & Environment",
+    "furigana": "たき",
+    "romaji": "taki",
+    "meaningSinhala": "දිය ඇල්ල / Waterfall",
+    "kanjiBreakup": "滝 (waterfall)",
+    "story": "උස් කන්දක සිට පහළට පතිත වන ජල ධාරාව."
+  },
+  {
+    "id": "ne_080",
+    "expression": "渓谷",
+    "category": "Nature & Environment",
+    "furigana": "けいこく",
+    "romaji": "keikoku",
+    "meaningSinhala": "නිම්නය / Gorge / Canyon",
+    "kanjiBreakup": "渓 (valley) + 谷 (valley)",
+    "story": "ගඟක් මඟින් කපලා ගිය ගැඹුරු මිටියාවත."
+  },
+  {
+    "id": "ne_081",
+    "expression": "半島",
+    "category": "Nature & Environment",
+    "furigana": "はんとう",
+    "romaji": "hantou",
+    "meaningSinhala": "අර්ධද්වීපය / Peninsula",
+    "kanjiBreakup": "半 (half) + 島 (island)",
+    "story": "පැති තුනකින් මුහුදෙන් වට වූ ගොඩබිම."
+  },
+  {
+    "id": "ne_082",
+    "expression": "岬",
+    "category": "Nature & Environment",
+    "furigana": "みさき",
+    "romaji": "misaki",
+    "meaningSinhala": "තුඩුව / Cape / Promontory",
+    "kanjiBreakup": "岬 (cape)",
+    "story": "මුහුදට නෙරා ගිය ගොඩබිම් තුඩුව."
+  },
+  {
+    "id": "ne_083",
+    "expression": "湾",
+    "category": "Nature & Environment",
+    "furigana": "わん",
+    "romaji": "wan",
+    "meaningSinhala": "බේ / ખાඩිය / Bay",
+    "kanjiBreakup": "湾 (bay)",
+    "story": "මුහුද ගොඩබිමට හැරී ඇති ස්ථානය."
+  },
+  {
+    "id": "ne_084",
+    "expression": "浅瀬",
+    "category": "Nature & Environment",
+    "furigana": "あさせ",
+    "romaji": "asase",
+    "meaningSinhala": "ตื้น දිය / Shallow water",
+    "kanjiBreakup": "浅 (shallow) + 瀬 (rapid)",
+    "story": "ගැඹුරු නොවන පතුල පෙනෙන ජල තඩිය."
+  },
+  {
+    "id": "ne_085",
+    "expression": "深海",
+    "category": "Nature & Environment",
+    "furigana": "しんかい",
+    "romaji": "shinkai",
+    "meaningSinhala": "මහා ගැඹුරු මුහුද / Deep sea",
+    "kanjiBreakup": "深 (deep) + 海 (sea)",
+    "story": "හිරු එළිය නොවැටෙන මුහුදේ ගැඹුරුම කොටස."
+  },
+  {
+    "id": "ne_086",
+    "expression": "珊瑚礁",
+    "category": "Nature & Environment",
+    "furigana": "さんごしょう",
+    "romaji": "sangoshou",
+    "meaningSinhala": "කොරල් පර / Coral reef",
+    "kanjiBreakup": "珊瑚 (coral) + 礁 (reef)",
+    "story": "මුහුදු පතුලේ ඇති අලංකාර කොරල් පර."
+  },
+  {
+    "id": "ne_087",
+    "expression": "湿地",
+    "category": "Nature & Environment",
+    "furigana": "しっち",
+    "romaji": "shicchi",
+    "meaningSinhala": "තෙත් බිම / Wetland",
+    "kanjiBreakup": "湿 (wet) + 地 (earth)",
+    "story": "ජලයෙන් වැසී ඇති තෙත් සහිත බිම් ප්‍රදේශය."
+  },
+  {
+    "id": "ne_088",
+    "expression": "草原",
+    "category": "Nature & Environment",
+    "furigana": "そうげん",
+    "romaji": "sougen",
+    "meaningSinhala": "තණබිම / Grassland / Prairie",
+    "kanjiBreakup": "草 (grass) + 原 (plain)",
+    "story": "තණකොළ වැඩුන විශාල බිම."
+  },
+  {
+    "id": "ne_089",
+    "expression": "砂漠",
+    "category": "Nature & Environment",
+    "furigana": "さばく",
+    "romaji": "sabaku",
+    "meaningSinhala": "කාන්තාරය / Desert",
+    "kanjiBreakup": "砂 (sand) + 漠 (desert)",
+    "story": "වැල්ලෙන් පමණක් පිරුණු ව්‍යාප්ත බිම."
+  },
+  {
+    "id": "ne_090",
+    "expression": "氷河",
+    "category": "Nature & Environment",
+    "furigana": "ひょうが",
+    "romaji": "hyouga",
+    "meaningSinhala": "හිම නදිය / Glacier",
+    "kanjiBreakup": "氷 (ice) + 河 (river)",
+    "story": "ශීත දේශගුණ නිසා සෙමින් ගලා යන හිම ගංගාව."
+  },
+  {
+    "id": "ne_091",
+    "expression": "極地",
+    "category": "Nature & Environment",
+    "furigana": "きょくち",
+    "romaji": "kyokuchi",
+    "meaningSinhala": "ධ්‍රුප ප්‍රදේශය / Polar region",
+    "kanjiBreakup": "極 (extreme) + 地 (land)",
+    "story": "උතුරු සහ දකුණු ධ්‍රුවයේ අන්ත සීතල ප්‍රදේශ."
+  },
+  {
+    "id": "ne_092",
+    "expression": "磁場",
+    "category": "Nature & Environment",
+    "furigana": "じば",
+    "romaji": "jiba",
+    "meaningSinhala": "චුම්භක ක්ෂේත්‍රය / Magnetic field",
+    "kanjiBreakup": "磁 (magnetic) + 場 (place)",
+    "story": "පෘථිවියේ චුම්භක බලය ක්‍රියාත්මක වන ප්‍රදේශය."
+  },
+  {
+    "id": "ne_093",
+    "expression": "重力",
+    "category": "Nature & Environment",
+    "furigana": "じゅうりょく",
+    "romaji": "juuryoku",
+    "meaningSinhala": "ගුරුත්වාකර්ෂණය / Gravity",
+    "kanjiBreakup": "重 (heavy) + 力 (force)",
+    "story": "පොළොව වෙත වස්තූන් අදිනු ලබන බලය."
+  },
+  {
+    "id": "ne_094",
+    "expression": "大気",
+    "category": "Nature & Environment",
+    "furigana": "たいき",
+    "romaji": "taiki",
+    "meaningSinhala": "වායුගෝලය / Atmosphere",
+    "kanjiBreakup": "大 (big) + 気 (air)",
+    "story": "පෘථිවිය වට කර ඇති වායු ස්ථරය."
+  },
+  {
+    "id": "ne_095",
+    "expression": "オゾン層",
+    "category": "Nature & Environment",
+    "furigana": "おぞんそう",
+    "romaji": "ozonsou",
+    "meaningSinhala": "ඕසෝන් ස්ථරය / Ozone layer",
+    "kanjiBreakup": "オゾン (ozone) + 層 (layer)",
+    "story": "සූර්යයාගේ අහිතකර කිරණවලින් පෘථිවිය රකින ස්ථරය."
+  },
+  {
+    "id": "ne_096",
+    "expression": "紫外線",
+    "category": "Nature & Environment",
+    "furigana": "しがいせん",
+    "romaji": "shigaisen",
+    "meaningSinhala": "පාරජම්බුල කිරණ / Ultraviolet rays",
+    "kanjiBreakup": "紫 (purple) + 外 (outside) + 線 (ray)",
+    "story": "හිරු එළියෙන් ලැබෙන හානිකර අදෘශ්‍යමාන කිරණ."
+  },
+  {
+    "id": "ne_097",
+    "expression": "放射線",
+    "category": "Nature & Environment",
+    "furigana": "ほうしゃせん",
+    "romaji": "houshasen",
+    "meaningSinhala": "විකිරණ / Radiation",
+    "kanjiBreakup": "放射 (radiation) + 線 (ray)",
+    "story": "නියුක්ලියර් හෝ ස්වභාවික විකිරණ තරංග."
+  },
+  {
+    "id": "ne_098",
+    "expression": "食物連鎖",
+    "category": "Nature & Environment",
+    "furigana": "しょくもつれんさ",
+    "romaji": "shokumotsu rensa",
+    "meaningSinhala": "ආහාර ජාලය / Food chain",
+    "kanjiBreakup": "食物 (food) + 連鎖 (chain)",
+    "story": "සතුන් එකිනෙකා ආහාරයට ගැනීමේ ස්වභාවික ක්‍රමය."
+  },
+  {
+    "id": "ne_099",
+    "expression": "絶滅",
+    "category": "Nature & Environment",
+    "furigana": "ぜつめつ",
+    "romaji": "zetsumetsu",
+    "meaningSinhala": "වඳ වී යාම / Extinction",
+    "kanjiBreakup": "絶 (cut off) + 滅 (destroy)",
+    "story": "සත්ත්ව හෝ ශාක විශේෂයක් මිහිමතින් සදහටම නැති වී යාම."
+  },
+  {
+    "id": "ne_100",
+    "expression": "保護区",
+    "category": "Nature & Environment",
+    "furigana": "ほごく",
+    "romaji": "hogoku",
+    "meaningSinhala": "ආරක්ෂිත ප්‍රදේශය / Sanctuary / Reserve",
+    "kanjiBreakup": "保護 (protect) + 区 (district)",
+    "story": "සතුන් සහ ගස් ආරක්ෂා කිරීමට වෙන් කළ රක්ෂිතය."
+  },
+  {
+    "id": "ne_101",
+    "expression": "野生動物",
+    "category": "Nature & Environment",
+    "furigana": "やせいどうぶつ",
+    "romaji": "yasei doubutsu",
+    "meaningSinhala": "වන සතා / Wild animal",
+    "kanjiBreakup": "野生 (wild) + 動物 (animal)",
+    "story": "මිනිසුන් අතර නොවැඩී කැලෑවේ ජීවත් වන සතුන්."
+  },
+  {
+    "id": "ne_102",
+    "expression": "渡り鳥",
+    "category": "Nature & Environment",
+    "furigana": "わたりどり",
+    "romaji": "wataridori",
+    "meaningSinhala": "සංචාරක පක්ෂියා / Migratory bird",
+    "kanjiBreakup": "渡り (cross) + 鳥 (bird)",
+    "story": "ඍතු වෙනස් වීමත් සමඟ වෙනත් රටවලට සංචාරය කරන පක්ෂීන්."
+  },
+  {
+    "id": "ne_103",
+    "expression": "新月",
+    "category": "Nature & Environment",
+    "furigana": "しんげつ",
+    "romaji": "shingetsu",
+    "meaningSinhala": "අමාවක සඳ / New moon",
+    "kanjiBreakup": "新 (new) + 月 (moon)",
+    "story": "සඳ නොපෙනී අඳුരു වී ඇති රාත්‍රිය."
+  },
+  {
+    "id": "ne_104",
+    "expression": "四季",
+    "category": "Nature & Environment",
+    "furigana": "しき",
+    "romaji": "shiki",
+    "meaningSinhala": "සාරුතු සතර / Four seasons",
+    "kanjiBreakup": "四 (four) + 季 (season)",
+    "story": "වසන්තය, ග්‍රීෂ්මය, සරත් සහ ශීත යන සෘතු හතර."
+  },
+  {
+    "id": "ne_105",
+    "expression": "初夏",
+    "category": "Nature & Environment",
+    "furigana": "しょか",
+    "romaji": "shoka",
+    "meaningSinhala": "ගිම්හාන මුල් කාලය / Early summer",
+    "kanjiBreakup": "初 (early) + 夏 (summer)",
+    "story": "ගිම්හාන සෘතුව ආරම්භ වන මුල් කාලය."
+  },
+  {
+    "id": "ne_106",
+    "expression": "初秋",
+    "category": "Nature & Environment",
+    "furigana": "しょしゅう",
+    "romaji": "shoshuu",
+    "meaningSinhala": "සරත් සෘතුව මුල් කාලය / Early autumn",
+    "kanjiBreakup": "初 (early) + 秋 (autumn)",
+    "story": "සරත් සෘතුව පටන් ගන්නා කාලය."
+  },
+  {
+    "id": "ne_107",
+    "expression": "晩秋",
+    "category": "Nature & Environment",
+    "furigana": "ばんしゅう",
+    "romaji": "banshuu",
+    "meaningSinhala": "සරත් සෘතුව අවසානය / Late autumn",
+    "kanjiBreakup": "晩 (late) + 秋 (autumn)",
+    "story": "ශීත සෘතුවට පෙර එන සරත් අග භාගය."
+  },
+  {
+    "id": "ne_108",
+    "expression": "初冬",
+    "category": "Nature & Environment",
+    "furigana": "しょとう",
+    "romaji": "shotou",
+    "meaningSinhala": "ශීත සෘතුව මුල් කාලය / Early winter",
+    "kanjiBreakup": "初 (early) + 冬 (winter)",
+    "story": "ශීත කාලය පටන් ගන්නා මුල් සති කිහිපය."
+  },
+  {
+    "id": "ne_109",
+    "expression": "晩冬",
+    "category": "Nature & Environment",
+    "furigana": "ばんとう",
+    "romaji": "bantou",
+    "meaningSinhala": "ශීත සෘතුව අවසානය / Late winter",
+    "kanjiBreakup": "晩 (late) + 冬 (winter)",
+    "story": "ශීත කාලය නිම වී වසන්තය එන මොහොත."
+  },
+  {
+    "id": "ne_110",
+    "expression": "春風",
+    "category": "Nature & Environment",
+    "furigana": "はるかぜ",
+    "romaji": "harukaze",
+    "meaningSinhala": "වසන්ත සුළඟ / Spring breeze",
+    "kanjiBreakup": "春 (spring) + 風 (wind)",
+    "story": "වසන්ත කාලයේ හමන සුවපහසු සුළඟ."
+  },
+  {
+    "id": "ne_111",
+    "expression": "秋風",
+    "category": "Nature & Environment",
+    "furigana": "あきかぜ",
+    "romaji": "akikaze",
+    "meaningSinhala": "සරත් සුළඟ / Autumn breeze",
+    "kanjiBreakup": "秋 (autumn) + 風 (wind)",
+    "story": "සරත් සෘතුවේ සීතල මඳ සුළඟ."
+  },
+  {
+    "id": "ne_112",
+    "expression": "木漏れ日",
+    "category": "Nature & Environment",
+    "furigana": "こもれび",
+    "romaji": "komorebi",
+    "meaningSinhala": "ගස් අතරින් වැටෙන අව් රශ්මිය / Sunlight through trees",
+    "kanjiBreakup": "木 (tree) + 漏れ (leak) + 日 (sun)",
+    "story": "ගස්වල කොළ අතරින් බිමට වැටෙන ඉර එළිය."
+  },
+  {
+    "id": "ne_113",
+    "expression": "山崩れ",
+    "category": "Nature & Environment",
+    "furigana": "やまくずれ",
+    "romaji": "yamakuzure",
+    "meaningSinhala": "කඳු කඩාවැටීම / Landslide",
+    "kanjiBreakup": "山 (mountain) + 崩れ (collapse)",
+    "story": "වැස්ස නිසා කන්දක් කඩා වැටෙන අනතුර."
+  },
+  {
+    "id": "ne_114",
+    "expression": "崖崩れ",
+    "category": "Nature & Environment",
+    "furigana": "がけくずれ",
+    "romaji": "gakekuzure",
+    "meaningSinhala": "පර්වත කඩාවැටීම / Cliff collapse",
+    "kanjiBreakup": "崖 (cliff) + 崩れ (collapse)",
+    "story": "မස්කෙළිය වැනි ප්‍රදේශවල පර්වත කඩා වැටීම."
+  },
+  {
+    "id": "ne_115",
+    "expression": "土砂崩れ",
+    "category": "Nature & Environment",
+    "furigana": "どしゃくずれ",
+    "romaji": "doshakuzure",
+    "meaningSinhala": "පස් කඳු කඩාවැටීම / Landslide / Mudslide",
+    "kanjiBreakup": "土砂 (earth/sand) + 崩れ (collapse)",
+    "story": "වැසි කාලයට පස් කඳු කඩා වැටෙන අනතුරු."
+  },
+  {
+    "id": "ne_116",
+    "expression": "水害",
+    "category": "Nature & Environment",
+    "furigana": "すいがい",
+    "romaji": "suigai",
+    "meaningSinhala": "ගංවතුර උපද්‍රව / Flood damage",
+    "kanjiBreakup": "水 (water) + 害 (harm)",
+    "story": "ගංවතුර නිසා සිදුවන දේපළ හානි."
+  },
+  {
+    "id": "ne_117",
+    "expression": "風害",
+    "category": "Nature & Environment",
+    "furigana": "ふうがい",
+    "romaji": "fuugai",
+    "meaningSinhala": "සුළං උපද්‍රව / Wind damage",
+    "kanjiBreakup": "風 (wind) + 害 (harm)",
+    "story": "සුළි කුණාටු නිසා ගස් බිම ඇද වැටී වන හානි."
+  },
+  {
+    "id": "ne_118",
+    "expression": "塩害",
+    "category": "Nature & Environment",
+    "furigana": "えんがい",
+    "romaji": "engai",
+    "meaningSinhala": "ලුණු වතුරෙන් වන හානිය / Salt damage",
+    "kanjiBreakup": "塩 (salt) + 害 (harm)",
+    "story": "මුහුදු සුළඟ නිසා ගස් හා වගා විනාශ වීම."
+  },
+  {
+    "id": "ne_119",
+    "expression": "冷害",
+    "category": "Nature & Environment",
+    "furigana": "れいがい",
+    "romaji": "reigai",
+    "meaningSinhala": "शीਤලෙන් වන වගා හානිය / Cold-weather damage",
+    "kanjiBreakup": "冷 (cold) + 害 (harm)",
+    "story": "අධික සීතල නිසා වගාවන් පාළුවී යාම."
+  },
+  {
+    "id": "ne_120",
+    "expression": "旱害",
+    "category": "Nature & Environment",
+    "furigana": "かんがい",
+    "romaji": "kangai",
+    "meaningSinhala": "නියඟයෙන් වන හානිය / Drought damage",
+    "kanjiBreakup": "旱 (drought) + 害 (harm)",
+    "story": "වැස්ස නොමැති වීම නිසා වගාවන් විනාශ වීම."
+  }
+]

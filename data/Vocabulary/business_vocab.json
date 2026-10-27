@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "bv_001",
+    "expression": "会議",
+    "category": "Business & Work",
+    "furigana": "かいぎ",
+    "romaji": "kaigi",
+    "meaningSinhala": "රැස්වීම / Meeting",
+    "kanjiBreakup": "会 (meet) + 議 (discussion)",
+    "story": "කාර්යාලයේ වැදගත් කටයුතු සාකච්ඡා කරන රැස්වීම."
+  },
+  {
+    "id": "bv_002",
+    "expression": "会社",
+    "category": "Business & Work",
+    "furigana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaningSinhala": "සමාගම / Company",
+    "kanjiBreakup": "会 (society) + 社 (company)",
+    "story": "අපි රැකියාව කරන ව්‍යාපාරික ආයතනය."
+  },
+  {
+    "id": "bv_003",
+    "expression": "社員",
+    "category": "Business & Work",
+    "furigana": "しゃいん",
+    "romaji": "shain",
+    "meaningSinhala": "සමාගම් සේවකයා / Company employee",
+    "kanjiBreakup": "社 (company) + 員 (member)",
+    "story": "ආයතනයේ සේවය කරන කාර්ය මණ්ඩල සාමාජිකයා."
+  },
+  {
+    "id": "bv_004",
+    "expression": "社長",
+    "category": "Business & Work",
+    "furigana": "しゃちょう",
+    "romaji": "shachou",
+    "meaningSinhala": "සභාපති / අධ්‍යක්ෂක / Company President",
+    "kanjiBreakup": "社 (company) + 長 (head)",
+    "story": "සමාගමේ ප්‍රධානියා හෝ ඉහළම අධ්‍යක්ෂකවරයා."
+  },
+  {
+    "id": "bv_005",
+    "expression": "部長",
+    "category": "Business & Work",
+    "furigana": "ぶちょう",
+    "romaji": "buchou",
+    "meaningSinhala": "අංශ ප්‍රධානී / Department manager",
+    "kanjiBreakup": "部 (department) + 長 (head)",
+    "story": "නිශ්චිත අංශයක ප්‍රධානියා."
+  },
+  {
+    "id": "bv_006",
+    "expression": "課長",
+    "category": "Business & Work",
+    "furigana": "かちょう",
+    "romaji": "kachou",
+    "meaningSinhala": "කොට්ඨාශ ප්‍රධානී / Section manager",
+    "kanjiBreakup": "課 (section) + 長 (head)",
+    "story": "කුඩා අංශයක හෝ සේවා කණ්ඩායමක ප්‍රධානියා."
+  },
+  {
+    "id": "bv_007",
+    "expression": "先輩",
+    "category": "Business & Work",
+    "furigana": "せんぱい",
+    "romaji": "senpai",
+    "meaningSinhala": "ජ්‍යෙෂ්ඨ සේවකයා / Senior colleague",
+    "kanjiBreakup": "先 (ahead) + 輩 (fellow)",
+    "story": "අපට වඩා රැකියාවෙන් හෝ ඉගෙනීමෙන් මුල් වූ ජ්‍යෙෂ්ඨයා."
+  },
+  {
+    "id": "bv_008",
+    "expression": "後輩",
+    "category": "Business & Work",
+    "furigana": "こうはい",
+    "romaji": "kouhai",
+    "meaningSinhala": "කණිෂ්ඨ සේවකයා / Junior colleague",
+    "kanjiBreakup": "後 (behind) + 輩 (fellow)",
+    "story": "අපට වඩා පසුපසින් පැමිණි කණිෂ්ඨයා."
+  },
+  {
+    "id": "bv_009",
+    "expression": "同僚",
+    "category": "Business & Work",
+    "furigana": "どうりょう",
+    "romaji": "douryou",
+    "meaningSinhala": "सहकर्मी / Colleague",
+    "kanjiBreakup": "同 (same) + 僚 (companion)",
+    "story": "එක්ම ආයතනයේ එකට වැඩ කරන සගයා."
+  },
+  {
+    "id": "bv_010",
+    "expression": "取引先",
+    "category": "Business & Work",
+    "furigana": "とりひきさき",
+    "romaji": "torihikisaki",
+    "meaningSinhala": "ව්‍යාපාරික හවුල්කරු / Business partner",
+    "kanjiBreakup": "取引 (deal) + 先 (destination)",
+    "story": "අපේ ආයතනය සමඟ ව්‍යාපාරික ගනුදෙනු කරන පාර්ශ්වය."
+  },
+  {
+    "id": "bv_011",
+    "expression": "顧客",
+    "category": "Business & Work",
+    "furigana": "こきゃく",
+    "romaji": "kokyaku",
+    "meaningSinhala": "පාරිභෝගිකයා / Customer / Client",
+    "kanjiBreakup": "顧 (patronize) + 客 (guest)",
+    "story": "අපගේ සේවාවන් හෝ භාණ්ඩ මිලදී ගන්නා ගනුදෙනුකරු."
+  },
+  {
+    "id": "bv_012",
+    "expression": "商談",
+    "category": "Business & Work",
+    "furigana": "しょうだん",
+    "romaji": "shoudan",
+    "meaningSinhala": "ව්‍යාපාරික සාකච්ඡාව / Business negotiation",
+    "kanjiBreakup": "商 (trade) + 談 (talk)",
+    "story": "ව්‍යාපාරික කොන්දේසි ගැන කරන සාකච්ඡාව."
+  },
+  {
+    "id": "bv_013",
+    "expression": "契約",
+    "category": "Business & Work",
+    "furigana": "けいやく",
+    "romaji": "keiyaku",
+    "meaningSinhala": "ගිවිසුම / Contract",
+    "kanjiBreakup": "契 (pledge) + 約 (promise)",
+    "story": "නීත්‍යානුකූලව අත්සන් කරන ව්‍යාපාරික ගිවිසුම."
+  },
+  {
+    "id": "bv_014",
+    "expression": "計画",
+    "category": "Business & Work",
+    "furigana": "けいかく",
+    "romaji": "keikaku",
+    "meaningSinhala": "සැලැස්ම / Plan",
+    "kanjiBreakup": "計 (measure) + 画 (plan)",
+    "story": "අනාගත කටයුතු සඳහා සකස් කරන සැලැස්ම."
+  },
+  {
+    "id": "bv_015",
+    "expression": "目標",
+    "category": "Business & Work",
+    "furigana": "もくひょう",
+    "romaji": "mokuhyou",
+    "meaningSinhala": "ඉලක්කය / Target / Goal",
+    "kanjiBreakup": "目 (eye) + 標 (mark)",
+    "story": "අපි ළඟා කරගත යුතු ව්‍යාපාරික ඉලක්කය."
+  },
+  {
+    "id": "bv_016",
+    "expression": "報告",
+    "category": "Business & Work",
+    "furigana": "ほうこう",
+    "romaji": "houkoku",
+    "meaningSinhala": "වාර්තා කිරීම / Report",
+    "kanjiBreakup": "報 (report) + 告 (tell)",
+    "story": "කළ කටයුතු පිළිබඳ ඉහළ නිලධාරීන්ට දන්වීම."
+  },
+  {
+    "id": "bv_017",
+    "expression": "連絡",
+    "category": "Business & Work",
+    "furigana": "れんらく",
+    "romaji": "renraku",
+    "meaningSinhala": "සම්බන්ධ වීම / Contact / Notice",
+    "kanjiBreakup": "連 (connect) + 絡 (entwine)",
+    "story": "තොරතුරක් හෝ පණිවිඩයක් ලබා දීම."
+  },
+  {
+    "id": "bv_018",
+    "expression": "相談",
+    "category": "Business & Work",
+    "furigana": "そうだん",
+    "romaji": "soudan",
+    "meaningSinhala": "සාකච්ඡා කිරීම / Consultation",
+    "kanjiBreakup": "相 (together) + 談 (talk)",
+    "story": "ප්‍රශ්නයක් විසඳා ගැනීමට වෙනත් අයෙකු සමඟ සාකච්ඡා කිරීම."
+  },
+  {
+    "id": "bv_019",
+    "expression": "意見",
+    "category": "Business & Work",
+    "furigana": "いけん",
+    "romaji": "iken",
+    "meaningSinhala": "අදහස / Opinion",
+    "kanjiBreakup": "意 (mind) + 見 (view)",
+    "story": "යම් කාරණයක් සම්බන්ධයෙන් අප සතු අදහස."
+  },
+  {
+    "id": "bv_020",
+    "expression": "提案",
+    "category": "Business & Work",
+    "furigana": "ていあん",
+    "romaji": "teian",
+    "meaningSinhala": "යෝජනාව / Proposal",
+    "kanjiBreakup": "提 (present) + 案 (plan)",
+    "story": "නව අදහසක් හෝ වැඩපිළිවෙළක් ඉදිරිපත් කිරීම."
+  },
+  {
+    "id": "bv_021",
+    "expression": "締め切り",
+    "category": "Business & Work",
+    "furigana": "しめきり",
+    "romaji": "shimekiri",
+    "meaningSinhala": "අවසාන දිනය / Deadline",
+    "kanjiBreakup": "締 (tighten) + 切り (cut)",
+    "story": "වැඩක් අවසන් කළ යුතු නියමිත කාල සීමාව."
+  },
+  {
+    "id": "bv_022",
+    "expression": "納期",
+    "category": "Business & Work",
+    "furigana": "のうき",
+    "romaji": "nouki",
+    "meaningSinhala": "භාණ්ඩ භාර දිය යුතු දිනය / Delivery date",
+    "kanjiBreakup": "納 (supply) + 期 (period)",
+    "story": "නිෂ්පාදන හෝ භාණ්ඩ පාරිභෝගිකයාට ලබා දිය යුතු නියමිත දිනය."
+  },
+  {
+    "id": "bv_023",
+    "expression": "残業",
+    "category": "Business & Work",
+    "furigana": "ざんぎょう",
+    "romaji": "zangou",
+    "meaningSinhala": "අතිකාල සේවය / Overtime work",
+    "kanjiBreakup": "残 (leftover) + 業 (work)",
+    "story": "සාමාන්‍ය වැඩ කරන පැය ගණන ඉක්මවා රැකියාවේ නියැලීම."
+  },
+  {
+    "id": "bv_024",
+    "expression": "出張",
+    "category": "Business & Work",
+    "furigana": "しゅっちょう",
+    "romaji": "shucchou",
+    "meaningSinhala": "ව්‍යාපාරික සංචාරය / Business trip",
+    "kanjiBreakup": "出 (go out) + 張 (stretch)",
+    "story": "රැකියාවේ කටයුතු සඳහා වෙනත් ප්‍රදේශයකට යාම."
+  },
+  {
+    "id": "bv_025",
+    "expression": "有給休暇",
+    "category": "Business & Work",
+    "furigana": "ゆうきゅうきゅうか",
+    "romaji": "yuukyuu kyuuka",
+    "meaningSinhala": "වැටුප් සහිත නිවාඩුව / Paid leave",
+    "kanjiBreakup": "有給 (paid) + 休暇 (vacation)",
+    "story": "වැටුප් කප්පාදුවකින් තොරව ලබා ගන්නා නිවාඩු."
+  },
+  {
+    "id": "bv_026",
+    "expression": "給料",
+    "category": "Business & Work",
+    "furigana": "きゅうりょう",
+    "romaji": "kyuuryou",
+    "meaningSinhala": "වැටුප / Salary",
+    "kanjiBreakup": "給 (provide) + 料 (fee)",
+    "story": "මාසිකව රැකියාව වෙනුවෙන් ලැබෙන වැටුප."
+  },
+  {
+    "id": "bv_027",
+    "expression": "ボーナス",
+    "category": "Business & Work",
+    "furigana": "ぼーなす",
+    "romaji": "bōnasu",
+    "meaningSinhala": "බෝනස් / දීමනාව / Bonus",
+    "kanjiBreakup": "Loanword",
+    "story": "වර්ෂය අවසානයේ හෝ මැදදී ලැබෙන විශේෂ දීමනාව."
+  },
+  {
+    "id": "bv_028",
+    "expression": "採用",
+    "category": "Business & Work",
+    "furigana": "さいよう",
+    "romaji": "saiyou",
+    "meaningSinhala": "බඳවා ගැනීම / Employment",
+    "kanjiBreakup": "采 (take) + 用 (use)",
+    "story": "නව සේවකයින් ආයතනයට බඳවා ගැනීම."
+  },
+  {
+    "id": "bv_029",
+    "expression": "辞める",
+    "category": "Business & Work",
+    "furigana": "やめる",
+    "romaji": "yameru",
+    "meaningSinhala": "රැකියාවෙන් ඉවත් වීම / To resign",
+    "kanjiBreakup": "辞 (resign)",
+    "story": "ආයතනයේ සේවයෙන් ඉවත් වීම."
+  },
+  {
+    "id": "bv_030",
+    "expression": "転職",
+    "category": "Business & Work",
+    "furigana": "てんしょく",
+    "romaji": "tenshoku",
+    "meaningSinhala": "රැකියාව මාරු කිරීම / Career change",
+    "kanjiBreakup": "転 (turn) + 職 (job)",
+    "story": "වෙනත් ආයතනයකට රැකියාව මාරු කරගෙන යාම."
+  },
+  {
+    "id": "bv_031",
+    "expression": "就職",
+    "category": "Business & Work",
+    "furigana": "しゅうしょく",
+    "romaji": "shuushoku",
+    "meaningSinhala": "රැකියාවකට යාම / Getting a job",
+    "kanjiBreakup": "就 (take) + 職 (job)",
+    "story": "අලුතින් රැකියාවක් ආරම්භ කිරීම."
+  },
+  {
+    "id": "bv_032",
+    "expression": "履歴書",
+    "category": "Business & Work",
+    "furigana": "りれきしょ",
+    "romaji": "rirekisho",
+    "meaningSinhala": "විස්තර පත්‍රිකාව / Resume",
+    "kanjiBreakup": "履歴 (background) + 書 (document)",
+    "story": "අපගේ අධ්‍යාපන සහ වැඩ අත්දැකීම් ඇතුළත් විස්තර පත්‍රිකාව."
+  },
+  {
+    "id": "bv_033",
+    "expression": "面接",
+    "category": "Business & Work",
+    "furigana": "めんせつ",
+    "romaji": "mensetsu",
+    "meaningSinhala": "සාකච්ඡාව / Job interview",
+    "kanjiBreakup": "面 (face) + 接 (meet)",
+    "story": "රැකියාවක් සඳහා පවත්වන මුහුණට මුහුණ සාකච්ඡාව."
+  },
+  {
+    "id": "bv_034",
+    "expression": "責任",
+    "category": "Business & Work",
+    "furigana": "せきにん",
+    "romaji": "sekinin",
+    "meaningSinhala": "වගකීම / Responsibility",
+    "kanjiBreakup": "責 (blame) + 任 (duty)",
+    "story": "අපට පැවරී ඇති රාජකාරී සහ වගකීම්."
+  },
+  {
+    "id": "bv_035",
+    "expression": "失敗",
+    "category": "Business & Work",
+    "furigana": "しっぱい",
+    "romaji": "shippai",
+    "meaningSinhala": "අසාර්ථක වීම / Failure",
+    "kanjiBreakup": "失 (lose) + 敗 (defeat)",
+    "story": "වැඩකදී සිදුවන අසාර්ථක වීම හෝ වරද."
+  },
+  {
+    "id": "bv_036",
+    "expression": "成功",
+    "category": "Business & Work",
+    "furigana": "せいこう",
+    "romaji": "seikou",
+    "meaningSinhala": "සාර්ථකත්වය / Success",
+    "kanjiBreakup": "成 (achieve) + 功 (success)",
+    "story": "උත්සාහයේ ප්‍රතිඵලයක් ලෙස ලැබෙන සාර්ථකත්වය."
+  },
+  {
+    "id": "bv_037",
+    "expression": "業務",
+    "category": "Business & Work",
+    "furigana": "ぎょうむ",
+    "romaji": "gyoumu",
+    "meaningSinhala": "කාර්යාලීය කටයුතු / Operations",
+    "kanjiBreakup": "業 (work) + 務 (duty)",
+    "story": "ආයතනයේ දෛනික ව්‍යාපාරික කටයුතු."
+  },
+  {
+    "id": "bv_038",
+    "expression": "職場",
+    "category": "Business & Work",
+    "furigana": "しょくば",
+    "romaji": "shokuba",
+    "meaningSinhala": "වැඩ කරන ස්ථානය / Workplace",
+    "kanjiBreakup": "職 (job) + 場 (place)",
+    "story": "අපි සේවය කරන කාර්යාලය හෝ වැඩබිම."
+  },
+  {
+    "id": "bv_039",
+    "expression": "社員証",
+    "category": "Business & Work",
+    "furigana": "しゃいんしょう",
+    "romaji": "shainshou",
+    "meaningSinhala": "සේවක හැඳුනුම්පත / Employee ID card",
+    "kanjiBreakup": "社員 (employee) + 証 (certificate)",
+    "story": "ආයතනය මඟින් නිකුත් කරන හැඳුනුම්පත."
+  },
+  {
+    "id": "bv_040",
+    "expression": "受付",
+    "category": "Business & Work",
+    "furigana": "うけつけ",
+    "romaji": "uketsuke",
+    "meaningSinhala": "පිළිගැනීමේ කවුළුව / Reception desk",
+    "kanjiBreakup": "受 (receive) + 付 (attach)",
+    "story": "ආයතනයට ඇතුළු වන ස්ථානයේ ඇති පිළිගැනීමේ මේසය."
+  },
+  {
+    "id": "bv_041",
+    "expression": "経営",
+    "category": "Business & Work",
+    "furigana": "けいえい",
+    "romaji": "keiei",
+    "meaningSinhala": "ව්‍යාපාර පාලනය / Management",
+    "kanjiBreakup": "経 (manage) + 営 (operate)",
+    "story": "ආයතනයක් සාර්ථකව පාලනය කරගෙන යාම."
+  },
+  {
+    "id": "bv_042",
+    "expression": "管理者",
+    "category": "Business & Work",
+    "furigana": "かんりしゃ",
+    "romaji": "kanrisha",
+    "meaningSinhala": "කළමනාකරු / Administrator",
+    "kanjiBreakup": "管理 (manage) + 者 (person)",
+    "story": "ආයතන අංශ පාලනය කරන තැනැත්තා."
+  },
+  {
+    "id": "bv_043",
+    "expression": "企画",
+    "category": "Business & Work",
+    "furigana": "きかく",
+    "romaji": "kikaku",
+    "meaningSinhala": "ಯෝජනා සැලැස්ම / Project planning",
+    "kanjiBreakup": "企 (plan) + 画 (draw)",
+    "story": "නව ව්‍යාපෘතියක් සඳහා සැලසුම් සකස් කිරීම."
+  },
+  {
+    "id": "bv_044",
+    "expression": "予算",
+    "category": "Business & Work",
+    "furigana": "よさん",
+    "romaji": "yosan",
+    "meaningSinhala": "ബජට් එක / Budget",
+    "kanjiBreakup": "予 (pre) + 算 (calculate)",
+    "story": "වියදම් සඳහා වෙන් කරගත් මුදල් ප්‍රමාණය."
+  },
+  {
+    "id": "bv_045",
+    "expression": "利益",
+    "category": "Business & Work",
+    "furigana": "りえき",
+    "romaji": "rieki",
+    "meaningSinhala": "ලාභය / Profit",
+    "kanjiBreakup": "利 (advantage) + 益 (benefit)",
+    "story": "ව්‍යාපාරයකින් ලැබෙන ශුද්ධ ලාභය."
+  },
+  {
+    "id": "bv_046",
+    "expression": "損失",
+    "category": "Business & Work",
+    "furigana": "そんしつ",
+    "romaji": "sonshitsu",
+    "meaningSinhala": "පාඩුව / Loss",
+    "kanjiBreakup": "損 (loss) + 失 (lose)",
+    "story": "ව්‍යාපාරයකදී සිදුවන ආර්ථික පාඩුව."
+  },
+  {
+    "id": "bv_047",
+    "expression": "経費",
+    "category": "Business & Work",
+    "furigana": "けいひ",
+    "romaji": "keihi",
+    "meaningSinhala": "වියදම් / Expenses",
+    "kanjiBreakup": "経 (pass) + 費 (cost)",
+    "story": "ආයතන කටයුතු සඳහා යන වියදම්."
+  },
+  {
+    "id": "bv_048",
+    "expression": "給与",
+    "category": "Business & Work",
+    "furigana": "きゅうよ",
+    "romaji": "kyuuyo",
+    "meaningSinhala": "පඩිය / Salary",
+    "kanjiBreakup": "給 (provide) + 与 (give)",
+    "story": "සේවකයාට ලබා දෙන වැටුප."
+  },
+  {
+    "id": "bv_049",
+    "expression": "福利厚生",
+    "category": "Business & Work",
+    "furigana": "ふくりこうせい",
+    "romaji": "fukuri kousei",
+    "meaningSinhala": "සුභසාධන පහසුකම් / Welfare benefits",
+    "kanjiBreakup": "福利 (welfare) + 厚生 (public welfare)",
+    "story": "ආයතනයෙන් සේවකයින්ට දෙන අමතර පහසුකම්."
+  },
+  {
+    "id": "bv_050",
+    "expression": "社内",
+    "category": "Business & Work",
+    "furigana": "しゃない",
+    "romaji": "shanai",
+    "meaningSinhala": "ආයතනය ඇතුළේ / Inside the company",
+    "kanjiBreakup": "社 (company) + 内 (inside)",
+    "story": "ආයතනික පරිශ්‍රය තුළ."
+  },
+  {
+    "id": "bv_051",
+    "expression": "社外",
+    "category": "Business & Work",
+    "furigana": "しゃがい",
+    "romaji": "shagai",
+    "meaningSinhala": "ආයතනයෙන් පිටත / Outside the company",
+    "kanjiBreakup": "社 (company) + 外 (outside)",
+    "story": "ආයතනයෙන් බාහිර ප්‍රදේශය."
+  },
+  {
+    "id": "bv_052",
+    "expression": "出社",
+    "category": "Business & Work",
+    "furigana": "しゅっしゃ",
+    "romaji": "shussha",
+    "meaningSinhala": "කාර්යාලයට පැමිණීම / Going to office",
+    "kanjiBreakup": "出 (go) + 社 (company)",
+    "story": "උදේ වැඩට ආයතනයට පැමිණීම."
+  },
+  {
+    "id": "bv_053",
+    "expression": "退社",
+    "category": "Business & Work",
+    "furigana": "たいしゃ",
+    "romaji": "taisha",
+    "meaningSinhala": "කාර්යාලයෙන් පිටවීම / Leaving office",
+    "kanjiBreakup": "退 (leave) + 社 (company)",
+    "story": "වැඩ අවසන් වී ආයතනයෙන් පිටව යාම."
+  },
+  {
+    "id": "bv_054",
+    "expression": "欠勤",
+    "category": "Business & Work",
+    "furigana": "けっきん",
+    "romaji": "kekkin",
+    "meaningSinhala": "රැකියාවට නොපැමිණීම / Absence from work",
+    "kanjiBreakup": "欠 (lack) + 勤 (work)",
+    "story": "නිවාඩු නොමැතිව වැඩට නොපැමිණීම."
+  },
+  {
+    "id": "bv_055",
+    "expression": "遅刻",
+    "category": "Business & Work",
+    "furigana": "ちこく",
+    "romaji": "chikoku",
+    "meaningSinhala": "පරක්කු වී පැමිණීම / Being late",
+    "kanjiBreakup": "遅 (late) + 刻 (time)",
+    "story": "වේලාවට වැඩට ඒමට නොහැකිව ප්‍රමාද වීම."
+  },
+  {
+    "id": "bv_056",
+    "expression": "早退",
+    "category": "Business & Work",
+    "furigana": "そうたい",
+    "romaji": "soutai",
+    "meaningSinhala": "නියමිත වේලාවට පෙර පිටවීම / Leaving early",
+    "kanjiBreakup": "早 (early) + 退 (leave)",
+    "story": "වැඩ අවසන් වීමට පෙර කලින් ගෙදර යාම."
+  },
+  {
+    "id": "bv_057",
+    "expression": "休暇",
+    "category": "Business & Work",
+    "furigana": "きゅうか",
+    "romaji": "kyuuka",
+    "meaningSinhala": "නිවාඩුව / Vacation",
+    "kanjiBreakup": "休 (rest) + 休暇 (leave)",
+    "story": "රැකියාවෙන් ලැබෙන නිවාඩු දිනය."
+  },
+  {
+    "id": "bv_058",
+    "expression": "代休",
+    "category": "Business & Work",
+    "furigana": "だいきゅう",
+    "romaji": "daikyuu",
+    "meaningSinhala": "වෙනත් දිනක නිවාඩුව / Compensatory leave",
+    "kanjiBreakup": "代 (replace) + 休 (rest)",
+    "story": "නිවාඩු දවසක වැඩ කිරීම නිසා වෙනත් දිනක ලබන නිවාඩුව."
+  },
+  {
+    "id": "bv_059",
+    "expression": "振替",
+    "category": "Business & Work",
+    "furigana": "ふりかえ",
+    "romaji": "furikae",
+    "meaningSinhala": "මාරු කිරීම / Transfer",
+    "kanjiBreakup": "振 (swing) + 替え (change)",
+    "story": "වැඩ කරන දින මාරු කිරීම."
+  },
+  {
+    "id": "bv_060",
+    "expression": "研修",
+    "category": "Business & Work",
+    "furigana": "けんしゅう",
+    "romaji": "kenshuu",
+    "meaningSinhala": "පුහුණුව / Training",
+    "kanjiBreakup": "研 (polish) + 修 (study)",
+    "story": "සේවකයින්ට ලබා දෙන වෘත්තීය පුහුණුව."
+  },
+  {
+    "id": "bv_061",
+    "expression": "実習",
+    "category": "Business & Work",
+    "furigana": "じっしゅう",
+    "romaji": "jisshuu",
+    "meaningSinhala": "ප්‍රායෝගික පුහුණුව / Practical training",
+    "kanjiBreakup": "実 (actual) + 習 (learn)",
+    "story": "ක්ෂේත්‍රයේ කරන ප්‍රායෝගික පුහුණු වැඩසටහන."
+  },
+  {
+    "id": "bv_062",
+    "expression": "指導",
+    "category": "Business & Work",
+    "furigana": "しどう",
+    "romaji": "shidou",
+    "meaningSinhala": "මඟපෙන්වීම / Guidance",
+    "kanjiBreakup": "指 (point) + 導 (lead)",
+    "story": "ජ්‍යෙෂ්ඨයෙකුගෙන් ලැබෙන මඟපෙන්වීම."
+  },
+  {
+    "id": "bv_063",
+    "expression": "指示",
+    "category": "Business & Work",
+    "furigana": "しじ",
+    "romaji": "shiji",
+    "meaningSinhala": "උපදෙස / Instruction",
+    "kanjiBreakup": "指 (point) + 示 (show)",
+    "story": "ඉහළ නිලධාරියෙකු ලබා දෙන නියෝගය."
+  },
+  {
+    "id": "bv_064",
+    "expression": "命令",
+    "category": "Business & Work",
+    "furigana": "めいれい",
+    "romaji": "meirei",
+    "meaningSinhala": "නියෝගය / Order",
+    "kanjiBreakup": "命 (command) + 令 (order)",
+    "story": "අනිවාර්යයෙන් කළ යුතු නියෝගය."
+  },
+  {
+    "id": "bv_065",
+    "expression": "責任者",
+    "category": "Business & Work",
+    "furigana": "せきにんしゃ",
+    "romaji": "sekininsha",
+    "meaningSinhala": "වගකිවයුතු පුද්ගලයා / Person in charge",
+    "kanjiBreakup": "責任 (responsibility) + 者 (person)",
+    "story": "අංශයකට මුලින්ම වගකිවයුතු ප්‍රධානියා."
+  },
+  {
+    "id": "bv_066",
+    "expression": "担当者",
+    "category": "Business & Work",
+    "furigana": "たんとうしゃ",
+    "romaji": "tantousha",
+    "meaningSinhala": "භාර නිලධාරියා / Person in charge",
+    "kanjiBreakup": "担当 (in charge) + 者 (person)",
+    "story": "යම් වැඩක් භාරව සිටින නිලධාරියා."
+  },
+  {
+    "id": "bv_067",
+    "expression": "補佐",
+    "category": "Business & Work",
+    "furigana": "ほさ",
+    "romaji": "hosa",
+    "meaningSinhala": "සහායකත්වය / Assistant",
+    "kanjiBreakup": "補 (supplement) + 佐 (aid)",
+    "story": "ප්‍රධානියාට උදව් කරන සහායකයා."
+  },
+  {
+    "id": "bv_068",
+    "expression": "秘書",
+    "category": "Business & Work",
+    "furigana": "ひしょ",
+    "romaji": "hisho",
+    "meaningSinhala": "ලේකම් / Secretary",
+    "kanjiBreakup": "秘 (secret) + 書 (document)",
+    "story": "ප්‍රධානියාගේ කටයුතු බලාගන්නා ලේකම්වරයා."
+  },
+  {
+    "id": "bv_069",
+    "expression": "案内",
+    "category": "Business & Work",
+    "furigana": "あんない",
+    "romaji": "annai",
+    "meaningSinhala": "මඟපෙන්වීම / Guide",
+    "kanjiBreakup": "案 (plan) + 内 (inside)",
+    "story": "ආයතනය තුළ මඟපෙන්වීම."
+  },
+  {
+    "id": "bv_070",
+    "expression": "書類",
+    "category": "Business & Work",
+    "furigana": "しょるい",
+    "romaji": "shorui",
+    "meaningSinhala": "ලේඛන / Documents",
+    "kanjiBreakup": "書 (write) + 類 (kind)",
+    "story": "කාර්යාලයේ ඇති කඩදාසි සහ ලේඛන."
+  },
+  {
+    "id": "bv_071",
+    "expression": "資料",
+    "category": "Business & Work",
+    "furigana": "しりょう",
+    "romaji": "shiryou",
+    "meaningSinhala": "තොරතුරු ද්‍රව්‍ය / Materials",
+    "kanjiBreakup": "資 (resources) + 料 (materials)",
+    "story": "රැස්වීමකට අවශ්‍ය කරන තොරතුරු ද්‍රව්‍ය."
+  },
+  {
+    "id": "bv_072",
+    "expression": "計画書",
+    "category": "Business & Work",
+    "furigana": "けいかくしょ",
+    "romaji": "keikakusho",
+    "meaningSinhala": "සැලසුම් වාර්තාව / Proposal document",
+    "kanjiBreakup": "計画 (plan) + 書 (document)",
+    "story": "වැඩසටහන් සැලැස්ම ඇතුළත් ලියවිල්ල."
+  },
+  {
+    "id": "bv_073",
+    "expression": "報告書",
+    "category": "Business & Work",
+    "furigana": "ほうこくしょ",
+    "romaji": "houkokusho",
+    "meaningSinhala": "වාර්තාව / Report document",
+    "kanjiBreakup": "報告 (report) + 書 (document)",
+    "story": "සිදුවීම් වාර්තා කරන ලියවිල්ල."
+  },
+  {
+    "id": "bv_074",
+    "expression": "議事録",
+    "category": "Business & Work",
+    "furigana": "ぎじろく",
+    "romaji": "gijiroku",
+    "meaningSinhala": "රැස්වීම් සටහන / Minutes of meeting",
+    "kanjiBreakup": "議事 (agenda) + 録 (record)",
+    "story": "රැස්වීමේදී කතා කළ දේවල් ලියාගත් සටහන."
+  },
+  {
+    "id": "bv_075",
+    "expression": "封筒",
+    "category": "Business & Work",
+    "furigana": "ふうとう",
+    "romaji": "fuutou",
+    "meaningSinhala": "ලියුම් කවරය / Envelope",
+    "kanjiBreakup": "封 (seal) + 筒 (tube)",
+    "story": "ලියකියවිලි දමන කවරය."
+  },
+  {
+    "id": "bv_076",
+    "expression": "切手",
+    "category": "Business & Work",
+    "furigana": "きって",
+    "romaji": "kitte",
+    "meaningSinhala": "මුද්දරය / Postage stamp",
+    "kanjiBreakup": "切 (cut) + 手 (hand)",
+    "story": "ලිපි යැවීමට අලවන මුද්දරය."
+  },
+  {
+    "id": "bv_077",
+    "expression": "荷物",
+    "category": "Business & Work",
+    "furigana": "にもつ",
+    "romaji": "nimotsu",
+    "meaningSinhala": "පාර්සලය / Package",
+    "kanjiBreakup": "荷 (load) + 物 (thing)",
+    "story": "කාර්යාලයට ලැබෙන හෝ යවන පාර්සලය."
+  },
+  {
+    "id": "bv_078",
+    "expression": "配達",
+    "category": "Business & Work",
+    "furigana": "はいたつ",
+    "romaji": "haitatsu",
+    "meaningSinhala": "බෙදා හැරීම / Delivery",
+    "kanjiBreakup": "配 (distribute) + 達 (reach)",
+    "story": "ලිපි සහ පාර්සල් ගෙයින් ගෙට ගොස් දීම."
+  },
+  {
+    "id": "bv_079",
+    "expression": "郵送",
+    "category": "Business & Work",
+    "furigana": "ゆうそう",
+    "romaji": "yuusou",
+    "meaningSinhala": "තැපැල් කිරීම / Mailing",
+    "kanjiBreakup": "郵 (mail) + 送 (send)",
+    "story": "තැපැල් හරහා ලිපි යැවීම."
+  },
+  {
+    "id": "bv_080",
+    "expression": "送信",
+    "category": "Business & Work",
+    "furigana": "そうしん",
+    "romaji": "soushin",
+    "meaningSinhala": "යැවීම / Sending",
+    "kanjiBreakup": "送 (send) + 信 (signal)",
+    "story": "ඊමේල් හෝ පණිවිඩයක් යැවීම."
+  },
+  {
+    "id": "bv_081",
+    "expression": "受信",
+    "category": "Business & Work",
+    "furigana": "じゅしん",
+    "romaji": "jushin",
+    "meaningSinhala": "ලැබීම / Receiving",
+    "kanjiBreakup": "受 (receive) + 信 (signal)",
+    "story": "ඊමේල් හෝ පණිවිඩයක් ලැබීම."
+  },
+  {
+    "id": "bv_082",
+    "expression": "返信",
+    "category": "Business & Work",
+    "furigana": "へんしん",
+    "romaji": "henshin",
+    "meaningSinhala": "ප්‍රතිචාරය / Reply",
+    "kanjiBreakup": "返 (return) + 信 (signal)",
+    "story": "ලැබුණු ඊමේල් එකකට ආපහු උත්තර යැවීම."
+  },
+  {
+    "id": "bv_083",
+    "expression": "転送",
+    "category": "Business & Work",
+    "furigana": "てんそう",
+    "romaji": "tensou",
+    "meaningSinhala": "යොමු කිරීම / Forwarding",
+    "kanjiBreakup": "転 (turn) + 送 (send)",
+    "story": "ලැබුණු පණිවිඩයක් වෙනත් කෙනෙකුට යැවීම."
+  },
+  {
+    "id": "bv_084",
+    "expression": "添付",
+    "category": "Business & Work",
+    "furigana": "てんぷ",
+    "romaji": "tenpu",
+    "meaningSinhala": "අමුණන ලද / Attachment",
+    "kanjiBreakup": "添 (attach) + 付 (affix)",
+    "story": "ඊමේල් එකකට අමුණන ලියවිල්ල."
+  },
+  {
+    "id": "bv_085",
+    "expression": "削除",
+    "category": "Business & Work",
+    "furigana": "さくじょ",
+    "romaji": "sakujo",
+    "meaningSinhala": "මැකීම / Delete",
+    "kanjiBreakup": "削 (erase) + 除 (remove)",
+    "story": "ෆයිල් එකක් හෝ මැසේජ් එකක් මකා දැමීම."
+  },
+  {
+    "id": "bv_086",
+    "expression": "保存",
+    "category": "Business & Work",
+    "furigana": "ほぞん",
+    "romaji": "hozon",
+    "meaningSinhala": "සුරක්ෂිත කිරීම / Save",
+    "kanjiBreakup": "保 (protect) + 存 (exist)",
+    "story": "පරිගණකයේ ඩේටා සේව් කර තබා ගැනීම."
+  },
+  {
+    "id": "bv_087",
+    "expression": "設定",
+    "category": "Business & Work",
+    "furigana": "せってい",
+    "romaji": "settei",
+    "meaningSinhala": "සැකසුම් / Settings",
+    "kanjiBreakup": "設 (establish) + 定 (decide)",
+    "story": "ප්‍රෝග්‍රෑම් එකක හෝ ඇප් එකක සැකසුම්."
+  },
+  {
+    "id": "bv_088",
+    "expression": "接続",
+    "category": "Business & Work",
+    "furigana": "せつぞく",
+    "romaji": "setsuzoku",
+    "meaningSinhala": "සම්බන්ධ වීම / Connection",
+    "kanjiBreakup": "接 (connect) + 続 (continue)",
+    "story": "අන්තර්ජාලයට හෝ වයිෆයි වලට කනෙක්ට් වීම."
+  },
+  {
+    "id": "bv_089",
+    "expression": "画面",
+    "category": "Business & Work",
+    "furigana": "がめん",
+    "romaji": "gamen",
+    "meaningSinhala": "තිරය / Screen",
+    "kanjiBreakup": "画 (picture) + 面 (face)",
+    "story": "පරිගණක හෝ දුරකථන තිරය."
+  },
+  {
+    "id": "bv_090",
+    "expression": "書類作成",
+    "category": "Business & Work",
+    "furigana": "しょるいさくせい",
+    "romaji": "shorui sakusei",
+    "meaningSinhala": "ලේඛන සකස් කිරීම / Document creation",
+    "kanjiBreakup": "書類 (document) + 作成 (creation)",
+    "story": "ලියකියවිලි සකස් කිරීමේ ක්‍රියාවලිය."
+  },
+  {
+    "id": "bv_091",
+    "expression": "修正",
+    "category": "Business & Work",
+    "furigana": "しゅうせい",
+    "romaji": "shuusei",
+    "meaningSinhala": "නිවැරදි කිරීම / Correction",
+    "kanjiBreakup": "修 (repair) + 正 (correct)",
+    "story": "වැරදුණු තැනක් හදා නිවැරදි කිරීම."
+  },
+  {
+    "id": "bv_092",
+    "expression": "確認",
+    "category": "Business & Work",
+    "furigana": "かくにん",
+    "romaji": "kakunin",
+    "meaningSinhala": "තහවුරු කරගැනීම / Confirmation",
+    "kanjiBreakup": "確 (firm) + 認 (recognize)",
+    "story": "යමක් හරියටම සිදුවී ඇත්දැයි බලා තහවුරු කරගැනීම."
+  },
+  {
+    "id": "bv_093",
+    "expression": "比較",
+    "category": "Business & Work",
+    "furigana": "ひかく",
+    "romaji": "hikaku",
+    "meaningSinhala": "සංසන්දනය / Comparison",
+    "kanjiBreakup": "比 (compare) + 較 (compare)",
+    "story": "දත්ත දෙකක් එකිනෙකට සසඳා බැලීම."
+  },
+  {
+    "id": "bv_094",
+    "expression": "検討",
+    "category": "Business & Work",
+    "furigana": "けんとう",
+    "romaji": "kentou",
+    "meaningSinhala": "විමසා බැලීම / Consideration",
+    "kanjiBreakup": "検 (examine) + 討 (discuss)",
+    "story": "යෝජනාවක් ගැන හොඳින් සිතා බලා තීරණයක් ගැනීම."
+  },
+  {
+    "id": "bv_095",
+    "expression": "決定",
+    "category": "Business & Work",
+    "furigana": "けってい",
+    "romaji": "kettei",
+    "meaningSinhala": "තීරණය කිරීම / Decision",
+    "kanjiBreakup": "決 (decide) + 定 (fixed)",
+    "story": "අවසාන තීරණයට එළඹීම."
+  },
+  {
+    "id": "bv_096",
+    "expression": "変更",
+    "category": "Business & Work",
+    "furigana": "へんこう",
+    "romaji": "henkou",
+    "meaningSinhala": "වෙනස් කිරීම / Modification",
+    "kanjiBreakup": "変 (change) + 更 (renew)",
+    "story": "කලින් ගත් තීරණයක් හෝ වේලාවක් වෙනස් කිරීම."
+  },
+  {
+    "id": "bv_097",
+    "expression": "中止",
+    "category": "Business & Work",
+    "furigana": "ちゅうし",
+    "romaji": "chuushi",
+    "meaningSinhala": "අත්හිටුවීම / Cancellation",
+    "kanjiBreakup": "中 (middle) + 止 (stop)",
+    "story": "සිදුවීමට තිබූ වැඩසටහනක් සම්පූර්ණයෙන්ම නැවැත්වීම."
+  },
+  {
+    "id": "bv_098",
+    "expression": "延期",
+    "category": "Business & Work",
+    "furigana": "えんき",
+    "romaji": "enki",
+    "meaningSinhala": "කල් දැමීම / Postponement",
+    "kanjiBreakup": "延 (postpone) + 期 (period)",
+    "story": "නියමිත වේලාව වෙනත් දිනකට කල් දැමීම."
+  },
+  {
+    "id": "bv_099",
+    "expression": "再開",
+    "category": "Business & Work",
+    "furigana": "さいかい",
+    "romaji": "saikai",
+    "meaningSinhala": "යළි ආරම්භ කිරීම / Resumption",
+    "kanjiBreakup": "再 (re) + 開 (open)",
+    "story": "නැවැත්වූ වැඩක් නැවත පටන් ගැනීම."
+  },
+  {
+    "id": "bv_100",
+    "expression": "進行",
+    "category": "Business & Work",
+    "furigana": "しんこう",
+    "romaji": "shinkou",
+    "meaningSinhala": "ඉදිරියට ගෙනයෑම / Progress",
+    "kanjiBreakup": "進 (advance) + 行 (go)",
+    "story": "වැඩසටහනක් නියමිත පරිදි ඉදිරියට කරගෙන යාම."
+  },
+  {
+    "id": "bv_101",
+    "expression": "完了",
+    "category": "Business & Work",
+    "furigana": "かんりょう",
+    "romaji": "kanryou",
+    "meaningSinhala": "සම්පූර්ණ වීම / Completion",
+    "kanjiBreakup": "完 (complete) + 了 (finish)",
+    "story": "වැඩක් සාර්ථකව අවසන් වීම."
+  },
+  {
+    "id": "bv_102",
+    "expression": "達成",
+    "category": "Business & Work",
+    "furigana": "たっせい",
+    "romaji": "tassei",
+    "meaningSinhala": "ඉලක්කය සපුරා ගැනීම / Achievement",
+    "kanjiBreakup": "達 (reach) + 成 (achieve)",
+    "story": "අපේක්ෂිත ඉලක්කය සාර්ථකව ළඟා කරගැනීම."
+  },
+  {
+    "id": "bv_103",
+    "expression": "貢献",
+    "category": "Business & Work",
+    "furigana": "こうけん",
+    "romaji": "kouken",
+    "meaningSinhala": "දායකත්වය / Contribution",
+    "kanjiBreakup": "貢 (tribute) + 献 (offer)",
+    "story": "ආයතනයේ දියුණුවට ලබා දෙන දායකත්වය."
+  },
+  {
+    "id": "bv_104",
+    "expression": "責任感",
+    "category": "Business & Work",
+    "furigana": "せきにんかん",
+    "romaji": "sekininkan",
+    "meaningSinhala": "වගකීම් සහගත බව / Sense of responsibility",
+    "kanjiBreakup": "責任 (responsibility) + 感 (feeling)",
+    "story": "කටයුතු නිසි ලෙස ඉටු කිරීමට ඇති වගකීම."
+  },
+  {
+    "id": "bv_105",
+    "expression": "積極的",
+    "category": "Business & Work",
+    "furigana": "せっきょくてき",
+    "romaji": "sekkyokuteki",
+    "meaningSinhala": "උනන්දු / Active / Positive",
+    "kanjiBreakup": "積極 (positive) + 的 (ic)",
+    "story": "ඕනෑම වැඩකට උනන්දුවෙන් ඉදිරිපත් වන."
+  },
+  {
+    "id": "bv_106",
+    "expression": "消極的",
+    "category": "Business & Work",
+    "furigana": "しょうきょくてき",
+    "romaji": "shoukyokuteki",
+    "meaningSinhala": "උදාසීන / Passive",
+    "kanjiBreakup": "消極 (negative) + 的 (ic)",
+    "story": "වැඩවලට මැළි වන හෝ උනන්දුවක් නැති."
+  },
+  {
+    "id": "bv_107",
+    "expression": "真面目",
+    "category": "Business & Work",
+    "furigana": "まじめ",
+    "romaji": "majime",
+    "meaningSinhala": "කැපවීමෙන් වැඩ කරන / Diligent",
+    "kanjiBreakup": "真面目",
+    "story": "තම රාජකාරිය ඉතා බැරෑරුම් ලෙස කරන."
+  },
+  {
+    "id": "bv_108",
+    "expression": "優秀",
+    "category": "Business & Work",
+    "furigana": "ゆうしゅう",
+    "romaji": "yuushuu",
+    "meaningSinhala": "දක්ෂ / Excellent",
+    "kanjiBreakup": "優 (superior) + 秀 (excel)",
+    "story": "ඉතා දක්ෂ සහ දස්කම් පෙන්වන සේවකයා."
+  },
+  {
+    "id": "bv_109",
+    "expression": "業務連絡",
+    "category": "Business & Work",
+    "furigana": "ぎょうむれんらく",
+    "romaji": "gyoumu renraku",
+    "meaningSinhala": "කාර්යාලීය දැනුම්දීම / Business notice",
+    "kanjiBreakup": "業務 (business) + 連絡 (contact)",
+    "story": "සේවකයින්ට දන්වන ආයතනික පණිවිඩය."
+  },
+  {
+    "id": "bv_110",
+    "expression": "社内規定",
+    "category": "Business & Work",
+    "furigana": "しゃないきてい",
+    "romaji": "shanai kitei",
+    "meaningSinhala": "ආයතනික නීති රීති / Company regulations",
+    "kanjiBreakup": "社内 (inside company) + 規定 (rule)",
+    "story": "ආයතනය තුළ අනුගමනය කළ යුතු නීති රීති."
+  },
+  {
+    "id": "bv_111",
+    "expression": "業務命令",
+    "category": "Business & Work",
+    "furigana": "ぎょうむめいれい",
+    "romaji": "gyoumu meirei",
+    "meaningSinhala": "සේවා නියෝගය / Business order",
+    "kanjiBreakup": "業務 (business) + 命令 (order)",
+    "story": "ප්‍රධානියා විසින් සේවකයාට පවරන රාජකාරි නියෝගය."
+  },
+  {
+    "id": "bv_112",
+    "expression": "業績",
+    "category": "Business & Work",
+    "furigana": "ぎょせき",
+    "romaji": "gyoseki",
+    "meaningSinhala": "ව්‍යාපාරික ප්‍රතිඵල / Business performance",
+    "kanjiBreakup": "業 (work) + 績 (achievement)",
+    "story": "ආයතනයක් ලබා ඇති මූල්‍ය සහ ව්‍යාපාරික දස්කම්."
+  },
+  {
+    "id": "bv_113",
+    "expression": "売上",
+    "category": "Business & Work",
+    "furigana": "うりあげ",
+    "romaji": "uriage",
+    "meaningSinhala": "මුළු ආදායම / Sales",
+    "kanjiBreakup": "売る (sell) + 上げる (raise)",
+    "story": "භාණ්ඩ විකිණීමෙන් ලැබෙන මුළු ආදායම."
+  },
+  {
+    "id": "bv_114",
+    "expression": "原価",
+    "category": "Business & Work",
+    "furigana": "げんか",
+    "romaji": "genka",
+    "meaningSinhala": "නිෂ්පාදන වියදම / Cost price",
+    "kanjiBreakup": "原 (original) + 価 (price)",
+    "story": "භාණ්ඩයක් නිෂ්පාදනය කිරීමට යන මුල් වියදම."
+  },
+  {
+    "id": "bv_115",
+    "expression": "開発",
+    "category": "Business & Work",
+    "furigana": "かいはつ",
+    "romaji": "kaihatsu",
+    "meaningSinhala": "සංවර්ධනය / Development",
+    "kanjiBreakup": "開 (open) + 発 (start)",
+    "story": "අලුත් භාණ්ඩයක් හෝ සේවාවක් බිහි කිරීම."
+  },
+  {
+    "id": "bv_116",
+    "expression": "生産",
+    "category": "Business & Work",
+    "furigana": "せいさん",
+    "romaji": "seisan",
+    "meaningSinhala": "නිෂ්පාදනය / Production",
+    "kanjiBreakup": "生 (birth) + 産 (produce)",
+    "story": "භාණ්ඩ නිෂ්පාදන ක්‍රියාවලිය."
+  },
+  {
+    "id": "bv_117",
+    "expression": "品質",
+    "category": "Business & Work",
+    "furigana": "ひんしつ",
+    "romaji": "hinshitsu",
+    "meaningSinhala": "ගුණාත්මක භාවය / Quality",
+    "kanjiBreakup": "品 (goods) + 質 (quality)",
+    "story": "භාණ්ඩයක හෝ සේවාවක පවතින ප්‍රමිතිය."
+  },
+  {
+    "id": "bv_118",
+    "expression": "不良品",
+    "category": "Business & Work",
+    "furigana": "ふりょうひん",
+    "romaji": "furyouhin",
+    "meaningSinhala": "දෝෂ සහිත භාණ්ඩ / Defective goods",
+    "kanjiBreakup": "不良 (bad) + 品 (goods)",
+    "story": "දෝෂ සහිත හෝ පාවිච්චි කළ නොහැකි භාණ්ඩ."
+  },
+  {
+    "id": "bv_119",
+    "expression": "在庫",
+    "category": "Business & Work",
+    "furigana": "ざいこ",
+    "romaji": "zaiko",
+    "meaningSinhala": "ගබඩා තොගය / Inventory",
+    "kanjiBreakup": "在 (exist) + 庫 (storehouse)",
+    "story": "ආයතනය තුළ ඉතිරිව ඇති භාණ්ඩ තොගය."
+  },
+  {
+    "id": "bv_120",
+    "expression": "発注",
+    "category": "Business & Work",
+    "furigana": "はっちゅう",
+    "romaji": "hatchuu",
+    "meaningSinhala": "ඇණවුම් කිරීම / Placing an order",
+    "kanjiBreakup": "発 (issue) + 注 (order)",
+    "story": "අවශ්‍ය භාණ්ඩ සඳහා ඕඩර් කිරීම."
+  },
+  {
+    "id": "bv_121",
+    "expression": "納品",
+    "category": "Business & Work",
+    "furigana": "のうひん",
+    "romaji": "nouhin",
+    "meaningSinhala": "භාණ්ඩ භාර දීම / Delivery of goods",
+    "kanjiBreakup": "納 (supply) + 品 (goods)",
+    "story": "ඇණවුම් කළ භාණ්ඩ පාරිභෝගිකයාට ලබා දීම."
+  },
+  {
+    "id": "bv_122",
+    "expression": "請求",
+    "category": "Business & Work",
+    "furigana": "せいきゅう",
+    "romaji": "seikyuu",
+    "meaningSinhala": "ബිල්පත් ඉල්ලීම / Billing",
+    "kanjiBreakup": "請求 (claim)",
+    "story": "භාණ්ඩ සඳහා ගෙවිය යුතු මුදල් ඉල්ලා බිල් යැවීම."
+  },
+  {
+    "id": "bv_123",
+    "expression": "領収書",
+    "category": "Business & Work",
+    "furigana": "りょうしゅうしょ",
+    "romaji": "ryoushuusho",
+    "meaningSinhala": "රිසිට්පත / Receipt",
+    "kanjiBreakup": "領収 (receive) + 書 (document)",
+    "story": "මුදල් ගෙවූ බවට නිකුත් කරන රිසිට්පත."
+  },
+  {
+    "id": "bv_124",
+    "expression": "人事",
+    "category": "Business & Work",
+    "furigana": "じんじ",
+    "romaji": "jinji",
+    "meaningSinhala": "මානව සම්පත් / Human resources",
+    "kanjiBreakup": "人 (person) + 事 (affair)",
+    "story": "සේවකයින් බඳවා ගැනීම සහ කළමනාකරණය."
+  },
+  {
+    "id": "bv_125",
+    "expression": "総務",
+    "category": "Business & Work",
+    "furigana": "そうむ",
+    "romaji": "soumu",
+    "meaningSinhala": "පරිපාලන අංශය / General affairs",
+    "kanjiBreakup": "総 ( general) + 務 (affairs)",
+    "story": "ආයතනයේ සාමාන්‍ය පරිපාලන කටයුතු."
+  },
+  {
+    "id": "bv_126",
+    "expression": "経理",
+    "category": "Business & Work",
+    "furigana": "けいり",
+    "romaji": "keiri",
+    "meaningSinhala": "මුදල් අංශය / Accounting",
+    "kanjiBreakup": "経 (manage) + 理 (logic)",
+    "story": "ආයතනයේ ගිණුම් සහ මූල්‍ය කටයුතු."
+  },
+  {
+    "id": "bv_127",
+    "expression": "開発部",
+    "category": "Business & Work",
+    "furigana": "かいはつぶ",
+    "romaji": "kaihatsubu",
+    "meaningSinhala": "සංවර්ධන අංශය / Development department",
+    "kanjiBreakup": "開発 (develop) + 部 (department)",
+    "story": "නව තාක්ෂණය සහ නිෂ්පාදන හදන අංශය."
+  },
+  {
+    "id": "bv_128",
+    "expression": "営業部",
+    "category": "Business & Work",
+    "furigana": "えいぎょうぶ",
+    "romaji": "eigyoubu",
+    "meaningSinhala": "වෙළඳ අංශය / Sales department",
+    "kanjiBreakup": "営業 (business) + 部 (department)",
+    "story": "භාණ්ඩ අලෙවිය සහ ගනුදෙනු කරන අංශය."
+  },
+  {
+    "id": "bv_129",
+    "expression": "宣伝",
+    "category": "Business & Work",
+    "furigana": "せんでん",
+    "romaji": "senden",
+    "meaningSinhala": "ප්‍රචාරණය / Advertising",
+    "kanjiBreakup": "宣 (proclaim) + 伝 (transmit)",
+    "story": "භාණ්ඩ හෝ සේවාවන් ගැන ජනතාව දැනුවත් කිරීම."
+  },
+  {
+    "id": "bv_130",
+    "expression": "広告",
+    "category": "Business & Work",
+    "furigana": "こうこく",
+    "romaji": "koukoku",
+    "meaningSinhala": "বিজ্ঞಾಪනය / Advertisement",
+    "kanjiBreakup": "広 (broad) + 告 (announce)",
+    "story": "මධ්‍යම නාලිකා හරහා පෙන්වන දැන්වීම්."
+  },
+  {
+    "id": "bv_131",
+    "expression": "発売",
+    "category": "Business & Work",
+    "furigana": "はつばい",
+    "romaji": "hatsubai",
+    "meaningSinhala": "වෙළඳපොළට නිකුත් කිරීම / Release for sale",
+    "kanjiBreakup": "発 (emit) + 売 (sell)",
+    "story": "අලුත් භාණ්ඩයක් පළමු වරට විකිණීමට තැබීම."
+  },
+  {
+    "id": "bv_132",
+    "expression": "発売元",
+    "category": "Business & Work",
+    "furigana": "はつばいもと",
+    "romaji": "hatsubaimoto",
+    "meaningSinhala": "නිෂ්පාදකයා / Distributor / Publisher",
+    "kanjiBreakup": "発売 (release) + 元 (origin)",
+    "story": "භාණ්ඩය වෙළඳපොළට නිකුත් කරන ආයතනය."
+  },
+  {
+    "id": "bv_133",
+    "expression": "消費者",
+    "category": "Business & Work",
+    "furigana": "しょうひしゃ",
+    "romaji": "shouhsha",
+    "meaningSinhala": "පාරිභෝගිකයා / Consumer",
+    "kanjiBreakup": "消費 (consume) + 者 (person)",
+    "story": "භාණ්ඩ පරිභෝජනය කරන සාමාන්‍ය ජනතාව."
+  },
+  {
+    "id": "bv_134",
+    "expression": "物価",
+    "category": "Business & Work",
+    "furigana": "ぶっか",
+    "romaji": "bukka",
+    "meaningSinhala": "භාණ්ඩ මිල / Cost of living / Prices",
+    "kanjiBreakup": "物 (thing) + 価 (price)",
+    "story": "වෙළඳපොළේ භාණ්ඩවල සාමාන්‍ය මිල මට්ටම."
+  },
+  {
+    "id": "bv_135",
+    "expression": "景気",
+    "category": "Business & Work",
+    "furigana": "けいき",
+    "romaji": "keiki",
+    "meaningSinhala": "ආර්ථික තත්ත්වය / Business climate",
+    "kanjiBreakup": "景 (scene) + 気 (spirit)",
+    "story": "රටක ව්‍යාපාරික සහ ආර්ථික තත්ත්වය."
+  },
+  {
+    "id": "bv_136",
+    "expression": "不景気",
+    "category": "Business & Work",
+    "furigana": "ふけいき",
+    "romaji": "fukeiki",
+    "meaningSinhala": "මන්දගාමී ආර්ථිකය / Recession",
+    "kanjiBreakup": "不 (not) + 景気 (climate)",
+    "story": "රටක ආර්ථිකය පහළ වැටී ඇති කාලය."
+  },
+  {
+    "id": "bv_137",
+    "expression": "好景気",
+    "category": "Business & Work",
+    "furigana": "こうけいき",
+    "romaji": "koukeiki",
+    "meaningSinhala": "දියුණු ආර්ථික තත්ත්වය / Economic boom",
+    "kanjiBreakup": "好 (good) + 景気 (climate)",
+    "story": "රටක ව්‍යාපාර දියුණු වී ඇති කාලය."
+  },
+  {
+    "id": "bv_138",
+    "expression": "株式",
+    "category": "Business & Work",
+    "furigana": "かぶしき",
+    "romaji": "kabushiki",
+    "meaningSinhala": "කොටස් වෙළඳපොළ / Stock",
+    "kanjiBreakup": "株 (stock) + 式 (type)",
+    "story": "ආයතනවල කොටස් සහ කොටස් වෙළඳපොළ."
+  },
+  {
+    "id": "bv_139",
+    "expression": "投資",
+    "category": "Business & Work",
+    "furigana": "とうし",
+    "romaji": "toushi",
+    "meaningSinhala": "ආයෝජනය / Investment",
+    "kanjiBreakup": "投 (throw) + 資 (resources)",
+    "story": "ලාභ අපේක්ෂාවෙන් මුදල් යෙදවීම."
+  },
+  {
+    "id": "bv_140",
+    "expression": "借金",
+    "category": "Business & Work",
+    "furigana": "しゃっきん",
+    "romaji": "shakkin",
+    "meaningSinhala": "ණය / Debt / Loan",
+    "kanjiBreakup": "借 (borrow) + 金 (money)",
+    "story": "වෙනත් අයෙකුගෙන් හෝ බැංකුවකින් ගත් ණය."
+  },
+  {
+    "id": "bv_141",
+    "expression": "貯金",
+    "category": "Business & Work",
+    "furigana": "ちょきん",
+    "romaji": "chokin",
+    "meaningSinhala": "මුදල් ඉතිරි කිරීම / Savings",
+    "kanjiBreakup": "貯 (save) + 金 (money)",
+    "story": "අනාගතය සඳහා බැංකුවේ මුදල් තැන්පත් කිරීම."
+  },
+  {
+    "id": "bv_142",
+    "expression": "口座",
+    "category": "Business & Work",
+    "furigana": "こうざ",
+    "romaji": "kouza",
+    "meaningSinhala": "බැංකු ගිණුම / Bank account",
+    "kanjiBreakup": "口 (mouth) + 座 (seat)",
+    "story": "බැංකුවේ විවෘත කර ඇති ගිණුම."
+  },
+  {
+    "id": "bv_143",
+    "expression": "振込",
+    "category": "Business & Work",
+    "furigana": "ふりこみ",
+    "romaji": "furikomi",
+    "meaningSinhala": "මුදල් බැංකුගත කිරීම / Bank transfer",
+    "kanjiBreakup": "振 (swing) + 込む (crowd into)",
+    "story": "බැංකු ගිණුමකට මුදල් යැවීම."
+  },
+  {
+    "id": "bv_144",
+    "expression": "引き出し",
+    "category": "Business & Work",
+    "furigana": "ひきだし",
+    "romaji": "hikidashi",
+    "meaningSinhala": "මුදල් ලබා ගැනීම / Withdrawal",
+    "kanjiBreakup": "引き (pull) + 出し (out)",
+    "story": "බැංකු ගිණුමෙන් මුදල් ලබා ගැනීම."
+  },
+  {
+    "id": "bv_145",
+    "expression": "残高",
+    "category": "Business & Work",
+    "furigana": "ざんだか",
+    "romaji": "zandaka",
+    "meaningSinhala": "ගිණුමේ ඉතිරි මුදල / Balance",
+    "kanjiBreakup": "残 (leftover) + 高 (amount)",
+    "story": "ගිණුමේ ඉතිරිව ඇති මුදල් ප්‍රමාණය."
+  },
+  {
+    "id": "bv_146",
+    "expression": "暗証番号",
+    "category": "Business & Work",
+    "furigana": "あんしょうばんごう",
+    "romaji": "anshou bangou",
+    "meaningSinhala": "රහස් අංකය / PIN code",
+    "kanjiBreakup": "暗証 (code) + 番号 (number)",
+    "story": "ඒ.ටී.එම්. කාඩ්පතේ රහස් අංකය."
+  },
+  {
+    "id": "bv_147",
+    "expression": "手数料",
+    "category": "Business & Work",
+    "furigana": "てすうりょう",
+    "romaji": "tesuuryou",
+    "meaningSinhala": "සේවා ගාස්තුව / Service fee",
+    "kanjiBreakup": "手 (hand) + 数 (number) + 料 (fee)",
+    "story": "සේවාවක් ලබා දීමේදී අය කරන ගාස්තුව."
+  },
+  {
+    "id": "bv_148",
+    "expression": "保険",
+    "category": "Business & Work",
+    "furigana": "ほけん",
+    "romaji": "hoken",
+    "meaningSinhala": "රක්ෂණය / Insurance",
+    "kanjiBreakup": "保 (protect) + けん (safe)",
+    "story": "අනතුරු සඳහා ලබා ගන්නා රක්ෂණාවරණය."
+  },
+  {
+    "id": "bv_149",
+    "expression": "税金",
+    "category": "Business & Work",
+    "furigana": "ぜいきん",
+    "romaji": "zeikin",
+    "meaningSinhala": "බද්ද / Tax",
+    "kanjiBreakup": "税 (tax) + 金 (money)",
+    "story": "රජයට ගෙවිය යුතු බදු මුදල."
+  },
+  {
+    "id": "bv_150",
+    "expression": "年金",
+    "category": "Business & Work",
+    "furigana": "ねんきん",
+    "romaji": "nenkin",
+    "meaningSinhala": "पेන්ෂන් / Pension",
+    "kanjiBreakup": "年 (year) + 金 (money)",
+    "story": "විශ්‍රාම ගිය පසු ලැබෙන විශ්‍රාම වැටුප."
+  },
+  {
+    "id": "bv_151",
+    "expression": "契約書",
+    "category": "Business & Work",
+    "furigana": "けいやくしょ",
+    "romaji": "keiyakusho",
+    "meaningSinhala": "ගිවිසුම් ලියවිල්ල / Contract document",
+    "kanjiBreakup": "契約 (contract) + 書 (document)",
+    "story": "අත්සන් කළ ගිවිසුම ඇති කඩදාසිය."
+  },
+  {
+    "id": "bv_152",
+    "expression": "署名",
+    "category": "Business & Work",
+    "furigana": "しょめい",
+    "romaji": "shomei",
+    "meaningSinhala": "අත්සන / Signature",
+    "kanjiBreakup": "署 (sign) + 名 (name)",
+    "story": "නම ලියා තබන අත්සන."
+  },
+  {
+    "id": "bv_153",
+    "expression": "捺印",
+    "category": "Business & Work",
+    "furigana": "なついん",
+    "romaji": "natsuin",
+    "meaningSinhala": "මුද්‍රා තැබීම / Sealing",
+    "kanjiBreakup": "捺 (press) + 印 (seal)",
+    "story": "නිල මුද්‍රව තැබීම."
+  },
+  {
+    "id": "bv_154",
+    "expression": "承認",
+    "category": "Business & Work",
+    "furigana": "しょうにん",
+    "romaji": "shounin",
+    "meaningSinhala": "অনুমೋದනය / Approval",
+    "kanjiBreakup": "承 (consent) + 認 (recognize)",
+    "story": "ඉල්ලීමක් අනුමත කිරීම."
+  },
+  {
+    "id": "bv_155",
+    "expression": "許可",
+    "category": "Business & Work",
+    "furigana": "きょか",
+    "romaji": "kyoka",
+    "meaningSinhala": "අනුමැතිය / Permission",
+    "kanjiBreakup": "許 (permit) + 可 (allow)",
+    "story": "වැඩක් කිරීමට දෙන අවසරය."
+  },
+  {
+    "id": "bv_156",
+    "expression": "禁止",
+    "category": "Business & Work",
+    "furigana": "きんし",
+    "romaji": "kinshi",
+    "meaningSinhala": "තහනම් කිරීම / Prohibition",
+    "kanjiBreakup": "禁 (prohibit) + 止 (stop)",
+    "story": "ආයතනය තුළ යමක් කිරීම තහනම් කිරීම."
+  },
+  {
+    "id": "bv_157",
+    "expression": "厳禁",
+    "category": "Business & Work",
+    "furigana": "げんきん",
+    "romaji": "genkin",
+    "meaningSinhala": " දැඩි ලෙස තහනම් / Strictly prohibited",
+    "kanjiBreakup": "厳 (strict) + 禁 (prohibit)",
+    "story": "කිසිම විදියකට කිරීමට නොහැකි තහනම."
+  },
+  {
+    "id": "bv_158",
+    "expression": "注意事項",
+    "category": "Business & Work",
+    "furigana": "ちゅういじこう",
+    "romaji": "chuui jikou",
+    "meaningSinhala": "සැලකිය යුතු කරුණු / Precautions",
+    "kanjiBreakup": "注意 (attention) + 事項 (matters)",
+    "story": "වැඩකදී සැලකිලිමත් විය යුතු කරුණු."
+  },
+  {
+    "id": "bv_159",
+    "expression": "遵守",
+    "category": "Business & Work",
+    "furigana": "じゅんしゅ",
+    "romaji": "junshu",
+    "meaningSinhala": "අනුගමනය කිරීම / Compliance",
+    "kanjiBreakup": "遵守 (obey)",
+    "story": "නීති රීති සහ නියෝග නිවැරදිව පිළිපැදීම."
+  },
+  {
+    "id": "bv_160",
+    "expression": "効率",
+    "category": "Business & Work",
+    "furigana": "こうりつ",
+    "romaji": "kouritsu",
+    "meaningSinhala": "කාර්යක්ෂමතාව / Efficiency",
+    "kanjiBreakup": "効 (effect) + 率 (rate)",
+    "story": "අඩු කාලයකින් වැඩි ප්‍රතිඵල ලබා ගැනීම."
+  },
+  {
+    "id": "bv_161",
+    "expression": "生産性",
+    "category": "Business & Work",
+    "furigana": "せいさんせい",
+    "romaji": "seisansei",
+    "meaningSinhala": "නිෂ්පාදන කාර්යක්ෂමතාව / Productivity",
+    "kanjiBreakup": "生産 (production) + 性 (nature)",
+    "story": "වැඩ කිරීමේ නිෂ්පාදන ධාරිතාව."
+  },
+  {
+    "id": "bv_162",
+    "expression": "改善",
+    "category": "Business & Work",
+    "furigana": "かいぜん",
+    "romaji": "kaizen",
+    "meaningSinhala": "දියුණු කිරීම / කප්පාදු කිරීම / Kaizen / Improvement",
+    "kanjiBreakup": "改 (change) + 善 (good)",
+    "story": "වැඩ ක්‍රම දියුණු කර හොඳ තත්ත්වයට ගැනීම."
+  },
+  {
+    "id": "bv_163",
+    "expression": "労働",
+    "category": "Business & Work",
+    "furigana": "ろうどう",
+    "romaji": "roudou",
+    "meaningSinhala": "ශ්‍රමය / Labor",
+    "kanjiBreakup": "労 (labor) + 働 (work)",
+    "story": "කාර්යාලයේ හෝ කර්මාන්තශාලාවේ කරන ශ්‍රම දායකත්වය."
+  },
+  {
+    "id": "bv_164",
+    "expression": "労働者",
+    "category": "Business & Work",
+    "furigana": "ろうどうしゃ",
+    "romaji": "roudousha",
+    "meaningSinhala": "සේවකයා / Worker",
+    "kanjiBreakup": "労働 (labor) + 者 (person)",
+    "story": "රැකියාවක නියැලී සිටින සේවකයා."
+  },
+  {
+    "id": "bv_165",
+    "expression": "使用者",
+    "category": "Business & Work",
+    "furigana": "しようしゃ",
+    "romaji": "shiyousha",
+    "meaningSinhala": " αφෙන් / Employer",
+    "kanjiBreakup": "使用 (use) + 者 (person)",
+    "story": "සේවකයින් සේවයේ යොදවන ආයතන හිමිකරු."
+  },
+  {
+    "id": "bv_166",
+    "expression": "募集",
+    "category": "Business & Work",
+    "furigana": "ぼしゅう",
+    "romaji": "boshuu",
+    "meaningSinhala": "බඳවා ගැනීමට කැඳවීම / Recruitment",
+    "kanjiBreakup": "募 (raise) + 集 (gather)",
+    "story": "සේවකයින් සඳහා ඉල්ලුම්පත් කැඳවීම."
+  },
+  {
+    "id": "bv_167",
+    "expression": "応募",
+    "category": "Business & Work",
+    "furigana": "おうぼ",
+    "romaji": "oubo",
+    "meaningSinhala": "ඉල්ලුම් කිරීම / Application",
+    "kanjiBreakup": "応 (respond) + 応募 (apply)",
+    "story": "රැකියාවක් සඳහා ඉල්ලුම්පතක් යැවීම."
+  },
+  {
+    "id": "bv_168",
+    "expression": "給与明細",
+    "category": "Business & Work",
+    "furigana": "きゅうよめいさい",
+    "romaji": "kyuuyo meisai",
+    "meaningSinhala": "වැටුප් විස්තර පත්‍රිකාව / Pay slip",
+    "kanjiBreakup": "給与 (salary) + 明細 (details)",
+    "story": "මාසික වැටුප සහ අඩුකිරීම් දැක්වෙන පත්‍රිකාව."
+  },
+  {
+    "id": "bv_169",
+    "expression": "所得税",
+    "category": "Business & Work",
+    "furigana": "しょとくぜい",
+    "romaji": "shotokuzei",
+    "meaningSinhala": "ආදායම් බද්ද / Income tax",
+    "kanjiBreakup": "所得 (income) + 税 (tax)",
+    "story": "අපගේ ආදායම මත රජයට ගෙවන බද්ද."
+  },
+  {
+    "id": "bv_170",
+    "expression": "住民税",
+    "category": "Business & Work",
+    "furigana": "じゅうみんぜい",
+    "romaji": "juuminzei",
+    "meaningSinhala": "ප්‍රාදේශීය බද්ද / Resident tax",
+    "kanjiBreakup": "住民 (resident) + 税 (tax)",
+    "story": "පදිංචි ප්‍රදේශයට ගෙවන බදු මුදල."
+  },
+  {
+    "id": "bv_171",
+    "expression": "年金保険",
+    "category": "Business & Work",
+    "furigana": "ねんきんほけん",
+    "romaji": "nenkin hoken",
+    "meaningSinhala": "විශ්‍රාම වැටුප් රක්ෂණය / Pension insurance",
+    "kanjiBreakup": "年金 (pension) + 保険 (insurance)",
+    "story": "විශ්‍රාම කාලය සඳහා රක්ෂණ ක්‍රමය."
+  },
+  {
+    "id": "bv_172",
+    "expression": "健康保険",
+    "category": "Business & Work",
+    "furigana": "けんこうほけん",
+    "romaji": "kenkou hoken",
+    "meaningSinhala": "සෞඛ්‍ය රක්ෂණය / Health insurance",
+    "kanjiBreakup": "健康 (health) + 保険 (insurance)",
+    "story": "వైද්‍ය ප්‍රතිකාර සඳහා ඇති රක්ෂණාවරණය."
+  },
+  {
+    "id": "bv_173",
+    "expression": "雇用保険",
+    "category": "Business & Work",
+    "furigana": "こようほけん",
+    "romaji": "koyou hoken",
+    "meaningSinhala": "රැකියා නියුක්ති රක්ෂණය / Employment insurance",
+    "kanjiBreakup": "雇用 (employment) + 保険 (insurance)",
+    "story": "රැකියාව අහිමි වූ විට ලැබෙන ආධාර රක්ෂණය."
+  },
+  {
+    "id": "bv_174",
+    "expression": "労働時間",
+    "category": "Business & Work",
+    "furigana": "ろうどうじかん",
+    "romaji": "roudou jikan",
+    "meaningSinhala": "වැඩ කරන පැය ගණන / Working hours",
+    "kanjiBreakup": "労働 (labor) + 時間 (time)",
+    "story": "දිනකට හෝ සතියකට වැඩ කරන නිල පැය ගණන."
+  },
+  {
+    "id": "bv_175",
+    "expression": "休憩時間",
+    "category": "Business & Work",
+    "furigana": "きゅうけいじかん",
+    "romaji": "kyuukei jikan",
+    "meaningSinhala": "විවේක කාලය / Break time",
+    "kanjiBreakup": "休憩 (rest) + 時間 (time)",
+    "story": "වැඩ අතරතුර ලැබෙන විවේක පැය."
+  },
+  {
+    "id": "bv_176",
+    "expression": "休日出勤",
+    "category": "Business & Work",
+    "furigana": "きゅうじつしゅっきん",
+    "romaji": "kyuujitsu shukkin",
+    "meaningSinhala": "නිවාඩු දිනක වැඩට යාම / Working on a holiday",
+    "kanjiBreakup": "休日 (holiday) + 出勤 (going to work)",
+    "story": "නිවාඩු දවසක වැඩට වාර්තා කිරීම."
+  },
+  {
+    "id": "bv_177",
+    "expression": "振替休日",
+    "category": "Business & Work",
+    "furigana": "ふりかえきゅうじつ",
+    "romaji": "furikae kyuujitsu",
+    "meaningSinhala": "මාරු කළ නිවාඩු දිනය / Substitute holiday",
+    "kanjiBreakup": "振替 (transfer) + 休日 (holiday)",
+    "story": "වැඩ කළ දිනකට වෙනුවට ලැබෙන නිවාඩුව."
+  },
+  {
+    "id": "bv_178",
+    "expression": "有給消化",
+    "category": "Business & Work",
+    "furigana": "ゆうきゅうしょうか",
+    "romaji": "yuukyuu shouka",
+    "meaningSinhala": "නිවාඩු ලබා ගැනීම / Taking paid leave",
+    "kanjiBreakup": "有給 (paid leave) + 消化 (consume)",
+    "story": "අපට හිමි වැටුප් සහිත නිවාඩු භාවිත කිරීම."
+  },
+  {
+    "id": "bv_179",
+    "expression": "退職金",
+    "category": "Business & Work",
+    "furigana": "たいしょくきん",
+    "romaji": "taishokukin",
+    "meaningSinhala": "සේවයෙන් ඉවත් වීමේ දීමනාව / Retirement allowance",
+    "kanjiBreakup": "退職 (retirement) + 金 (money)",
+    "story": "සේවයෙන් ඉවත් වන විට ලැබෙන විශ්‍රාම දීමනාව."
+  },
+  {
+    "id": "bv_180",
+    "expression": "懲戒処分",
+    "category": "Business & Work",
+    "furigana": "ちょうかいしょぶん",
+    "romaji": "choukai shobun",
+    "meaningSinhala": "විනය ක්‍රියාමාර්ථය / Disciplinary action",
+    "kanjiBreakup": "懲戒 (disciplinary) + 処分 (action)",
+    "story": "වරදක් කළ විට ආයතනයෙන් දෙන දඬුවම."
+  }
+]

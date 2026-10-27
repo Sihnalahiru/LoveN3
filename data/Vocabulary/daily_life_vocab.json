@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "dl_001",
+    "expression": "朝ご飯",
+    "category": "Daily Life & Home",
+    "furigana": "あさごはん",
+    "romaji": "asagohan",
+    "meaningSinhala": "උදේ ආහාරය / Breakfast",
+    "kanjiBreakup": "朝 (morning) + ご飯 (rice/meal)",
+    "story": "උදෑසන වැඩට යාමට පෙර ගන්නා ආහාරය."
+  },
+  {
+    "id": "dl_002",
+    "expression": "昼ご飯",
+    "category": "Daily Life & Home",
+    "furigana": "ひるご飯",
+    "romaji": "hirugohan",
+    "meaningSinhala": "දවල් ආහාරය / Lunch",
+    "kanjiBreakup": "昼 (noon) + ご飯 (rice/meal)",
+    "story": "දවල් කාලයේ විවේක වේලාවක ගන්නා ආහාරය."
+  },
+  {
+    "id": "dl_003",
+    "expression": "晩ご飯",
+    "category": "Daily Life & Home",
+    "furigana": "ばんご飯",
+    "romaji": "bangohan",
+    "meaningSinhala": "රාත්‍රී ආහාරය / Dinner",
+    "kanjiBreakup": "晩 (evening/night) + ご飯 (rice/meal)",
+    "story": "රැයෙන් පසු නිවෙසේදී ගන්නා රාත්‍රී ආහාරය."
+  },
+  {
+    "id": "dl_004",
+    "expression": "冷蔵庫",
+    "category": "Daily Life & Home",
+    "furigana": "れいぞうこ",
+    "romaji": "reizouko",
+    "meaningSinhala": "ශීතකරණය / Refrigerator",
+    "kanjiBreakup": "冷 (cold) + 蔵 (store) + 庫 (warehouse)",
+    "story": "කෑම සහ එළවළු නරක් නොවී තබා ගන්නා ශීතකරණය."
+  },
+  {
+    "id": "dl_005",
+    "expression": "洗濯機",
+    "category": "Daily Life & Home",
+    "furigana": "せんたくき",
+    "romaji": "sentakuki",
+    "meaningSinhala": "සේදුම් යන්ත්‍රය / Washing machine",
+    "kanjiBreakup": "洗濯 (washing) + 機 (machine)",
+    "story": "ඇඳුම් සේදීමට භාවිත කරන ස්වයංක්‍රීය යන්ත්‍රය."
+  },
+  {
+    "id": "dl_006",
+    "expression": "掃除機",
+    "category": "Daily Life & Home",
+    "furigana": "そうじき",
+    "romaji": "そうじき",
+    "meaningSinhala": "වැකුම් ක්ලීනර් / Vacuum cleaner",
+    "kanjiBreakup": "掃除 (cleaning) + 機 (machine)",
+    "story": "ගෙදර දොරේ කුණු දූවිලි උරා ගන්නා යන්ත්‍රය."
+  },
+  {
+    "id": "dl_007",
+    "expression": "電子レンジ",
+    "category": "Daily Life & Home",
+    "furigana": "でんしれんじ",
+    "romaji": "denshi renji",
+    "meaningSinhala": "මයික්‍රෝවේව් උදුන / Microwave oven",
+    "kanjiBreakup": "電子 (electronic) + レンジ (range)",
+    "story": "කෑම ඉක්මනින් උණුසුම් කරගන්නා උදුන."
+  },
+  {
+    "id": "dl_008",
+    "expression": "水道",
+    "category": "Daily Life & Home",
+    "furigana": "すいどう",
+    "romaji": "すいどう",
+    "meaningSinhala": "ජනන ජල නළ පද්ධතිය / Tap water / Water supply",
+    "kanjiBreakup": "水 (water) + 道 (path)",
+    "story": "ගෙදරට ජලය සපයන නළ පද්ධතිය සහ කරාමය."
+  },
+  {
+    "id": "dl_009",
+    "expression": "電気代",
+    "category": "Daily Life & Home",
+    "furigana": "でんきだい",
+    "romaji": "denkidai",
+    "meaningSinhala": "විදුලි බිල / Electricity bill",
+    "kanjiBreakup": "電気 (electricity) + 代 (fee)",
+    "story": "මාසිකව ගෙවිය යුතු විදුලි බල ගාස්තුව."
+  },
+  {
+    "id": "dl_010",
+    "expression": "ガス代",
+    "category": "Daily Life & Home",
+    "furigana": "がすだい",
+    "romaji": "gasu dai",
+    "meaningSinhala": "ගෑස් බිල / Gas bill",
+    "kanjiBreakup": "ガス (gas) + 代 (fee)",
+    "story": "ගෙදර උයන්න පාවිච්චි කරන ගෑස් සඳහා ගෙවන මුදල."
+  },
+  {
+    "id": "dl_011",
+    "expression": "家賃",
+    "category": "Daily Life & Home",
+    "furigana": "やちん",
+    "romaji": "yachin",
+    "meaningSinhala": "ගෙවල් කුලිය / House rent",
+    "kanjiBreakup": "家 (house) + 賃 (fee)",
+    "story": "නිවසක පදිංචි වී සිටීම වෙනුවෙන් හිමිකරුට ගෙවන කුලිය."
+  },
+  {
+    "id": "dl_012",
+    "expression": "引越し",
+    "category": "Daily Life & Home",
+    "furigana": "ひっこし",
+    "romaji": "hikkoshi",
+    "meaningSinhala": "නිවස මාරු කිරීම / Moving house",
+    "kanjiBreakup": "引っ越す (to move)",
+    "story": "වෙනත් නිවසකට බඩු බාහිරාදිය පටවාගෙන යාම."
+  },
+  {
+    "id": "dl_013",
+    "expression": "家具",
+    "category": "Daily Life & Home",
+    "furigana": "かぐ",
+    "romaji": "kagu",
+    "meaningSinhala": "ගෘහ භාණ්ඩ / Furniture",
+    "kanjiBreakup": "家 (house) + 具 (tool)",
+    "story": "ගෙදර තබා ගන්නා මේස, පුටු සහ ඇඳන්."
+  },
+  {
+    "id": "dl_014",
+    "expression": "家電",
+    "category": "Daily Life & Home",
+    "furigana": "かでん",
+    "romaji": "kaden",
+    "meaningSinhala": "ගෘහස්ත විදුලි උපකරණ / Home appliances",
+    "kanjiBreakup": "家 (home) + 電 (electric)",
+    "story": "ගෙදර දොරට පාවිච්චි කරන ඉලෙක්ට්‍රොනික උපකරණ."
+  },
+  {
+    "id": "dl_015",
+    "expression": "布団",
+    "category": "Daily Life & Home",
+    "furigana": "ふとん",
+    "romaji": "futon",
+    "meaningSinhala": "ජපන් මෙට්ටය / Futon bedding",
+    "kanjiBreakup": "布 (cloth) + 団 (group)",
+    "story": "බිම අතුරලා නිදා ගැනීමට පාවිච්චි කරන මෙට්ටය."
+  },
+  {
+    "id": "dl_016",
+    "expression": "枕",
+    "category": "Daily Life & Home",
+    "furigana": "まくら",
+    "romaji": "makura",
+    "meaningSinhala": "කොට්ටය / Pillow",
+    "kanjiBreakup": "枕 (pillow)",
+    "story": "නිදාගනිද්දී ඔළුව තබා ගන්නා කොට්ටය."
+  },
+  {
+    "id": "dl_017",
+    "expression": "鍵",
+    "category": "Daily Life & Home",
+    "furigana": "かぎ",
+    "romaji": "kagi",
+    "meaningSinhala": "សතුරුව / යතුර / Key",
+    "kanjiBreakup": "鍵 (key)",
+    "story": "ගෙදර දොර අගුලු දමන යතුර."
+  },
+  {
+    "id": "dl_018",
+    "expression": "玄関",
+    "category": "Daily Life & Home",
+    "furigana": "げんかん",
+    "romaji": "genkan",
+    "meaningSinhala": "ඇතුල් වන දොරටුව / Entrance hall",
+    "kanjiBreakup": "玄関 (entrance)",
+    "story": "ජපන් ගෙදරකට ඇතුළු වන විට සපත්තු ගලවන තැන."
+  },
+  {
+    "id": "dl_019",
+    "expression": "廊下",
+    "category": "Daily Life & Home",
+    "furigana": "ろうか",
+    "romaji": "rouka",
+    "meaningSinhala": "δρομος / ኮරිඩෝව / Corridor / Hallway",
+    "kanjiBreakup": "廊 (corridor) + 下 (below)",
+    "story": "කාමර අතර ඇති අඩිපාර හෝ කොරිඩෝව."
+  },
+  {
+    "id": "dl_020",
+    "expression": "階段",
+    "category": "Daily Life & Home",
+    "furigana": "かいだん",
+    "romaji": "kaidan",
+    "meaningSinhala": "පඩිපෙළ / Stairs",
+    "kanjiBreakup": "階 (floor) + 段 (step)",
+    "story": "මහල් අතර උඩට යන්න ඇති පඩිපෙළ."
+  },
+  {
+    "id": "dl_021",
+    "expression": "庭",
+    "category": "Daily Life & Home",
+    "furigana": "にわ",
+    "romaji": "niwa",
+    "meaningSinhala": "වත්ත / උයන / Garden",
+    "kanjiBreakup": "庭 (garden)",
+    "story": "ගෙදර ඉදිරිපස හෝ පසුපස ඇති මල් වත්ත."
+  },
+  {
+    "id": "dl_022",
+    "expression": "近所",
+    "category": "Daily Life & Home",
+    "furigana": "きんじょ",
+    "romaji": "kinjo",
+    "meaningSinhala": "අසල්වැසියා / Neighbourhood",
+    "kanjiBreakup": "近 (near) + 所 (place)",
+    "story": "අපේ ගෙදරට ආසන්නව පදිංචි අය."
+  },
+  {
+    "id": "dl_023",
+    "expression": "住民",
+    "category": "Daily Life & Home",
+    "furigana": "じゅうみん",
+    "romaji": "juumin",
+    "meaningSinhala": "පදිංචිකරුවා / Resident",
+    "kanjiBreakup": "住 (live) + 民 (people)",
+    "story": "ප්‍රදේශයේ ජීවත් වන ජනතාව."
+  },
+  {
+    "id": "dl_024",
+    "expression": "ゴミ袋",
+    "category": "Daily Life & Home",
+    "furigana": "ごみぶくろ",
+    "romaji": "gomibukuro",
+    "meaningSinhala": "කුණු කූඩ බෑගය / Garbage bag",
+    "kanjiBreakup": "ゴミ (rubbish) + 袋 (bag)",
+    "story": "කුණු දමා බැඳීමට පාවිච්චි කරන ප්ලාස්ටික් බෑගය."
+  },
+  {
+    "id": "dl_025",
+    "expression": "分別",
+    "category": "Daily Life & Home",
+    "furigana": "ぶんべつ",
+    "romaji": "bunbetsu",
+    "meaningSinhala": "කුණු වර්ග කිරීම / Sorting (trash)",
+    "kanjiBreakup": "分 (divide) + 別 (separate)",
+    "story": "ජපානයේදී කුණු වර්ග අනුව වෙන් කර දැමීම."
+  },
+  {
+    "id": "dl_026",
+    "expression": "リサイクル",
+    "category": "Daily Life & Home",
+    "furigana": "りさいくる",
+    "romaji": "risaikuru",
+    "meaningSinhala": "पुनഃචක්‍රීකරණය / Recycling",
+    "kanjiBreakup": "Loanword",
+    "story": "ප්ලාස්ටික් සහ කඩදාසි නැවත පාවිච්චියට ගැනීම."
+  },
+  {
+    "id": "dl_027",
+    "expression": "日用品",
+    "category": "Daily Life & Home",
+    "furigana": "にちようひん",
+    "romaji": "nichiyouhin",
+    "meaningSinhala": "දෛනික භාණ්ඩ / Daily necessities",
+    "kanjiBreakup": "日常 (daily) + 用品 (goods)",
+    "story": "දිනපතා ජීවිතයට අවශ්‍ය වන සබන්, ටූත්පේස්ට් ආදී දේ."
+  },
+  {
+    "id": "dl_028",
+    "expression": "洗剤",
+    "category": "Daily Life & Home",
+    "furigana": "せんざい",
+    "romaji": "senzai",
+    "meaningSinhala": "සේදුම් දියර / Detergent",
+    "kanjiBreakup": "洗 (wash) + 剤 (agent)",
+    "story": "ඇඳුම් හෝ භාජන හෝදන්න පාවිච්චි කරන සබන් දියර."
+  },
+  {
+    "id": "dl_029",
+    "expression": "歯ブラシ",
+    "category": "Daily Life & Home",
+    "furigana": "はぶらし",
+    "romaji": "haburashi",
+    "meaningSinhala": "දත් බුරුසුව / Toothbrush",
+    "kanjiBreakup": "歯 (tooth) + ブラシ (brush)",
+    "story": "දත් මදින්න පාවිච්චි කරන බුරුසුව."
+  },
+  {
+    "id": "dl_030",
+    "expression": "鏡",
+    "category": "Daily Life & Home",
+    "furigana": "かがみ",
+    "romaji": "kagami",
+    "meaningSinhala": "කැඩපත / Mirror",
+    "kanjiBreakup": "鏡 (mirror)",
+    "story": "මුහුණ බලන කන්නාඩිය."
+  },
+  {
+    "id": "dl_031",
+    "expression": "曇り",
+    "category": "Daily Life & Home",
+    "furigana": "くもり",
+    "romaji": "kumori",
+    "meaningSinhala": "වළාකුළු සහිත කාලගුණය / Cloudy",
+    "kanjiBreakup": "曇 (cloudy)",
+    "story": "අහස වළාකුළින් වැසී ඇති කාලගුණය."
+  },
+  {
+    "id": "dl_032",
+    "expression": "雨具",
+    "category": "Daily Life & Home",
+    "furigana": "あまぐ",
+    "romaji": "amagu",
+    "meaningSinhala": "වැස්සට අඳින දේ / Rain gear",
+    "kanjiBreakup": "雨 (rain) + 具 (tool)",
+    "story": "කුඩ සහ වැහි කෝට්."
+  },
+  {
+    "id": "dl_033",
+    "expression": "傘",
+    "category": "Daily Life & Home",
+    "furigana": "かさ",
+    "romaji": "kasa",
+    "meaningSinhala": "කුඩය / Umbrella",
+    "kanjiBreakup": "傘 (umbrella)",
+    "story": "වැස්සට අල්ලන කුඩය."
+  },
+  {
+    "id": "dl_034",
+    "expression": "洗濯物",
+    "category": "Daily Life & Home",
+    "furigana": "せんたくもの",
+    "romaji": "sentakumono",
+    "meaningSinhala": "සේදූ ඇඳුම් / Laundry",
+    "kanjiBreakup": "洗濯 (wash) + 物 (thing)",
+    "story": "හෝදා වේලීමට දමා ඇති ඇඳුම්."
+  },
+  {
+    "id": "dl_035",
+    "expression": "干す",
+    "category": "Daily Life & Home",
+    "furigana": "ほす",
+    "romaji": "hosu",
+    "meaningSinhala": "වේළීමට තැබීම / To dry",
+    "kanjiBreakup": "干 (dry)",
+    "story": "ඇඳුම් අව්වේ වේළීමට දැමීම."
+  },
+  {
+    "id": "dl_036",
+    "expression": "畳む",
+    "category": "Daily Life & Home",
+    "furigana": "たたむ",
+    "romaji": "tatamu",
+    "meaningSinhala": "නැවීම / To fold",
+    "kanjiBreakup": "畳 (fold)",
+    "story": "වේලුණු ඇඳුම් නමා තැබීම."
+  },
+  {
+    "id": "dl_037",
+    "expression": "アイロン",
+    "category": "Daily Life & Home",
+    "furigana": "あいろん",
+    "romaji": "airon",
+    "meaningSinhala": "අයන් කිරීම / Ironing",
+    "kanjiBreakup": "Loanword",
+    "story": "ඇඳුම්වල රැලි මගහරවා ගැනීමට අයන් කිරීම."
+  },
+  {
+    "id": "dl_038",
+    "expression": "料理",
+    "category": "Daily Life & Home",
+    "furigana": "りょうり",
+    "romaji": "ryouri",
+    "meaningSinhala": "ඉවීම / පිසීම / Cooking",
+    "kanjiBreakup": "料 (fee/ingredients) + 理 (logic)",
+    "story": "කෑම පිසීමේ කටයුතු."
+  },
+  {
+    "id": "dl_039",
+    "expression": "材料",
+    "category": "Daily Life & Home",
+    "furigana": "ざいりょう",
+    "romaji": "zairyou",
+    "meaningSinhala": "අමුද්‍රව්‍ය / Ingredients",
+    "kanjiBreakup": "材 (material) + 料 (fee)",
+    "story": "උයන්න අවශ්‍ය කරන එළවළු සහ මස් වර්ග."
+  },
+  {
+    "id": "dl_040",
+    "expression": "調味料",
+    "category": "Daily Life & Home",
+    "furigana": "ちょうみりょう",
+    "romaji": "choumiryou",
+    "meaningSinhala": "සුදුළුුනු, ලුණු, මිරිස් ආදී කුළුබඩු / Seasoning",
+    "kanjiBreakup": "調 (prepare) + 味 (taste) + 料 (materials)",
+    "story": "කෑමට රස එකතු කරන ලුණු සහ මිරිස්."
+  },
+  {
+    "id": "dl_041",
+    "expression": "切る",
+    "category": "Daily Life & Home",
+    "furigana": "きる",
+    "romaji": "kiru",
+    "meaningSinhala": "කපනවා / To cut",
+    "kanjiBreakup": "切 (cut)",
+    "story": "එළවළු සහ මස් පිහියෙන් කැපීම."
+  },
+  {
+    "id": "dl_042",
+    "expression": "焼く",
+    "category": "Daily Life & Home",
+    "furigana": "やく",
+    "romaji": "yaku",
+    "meaningSinhala": "පුලුස්සනවා / To bake / grill",
+    "kanjiBreakup": "焼 (burn)",
+    "story": "ලිප තබා මස් හෝ මාළු පිසීම."
+  },
+  {
+    "id": "dl_043",
+    "expression": "煮る",
+    "category": "Daily Life & Home",
+    "furigana": "にる",
+    "romaji": "niru",
+    "meaningSinhala": "තම්බනවා / හොද්දක් සෑදීම / To simmer",
+    "kanjiBreakup": "煮 (boil)",
+    "story": "දියරයක දමා කෑම තැම්බීම."
+  },
+  {
+    "id": "dl_044",
+    "expression": "沸かす",
+    "category": "Daily Life & Home",
+    "furigana": "わかす",
+    "romaji": "wakasu",
+    "meaningSinhala": "වතුර උණු කිරීම / To boil water",
+    "kanjiBreakup": "沸 (boil)",
+    "story": "කේතලයේ වතුර උණු කිරීම."
+  },
+  {
+    "id": "dl_045",
+    "expression": "冷める",
+    "category": "Daily Life & Home",
+    "furigana": "さめる",
+    "romaji": "sameru",
+    "meaningSinhala": "නිමීම / සීතල වීම / To cool down",
+    "kanjiBreakup": "冷 (cold)",
+    "story": "උණුසුම් කෑම නිවී යාම."
+  },
+  {
+    "id": "dl_046",
+    "expression": "片付ける",
+    "category": "Daily Life & Home",
+    "furigana": "かたづける",
+    "romaji": "katazukeru",
+    "meaningSinhala": "පිළිවෙළකට තැබීම / To tidy up",
+    "kanjiBreakup": "片 (single) + 付 (attach)",
+    "story": "ගෙදර විසිරී ඇති බඩු පිළිවෙළට තැබීම."
+  },
+  {
+    "id": "dl_047",
+    "expression": "捨てる",
+    "category": "Daily Life & Home",
+    "furigana": "すてる",
+    "romaji": "suteru",
+    "meaningSinhala": "විසි කරනවා / To throw away",
+    "kanjiBreakup": "捨 (discard)",
+    "story": "පාවිච්චි කළ නොහැකි කුණු ඉවත් කිරීම."
+  },
+  {
+    "id": "dl_048",
+    "expression": "拾う",
+    "category": "Daily Life & Home",
+    "furigana": "ひらう",
+    "romaji": "hirou",
+    "meaningSinhala": "මතුකර ගන්නවා / හොයාගන්නවා / To pick up",
+    "kanjiBreakup": "拾 (pick up)",
+    "story": "බිම වැටුණු දෙයක් අහුලා ගැනීම."
+  },
+  {
+    "id": "dl_049",
+    "expression": "壊れる",
+    "category": "Daily Life & Home",
+    "furigana": "こわれる",
+    "romaji": "kowareru",
+    "meaningSinhala": "කැඩී යාම / To break",
+    "kanjiBreakup": "壊 (break)",
+    "story": "භාණ්ඩයක් බිඳී යාම හෝ පිපිරීම."
+  },
+  {
+    "id": "dl_050",
+    "expression": "直す",
+    "category": "Daily Life & Home",
+    "furigana": "なおす",
+    "romaji": "naosu",
+    "meaningSinhala": "හැදීම / අලුත්වැඩියා කිරීම / To repair",
+    "kanjiBreakup": "直 (fix)",
+    "story": "කැඩුණු භාණ්ඩයක් නැවත පිළිසකර කිරීම."
+  },
+  {
+    "id": "dl_051",
+    "expression": "目覚まし",
+    "category": "Daily Life & Home",
+    "furigana": "めざまし",
+    "romaji": "mezamashi",
+    "meaningSinhala": "අටවන ලද අනතුරු ඇඟවීමේ ඔරලෝසුව / Alarm clock",
+    "kanjiBreakup": "目 (eye) + 覚まし (awake)",
+    "story": "උදේ නැගිටින්න අටවන ලද అలර්ම් ඔරලෝසුව."
+  },
+  {
+    "id": "dl_052",
+    "expression": "寝坊",
+    "category": "Daily Life & Home",
+    "furigana": "ねぼう",
+    "romaji": "nebou",
+    "meaningSinhala": "පරක්කු වී නින්දෙන් ඇහැරීම / Oversleeping",
+    "kanjiBreakup": "寝 (sleep) + 坊 (boy/habit)",
+    "story": "ഉදේ නින්ද ගොස් වෙලාවට ඇහැරීමට නොහැකි වීම."
+  },
+  {
+    "id": "dl_053",
+    "expression": "着替える",
+    "category": "Daily Life & Home",
+    "furigana": "きがえる",
+    "romaji": "kigaeru",
+    "meaningSinhala": "ඇඳුම් මාරු කිරීම / To change clothes",
+    "kanjiBreakup": "着 (wear) + 替 (change)",
+    "story": "පැළඳ සිටි ඇඳුම් ගලවා වෙනත් ඇඳුමක් ඇඳීම."
+  },
+  {
+    "id": "dl_054",
+    "expression": "化粧",
+    "category": "Daily Life & Home",
+    "furigana": "けしょう",
+    "romaji": "keshou",
+    "meaningSinhala": "මේකප් කිරීම / Makeup",
+    "kanjiBreakup": "化粧 (makeup)",
+    "story": "මුහුණ අලංකාර කර ගැනීමට මේකප් කිරීම."
+  },
+  {
+    "id": "dl_055",
+    "expression": "歯磨き",
+    "category": "Daily Life & Home",
+    "furigana": "はみがき",
+    "romaji": "hamigaki",
+    "meaningSinhala": "දත් මැදීම / Tooth brushing",
+    "kanjiBreakup": "歯 (tooth) + 磨き (polish)",
+    "story": "දත් බුරුසුවෙන් දත් පිරිසිදු කිරීම."
+  },
+  {
+    "id": "dl_056",
+    "expression": "髭剃り",
+    "category": "Daily Life & Home",
+    "furigana": "ひげそり",
+    "romaji": "higesori",
+    "meaningSinhala": "රැවුල කැපීම / Shaving",
+    "kanjiBreakup": "髭 (beard) + 剃り (shave)",
+    "story": "මුහුණේ වැඩුන රැවුල බෑම."
+  },
+  {
+    "id": "dl_057",
+    "expression": "身支度",
+    "category": "Daily Life & Home",
+    "furigana": "みじたく",
+    "romaji": "mijitaku",
+    "meaningSinhala": "ගමනට සැමසීම / Getting ready",
+    "kanjiBreakup": "身 (body) + 支度 (preparation)",
+    "story": "එළියට යන්න ඇඳුම් පැළඳ සූදානම් වීම."
+  },
+  {
+    "id": "dl_058",
+    "expression": "施錠",
+    "category": "Daily Life & Home",
+    "furigana": "せじょう",
+    "romaji": "sejou",
+    "meaningSinhala": "දොර අගුලු දැමීම / Locking a door",
+    "kanjiBreakup": "施 (apply) + 錠 (lock)",
+    "story": "ගෙදරින් එළියට යද්දී දොරටស ලොක් කිරීම."
+  },
+  {
+    "id": "dl_059",
+    "expression": "留守",
+    "category": "Daily Life & Home",
+    "furigana": "るす",
+    "romaji": "rusu",
+    "meaningSinhala": "ගෙදර නොසිටීම / Absence / Being away",
+    "kanjiBreakup": "留守 (absence)",
+    "story": "නිවසේ කිසිවකුත් නොමැති අවස්ථාව."
+  },
+  {
+    "id": "dl_060",
+    "expression": "宅配便",
+    "category": "Daily Life & Home",
+    "furigana": "たくはいびん",
+    "romaji": "takuhaibin",
+    "meaningSinhala": "ගෙදරටම ගෙනැවිත් දෙන පාර්සල් සේවය / Home delivery service",
+    "kanjiBreakup": "宅 (house) + 配 (deliver) + 便 (flight)",
+    "story": "කුරියර් මඟින් ගෙදරටම බඩු ගෙනැවිත් දීම."
+  },
+  {
+    "id": "dl_061",
+    "expression": "回覧板",
+    "category": "Daily Life & Home",
+    "furigana": "かいらんばん",
+    "romaji": "kairanban",
+    "meaningSinhala": "අසල්වැසියන් අතර සංසරණය වන පණිවිඩ ලියවිල්ල / Circular",
+    "kanjiBreakup": "回覧 (circulate) + 板 (board)",
+    "story": "ගමක හෝ නිවාස සංකීර්ණයක සැමගේ දැනගැනීමට දෙන ලියවිල්ල."
+  },
+  {
+    "id": "dl_062",
+    "expression": "町内会",
+    "category": "Daily Life & Home",
+    "furigana": "ちょうないかい",
+    "romaji": "chounaikai",
+    "meaningSinhala": "ග්‍රාමීය/ප්‍රදේශවාසී සංගමය / Neighborhood association",
+    "kanjiBreakup": "町内 (neighborhood) + 会 (association)",
+    "story": "ප්‍රදේශයේ දියුණුවට ඇති ජනතා සංගමය."
+  },
+  {
+    "id": "dl_063",
+    "expression": "防犯",
+    "category": "Daily Life & Home",
+    "furigana": "ぼうはん",
+    "romaji": "bouhan",
+    "meaningSinhala": "अपরাধ වැළැක්වීම / Crime prevention",
+    "kanjiBreakup": "防 (prevent) + 犯 (crime)",
+    "story": "ගෙදර දොර සොරකම් වලින් ආරක්ෂා කර ගැනීම."
+  },
+  {
+    "id": "dl_064",
+    "expression": "防災",
+    "category": "Daily Life & Home",
+    "furigana": "ぼうさい",
+    "romaji": "bousai",
+    "meaningSinhala": "இயற்கை අනතුරු වලින් ආරක්ෂා වීම / Disaster prevention",
+    "kanjiBreakup": "防 (prevent) + 災 (disaster)",
+    "story": "භූමිකම්පා සහ සුළි කුණාටුවලින් ආරක්ෂා වීමේ පියවර."
+  },
+  {
+    "id": "dl_065",
+    "expression": "避難",
+    "category": "Daily Life & Home",
+    "furigana": "ひなん",
+    "romaji": "hinan",
+    "meaningSinhala": "ආරක්ෂිත ස්ථානයකට යාම / Evacuation",
+    "kanjiBreakup": "避難 (evacuate)",
+    "story": "අනතුරකදී ආරක්ෂිත බිමකට මාරු වීම."
+  },
+  {
+    "id": "dl_066",
+    "expression": "消火器",
+    "category": "Daily Life & Home",
+    "furigana": "しょうかき",
+    "romaji": "shoukaki",
+    "meaningSinhala": "ගිනි නිවන යන්ත්‍රය / Fire extinguisher",
+    "kanjiBreakup": "消 (extinguish) + 火 (fire) + 機 (machine)",
+    "story": "ගින්නක් පැතිරෙන විට නිවීමට ඇති උපකරණය."
+  },
+  {
+    "id": "dl_067",
+    "expression": "救急車",
+    "category": "Daily Life & Home",
+    "furigana": "きゅうきゅうしゃ",
+    "romaji": "kyuukyuusha",
+    "meaningSinhala": "ගිලන්රථය / Ambulance",
+    "kanjiBreakup": "救急 (first aid) + 車 (car)",
+    "story": "රෝගීන් රෝහලට കൊണ്ടു යන වාහනය."
+  },
+  {
+    "id": "dl_068",
+    "expression": "消防車",
+    "category": "Daily Life & Home",
+    "furigana": "しょうぼうしゃ",
+    "romaji": "shoubousha",
+    "meaningSinhala": "ගිනි නිවන රථය / Fire truck",
+    "kanjiBreakup": "消防 (fire fighting) + 車 (car)",
+    "story": "ගිනි නිවන භටයින් පැමිණෙන රථය."
+  },
+  {
+    "id": "dl_069",
+    "expression": "警察署",
+    "category": "Daily Life & Home",
+    "furigana": "けいさつしょ",
+    "romaji": "keisatsusho",
+    "meaningSinhala": "පොලිස් ස්ථානය / Police station",
+    "kanjiBreakup": "警察 (police) + 署 (station)",
+    "story": "පොලිස් කාර්යාලය."
+  },
+  {
+    "id": "dl_070",
+    "expression": "交番",
+    "category": "Daily Life & Home",
+    "furigana": "こうばん",
+    "romaji": "kouban",
+    "meaningSinhala": "පොලිස් මුරපොළ / Police box",
+    "kanjiBreakup": "交 (alternate) + 番 (turn)",
+    "story": "ජපානයේ වීදි අයිනේ ඇති කුඩා පොලිස් කුටිය."
+  },
+  {
+    "id": "dl_071",
+    "expression": "郵便局",
+    "category": "Daily Life & Home",
+    "furigana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaningSinhala": "තැපැල් කාර්යාලය / Post office",
+    "kanjiBreakup": "郵便 (mail) + 局 (bureau)",
+    "story": "ලිපි සහ මුද්දර ලබා දෙන ආයතනය."
+  },
+  {
+    "id": "dl_072",
+    "expression": "市役所",
+    "category": "Daily Life & Home",
+    "furigana": "しやくしょ",
+    "romaji": "shiyakusho",
+    "meaningSinhala": "නගර සභාව / City hall",
+    "kanjiBreakup": "市 (city) + 役所 (office)",
+    "story": "ප්‍රදේශයේ පරිපාලන කටයුතු කරන ආයතනය."
+  },
+  {
+    "id": "dl_073",
+    "expression": "図書館",
+    "category": "Daily Life & Home",
+    "furigana": "としょかん",
+    "romaji": "toshokan",
+    "meaningSinhala": "पुස්තකාලය / Library",
+    "kanjiBreakup": "図書 (books) + 館 (building)",
+    "story": "පොත් කියවන සහ ණයට ගන්නා ස්ථානය."
+  },
+  {
+    "id": "dl_074",
+    "expression": "病院",
+    "category": "Daily Life & Home",
+    "furigana": "びょういん",
+    "romaji": "byouin",
+    "meaningSinhala": "රෝහල / Hospital",
+    "kanjiBreakup": "病 (sick) + 院 (institution)",
+    "story": "රෝගීන්ට ප්‍රතිකාර කරන වෛද්‍ය මධ්‍යස්ථානය."
+  },
+  {
+    "id": "dl_075",
+    "expression": "薬局",
+    "category": "Daily Life & Home",
+    "furigana": "やっきょく",
+    "romaji": "yakkyoku",
+    "meaningSinhala": "බෙහෙත් ශාලාව / Pharmacy",
+    "kanjiBreakup": "薬 (medicine) + 局 (bureau)",
+    "story": "වෛද්‍යවරයාගේ බෙහෙත් වට්ටෝරුවට බෙහෙත් ගන්නා තැන."
+  },
+  {
+    "id": "dl_076",
+    "expression": "美容院",
+    "category": "Daily Life & Home",
+    "furigana": "びよういん",
+    "romaji": "biyouin",
+    "meaningSinhala": "රූපලාවන්්‍යාගාරය / Hair salon / Beauty parlor",
+    "kanjiBreakup": "美容 (beauty) + 院 (institute)",
+    "story": "කොණ්ඩය කපන සහ හැඩගස්වන ස්ථානය."
+  },
+  {
+    "id": "dl_077",
+    "expression": "床屋",
+    "category": "Daily Life & Home",
+    "furigana": "とこや",
+    "romaji": "tokoya",
+    "meaningSinhala": "පිරිමි කොණ්ඩා කපන ස්ථානය / Barber shop",
+    "kanjiBreakup": "床屋 (barber)",
+    "story": "පිරිමි අයට කොණ්ඩය සහ රැවුල කපන තැන."
+  },
+  {
+    "id": "dl_078",
+    "expression": "クリーニング",
+    "category": "Daily Life & Home",
+    "furigana": "くりーにんぐ",
+    "romaji": "kurīningu",
+    "meaningSinhala": "වියළි රෙදි සේදීමේ ස්ථානය / Dry cleaner",
+    "kanjiBreakup": "Loanword",
+    "story": "සූට් සහ ලොම් ඇඳුම් වියළා සෝදා දෙන තැන."
+  },
+  {
+    "id": "dl_079",
+    "expression": "銀行",
+    "category": "Daily Life & Home",
+    "furigana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaningSinhala": "බැංකුව / Bank",
+    "kanjiBreakup": "銀 (silver) + 行 (bank)",
+    "story": "මුදල් තැන්පත් කරන සහ ණය දෙන ආයතනය."
+  },
+  {
+    "id": "dl_080",
+    "expression": "ATM",
+    "category": "Daily Life & Home",
+    "furigana": "えーてぃーえむ",
+    "romaji": "ētīemu",
+    "meaningSinhala": "ඒ.ටී.එම්. යන්ත්‍රය / ATM machine",
+    "kanjiBreakup": "Loanword",
+    "story": "මුදල් ලබා ගන්නා ස්වයංක්‍රීය යන්ත්‍රය."
+  },
+  {
+    "id": "dl_081",
+    "expression": "スーパー",
+    "category": "Daily Life & Home",
+    "furigana": "すーぱー",
+    "romaji": "sūpā",
+    "meaningSinhala": "සුපිරි වෙළඳසැළ / Supermarket",
+    "kanjiBreakup": "Loanword",
+    "story": "එළවළු සහ දෛනික බඩු ගන්නා විශාල කඩය."
+  },
+  {
+    "id": "dl_082",
+    "expression": "コンビニ",
+    "category": "Daily Life & Home",
+    "furigana": "こんびに",
+    "romaji": "konbini",
+    "meaningSinhala": "පැය 24 පුරා විවෘත සාප්පුව / Convenience store",
+    "kanjiBreakup": "Loanword",
+    "story": "දවස පුරාම විවෘතව ඇති කුඩා කඩය."
+  },
+  {
+    "id": "dl_083",
+    "expression": "商店街",
+    "category": "Daily Life & Home",
+    "furigana": "しょうてんがい",
+    "romaji": "shoutengai",
+    "meaningSinhala": "වෙළඳ වීදිය / Shopping arcade",
+    "kanjiBreakup": "商店 (shop) + 街 (street)",
+    "story": "සාප්පු පේළි පිහිටි වීදිය."
+  },
+  {
+    "id": "dl_084",
+    "expression": "八百屋",
+    "category": "Daily Life & Home",
+    "furigana": "やおや",
+    "romaji": "yaoya",
+    "meaningSinhala": "එළවළු කඩය / Greengrocer",
+    "kanjiBreakup": "八百 (many) + 屋 (shop)",
+    "story": "తాජා එළවළු සහ පලතුරු විකුණන කඩය."
+  },
+  {
+    "id": "dl_085",
+    "expression": "精肉店",
+    "category": "Daily Life & Home",
+    "furigana": "せいにくてん",
+    "romaji": "seinikuten",
+    "meaningSinhala": "මස් කඩය / Butcher shop",
+    "kanjiBreakup": "精肉 (meat) + 店 (shop)",
+    "story": "මස් වර්ග විකුණන වෙළඳසැල."
+  },
+  {
+    "id": "dl_086",
+    "expression": "魚屋",
+    "category": "Daily Life & Home",
+    "furigana": "さかなや",
+    "romaji": "sakanaya",
+    "meaningSinhala": "මාළු කඩය / Fish market",
+    "kanjiBreakup": "魚 (fish) + 屋 (shop)",
+    "story": "తాජා මාළු විකුණන කඩය."
+  },
+  {
+    "id": "dl_087",
+    "expression": "文房具",
+    "category": "Daily Life & Home",
+    "furigana": "ぶんぼうぐ",
+    "romaji": "bunbougu",
+    "meaningSinhala": "ලිපි ද්‍රව්‍ය / Stationery",
+    "kanjiBreakup": "文房 (study) + 具 (tool)",
+    "story": "පෑන්, පැන්සල් සහ කොළ විකුණන තැන."
+  },
+  {
+    "id": "dl_088",
+    "expression": "本屋",
+    "category": "Daily Life & Home",
+    "furigana": "ほんや",
+    "romaji": "honya",
+    "meaningSinhala": "පොත් කඩය / Bookstore",
+    "kanjiBreakup": "本 (book) + 屋 (shop)",
+    "story": "පොත් සහ සඟරා විකුණන ස්ථානය."
+  },
+  {
+    "id": "dl_089",
+    "expression": "薬屋",
+    "category": "Daily Life & Home",
+    "furigana": "くすりや",
+    "romaji": "kusuriya",
+    "meaningSinhala": "බෙහෙත් කඩය / Drugstore",
+    "kanjiBreakup": "薬 (medicine) + 屋 (shop)",
+    "story": "බෙහෙත් සහ විවිධ ආලේපන විකුණන තැන."
+  },
+  {
+    "id": "dl_090",
+    "expression": "花屋",
+    "category": "Daily Life & Home",
+    "furigana": "はなや",
+    "romaji": "hanaya",
+    "meaningSinhala": "මල් කඩය / Florist",
+    "kanjiBreakup": "花 (flower) + 屋 (shop)",
+    "story": "අලංකාර මල් වර්ග විකුණන වෙළඳසැල."
+  },
+  {
+    "id": "dl_091",
+    "expression": "住民票",
+    "category": "Daily Life & Home",
+    "furigana": "じゅうみんひょう",
+    "romaji": "juuminhyou",
+    "meaningSinhala": "පදිංචි සහතිකය / Certificate of residence",
+    "kanjiBreakup": "住民 (resident) + 票 (form)",
+    "story": "නගර සභාවෙන් ගන්නා පදිංචිය තහවුරු කරන ලියවිල්ල."
+  },
+  {
+    "id": "dl_092",
+    "expression": "印鑑",
+    "category": "Daily Life & Home",
+    "furigana": "いんかん",
+    "romaji": "inkan",
+    "meaningSinhala": "නිල මුද්‍රාව / Personal seal",
+    "kanjiBreakup": "印鑑 (seal)",
+    "story": "ජපානයේ අත්සන වෙනුවට පාවිච්චි කරන නම ඇති මුද්‍රාව."
+  },
+  {
+    "id": "dl_093",
+    "expression": "証明写真",
+    "category": "Daily Life & Home",
+    "furigana": "しょうめいしゃしん",
+    "romaji": "shoumei shashin",
+    "meaningSinhala": "හැඳුනුම්පත් ඡායාරූපය / ID photo",
+    "kanjiBreakup": "証明 (certify) + 写真 (photo)",
+    "story": "විදේශ ගමන් බලපත්‍රයට හෝ වීසා එකට ගන්නා ෆොටෝ එක."
+  },
+  {
+    "id": "dl_094",
+    "expression": "身分証明書",
+    "category": "Daily Life & Home",
+    "furigana": "みぶんしょうめいしょ",
+    "romaji": "mibun shoumeisho",
+    "meaningSinhala": "හැඳුනුම්පත / Identification card",
+    "kanjiBreakup": "身分 (status) + 証明書 (certificate)",
+    "story": "පුද්ගල අනන්‍යතාවය තහවුරු කරන කාඩ්පත."
+  },
+  {
+    "id": "dl_095",
+    "expression": "保険証",
+    "category": "Daily Life & Home",
+    "furigana": "ほけんしょう",
+    "romaji": "hokensho",
+    "meaningSinhala": "සෞඛ්‍ය රක්ෂණ කාඩ්පත / Health insurance card",
+    "kanjiBreakup": "保険 (insurance) + 証 (card)",
+    "story": "රෝහල්වලට පෙන්වන රක්ෂණ කාඩ්පත."
+  },
+  {
+    "id": "dl_096",
+    "expression": "診察券",
+    "category": "Daily Life & Home",
+    "furigana": "しんさつきけん",
+    "romaji": "shinsatsuken",
+    "meaningSinhala": "රෝහල් කාඩ්පත / Hospital patient card",
+    "kanjiBreakup": "診察 (medical exam) + 券 (ticket)",
+    "story": "රෝහලෙන් දෙන රෝගී ලියාපදිංචි කාඩ්පත."
+  },
+  {
+    "id": "dl_097",
+    "expression": "処方箋",
+    "category": "Daily Life & Home",
+    "furigana": "しょほうせん",
+    "romaji": "shohousen",
+    "meaningSinhala": "වෛද්‍ය බෙහෙත් වට්ටෝරුව / Prescription",
+    "kanjiBreakup": "処方 (prescription) + 箋 (paper)",
+    "story": "ಡಾක්ටර් ලියා දෙන බෙහෙත් කොළය."
+  },
+  {
+    "id": "dl_098",
+    "expression": "診察料",
+    "category": "Daily Life & Home",
+    "furigana": "しんさつりょう",
+    "romaji": "shinsatsuryou",
+    "meaningSinhala": "වෛද්‍ය ගාස්තුව / Consultation fee",
+    "kanjiBreakup": "診察 (exam) + 料 (fee)",
+    "story": "ඩಾක්ටර් කෙනෙකුට පෙන්වීමට ගෙවන මුදල."
+  },
+  {
+    "id": "dl_099",
+    "expression": "待合室",
+    "category": "Daily Life & Home",
+    "furigana": "まちあいしつ",
+    "romaji": "machiaishitsu",
+    "meaningSinhala": "රැඳී සිටින ශාලාව / Waiting room",
+    "kanjiBreakup": "待合い (waiting) + 室 (room)",
+    "story": "රෝහලේ හෝ කාර්යාලයේ වාඩි වී බලා සිටින කාමරය."
+  },
+  {
+    "id": "dl_100",
+    "expression": "受付番号",
+    "category": "Daily Life & Home",
+    "furigana": "うけつけばんごう",
+    "romaji": "uketsuke bangou",
+    "meaningSinhala": "අංක පත්‍රිකාව / Reception number",
+    "kanjiBreakup": "受付 (reception) + 番号 (number)",
+    "story": "පෝලිමට ගන්නා අංක සඳහන් පත්‍රිකාව."
+  },
+  {
+    "id": "dl_101",
+    "expression": "食卓",
+    "category": "Daily Life & Home",
+    "furigana": "しょくたく",
+    "romaji": "shokutaku",
+    "meaningSinhala": "කෑම මේසය / Dining table",
+    "kanjiBreakup": "食 (eat) + 卓 (table)",
+    "story": "නිවසේ කෑම කන මේසය."
+  },
+  {
+    "id": "dl_102",
+    "expression": "台所",
+    "category": "Daily Life & Home",
+    "furigana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaningSinhala": "මුළුතැන්ගෙය / Kitchen",
+    "kanjiBreakup": "台 (stand) + 所 (place)",
+    "story": "උයන පිහින කටයුතු කරන මුළුතැන්ගෙය."
+  },
+  {
+    "id": "dl_103",
+    "expression": "浴室",
+    "category": "Daily Life & Home",
+    "furigana": "よくしつ",
+    "romaji": "yokushitsu",
+    "meaningSinhala": "නාන කාමරය / Bathroom",
+    "kanjiBreakup": "浴 (bathe) + 室 (room)",
+    "story": "නාන තටාකය හෝ ෂවර් එක ඇති කාමරය."
+  },
+  {
+    "id": "dl_104",
+    "expression": "洗面所",
+    "category": "Daily Life & Home",
+    "furigana": "せんめんじょ",
+    "romaji": "senmenjo",
+    "meaningSinhala": "මූහුණ අතපය හෝදන්න තැන / Washroom",
+    "kanjiBreakup": "洗面 (wash face) + 所 (place)",
+    "story": "මුහුණ හෝදන්න සහ දත් මදින්න ඇති තැන."
+  },
+  {
+    "id": "dl_105",
+    "expression": "和室",
+    "category": "Daily Life & Home",
+    "furigana": "わしつ",
+    "romaji": "washitsu",
+    "meaningSinhala": "ජපන් ක්‍රමයට ඇති කාමරය / Japanese-style room",
+    "kanjiBreakup": "和 (Japanese) + 室 (room)",
+    "story": "ටටාමි පැදුරු දැමූ සාම්ප්‍රදායික ජපන් කාමරය."
+  },
+  {
+    "id": "dl_106",
+    "expression": "洋室",
+    "category": "Daily Life & Home",
+    "furigana": "ようしつ",
+    "romaji": "youshitsu",
+    "meaningSinhala": "බටහිර ක්‍රමයට ඇති කාමරය / Western-style room",
+    "kanjiBreakup": "洋 (western) + 室 (room)",
+    "story": "ඇඳන් සහ පුටු දැමූ බටහිර කාමරය."
+  },
+  {
+    "id": "dl_107",
+    "expression": "押入れ",
+    "category": "Daily Life & Home",
+    "furigana": "おしいれ",
+    "romaji": "oshiire",
+    "meaningSinhala": "ජපන් අල්මාරිය / Closet (Japanese style)",
+    "kanjiBreakup": "押し (push) + 入れ (put in)",
+    "story": "ෆුටන් මෙට්ට සහ ඇඳුම් අසුරා තබන බිත්ති අල්මාරිය."
+  },
+  {
+    "id": "dl_108",
+    "expression": "物置",
+    "category": "Daily Life & Home",
+    "furigana": "ものおき",
+    "romaji": "monooki",
+    "meaningSinhala": "බාගාරය / Storeroom",
+    "kanjiBreakup": "物 (thing) + 置き (place)",
+    "story": "පාවිච්චි නොකරන බඩු දමන කුඩා කාමරය."
+  },
+  {
+    "id": "dl_109",
+    "expression": "網戸",
+    "category": "Daily Life & Home",
+    "furigana": "あみど",
+    "romaji": "amido",
+    "meaningSinhala": "මදුරු දැል දොර / Screen door",
+    "kanjiBreakup": "網 (net) + 戸 (door)",
+    "story": "මැස්සන් සහ මදුරුවන් නොඒමට දමන දැල් දොර."
+  },
+  {
+    "id": "dl_110",
+    "expression": "雨戸",
+    "category": "Daily Life & Home",
+    "furigana": "あまど",
+    "romaji": "amado",
+    "meaningSinhala": "වැසි සහ සුළං කපන පියන / Storm shutter",
+    "kanjiBreakup": "雨 (rain) + 戸 (door)",
+    "story": "කුණාටු කාලයට ජනේල ආරක්ෂා කිරීමට වසන පියන."
+  },
+  {
+    "id": "dl_111",
+    "expression": "換気扇",
+    "category": "Daily Life & Home",
+    "furigana": "かんきせん",
+    "romaji": "kankisen",
+    "meaningSinhala": "වාතාශ්‍රය විදුලි පංනාව / Exhaust fan",
+    "kanjiBreakup": "換気 (ventilate) + 扇 (fan)",
+    "story": "මුළුතැන්ගෙයි දුම් එළියට දමන විදුලි පංනාව."
+  },
+  {
+    "id": "dl_112",
+    "expression": "照明",
+    "category": "Daily Life & Home",
+    "furigana": "しょうめい",
+    "romaji": "shoumei",
+    "meaningSinhala": "විදුලි පහන් ආලෝකය / Lighting",
+    "kanjiBreakup": "照 (illuminate) + 明 (bright)",
+    "story": "කාමරයට ආලෝකය දෙන විදුලි බල්බ පද්ධතිය."
+  },
+  {
+    "id": "dl_113",
+    "expression": "コンセント",
+    "category": "Daily Life & Home",
+    "furigana": "こんせんと",
+    "romaji": "konsento",
+    "meaningSinhala": "ප්‍රාවර්ගය / Electrical socket",
+    "kanjiBreakup": "Loanword",
+    "story": "විදුලි ප්ලග් එක ගසන බිත්තියේ ඇති සිදුර."
+  },
+  {
+    "id": "dl_114",
+    "expression": "スイッチ",
+    "category": "Daily Life & Home",
+    "furigana": "すいっち",
+    "romaji": "suicchi",
+    "meaningSinhala": "ස්විචය / Switch",
+    "kanjiBreakup": "Loanword",
+    "story": "ලයිට් හෝ පංකා ක්‍රියාත්මක කරන ස්විචය."
+  },
+  {
+    "id": "dl_115",
+    "expression": "リモコン",
+    "category": "Daily Life & Home",
+    "furigana": "りもこん",
+    "romaji": "rimokon",
+    "meaningSinhala": "රිමෝට් එක / Remote control",
+    "kanjiBreakup": "Loanword",
+    "story": "දුරස්ථව උපකරණ ක්‍රියාත්මක කරන පාලකය."
+  },
+  {
+    "id": "dl_116",
+    "expression": "炊飯器",
+    "category": "Daily Life & Home",
+    "furigana": "すいはんき",
+    "romaji": "suihanki",
+    "meaningSinhala": "බත් උයන යන්ත්‍රය / Rice cooker",
+    "kanjiBreakup": "炊飯 (cook rice) + 機 (machine)",
+    "story": "ජපානයේ බත් උයන්න පාවිච්චි කරන ස්වයංක්‍රීය යන්ත්‍රය."
+  },
+  {
+    "id": "dl_117",
+    "expression": "洗濯物干し",
+    "category": "Daily Life & Home",
+    "furigana": "せんたくものほし",
+    "romaji": "sentakumono hoshi",
+    "meaningSinhala": "ඇඳුම් වේළන රාමුව / Clothes drying rack",
+    "kanjiBreakup": "洗濯物 (laundry) + 干し (dry)",
+    "story": "හෝදාපු ඇඳුම් අව්වේ දමන රාමුව."
+  },
+  {
+    "id": "dl_118",
+    "expression": "物干し竿",
+    "category": "Daily Life & Home",
+    "furigana": "ものほしざお",
+    "romaji": "monohoshizao",
+    "meaningSinhala": "ඇඳුම් අල්ලන ලී දණ්ඩ / Clothes pole",
+    "kanjiBreakup": "物干し (drying) + 竿 (pole)",
+    "story": "ඇඳුම් නූල් අල්ලන දිගු බටය."
+  },
+  {
+    "id": "dl_119",
+    "expression": "柔軟剤",
+    "category": "Daily Life & Home",
+    "furigana": "じゅうなんざい",
+    "romaji": "juunanzai",
+    "meaningSinhala": "මෘදුකාරක දියර / Fabric softener",
+    "kanjiBreakup": "柔軟 (soft) + 剤 (agent)",
+    "story": "ඇඳුම් සුවඳවත් කර මෘදු කරන දියර."
+  },
+  {
+    "id": "dl_120",
+    "expression": "食器",
+    "category": "Daily Life & Home",
+    "furigana": "しょっき",
+    "romaji": "shokki",
+    "meaningSinhala": "පිඟන් කෝප්ප / Tableware",
+    "kanjiBreakup": "食 (eat) + 器 (vessel)",
+    "story": "කෑම කන්න පාවිච්චි කරන පිඟන් සහ කෝප්ප."
+  },
+  {
+    "id": "dl_121",
+    "expression": "茶碗",
+    "category": "Daily Life & Home",
+    "furigana": "ちゃわん",
+    "romaji": "chawan",
+    "meaningSinhala": "බත් කෝප්පය / Rice bowl",
+    "kanjiBreakup": "茶 (tea) + 碗 (bowl)",
+    "story": "බත් දමා කන ජපන් පාත්‍රය."
+  },
+  {
+    "id": "dl_122",
+    "expression": "湯呑み",
+    "category": "Daily Life & Home",
+    "furigana": "ゆのみ",
+    "romaji": "yunomi",
+    "meaningSinhala": "තේ කෝප්පය / Teacup",
+    "kanjiBreakup": "湯 (hot water) + 呑み (drink)",
+    "story": "උණුසුම් තේ බොන කෝප්පය."
+  },
+  {
+    "id": "dl_123",
+    "expression": "箸",
+    "category": "Daily Life & Home",
+    "furigana": "はし",
+    "romaji": "hashi",
+    "meaningSinhala": "චොප්ස්ටික් / Chopsticks",
+    "kanjiBreakup": "箸",
+    "story": "ජපානයේ කෑම කන්න පාවිච්චි කරනකුරු දෙක."
+  },
+  {
+    "id": "dl_124",
+    "expression": "包丁",
+    "category": "Daily Life & Home",
+    "furigana": "ほうちょう",
+    "romaji": "houchou",
+    "meaningSinhala": "පිහිය / Kitchen knife",
+    "kanjiBreakup": "包 (wrap) + 丁 (tool)",
+    "story": "එළවළු සහ මස් කපන තියුණු පිහිය."
+  },
+  {
+    "id": "dl_125",
+    "expression": "まな板",
+    "category": "Daily Life & Home",
+    "furigana": "まないた",
+    "romaji": "manaita",
+    "meaningSinhala": "කැපුම් ලෑල්ල / Cutting board",
+    "kanjiBreakup": "まな板",
+    "story": "පිහියෙන් කපද්දී යටින් තබන ලෑල්ල."
+  },
+  {
+    "id": "dl_126",
+    "expression": "フライパン",
+    "category": "Daily Life & Home",
+    "furigana": "ふらいぱん",
+    "romaji": "furaipan",
+    "meaningSinhala": "සාස්පාන / Frypan",
+    "kanjiBreakup": "Loanword",
+    "story": "තෙල් දමා බදින්න පාවිච්චි කරන පෑන් එක."
+  },
+  {
+    "id": "dl_127",
+    "expression": "鍋",
+    "category": "Daily Life & Home",
+    "furigana": "なべ",
+    "romaji": "nabe",
+    "meaningSinhala": "හැළිය / Pot / Pan",
+    "kanjiBreakup": "鍋",
+    "story": "දියර උයන්න හෝ තම්බා ගන්න පාවිච්චි කරන භාජනය."
+  },
+  {
+    "id": "dl_128",
+    "expression": "やかん",
+    "category": "Daily Life & Home",
+    "furigana": "やかん",
+    "romaji": "yakan",
+    "meaningSinhala": "කේතලය / Kettle",
+    "kanjiBreakup": "薬缶",
+    "story": "වතුර උණු කරන්න පාවිච්චි කරන කේතලය."
+  },
+  {
+    "id": "dl_129",
+    "expression": "おたま",
+    "category": "Daily Life & Home",
+    "furigana": "おたま",
+    "romaji": "otama",
+    "meaningSinhala": "හැන්ද / Ladle",
+    "kanjiBreakup": "お玉",
+    "story": "හොදි බෙදන්න ගන්න ලොකු හැන්ද."
+  },
+  {
+    "id": "dl_130",
+    "expression": "しゃもじ",
+    "category": "Daily Life & Home",
+    "furigana": "しゃもじ",
+    "romaji": "shamoji",
+    "meaningSinhala": "බත් හැන්ද / Rice paddle",
+    "kanjiBreakup": "しゃもじ",
+    "story": "බත් මුට්ටියෙන් බත් බෙදාගන්න පැතලි හැන්ද."
+  },
+  {
+    "id": "dl_131",
+    "expression": "保存容器",
+    "category": "Daily Life & Home",
+    "furigana": "ほぞんようき",
+    "romaji": "hozon youki",
+    "meaningSinhala": "ආහාර රඳවන බහාලුම / Food storage container",
+    "kanjiBreakup": "保存 (preserve) + 容器 (container)",
+    "story": "פריජ් එකේ කෑම දමා තබන ප්ලාස්ටික් බෝතල් හෝ පෙට්ටි."
+  },
+  {
+    "id": "dl_132",
+    "expression": "ゴミ箱",
+    "category": "Daily Life & Home",
+    "furigana": "ごみばこ",
+    "romaji": "gomibako",
+    "meaningSinhala": "කුණු කූඩය / Trash can",
+    "kanjiBreakup": "ゴミ (rubbish) + 箱 (box)",
+    "story": "කුණු දමන බහාලුම."
+  },
+  {
+    "id": "dl_133",
+    "expression": "雑巾",
+    "category": "Daily Life & Home",
+    "furigana": "ぞうきん",
+    "romaji": "zoukin",
+    "meaningSinhala": "බිම පිසින රෙදි කඩ / Floor cloth",
+    "kanjiBreakup": "雑巾",
+    "story": "ගෙදර බිම පිස දමන පිරිසිදු රෙදි කඩ."
+  },
+  {
+    "id": "dl_134",
+    "expression": "ほうき",
+    "category": "Daily Life & Home",
+    "furigana": "ほうき",
+    "romaji": "houki",
+    "meaningSinhala": "පාපිස්නාව / Broom",
+    "kanjiBreakup": "箒",
+    "story": "බිම අතුගාන ඉදල්."
+  },
+  {
+    "id": "dl_135",
+    "expression": "ちりとり",
+    "category": "Daily Life & Home",
+    "furigana": "ちりとり",
+    "romaji": "chiritori",
+    "meaningSinhala": "කුණු එකතු කරන හෑල්ල / Dustpan",
+    "kanjiBreakup": "塵取り",
+    "story": "අතුගෑ කුණු එකතු කරන භාජනය."
+  },
+  {
+    "id": "dl_136",
+    "expression": "水切り",
+    "category": "Daily Life & Home",
+    "furigana": "みずきり",
+    "romaji": "mizukiri",
+    "meaningSinhala": "වතුර බේරෙන රාමුව / Drainer",
+    "kanjiBreakup": "水 (water) + 切り (cut)",
+    "story": "හෝදපු පිඟන්වල වතුර බේරෙන්න තබන තැන."
+  },
+  {
+    "id": "dl_137",
+    "expression": "換気",
+    "category": "Daily Life & Home",
+    "furigana": "かんき",
+    "romaji": "kanki",
+    "meaningSinhala": "වාතාශ්‍රය ලබා ගැනීම / Ventilation",
+    "kanjiBreakup": "換 (change) + 気 (air)",
+    "story": "කාමරයට නැවුම් වාතය ඇතුළු කිරීම."
+  },
+  {
+    "id": "dl_138",
+    "expression": "施錠する",
+    "category": "Daily Life & Home",
+    "furigana": "せじょうする",
+    "romaji": "sejou suru",
+    "meaningSinhala": "අගුලු දැමීම / To lock",
+    "kanjiBreakup": "施錠 (lock) + する (do)",
+    "story": "දොර සහ ජනෙල් අගුලු දැමීම."
+  },
+  {
+    "id": "dl_139",
+    "expression": "戸締まり",
+    "category": "Daily Life & Home",
+    "furigana": "とじまり",
+    "romaji": "tojimari",
+    "meaningSinhala": "ගෙදර දොර වැසීම ආරක්ෂා කිරීම / Closing up",
+    "kanjiBreakup": "戸 (door) + 締まり (tighten)",
+    "story": "ගෙදරින් යන්න කලින් දොරවල් වැසීම."
+  },
+  {
+    "id": "dl_140",
+    "expression": "留守番",
+    "category": "Daily Life & Home",
+    "furigana": "るすばん",
+    "romaji": "rusuban",
+    "meaningSinhala": "ගෙදර බලාගෙන සිටීම / House-sitting",
+    "kanjiBreakup": "留守 (absence) + 番 (watch)",
+    "story": "ගෙදර කවුරුවත් නැති වෙලාවක ගෙදර බලාගෙන ඉන්නවා."
+  },
+  {
+    "id": "dl_141",
+    "expression": "近所付き合い",
+    "category": "Daily Life & Home",
+    "furigana": "きんじょづきあい",
+    "romaji": "kinjo zukiai",
+    "meaningSinhala": "අසල්වැසියන් සමඟ හිතවත්කම් / Neighborly relations",
+    "kanjiBreakup": "近所 (neighborhood) + 付き合い (association)",
+    "story": "අසල්වැසියන් සමඟ සාමකාමීව ඇසුරු කිරීම."
+  },
+  {
+    "id": "dl_142",
+    "expression": "町内清掃",
+    "category": "Daily Life & Home",
+    "furigana": "ちょうないせいそう",
+    "romaji": "chounai seisou",
+    "meaningSinhala": "ප්‍රදේශය පිරිසිදු කිරීමේ වැඩසටහන / Neighborhood cleanup",
+    "kanjiBreakup": "町内 (neighborhood) + 清掃 (cleaning)",
+    "story": "ගම හෝ ප්‍රදේශය එකතු වී පිරිසිදු කිරීම."
+  },
+  {
+    "id": "dl_143",
+    "expression": "資源ごみ",
+    "category": "Daily Life & Home",
+    "furigana": "しげんごみ",
+    "romaji": "shigen gomi",
+    "meaningSinhala": "චක්‍රීකරණය කළ හැකි කුණු / Recyclable waste",
+    "kanjiBreakup": "資源 (resource) + ごみ (rubbish)",
+    "story": "නැවත පාවිච්චියට ගත හැකි කඩදාසි සහ බෝතල්."
+  },
+  {
+    "id": "dl_144",
+    "expression": "粗大ごみ",
+    "category": "Daily Life & Home",
+    "furigana": "そだいごみ",
+    "romaji": "sodai gomi",
+    "meaningSinhala": "විශාල ප්‍රමාණයේ කුණු / Large-sized garbage",
+    "kanjiBreakup": "粗大 (bulky) + ごみ (rubbish)",
+    "story": "මෙට්ට සහ අල්මාරි වැනි විශාල බඩු ඉවත් කිරීම."
+  },
+  {
+    "id": "dl_145",
+    "expression": "可燃ごみ",
+    "category": "Daily Life & Home",
+    "furigana": "かねんごみ",
+    "romaji": "kanen gomi",
+    "meaningSinhala": "ගිනි ගන්නා කුණු / Burnable garbage",
+    "kanjiBreakup": "可燃 (burnable) + ごみ (rubbish)",
+    "story": "පිළිස්සිය හැකි කුණු වර්ග (කෑම වර්ග ආදී)."
+  },
+  {
+    "id": "dl_146",
+    "expression": "不燃ごみ",
+    "category": "Daily Life & Home",
+    "furigana": "ふねんごみ",
+    "romaji": "funen gomi",
+    "meaningSinhala": "ගිනි නොගන්නා කුණු / Non-burnable garbage",
+    "kanjiBreakup": "不燃 (non-burnable) + ごみ (rubbish)",
+    "story": "පිළිස්සිය නොහැකි කුණු (පිඟන් සහ ලෝහ ආදී)."
+  },
+  {
+    "id": "dl_147",
+    "expression": "家事",
+    "category": "Daily Life & Home",
+    "furigana": "かじ",
+    "romaji": "kaji",
+    "meaningSinhala": "ගෙදර දොරේ වැඩ / Housework",
+    "kanjiBreakup": "家 (house) + 事 (affair)",
+    "story": "උයන පිහින සහ ඇඳුම් සෝදන ගෙදර වැඩ."
+  },
+  {
+    "id": "dl_148",
+    "expression": "育児",
+    "category": "Daily Life & Home",
+    "furigana": "いくじ",
+    "romaji": "ikuji",
+    "meaningSinhala": "ළමුන් හැදීම / Childcare",
+    "kanjiBreakup": "育 (raise) + 児 (child)",
+    "story": "දරුවන් බලාගැනීමේ කටයුතු."
+  },
+  {
+    "id": "dl_149",
+    "expression": "子育て",
+    "category": "Daily Life & Home",
+    "furigana": "こそだて",
+    "romaji": "kosodate",
+    "meaningSinhala": "දරුවන් ඇති දැඩි කිරීම / Raising children",
+    "kanjiBreakup": "子 (child) + 育て (raise)",
+    "story": "දරුවන් පෝෂණය කර ඉගැන්වීම."
+  },
+  {
+    "id": "dl_150",
+    "expression": "共働き",
+    "category": "Daily Life & Home",
+    "furigana": "ともばたらき",
+    "romaji": "tomobataraki",
+    "meaningSinhala": "භාර්යාව සහ ස්වාමිපුරුෂයා දෙදෙනාම රැකියාව කිරීම / Dual-income",
+    "kanjiBreakup": "共 (both) + 働き (work)",
+    "story": "මහන සහ බිරිඳ දෙපළම රැකියා කිරීම."
+  },
+  {
+    "id": "dl_151",
+    "expression": "主夫",
+    "category": "Daily Life & Home",
+    "furigana": "しゅふ",
+    "romaji": "shufu",
+    "meaningSinhala": "ගෘහණියකගේ රාජකාරී කරන පුරුෂයා / Househusband",
+    "kanjiBreakup": "主 (main) + 夫 (husband)",
+    "story": "ගෙදර වැඩ බලාගන්නා ස්වාමිපුරුෂයා."
+  },
+  {
+    "id": "dl_152",
+    "expression": "主婦",
+    "category": "Daily Life & Home",
+    "furigana": "しゅふ",
+    "romaji": "shufu",
+    "meaningSinhala": "ගෘහණිය / Housewife",
+    "kanjiBreakup": "主 (main) + 婦 (wife)",
+    "story": "ගෙදර දොරේ වැඩ බලාගන්නා භාර්යාව."
+  },
+  {
+    "id": "dl_153",
+    "expression": "食料品",
+    "category": "Daily Life & Home",
+    "furigana": "しょくりょうひん",
+    "romaji": "shokuryouhin",
+    "meaningSinhala": "ආහාර ද්‍රව්‍ය / Groceries",
+    "kanjiBreakup": "食料 (food) + 品 (goods)",
+    "story": "සුපර්මාර්කට් එකෙන් ගන්නා ආහාර ද්‍රව්‍ය."
+  },
+  {
+    "id": "dl_154",
+    "expression": "特売",
+    "category": "Daily Life & Home",
+    "furigana": "とくばい",
+    "romaji": "tokubai",
+    "meaningSinhala": "විශේෂ මිල අඩු කිරීම / Special sale",
+    "kanjiBreakup": "特 (special) + 売 (sell)",
+    "story": "භාණ්ඩ විශේෂ මිලකට විකුණන අවස්ථාව."
+  },
+  {
+    "id": "dl_155",
+    "expression": "セール",
+    "category": "Daily Life & Home",
+    "furigana": "せーる",
+    "romaji": "sēru",
+    "meaningSinhala": "වට්ටම් විකිණීම / Sale",
+    "kanjiBreakup": "Loanword",
+    "story": "මිල අඩු කර භාණ්ඩ විකුණන කාලය."
+  },
+  {
+    "id": "dl_156",
+    "expression": "割引",
+    "category": "Daily Life & Home",
+    "furigana": "わりびき",
+    "romaji": "waribiki",
+    "meaningSinhala": "මිල අඩු කිරීම / Discount",
+    "kanjiBreakup": "割 (divide) + 引 (pull)",
+    "story": "සාමාන්‍ය මිලෙන් අඩු කරන මුදල."
+  },
+  {
+    "id": "dl_157",
+    "expression": "半額",
+    "category": "Daily Life & Home",
+    "furigana": "はんがく",
+    "romaji": "hangaku",
+    "meaningSinhala": "අඩක් මිල / Half price",
+    "kanjiBreakup": "半 (half) + 額 (amount)",
+    "story": "මුල් මිලෙන් භාගයකට විකිණීම."
+  },
+  {
+    "id": "dl_158",
+    "expression": "レジ",
+    "category": "Daily Life & Home",
+    "furigana": "れじ",
+    "romaji": "reji",
+    "meaningSinhala": "මුදල් ගෙවන කවුන්ටරය / Cash register",
+    "kanjiBreakup": "Loanword",
+    "story": "බඩු ගෙන ගොස් මුදල් ගෙවන කවුන්ටරය."
+  },
+  {
+    "id": "dl_159",
+    "expression": "お釣り",
+    "category": "Daily Life & Home",
+    "furigana": "おつり",
+    "romaji": "otsuri",
+    "meaningSinhala": "ඉතිරි මුදල / Change (money)",
+    "kanjiBreakup": "釣り (fish/exchange)",
+    "story": "මුදල් දුන් පසු ආපසු ලැබෙන ඉතිරි කාසි."
+  },
+  {
+    "id": "dl_160",
+    "expression": "領収書",
+    "category": "Daily Life & Home",
+    "furigana": "りょうしゅうしょ",
+    "romaji": "ryoushuusho",
+    "meaningSinhala": "රිසිට්පත / Receipt",
+    "kanjiBreakup": "領収 (receive) + 書 (document)",
+    "story": "මුදල් ගෙවූ බවට ගන්නා කුවිතාන්සිය."
+  },
+  {
+    "id": "dl_161",
+    "expression": "レシート",
+    "category": "Daily Life & Home",
+    "furigana": "れしーと",
+    "romaji": "reshīto",
+    "meaningSinhala": "මිලදීගත් භාණ්ඩ ලැයිස්තු පත්‍රිකාව / Store receipt",
+    "kanjiBreakup": "Loanword",
+    "story": "සාප්පුවෙන් දෙන බිල් පත."
+  },
+  {
+    "id": "dl_162",
+    "expression": "袋",
+    "category": "Daily Life & Home",
+    "furigana": "ふくろ",
+    "romaji": "fukuro",
+    "meaningSinhala": "බෑගය / Bag",
+    "kanjiBreakup": "袋 (bag)",
+    "story": "බඩු දමන ප්ලාස්ටික් හෝ කඩදාසි බෑගය."
+  },
+  {
+    "id": "dl_163",
+    "expression": "有料",
+    "category": "Daily Life & Home",
+    "furigana": "ゆうりょう",
+    "romaji": "yuuryou",
+    "meaningSinhala": "ගාස්තු අය කරන / Paid (service)",
+    "kanjiBreakup": "有 (have) + 料 (fee)",
+    "story": "මිලක් ගෙවිය යුතු සේවාවක්."
+  },
+  {
+    "id": "dl_164",
+    "expression": "無料",
+    "category": "Daily Life & Home",
+    "furigana": "むりょう",
+    "romaji": "muryou",
+    "meaningSinhala": "නොමිලේ / Free",
+    "kanjiBreakup": "無 (none) + 料 (fee)",
+    "story": "මුදල් අය නොකරන නොමිලේ දෙන දේ."
+  },
+  {
+    "id": "dl_165",
+    "expression": "生鮮食品",
+    "category": "Daily Life & Home",
+    "furigana": "せいせんしょくひん",
+    "romaji": "seisen shokuhin",
+    "meaningSinhala": "తాජා ආහාර / Fresh foods",
+    "kanjiBreakup": "生鮮 (fresh) + 食品 (food)",
+    "story": "එළවළු, මාළු සහ මස් වර්ග."
+  },
+  {
+    "id": "dl_166",
+    "expression": "冷凍食品",
+    "category": "Daily Life & Home",
+    "furigana": "れいとうしょくひん",
+    "romaji": "reitou shokuhin",
+    "meaningSinhala": "ශීත කළ ආහාර / Frozen foods",
+    "kanjiBreakup": "冷凍 (frozen) + 食品 (food)",
+    "story": "פריජ් එකේ ගල්වා තබා ගන්නා ක්ෂණික කෑම."
+  },
+  {
+    "id": "dl_167",
+    "expression": "インスタント",
+    "category": "Daily Life & Home",
+    "furigana": "いんすたんと",
+    "romaji": "insutanto",
+    "meaningSinhala": "ක්ෂණික ආහාර / Instant food",
+    "kanjiBreakup": "Loanword",
+    "story": "වතුර දැමූ විගස සාදාගත හැකි නූඩ්ල්ස් ආදී දේ."
+  },
+  {
+    "id": "dl_168",
+    "expression": "お惣菜",
+    "category": "Daily Life & Home",
+    "furigana": "おそうざい",
+    "romaji": "osouzai",
+    "meaningSinhala": "පිසූ ආහාර / Prepared side dishes",
+    "kanjiBreakup": "惣菜 (side dish)",
+    "story": "සුපර්මාර්කට් එකෙන් ගන්නා උයපු කෑම."
+  },
+  {
+    "id": "dl_169",
+    "expression": "缶詰",
+    "category": "Daily Life & Home",
+    "furigana": "かんづめ",
+    "romaji": "kanzume",
+    "meaningSinhala": "ටින් කළ ආහාර / Canned food",
+    "kanjiBreakup": "缶 (can) + 詰 (pack)",
+    "story": "ටින්වල අසුරා ඇති කල් තබා ගත හැකි කෑම."
+  },
+  {
+    "id": "dl_170",
+    "expression": "主食",
+    "category": "Daily Life & Home",
+    "furigana": "しゅしょく",
+    "romaji": "shushoku",
+    "meaningSinhala": "ප්‍රධාන ආහාරය / Staple food",
+    "kanjiBreakup": "主 (main) + 食 (food)",
+    "story": "බත්, පාන් හෝ නූඩ්ල්ස් වැනි ප්‍රධාන කෑම."
+  },
+  {
+    "id": "dl_171",
+    "expression": "間食",
+    "category": "Daily Life & Home",
+    "furigana": "かんしょく",
+    "romaji": "kanshoku",
+    "meaningSinhala": "අතරමැද කෑම / Snacks",
+    "kanjiBreakup": "間 (between) + 食 (food)",
+    "story": "කෑම වේල් අතර කන බිස්කට් සහස් මීකට්."
+  },
+  {
+    "id": "dl_172",
+    "expression": "夜食",
+    "category": "Daily Life & Home",
+    "furigana": "やしょく",
+    "romaji": "yashoku",
+    "meaningSinhala": "රැයේ කන කෑම / Late-night snack",
+    "kanjiBreakup": "夜 (night) + 食 (food)",
+    "story": "රෑ බෝ වී බඩගින්නට කන කෑම."
+  },
+  {
+    "id": "dl_173",
+    "expression": "外食",
+    "category": "Daily Life & Home",
+    "furigana": "がいしょく",
+    "romaji": "gaishoku",
+    "meaningSinhala": "පිටින් කෑම කෑම / Eating out",
+    "kanjiBreakup": "外 (outside) + 食 (food)",
+    "story": "හෝටලයකට ගොස් කෑම කෑම."
+  },
+  {
+    "id": "dl_174",
+    "expression": "出前",
+    "category": "Daily Life & Home",
+    "furigana": "でまえ",
+    "romaji": "demae",
+    "meaningSinhala": "ගෙදරට කෑම ගෙන්වා ගැනීම / Food delivery",
+    "kanjiBreakup": "出 (out) + 前 (front)",
+    "story": "හෝටලයකින් ගෙදරට කෑම ඕඩර් කර ගෙන්වා ගැනීම."
+  },
+  {
+    "id": "dl_175",
+    "expression": "自炊",
+    "category": "Daily Life & Home",
+    "furigana": "じすい",
+    "romaji": "jisui",
+    "meaningSinhala": "තමන්ම කෑම උයා ගැනීම / Cooking for oneself",
+    "kanjiBreakup": "自 (self) + 炊 (cook)",
+    "story": "හෝටල්වලින් නොකා තමන්ම ගෙදර උයාල කෑම."
+  },
+  {
+    "id": "dl_176",
+    "expression": "お湯",
+    "category": "Daily Life & Home",
+    "furigana": "おゆ",
+    "romaji": "oyu",
+    "meaningSinhala": "උණු වතුර / Hot water",
+    "kanjiBreakup": "湯 (hot water)",
+    "story": "උණු කරගත් ජලය."
+  },
+  {
+    "id": "dl_177",
+    "expression": "氷",
+    "category": "Daily Life & Home",
+    "furigana": "こおり",
+    "romaji": "koori",
+    "meaningSinhala": "අයිස් කැට / Ice",
+    "kanjiBreakup": "氷 (ice)",
+    "story": "ශීතකරණයේ සෑදූ අයිස්."
+  },
+  {
+    "id": "dl_178",
+    "expression": "生ビール",
+    "category": "Daily Life & Home",
+    "furigana": "なまびーる",
+    "romaji": "nama bīru",
+    "meaningSinhala": "නැවුම් බියර් / Draft beer",
+    "kanjiBreakup": "生 (raw) + ビール (beer)",
+    "story": "ටැප් එකකින් දෙන නැවුම් බියර්."
+  },
+  {
+    "id": "dl_179",
+    "expression": "乾杯",
+    "category": "Daily Life & Home",
+    "furigana": "かんぱい",
+    "romaji": "kanpai",
+    "meaningSinhala": "චියර්ස් / Cheers",
+    "kanjiBreakup": "乾 (dry) + 杯 (cup)",
+    "story": "වීදුරු එකිනෙක හප්පා සතුට සමරන විට කියන වචනය."
+  },
+  {
+    "id": "dl_180",
+    "expression": "遠慮",
+    "category": "Daily Life & Home",
+    "furigana": "えんりょ",
+    "romaji": "enryo",
+    "meaningSinhala": "පැකිලීම / Hesitation",
+    "kanjiBreakup": "遠慮 (reserve)",
+    "story": "ඉල්ලීමට හෝ කීමට පැකිලෙන අවස්ථාව."
+  },
+  {
+    "id": "dl_181",
+    "expression": "我慢",
+    "category": "Daily Life & Home",
+    "furigana": "がまん",
+    "romaji": "gaman",
+    "meaningSinhala": "ඉවසීම / Patience",
+    "kanjiBreakup": "我慢 (perseverance)",
+    "story": "දුකක් හෝ බඩගින්නක් ඉවසීගෙන සිටීම."
+  },
+  {
+    "id": "dl_182",
+    "expression": "迷惑",
+    "category": "Daily Life & Home",
+    "furigana": "めいわく",
+    "romaji": "meiwaku",
+    "meaningSinhala": "කරදරය / Trouble / Annoyance",
+    "kanjiBreakup": "迷惑 (trouble)",
+    "story": "අනුන්ට කරන කරදරයක් හෝ හිරිහැරයක්."
+  },
+  {
+    "id": "dl_183",
+    "expression": "注意",
+    "category": "Daily Life & Home",
+    "furigana": "ちゅうい",
+    "romaji": "chuui",
+    "meaningSinhala": "සැලකිලිමත් වීම / Attention",
+    "kanjiBreakup": "注 (pour) + 意 (mind)",
+    "story": "අනතුරුදායක තැනකදී පරිස්සම් වීම."
+  },
+  {
+    "id": "dl_184",
+    "expression": "失敗",
+    "category": "Daily Life & Home",
+    "furigana": "しっぱい",
+    "romaji": "shippai",
+    "meaningSinhala": "අසාර්ථක වීම / Mistake / Failure",
+    "kanjiBreakup": "失敗 (failure)",
+    "story": "වැඩකදී සිදුවන වරද."
+  },
+  {
+    "id": "dl_185",
+    "expression": "成功",
+    "category": "Daily Life & Home",
+    "furigana": "せいこう",
+    "romaji": "seikou",
+    "meaningSinhala": "සාර්ථක වීම / Success",
+    "kanjiBreakup": "成功 (success)",
+    "story": "උත්සාහය සාර්ථක වීම."
+  },
+  {
+    "id": "dl_186",
+    "expression": "計画",
+    "category": "Daily Life & Home",
+    "furigana": "けいかく",
+    "romaji": "keikaku",
+    "meaningSinhala": "සැලැස්ම / Plan",
+    "kanjiBreakup": "計画 (plan)",
+    "story": "අනාගත වැඩවලට අඳින සැලැස්ම."
+  },
+  {
+    "id": "dl_187",
+    "expression": "準備",
+    "category": "Daily Life & Home",
+    "furigana": "じゅんび",
+    "romaji": "junbi",
+    "meaningSinhala": "සූදානම් වීම / Preparation",
+    "kanjiBreakup": "準備 (prepare)",
+    "story": "ගමනකට හෝ වැඩකට අවශ්‍ය දේ සූදානම් කිරීම."
+  },
+  {
+    "id": "dl_188",
+    "expression": "相談",
+    "category": "Daily Life & Home",
+    "furigana": "そうだん",
+    "romaji": "soudan",
+    "meaningSinhala": "සාකච්ඡා කිරීම / Discussion",
+    "kanjiBreakup": "相談 (consult)",
+    "story": "ප්‍රශ්නයක් ගැන කතා කර විසඳුම් සෙවීම."
+  },
+  {
+    "id": "dl_189",
+    "expression": "約束",
+    "category": "Daily Life & Home",
+    "furigana": "やくそく",
+    "romaji": "yakusoku",
+    "meaningSinhala": "පොරොන්දුව / Promise",
+    "kanjiBreakup": "約束 (promise)",
+    "story": "කෙනෙකුට දුන් පොරොන්දුවක්."
+  },
+  {
+    "id": "dl_190",
+    "expression": "返事",
+    "category": "Daily Life & Home",
+    "furigana": "へんじ",
+    "romaji": "henji",
+    "meaningSinhala": "පිළිතුර / Reply",
+    "kanjiBreakup": "返 (return) + 事 (matter)",
+    "story": "පණිවිඩයකට හෝ ප්‍රශ්නයකට දෙන උත්තරය."
+  },
+  {
+    "id": "dl_191",
+    "expression": "都合",
+    "category": "Daily Life & Home",
+    "furigana": "つごう",
+    "romaji": "tsugou",
+    "meaningSinhala": "පහසුව / Circumstances / Convenience",
+    "kanjiBreakup": "都合 (convenience)",
+    "story": "අපට ඇති වේලාවේ පහසුව."
+  },
+  {
+    "id": "dl_192",
+    "expression": "具合",
+    "category": "Daily Life & Home",
+    "furigana": "ぐあい",
+    "romaji": "guai",
+    "meaningSinhala": "තත්ත්වය / Condition / Health",
+    "kanjiBreakup": "具合 (condition)",
+    "story": "ශරීර සෞඛ්‍යයේ හෝ මැෂින් එකක තත්ත්වය."
+  },
+  {
+    "id": "dl_193",
+    "expression": "調子",
+    "category": "Daily Life & Home",
+    "furigana": "ちょうし",
+    "romaji": "choushi",
+    "meaningSinhala": "තත්ත්වය / Tune / Condition",
+    "kanjiBreakup": "調 (tune) + 子 (child)",
+    "story": "වාහනයක හෝ සිරුරේ ක්‍රියාකාරී තත්ත්වය."
+  },
+  {
+    "id": "dl_194",
+    "expression": "調べる",
+    "category": "Daily Life & Home",
+    "furigana": "しらべる",
+    "romaji": "shiraberu",
+    "meaningSinhala": "සොයා බැලීම / To investigate",
+    "kanjiBreakup": "調べる (check)",
+    "story": "අන්තර්ජාලයෙන් හෝ පොතකින් තොරතුරු සෙවීම."
+  },
+  {
+    "id": "dl_195",
+    "expression": "探す",
+    "category": "Daily Life & Home",
+    "furigana": "さがす",
+    "romaji": "sagasu",
+    "meaningSinhala": "හොයනවා / To search",
+    "kanjiBreakup": "探す (search)",
+    "story": "නැති වූ දෙයක් හෝ පුද්ගලයෙක් සෙවීම."
+  },
+  {
+    "id": "dl_196",
+    "expression": "集まる",
+    "category": "Daily Life & Home",
+    "furigana": "あつまる",
+    "romaji": "atsumaru",
+    "meaningSinhala": "රැස්වීම / To gather",
+    "kanjiBreakup": "集まる (collect)",
+    "story": "මිනිසුන් එක තැනකට එකතු වීම."
+  },
+  {
+    "id": "dl_197",
+    "expression": "決める",
+    "category": "Daily Life & Home",
+    "furigana": "きめる",
+    "romaji": "kimeru",
+    "meaningSinhala": "තීරණය කිරීම / To decide",
+    "kanjiBreakup": "決める (decide)",
+    "story": "අවසාන තීරණයකට එළඹීම."
+  },
+  {
+    "id": "dl_198",
+    "expression": "変わる",
+    "category": "Daily Life & Home",
+    "furigana": "かわる",
+    "romaji": "kawaru",
+    "meaningSinhala": "වෙනස් වීම / To change",
+    "kanjiBreakup": "変わる (change)",
+    "story": "තත්ත්වය වෙනස් වීම."
+  },
+  {
+    "id": "dl_199",
+    "expression": "続ける",
+    "category": "Daily Life & Home",
+    "furigana": "つづける",
+    "romaji": "tsuzukeru",
+    "meaningSinhala": "දිගටම කරගෙන යාම / To continue",
+    "kanjiBreakup": "続ける (continue)",
+    "story": "වැඩක් අත්නොහැර දිගටම කරගෙන යාම."
+  },
+  {
+    "id": "dl_200",
+    "expression": "終わる",
+    "category": "Daily Life & Home",
+    "furigana": "おわる",
+    "romaji": "owaru",
+    "meaningSinhala": "අවසන් වීම / To finish",
+    "kanjiBreakup": "終わる (end)",
+    "story": "නියමිත වැඩක් සාර්ථකව නිම වීම."
+  }
+]

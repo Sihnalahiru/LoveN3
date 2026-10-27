@@ -1,0 +1,117 @@
+[
+  {
+    "id": "grammar_cat12_056",
+    "category": "Degree, Scope & Extent",
+    "grammarPoint": "〜限り (範囲・条件 - As far as / Limits)",
+    "grammarPointFurigana": "かぎり",
+    "studyMode": {
+      "meaningSinhala": "~තාක් දුරට / ~සීමාව තුළ (යම් නිශ්චිත සීමාවක් හෝ පරාසයක් ඇතුළත ක්‍රියාත්මක වන බව පෙන්වයි)",
+      "formation": [
+        "Verb (Dictionary / Nai / Ta form) + 限り",
+        "Noun + の + 限り"
+      ],
+      "examples": [
+        {
+          "japanese": "私の知る限りでは、彼はそんな人ではない。",
+          "furigana": "わたしのしるかぎりでは、かれはそんなひとではない。",
+          "sinhala": "මම දන්නා තාක් දුරට, ඔහු එවැනි අයෙකු නොවේ."
+        },
+        {
+          "japanese": "できる限りのことは、すべてやったつもりだ。",
+          "furigana": "できるかぎりのことは、すべてやったつもりだ。",
+          "sinhala": "මට කළ හැකි උපරිම සීමාව තුළ, සියල්ලම කළෙමි."
+        },
+        {
+          "japanese": "雨が降らない限り、運動会は予定通り行います。",
+          "furigana": "あめがふらないかぎり、うんどうかいはよていどおり行います。",
+          "sinhala": "වැස්ස වසින්නේ නැති තාක් කල්, ක්‍රීඩා උත්සවය සැලසුම් කළ පරිදි පැවැත්වේ."
+        },
+        {
+          "japanese": "今日買ったものは、原則として返品にかぎりません。",
+          "furigana": "きょうかったものは、げんそくとしてへんぴんにかぎりません。",
+          "sinhala": "අද මිලදී ගත් භාණ්ඩ, මූලධර්මයක් ලෙස ආපසු භාර ගැනීම සිදු නොකෙරේ."
+        },
+        {
+          "japanese": "力のかぎり、最後まで走り抜いた。",
+          "furigana": "ちからのかぎり、さいまではしりぬいた。",
+          "sinhala": "හැකි උපරිම ශක්තිය යොදා, අග දක්වාම දුව ගියෙමි."
+        }
+      ]
+    },
+    "quizMode": {
+      "questions": [
+        {
+          "id": "q_cat12_056_1",
+          "question": "私の知る（  ）、彼が遅刻したことは一度もない。",
+          "questionFurigana": "わたしのしる（  ）、かれがちこくしたことはいちどもない。",
+          "options": [
+            "1. 限り",
+            "2. うち",
+            "3. あいだ",
+            "4. さいちゅう"
+          ],
+          "correctAnswer": 1,
+          "explanationJapanese": "知っている範囲内を表すには「限り」を使う。"
+        },
+        {
+          "id": "q_cat12_056_2",
+          "question": "ルールを守らない（  ）、このイベントには参加させない。",
+          "questionFurigana": "るーるをまもらない（  ）、このいべんとにはさんかさせない。",
+          "options": [
+            "1. 限り",
+            "2. ものの",
+            "3. ばかり",
+            "4. ついで"
+          ],
+          "correctAnswer": 1,
+          "explanationJapanese": "「〜ない限り」の形で条件を表す。"
+        },
+        {
+          "id": "q_cat12_056_3",
+          "question": "できる（  ）のことは、すべてやってみよう。",
+          "questionFurigana": "できる（  ）のことは、すべてやってみよう。",
+          "options": [
+            "1. 限り",
+            "2. うち",
+            "3. あいだ",
+            "4. 最中"
+          ],
+          "correctAnswer": 1,
+          "explanationJapanese": "「できる限りのこと」で可能な範囲のすべてを表す。"
+        },
+        {
+          "id": "q_cat12_056_4",
+          "question": "今日（  ）、特売セールを実施します。",
+          "questionFurigana": "きょう（  ）、とくばいせーるを実施します。",
+          "options": [
+            "1. 限り",
+            "2. ぬき",
+            "3. おき",
+            "4. ごと"
+          ],
+          "correctAnswer": 1,
+          "explanationJapanese": "「今日限り」で今日の日付を限度とすることを表す。"
+        },
+        {
+          "id": "q_cat12_056_5",
+          "question": "平和が続く（  ）、人々は幸せに暮らせるだろう。",
+          "questionFurigana": "へいわがつづく（  ）、ひとびとはしあわせにくらせるだろう。",
+          "options": [
+            "1. 限り",
+            "2. うち",
+            "3. あいだ",
+            "4. さいちゅう"
+          ],
+          "correctAnswer": 1,
+          "explanationJapanese": "状態が継続する期間・範囲を表す「〜限り」。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "grammar_cat12_057",
+    "category": "Degree, Scope & Extent",
+    "grammarPoint": "〜っこない (絶対無理 - No chance of / Impossible)",
+    "grammarPointFurigana": "っこない",
+    "studyMode": {
+      "meaningSinhala": "කෙසේවත් කළ

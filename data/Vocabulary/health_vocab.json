@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "hm_001",
+    "expression": "健康",
+    "category": "Health & Medical",
+    "furigana": "けんこう",
+    "romaji": "kenkou",
+    "meaningSinhala": "සෞඛ්‍යය / Health",
+    "kanjiBreakup": "健 (healthy) + 康 (peace)",
+    "story": "ශරීරය සහ මනස නිරෝගීව පවත්වා ගැනීම."
+  },
+  {
+    "id": "hm_002",
+    "expression": "病院",
+    "category": "Health & Medical",
+    "furigana": "びょういん",
+    "romaji": "byouin",
+    "meaningSinhala": "රෝහල / Hospital",
+    "kanjiBreakup": "病 (sick) + 院 (institution)",
+    "story": "රෝගීන්ට ප්‍රතිකාර ලබා දෙන වෛද්‍ය ආයතනය."
+  },
+  {
+    "id": "hm_003",
+    "expression": "医者",
+    "category": "Health & Medical",
+    "furigana": "いしゃ",
+    "romaji": "isha",
+    "meaningSinhala": "වෛද්‍යවරයා / Doctor",
+    "kanjiBreakup": "医 (medicine) + 者 (person)",
+    "story": "රෝගීන්ට ප්‍රතිකාර කර බෙහෙත් ලියන වෛද්‍යවරයා."
+  },
+  {
+    "id": "hm_004",
+    "expression": "患者",
+    "category": "Health & Medical",
+    "furigana": "かんじゃ",
+    "romaji": "kanja",
+    "meaningSinhala": "රෝගියා / Patient",
+    "kanjiBreakup": "患 (suffer) + 者 (person)",
+    "story": "රෝහලේ ප්‍රතිකාර ලබන අසනීප පුද්ගලයා."
+  },
+  {
+    "id": "hm_005",
+    "expression": "薬",
+    "category": "Health & Medical",
+    "furigana": "くすり",
+    "romaji": "kusuri",
+    "meaningSinhala": "බෙහෙත් / Medicine",
+    "kanjiBreakup": "薬 (medicine)",
+    "story": "අසනීප සුව වීමට බොන හෝ ගාන ඖෂධය."
+  },
+  {
+    "id": "hm_006",
+    "expression": "熱",
+    "category": "Health & Medical",
+    "furigana": "ねつ",
+    "romaji": "netsu",
+    "meaningSinhala": "උණ / Fever",
+    "kanjiBreakup": "熱 (heat)",
+    "story": "ශරීර උෂ්ණත්වය ඉහළ යාම."
+  },
+  {
+    "id": "hm_007",
+    "expression": "風邪",
+    "category": "Health & Medical",
+    "furigana": "かぜ",
+    "romaji": "kaze",
+    "meaningSinhala": "සෙම්ප්‍රතිශ්‍යාව / Cold / Flu",
+    "kanjiBreakup": "風 (wind) + 邪 (evil spirit)",
+    "story": "උගුරේ අමාරුව සහ නාසයෙන් දියර ਗැලීම."
+  },
+  {
+    "id": "hm_008",
+    "expression": "頭痛",
+    "category": "Health & Medical",
+    "furigana": "ずつう",
+    "romaji": "zutsuu",
+    "meaningSinhala": "හිසරදය / Headache",
+    "kanjiBreakup": "頭 (head) + 痛 (pain)",
+    "story": "හිසෙහි ඇති වන වේදනාව."
+  },
+  {
+    "id": "hm_009",
+    "expression": "腹痛",
+    "category": "Health & Medical",
+    "furigana": "ふくつう",
+    "romaji": "fukutsuu",
+    "meaningSinhala": "බඩේ කැක්කුම / Stomachache",
+    "kanjiBreakup": "腹 (abdomen) + 痛 (pain)",
+    "story": "උදරයේ ඇති වන වේදනාව."
+  },
+  {
+    "id": "hm_010",
+    "expression": "症状",
+    "category": "Health & Medical",
+    "furigana": "しょうじょう",
+    "romaji": "shoujou",
+    "meaningSinhala": "රෝග ලක්ෂණ / Symptoms",
+    "kanjiBreakup": "症 (symptom) + 状 (form)",
+    "story": "අසනීපයකදී සිරුරේ මතු වන ලක්ෂණ."
+  },
+  {
+    "id": "hm_011",
+    "expression": "治療",
+    "category": "Health & Medical",
+    "furigana": "ちりょう",
+    "romaji": "chiryou",
+    "meaningSinhala": "ප්‍රතිකාර කිරීම / Medical treatment",
+    "kanjiBreakup": "治 (cure) + 療 (heal)",
+    "story": "රෝගයකට වෛද්‍යවරුන් කරන ප්‍රතිකාරය."
+  },
+  {
+    "id": "hm_012",
+    "expression": "手術",
+    "category": "Health & Medical",
+    "furigana": "しゅじゅつ",
+    "romaji": "shujutsu",
+    "meaningSinhala": "ශල්‍යකර්මය / Surgery",
+    "kanjiBreakup": "手 (hand) + 術 (art)",
+    "story": "වෛද්‍යවරුන් ශරීරය කපා කරන ඔපරේෂන් එක."
+  },
+  {
+    "id": "hm_013",
+    "expression": "注射",
+    "category": "Health & Medical",
+    "furigana": "ちゅうしゃ",
+    "romaji": "chuusha",
+    "meaningSinhala": "එන්නත / Injection",
+    "kanjiBreakup": "注 (pour) + 射 (shoot)",
+    "story": "සිරුරට බෙහෙත් විදින ඉන්ජෙක්ෂන් එක."
+  },
+  {
+    "id": "hm_014",
+    "expression": "検査",
+    "category": "Health & Medical",
+    "furigana": "けんさ",
+    "romaji": "kensa",
+    "meaningSinhala": "වෛද්‍ය පරීක්ෂණය / Medical examination",
+    "kanjiBreakup": "検 (examine) + 査 (investigate)",
+    "story": "රුධිරය හෝ එක්ස්රේ මඟින් කරන පරීක්ෂාව."
+  },
+  {
+    "id": "hm_015",
+    "expression": "薬局",
+    "category": "Health & Medical",
+    "furigana": "やくkyoku",
+    "romaji": "yakkyoku",
+    "meaningSinhala": "බෙහෙත් ශාලාව / Pharmacy",
+    "kanjiBreakup": "薬 (medicine) + 局 (bureau)",
+    "story": "වට්ටෝරුවට බෙහෙත් ලබා ගන්නා තැන."
+  },
+  {
+    "id": "hm_016",
+    "expression": "処方箋",
+    "category": "Health & Medical",
+    "furigana": "しょほうせん",
+    "romaji": "shohousen",
+    "meaningSinhala": "බෙහෙත් වට්ටෝරුව / Prescription",
+    "kanjiBreakup": "処方 (prescription) + 箋 (paper)",
+    "story": "වෛද්‍යවරයා ලියාදෙන බෙහෙත් කොළය."
+  },
+  {
+    "id": "hm_017",
+    "expression": "救急",
+    "category": "Health & Medical",
+    "furigana": "きゅうきゅう",
+    "romaji": "kyuukyuu",
+    "meaningSinhala": "හදිසි ප්‍රතිකාර / Emergency (first aid)",
+    "kanjiBreakup": "救 (rescue) + 急 (hurry)",
+    "story": "හදිසි අනතුරකදී දෙන ප්‍රථමාධාර."
+  },
+  {
+    "id": "hm_018",
+    "expression": "怪我",
+    "category": "Health & Medical",
+    "furigana": "けが",
+    "romaji": "kega",
+    "meaningSinhala": "තුවාලය / Injury",
+    "kanjiBreakup": "怪我 (injury)",
+    "story": "අනතුරක් නිසා සිරුරට සිදුවන තුවාලය."
+  },
+  {
+    "id": "hm_019",
+    "expression": "骨折",
+    "category": "Health & Medical",
+    "furigana": "こっせつ",
+    "romaji": "kossetsu",
+    "meaningSinhala": "ඇට බිඳීම / Bone fracture",
+    "kanjiBreakup": "骨 (bone) + 折 (break)",
+    "story": "අනතුරක් නිසා ඇටකටු කැඩී යාම."
+  },
+  {
+    "id": "hm_020",
+    "expression": "血圧",
+    "category": "Health & Medical",
+    "furigana": "けつあつ",
+    "romaji": "ketsuatsu",
+    "meaningSinhala": "රුධිර පීඩනය / Blood pressure",
+    "kanjiBreakup": "血 (blood) + 圧 (pressure)",
+    "story": "ደም නාලවල ඇති පීඩන මට්ටම."
+  },
+  {
+    "id": "hm_021",
+    "expression": "脈拍",
+    "category": "Health & Medical",
+    "furigana": "みゃくはく",
+    "romaji": "myakuhaku",
+    "meaningSinhala": "නාඩි වැටීම / Pulse rate",
+    "kanjiBreakup": "脈 (pulse) + 拍 (beat)",
+    "story": "හදවත ගැසීමේ වේගය."
+  },
+  {
+    "id": "hm_022",
+    "expression": "感染",
+    "category": "Health & Medical",
+    "furigana": "かんせん",
+    "romaji": "kansen",
+    "meaningSinhala": "தொற்று වීම / Infection",
+    "kanjiBreakup": "感 (infect) + 染 (dye)",
+    "story": "රෝග කාරක බෝ වීම."
+  },
+  {
+    "id": "hm_023",
+    "expression": "免疫",
+    "category": "Health & Medical",
+    "furigana": "めんえき",
+    "romaji": "meneki",
+    "meaningSinhala": "ප්‍රතිශක්තිය / Immunity",
+    "kanjiBreakup": "免 (exempt) + 疫 (epidemic)",
+    "story": "රෝගවලින් සිරුර ආරක්ෂා කරන ශක්තිය."
+  },
+  {
+    "id": "hm_024",
+    "expression": "栄養",
+    "category": "Health & Medical",
+    "furigana": "えいよう",
+    "romaji": "eiyou",
+    "meaningSinhala": "පෝෂණය / Nutrition",
+    "kanjiBreakup": "営 (nourish) + 養 (feed)",
+    "story": "ශරීරයට අවශ්‍ය ප්‍රෝටීන් සහ විটামিন."
+  },
+  {
+    "id": "hm_025",
+    "expression": "睡眠",
+    "category": "Health & Medical",
+    "furigana": "すいみん",
+    "romaji": "suimin",
+    "meaningSinhala": "නින්ද / Sleep",
+    "kanjiBreakup": "睡 (sleep) + 眠 (sleep)",
+    "story": "ශරීරයට අවශ්‍ය වන නිදාගැනීම."
+  },
+  {
+    "id": "hm_026",
+    "expression": "疲労",
+    "category": "Health & Medical",
+    "furigana": "ひろう",
+    "romaji": "hirou",
+    "meaningSinhala": "විඩාව / Fatigue",
+    "kanjiBreakup": "疲 (tired) + 労 (labor)",
+    "story": "අධික වැඩ නිසා සිරුරට දැනෙන මහන්සිය."
+  },
+  {
+    "id": "hm_027",
+    "expression": "健康診断",
+    "category": "Health & Medical",
+    "furigana": "けんこうしんだん",
+    "romaji": "kenkou shindan",
+    "meaningSinhala": "වෛද්‍ය පරීක්ෂාව / Health checkup",
+    "kanjiBreakup": "健康 (health) + 診断 (diagnosis)",
+    "story": "ශරීරයේ සෞඛ්‍ය තත්ත්වය පරීක්ෂා කිරීම."
+  },
+  {
+    "id": "hm_028",
+    "expression": "歯科",
+    "category": "Health & Medical",
+    "furigana": "しか",
+    "romaji": "shika",
+    "meaningSinhala": "දත් රෝහල / Dentistry",
+    "kanjiBreakup": "歯 (tooth) + 科 (department)",
+    "story": "දත්වල අමාරු සුව කරන දත් වෛද්‍ය අංශය."
+  },
+  {
+    "id": "hm_029",
+    "expression": "眼科",
+    "category": "Health & Medical",
+    "furigana": "がんか",
+    "romaji": "ganka",
+    "meaningSinhala": "ඇස් රෝහල / Ophthalmology",
+    "kanjiBreakup": "眼 (eye) + 科 (department)",
+    "story": "ඇස්වල පෙනීම පරීක්ෂා කරන අංශය."
+  },
+  {
+    "id": "hm_030",
+    "expression": "外科",
+    "category": "Health & Medical",
+    "furigana": "げか",
+    "romaji": "geka",
+    "meaningSinhala": "ශල්‍ය අංශය / Surgery department",
+    "kanjiBreakup": "外 (external) + 科 (department)",
+    "story": "ශල්‍යකර්ම කරන වෛද්‍ය අංශය."
+  },
+  {
+    "id": "hm_031",
+    "expression": "内科",
+    "category": "Health & Medical",
+    "furigana": "ないか",
+    "romaji": "naika",
+    "meaningSinhala": "සාමාන්‍ය වෛද්‍ය අංශය / Internal medicine",
+    "kanjiBreakup": "内 (internal) + 科 (department)",
+    "story": "ඇතුළාන්ත අසනීපවලට ප්‍රතිකාර කරන අංශය."
+  },
+  {
+    "id": "hm_032",
+    "expression": "入院",
+    "category": "Health & Medical",
+    "furigana": "にゅういん",
+    "romaji": "nyuuin",
+    "meaningSinhala": "රෝහල්ගත වීම / Hospitalization",
+    "kanjiBreakup": "入 (enter) + 院 (institution)",
+    "story": "අසනීපයක් නිසා රෝහලේ නැවතී ප්‍රතිකාර ගැනීම."
+  },
+  {
+    "id": "hm_033",
+    "expression": "退院",
+    "category": "Health & Medical",
+    "furigana": "たいいん",
+    "romaji": "taiin",
+    "meaningSinhala": "රෝහලෙන් පිටවීම / Discharge from hospital",
+    "kanjiBreakup": "退 (leave) + 院 (institution)",
+    "story": "අසනීපය සුව වී රෝහලෙන් ගෙදර යාම."
+  },
+  {
+    "id": "hm_034",
+    "expression": "伝染病",
+    "category": "Health & Medical",
+    "furigana": "でんせんびょう",
+    "romaji": "densenbyou",
+    "meaningSinhala": "බෝවන රෝගය / Infectious disease",
+    "kanjiBreakup": "伝染 (infect) + 病 (disease)",
+    "story": "අන් අයට ඉක්මනින් බෝ වන රෝගය."
+  },
+  {
+    "id": "hm_035",
+    "expression": "アレルギー",
+    "category": "Health & Medical",
+    "furigana": "あれ，るぎー",
+    "romaji": "arerugī",
+    "meaningSinhala": "අසාත්මිකතාව / Allergy",
+    "kanjiBreakup": "Loanword",
+    "story": "යම් කෑමකින් හෝ දූවිල්ලෙන් සිරුරට වන අසාත්මිකතාව."
+  },
+  {
+    "id": "hm_036",
+    "expression": "頭痛薬",
+    "category": "Health & Medical",
+    "furigana": "ずつうやく",
+    "romaji": "zutsuuyaku",
+    "meaningSinhala": "හිසරදයට බෙහෙත් / Headache medicine",
+    "kanjiBreakup": "頭痛 (headache) + 薬 (medicine)",
+    "story": "හිසේ කැක්කුම නැති කිරීමට බොන පෙත්ත."
+  },
+  {
+    "id": "hm_037",
+    "expression": "解熱剤",
+    "category": "Health & Medical",
+    "furigana": "げねつざい",
+    "romaji": "genetsuzai",
+    "meaningSinhala": "උණ බසින බෙහෙත් / Antipyretic",
+    "kanjiBreakup": "解 (release) + 熱 (fever) + 剤 (agent)",
+    "story": "උණ පාලනය කිරීමට ගන්නා ඖෂධය."
+  },
+  {
+    "id": "hm_038",
+    "expression": "胃薬",
+    "category": "Health & Medical",
+    "furigana": "いぐすり",
+    "romaji": "igusuri",
+    "meaningSinhala": "බඩේ අමාරුවට බෙහෙත් / Stomach medicine",
+    "kanjiBreakup": "胃 (stomach) + 薬 (medicine)",
+    "story": "බඩේ කැක්කුමට හෝ ගැස්ට්‍රයිටිස් වලට බොන බෙහෙත්."
+  },
+  {
+    "id": "hm_039",
+    "expression": "目薬",
+    "category": "Health & Medical",
+    "furigana": "めぐすり",
+    "romaji": "megusuri",
+    "meaningSinhala": "ඇස් බෙහෙත් / Eyedrops",
+    "kanjiBreakup": "目 (eye) + 薬 (medicine)",
+    "story": "ඇස්වලට දමන බිංදු."
+  },
+  {
+    "id": "hm_040",
+    "expression": "湿布",
+    "category": "Health & Medical",
+    "furigana": "しっぷ",
+    "romaji": "shippu",
+    "meaningSinhala": "ආලේපන පටි / Pain relief patch",
+    "kanjiBreakup": "湿布 (compress)",
+    "story": "ඇඟේ කැක්කුම්වලට අලවන බෙහෙත් පටිය."
+  },
+  {
+    "id": "hm_041",
+    "expression": "包帯",
+    "category": "Health & Medical",
+    "furigana": "ほうたい",
+    "romaji": "houtai",
+    "meaningSinhala": "បෑන්ඩේජ් පටිය / Bandage",
+    "kanjiBreakup": "包 (wrap) + 帯 (belt)",
+    "story": "තුවාලයක් වටා ඔතන රෙදි පටිය."
+  },
+  {
+    "id": "hm_042",
+    "expression": "絆創膏",
+    "category": "Health & Medical",
+    "furigana": "ばんそうこう",
+    "romaji": "bansoukou",
+    "meaningSinhala": "ප්ලාස්ටර් / Adhesive bandage",
+    "kanjiBreakup": "絆創 (bandage) + 膏 (paste)",
+    "story": "පොඩි තුවාලවලට අලවන කුඩා ප්ලාස්ටර් එක."
+  },
+  {
+    "id": "hm_043",
+    "expression": "消毒液",
+    "category": "Health & Medical",
+    "furigana": "しょうどくえき",
+    "romaji": "shoudokueki",
+    "meaningSinhala": "විෂබීජ නාශක දියර / Antiseptic liquid",
+    "kanjiBreakup": "消毒 (disinfect) + 液 (liquid)",
+    "story": "තුවාල පිරිසිදු කරන විෂබීජ නාශක දියර."
+  },
+  {
+    "id": "hm_044",
+    "expression": "体温計",
+    "category": "Health & Medical",
+    "furigana": "たいおんけい",
+    "romaji": "taionkei",
+    "meaningSinhala": "උෂ්ණත්වමානය / Thermometer",
+    "kanjiBreakup": "体温 (body temperature) + 計 (meter)",
+    "story": "ශරීරයේ උණ මනින උපකරණය."
+  },
+  {
+    "id": "hm_045",
+    "expression": "血圧計",
+    "category": "Health & Medical",
+    "furigana": "けつあつけい",
+    "romaji": "ketsuatsukei",
+    "meaningSinhala": "රුධිර පීඩන මනින යන්ත්‍රය / Blood pressure monitor",
+    "kanjiBreakup": "血圧 (blood pressure) + 計 (meter)",
+    "story": "ደም පීඩනය මනින යන්ත්‍රය."
+  },
+  {
+    "id": "hm_046",
+    "expression": "健康保険証",
+    "category": "Health & Medical",
+    "furigana": "けんこうほけんしょう",
+    "romaji": "kenkou hokensho",
+    "meaningSinhala": "සෞඛ්‍ය රක්ෂණ කාඩ්පත / Health insurance card",
+    "kanjiBreakup": "健康保険 (health insurance) + 証 (card)",
+    "story": "රෝහලට පෙන්වන රක්ෂණ කාඩ්පත."
+  },
+  {
+    "id": "hm_047",
+    "expression": "待合室",
+    "category": "Health & Medical",
+    "furigana": "まちあいしつ",
+    "romaji": "machiaishitsu",
+    "meaningSinhala": "රැඳී සිටින කාමරය / Waiting room",
+    "kanjiBreakup": "待合い (waiting) + 室 (room)",
+    "story": "වෛද්‍යවරයා හමුවීමට බලා සිටින කාමරය."
+  },
+  {
+    "id": "hm_048",
+    "expression": "診察室",
+    "category": "Health & Medical",
+    "furigana": "しんさつしつ",
+    "romaji": "shinsatsushitsu",
+    "meaningSinhala": "වෛද්‍ය පරීක්ෂණ කාමරය / Examination room",
+    "kanjiBreakup": "診察 (exam) + 室 (room)",
+    "story": "ඩොක්ටර් රෝගීන් පරීක්ෂා කරන කාමරය."
+  },
+  {
+    "id": "hm_049",
+    "expression": "病室",
+    "category": "Health & Medical",
+    "furigana": "びょうしつ",
+    "romaji": "byoushitsu",
+    "meaningSinhala": "රෝගී කාමරය / Hospital room",
+    "kanjiBreakup": "病 (sick) + 室 (room)",
+    "story": "රෝහලේ රෝගීන් නවාතැන් ගන්නා කාමරය."
+  },
+  {
+    "id": "hm_050",
+    "expression": "手術室",
+    "category": "Health & Medical",
+    "furigana": "しゅじゅつしつ",
+    "romaji": "shujutsushitsu",
+    "meaningSinhala": "ශල්‍යාගාරය / Operating room",
+    "kanjiBreakup": "手術 (surgery) + 室 (room)",
+    "story": "ඔපරේෂන් කරන විශේෂ කාමරය."
+  },
+  {
+    "id": "hm_051",
+    "expression": "薬剤師",
+    "category": "Health & Medical",
+    "furigana": "やくざいし",
+    "romaji": "yakuzaishi",
+    "meaningSinhala": "औषධවේදියා / Pharmacist",
+    "kanjiBreakup": "薬剤 (medicine) + 師 (expert)",
+    "story": "බෙහෙත් සකස් කර නිකුත් කරන ඖෂධවේදියා."
+  },
+  {
+    "id": "hm_052",
+    "expression": "看護師",
+    "category": "Health & Medical",
+    "furigana": "かんごし",
+    "romaji": "kangoshi",
+    "meaningSinhala": "හෙදිය / Nurse",
+    "kanjiBreakup": "看護 (nursing) + 師 (expert)",
+    "story": "රෝගීන් බලාගන්නා හෙදිය."
+  },
+  {
+    "id": "hm_053",
+    "expression": "歯科医",
+    "category": "Health & Medical",
+    "furigana": "しかい",
+    "romaji": "shikai",
+    "meaningSinhala": "දත් වෛද්‍යවරයා / Dentist",
+    "kanjiBreakup": "歯科 (dentistry) + 医 (doctor)",
+    "story": "දත්වල ලෙඩ සුව කරන වෛද්‍යවරයා."
+  },
+  {
+    "id": "hm_054",
+    "expression": "小児科",
+    "category": "Health & Medical",
+    "furigana": "しょうにか",
+    "romaji": "shounika",
+    "meaningSinhala": "ළමා රෝග අංශය / Pediatrics",
+    "kanjiBreakup": "小児 (child) + 科 (department)",
+    "story": "පොඩි දරුවන්ගේ අසනීප සුව කරන අංශය."
+  },
+  {
+    "id": "hm_055",
+    "expression": "皮膚科",
+    "category": "Health & Medical",
+    "furigana": "ひふか",
+    "romaji": "hifuka",
+    "meaningSinhala": "චර්ම රෝග අංශය / Dermatology",
+    "kanjiBreakup": "皮膚 (skin) + 科 (department)",
+    "story": "සමෙහි ඇති වන අසාත්මිකතා සුව කරන අංශය."
+  },
+  {
+    "id": "hm_056",
+    "expression": "耳鼻科",
+    "category": "Health & Medical",
+    "furigana": "じびか",
+    "romaji": "jibika",
+    "meaningSinhala": "කන්, නාසය, උගුර අංශය / Otolaryngology",
+    "kanjiBreakup": "耳鼻 (ear/nose) + 科 (department)",
+    "story": "කන්, නාසය සහ උගුරේ අමාරු සුව කරන අංශය."
+  },
+  {
+    "id": "hm_057",
+    "expression": "整形外科",
+    "category": "Health & Medical",
+    "furigana": "せいけいげか",
+    "romaji": "seikeigeka",
+    "meaningSinhala": "අස්ථි හා සන්ධි ශල්‍ය අංශය / Orthopedics",
+    "kanjiBreakup": "整形 (orthopedic) + 外科 (surgery)",
+    "story": "ඇටකටු සහ සන්ධිවල වේදනාවන්ට ප්‍රතිකාර කරන අංශය."
+  },
+  {
+    "id": "hm_058",
+    "expression": "精神科",
+    "category": "Health & Medical",
+    "furigana": "せいしんか",
+    "romaji": "seishinka",
+    "meaningSinhala": "මනෝ වෛද්‍ය අංශය / Psychiatry",
+    "kanjiBreakup": "精神 (mind) + 科 (department)",
+    "story": "මනස සම්බන්ධ මානසික රෝග සුව කරන අංශය."
+  },
+  {
+    "id": "hm_059",
+    "expression": "健康管理",
+    "category": "Health & Medical",
+    "furigana": "けんこうかんり",
+    "romaji": "kenkou kanri",
+    "meaningSinhala": "සෞඛ්‍ය කළමනාකරණය / Health management",
+    "kanjiBreakup": "健康 (health) + 管理 (management)",
+    "story": "ශරීර සෞඛ්‍යය හොඳින් බලාගැනීම."
+  },
+  {
+    "id": "hm_060",
+    "expression": "生活習慣病",
+    "category": "Health & Medical",
+    "furigana": "せいかつしゅうかんびょう",
+    "romaji": "seikatsu shuukanbyou",
+    "meaningSinhala": "ජීවන රටාව නිසා වැළඳෙන රෝග / Lifestyle diseases",
+    "kanjiBreakup": "生活習慣 (lifestyle) + 病 (disease)",
+    "story": "වැරදි කෑම රටා සහ පුරුදු නිසා වැළඳෙන දියවැඩියාව වැනි රෝග."
+  },
+  {
+    "id": "hm_061",
+    "expression": "糖尿病",
+    "category": "Health & Medical",
+    "furigana": "とうにょうびょう",
+    "romaji": "tounyoubyou",
+    "meaningSinhala": "දියවැඩියාව / Diabetes",
+    "kanjiBreakup": "糖 (sugar) + 尿 (urine) + 病 (disease)",
+    "story": "රුධිරයේ සීනි මට්ටම ඉහළ යාමෙන් හැදෙන රෝගය."
+  },
+  {
+    "id": "hm_062",
+    "expression": "高血圧",
+    "category": "Health & Medical",
+    "furigana": "こうけつあつ",
+    "romaji": "kouketsuatsu",
+    "meaningSinhala": "අධි රක්ෂණ පීඩනය / High blood pressure",
+    "kanjiBreakup": "高 (high) + 血圧 (blood pressure)",
+    "story": "රුධිර පීඩනය සාමාන්‍ය ප්‍රමාණයට වඩා වැඩි වීම."
+  },
+  {
+    "id": "hm_063",
+    "expression": "癌",
+    "category": "Health & Medical",
+    "furigana": "がん",
+    "romaji": "gan",
+    "meaningSinhala": "පිළිකාව / Cancer",
+    "kanjiBreakup": "癌 (cancer)",
+    "story": "ශරීරයේ සෛල අසාමාන්‍ය ලෙස වර්ධනය වන මාරාන්තික රෝගය."
+  },
+  {
+    "id": "hm_064",
+    "expression": "心筋梗塞",
+    "category": "Health & Medical",
+    "furigana": "しんきんこうそく",
+    "romaji": "shinkin kousoku",
+    "meaningSinhala": "හෘදයාබාධය / Heart attack",
+    "kanjiBreakup": "心筋 (myocardium) + 梗塞 (infarction)",
+    "story": "හෘද පේශිවලට රුධිරය නොයෑම නිසා ඇති වන හදිසි තත්ත්වය."
+  },
+  {
+    "id": "hm_065",
+    "expression": "脳卒中",
+    "category": "Health & Medical",
+    "furigana": "のうそっちゅう",
+    "romaji": "nousotchuu",
+    "meaningSinhala": "අංශභාගය / Stroke",
+    "kanjiBreakup": "脳 (brain) + 卒中 (stroke)",
+    "story": "මොළයට රුධිර සැපයුම ඇණහිටීම නිසා ඇති වන අංශභාගය."
+  },
+  {
+    "id": "hm_066",
+    "expression": "アレルギー体質",
+    "category": "Health & Medical",
+    "furigana": "あれ，るぎーたいしつ",
+    "romaji": "arerugī taishitsu",
+    "meaningSinhala": "අසාත්මිකතා සිරුර / Allergic constitution",
+    "kanjiBreakup": "体質 (constitution)",
+    "story": "විවිධ දේවලට ඉක්මනින් අසාත්මිකතා මතු වන සිරුර."
+  },
+  {
+    "id": "hm_067",
+    "expression": "食中毒",
+    "category": "Health & Medical",
+    "furigana": "しょくちゅうどく",
+    "romaji": "shokuchuudoku",
+    "meaningSinhala": "විෂවීම / Food poisoning",
+    "kanjiBreakup": "食 (food) + 中毒 (poisoning)",
+    "story": "නරක් වූ කෑම කෑම නිසා ඇති වන බඩේ අමාරුව සහ වමනය."
+  },
+  {
+    "id": "hm_068",
+    "expression": "吐き気",
+    "category": "Health & Medical",
+    "furigana": "はきけ",
+    "romaji": "hakike",
+    "meaningSinhala": "වමනය එන්න වගේ වීම / Nausea",
+    "kanjiBreakup": "吐き (vomit) + 気 (feeling)",
+    "story": "කෑම අජීර්ණ නිසා වමනය එන්නාක් මෙන් වීම."
+  },
+  {
+    "id": "hm_069",
+    "expression": "めまい",
+    "category": "Health & Medical",
+    "furigana": "めまい",
+    "romaji": "memai",
+    "meaningSinhala": "හිරය කැරකැවීම / Dizziness",
+    "kanjiBreakup": "眩暈",
+    "story": "පරිසරය කැරකෙනවා මෙන් දැනෙන අසනීප තත්ත්වය."
+  },
+  {
+    "id": "hm_070",
+    "expression": "悪寒",
+    "category": "Health & Medical",
+    "furigana": "おかん / おかん",
+    "romaji": "okan",
+    "meaningSinhala": "සීතල ගතිය / Chill / Shiver",
+    "kanjiBreakup": "悪寒",
+    "story": "උණ ගැනීමට පෙර සිරුරට දැනෙන සීතල."
+  },
+  {
+    "id": "hm_071",
+    "expression": "倦怠感",
+    "category": "Health & Medical",
+    "furigana": "けんたいかん",
+    "romaji": "kentai kan",
+    "meaningSinhala": "අධික විඩාව / Lethargy / Malaise",
+    "kanjiBreakup": "倦怠 (fatigue) + 感 (feeling)",
+    "story": "මුළු සිරුරටම කිසිදු ශක්තියක් නොමැතිව දැනෙන මහන්සිය."
+  },
+  {
+    "id": "hm_072",
+    "expression": "食欲不振",
+    "category": "Health & Medical",
+    "furigana": "しょくよくふしん",
+    "romaji": "shokuyoku fushin",
+    "meaningSinhala": "කෑමට රුචිය නැතිකම / Loss of appetite",
+    "kanjiBreakup": "食欲 (appetite) + 不振 (slump)",
+    "story": "අසනීප නිසා කෑම කන්නට ඇති අකමැත්ත."
+  },
+  {
+    "id": "hm_073",
+    "expression": "不眠症",
+    "category": "Health & Medical",
+    "furigana": "ふみんしょう",
+    "romaji": "fuminshou",
+    "meaningSinhala": "නින්ද නොයාමේ රෝගය / Insomnia",
+    "kanjiBreakup": "不眠 (sleeplessness) + 症 (condition)",
+    "story": "රෑට නින්ද නොයාම නිසා පෙළෙන තත්ත්වය."
+  },
+  {
+    "id": "hm_074",
+    "expression": "肩こり",
+    "category": "Health & Medical",
+    "furigana": "かたこり",
+    "romaji": "katakori",
+    "meaningSinhala": "כתף තද වීම / Stiff shoulders",
+    "kanjiBreakup": "肩 (shoulder) + 凝り (stiff)",
+    "story": "අධික වැඩ නිසා කර සහ כתף තද වීම."
+  },
+  {
+    "id": "hm_075",
+    "expression": "腰痛",
+    "category": "Health & Medical",
+    "furigana": "ようつう",
+    "romaji": "youtsuu",
+    "meaningSinhala": "කොටයේ කැක්කුම / Backache",
+    "kanjiBreakup": "腰 (lower back) + 痛 (pain)",
+    "story": "කොට ප්‍රදේශයේ ඇති වන දැඩි වේදනාව."
+  },
+  {
+    "id": "hm_076",
+    "expression": "虫歯",
+    "category": "Health & Medical",
+    "furigana": "むしば",
+    "romaji": "mushiba",
+    "meaningSinhala": "දත් කිණිස්ස / Tooth decay",
+    "kanjiBreakup": "虫 (bug) + 歯 (tooth)",
+    "story": "දත්වල විදින කුහර නිසා ඇති වන දත් කැක්කුම."
+  },
+  {
+    "id": "hm_077",
+    "expression": "歯肉炎",
+    "category": "Health & Medical",
+    "furigana": "しにくえん",
+    "romaji": "shinikuen",
+    "meaningSinhala": "විදුරුමස් දැවිල්ල / Gingivitis",
+    "kanjiBreakup": "歯肉 (gum) + 炎 (inflammation)",
+    "story": "විදුරුමස්වලින් ලේ ගැලීම සහ ඉදිමීම."
+  },
+  {
+    "id": "hm_078",
+    "expression": "花粉症",
+    "category": "Health & Medical",
+    "furigana": "かふんしょう",
+    "romaji": "kahunshou",
+    "meaningSinhala": "පරාග අසාත්මිකතාව / Hay fever",
+    "kanjiBreakup": "花粉 (pollen) + 症 (condition)",
+    "story": "වසන්ත කාලයට පරාග නිසා නාසයෙන් දියර ගැලීම."
+  },
+  {
+    "id": "hm_079",
+    "expression": "皮膚炎",
+    "category": "Health & Medical",
+    "furigana": "ひふえん",
+    "romaji": "hifuen",
+    "meaningSinhala": "සම ආසාදනය / Dermatitis",
+    "kanjiBreakup": "皮膚 (skin) + 炎 (inflammation)",
+    "story": "සමේ ඇති වන කැසීම සහ රතු වීම."
+  },
+  {
+    "id": "hm_080",
+    "expression": "眼精疲労",
+    "category": "Health & Medical",
+    "furigana": "がんせいひろう",
+    "romaji": "gansei hirou",
+    "meaningSinhala": "ඇස් මහන්සිය / Eyestrain",
+    "kanjiBreakup": "眼精 (eye) + 疲労 (fatigue)",
+    "story": "ኮම්පියුටර් තිරය දෙස බලා සිටීමෙන් ඇස්වලට දැනෙන විඩාව."
+  },
+  {
+    "id": "hm_081",
+    "expression": "過労",
+    "category": "Health & Medical",
+    "furigana": "かろう",
+    "romaji": "karou",
+    "meaningSinhala": "අධික වැඩ නිසා ඇති වන විඩාව / Overwork",
+    "kanjiBreakup": "過 (excess) + 労 (labor)",
+    "story": "නිවාඩු නොමැතිව අධික ලෙස වැඩ කිරීමෙන් සිරුර අඩපණ වීම."
+  },
+  {
+    "id": "hm_082",
+    "expression": "応急処置",
+    "category": "Health & Medical",
+    "furigana": "おうきゅうしょち",
+    "romaji": "oukyuu shochi",
+    "meaningSinhala": "හදිසි ප්‍රථමාධාර / Emergency treatment",
+    "kanjiBreakup": "応急 (emergency) + 処置 (treatment)",
+    "story": "රෝහලට ගෙන යාමට පෙර දෙන හදිසි ප්‍රතිකාරය."
+  },
+  {
+    "id": "hm_083",
+    "expression": "救急車",
+    "category": "Health & Medical",
+    "furigana": "きゅうきゅうしゃ",
+    "romaji": "kyuukyuusha",
+    "meaningSinhala": "ගිලන්රථය / Ambulance",
+    "kanjiBreakup": "救急 (first aid) + 車 (car)",
+    "story": "රෝගීන් රෝහලට ගෙන යන හදිසි වාහනය."
+  },
+  {
+    "id": "hm_084",
+    "expression": "消毒",
+    "category": "Health & Medical",
+    "furigana": "しょうどく",
+    "romaji": "shoudoku",
+    "meaningSinhala": "විෂබීජහරණය / Disinfection",
+    "kanjiBreakup": "消 (extinguish) + 毒 (poison)",
+    "story": "තුවාලයක විෂබීජ මරා දැමීම."
+  },
+  {
+    "id": "hm_085",
+    "expression": "療養",
+    "category": "Health & Medical",
+    "furigana": "りょうよう",
+    "romaji": "ryouyou",
+    "meaningSinhala": "සුවය ලැබීමට විවේක ගැනීම / Recuperation",
+    "kanjiBreakup": "療 (heal) + 療 (cure)",
+    "story": "ගෙදර නැවතී අසනීපයෙන් සුවය ලැබීම."
+  },
+  {
+    "id": "hm_086",
+    "expression": "完治",
+    "category": "Health & Medical",
+    "furigana": "かんち",
+    "romaji": "kanchi",
+    "meaningSinhala": "සම්පූර්ණ සුවය / Complete cure",
+    "kanjiBreakup": "完 (complete) + 治 (cure)",
+    "story": "අසනීපය මුළුමනින්ම සුව වීම."
+  },
+  {
+    "id": "hm_087",
+    "expression": "予防接種",
+    "category": "Health & Medical",
+    "furigana": "よぼうせっしゅ",
+    "romaji": "yobou sesshu",
+    "meaningSinhala": "එන්නත් ලබා ගැනීම / Vaccination",
+    "kanjiBreakup": "予防 (prevent) + 接種 (inoculation)",
+    "story": "රෝගවලින් ආරක්ෂා වීමට දෙන එන්නත."
+  },
+  {
+    "id": "hm_088",
+    "expression": "診断書",
+    "category": "Health & Medical",
+    "furigana": "しんだんしょ",
+    "romaji": "shindansho",
+    "meaningSinhala": "වෛද්‍ය සහතිකය / Medical certificate",
+    "kanjiBreakup": "診断 (diagnosis) + 書 (document)",
+    "story": "අසනීප තත්ත්වය තහවුරු කර වෛද්‍යවරයා දෙන ලියවිල්ල."
+  },
+  {
+    "id": "hm_089",
+    "expression": "体力",
+    "category": "Health & Medical",
+    "furigana": "たいりょく",
+    "romaji": "tairyoku",
+    "meaningSinhala": "ශාරීරික ශක්තිය / Physical strength",
+    "kanjiBreakup": "体 (body) + 力 (power)",
+    "story": "මිනිසෙකුගේ ඇති ශාරීරික ශක්තිය."
+  },
+  {
+    "id": "hm_090",
+    "expression": "体力測定",
+    "category": "Health & Medical",
+    "furigana": "たいりょくそくてい",
+    "romaji": "tairyoku sokutei",
+    "meaningSinhala": "ശාරීරික යෝග්‍යතා පරීක්ෂාව / Physical fitness test",
+    "kanjiBreakup": "体力 (strength) + 測定 (measurement)",
+    "story": "ශරීරයේ යෝග්‍යතාව මැන බැලීම."
+  },
+  {
+    "id": "hm_091",
+    "expression": "体重",
+    "category": "Health & Medical",
+    "furigana": "たいじゅう",
+    "romaji": "taijuu",
+    "meaningSinhala": "ශරීර බර / Body weight",
+    "kanjiBreakup": "体 (body) + 重 (heavy)",
+    "story": "මිනිසෙකුගේ සිරුරේ බර ප්‍රමාණය."
+  },
+  {
+    "id": "hm_092",
+    "expression": "身長",
+    "category": "Health & Medical",
+    "furigana": "しんちょう",
+    "romaji": "shinchou",
+    "meaningSinhala": "උස / Height",
+    "kanjiBreakup": "身 (body) + 長 (long)",
+    "story": "මිනිසෙකුගේ සිරුරේ උස ප්‍රමාණය."
+  },
+  {
+    "id": "hm_093",
+    "expression": "発熱",
+    "category": "Health & Medical",
+    "furigana": "はつねつ",
+    "romaji": "hatsunetsu",
+    "meaningSinhala": "උණ ගැනීම / Running a fever",
+    "kanjiBreakup": "発 (emit) + 熱 (heat)",
+    "story": "ශරීර උෂ්ණත්වය ඉහළ යාමේ ආරම්භය."
+  },
+  {
+    "id": "hm_094",
+    "expression": "悪化",
+    "category": "Health & Medical",
+    "furigana": "あっか",
+    "romaji": "akka",
+    "meaningSinhala": "තත්ත්වය නරක් වීම / Deterioration",
+    "kanjiBreakup": "悪 (bad) + 化 (change)",
+    "story": "අසනීප තත්ත්වය තවත් බරපතල වීම."
+  },
+  {
+    "id": "hm_095",
+    "expression": "回復",
+    "category": "Health & Medical",
+    "furigana": "かいふく",
+    "romaji": "kaifuku",
+    "meaningSinhala": "සුව වීම / Recovery",
+    "kanjiBreakup": "回 (return) + 復 (restore)",
+    "story": "අසනීපයෙන් මිදී සෞඛ්‍යය යහපත් අතට හැරීම."
+  },
+  {
+    "id": "hm_096",
+    "expression": "闘病",
+    "category": "Health & Medical",
+    "furigana": "とうびょう",
+    "romaji": "toubyou",
+    "meaningSinhala": "රෝගයකට එරෙහිව සටන් කිරීම / Fighting an illness",
+    "kanjiBreakup": "闘 (fight) + 病 (illness)",
+    "story": "අමාරු ලෙඩකට එරෙහිව ධෛර්යයෙන් මුහුණ දීම."
+  },
+  {
+    "id": "hm_097",
+    "expression": "歯痛",
+    "category": "Health & Medical",
+    "furigana": "しつう",
+    "romaji": "shitsu",
+    "meaningSinhala": "දත් කැක්කුම / Toothache",
+    "kanjiBreakup": "歯 (tooth) + 痛 (pain)",
+    "story": "දත්වල ඇති වන දැඩි වේදනාව."
+  },
+  {
+    "id": "hm_098",
+    "expression": "関節痛",
+    "category": "Health & Medical",
+    "furigana": "かんせつつう",
+    "romaji": "kansetsu tsuu",
+    "meaningSinhala": "සන්ධි වේදනාව / Joint pain",
+    "kanjiBreakup": "関節 (joint) + 痛 (pain)",
+    "story": "අත් සහ කකුල්වල සන්ධිවල ඇති වන වේදනාව."
+  },
+  {
+    "id": "hm_099",
+    "expression": "筋肉痛",
+    "category": "Health & Medical",
+    "furigana": "きんにくつう",
+    "romaji": "kinniku tsuu",
+    "meaningSinhala": "මස්පිඬු වේදනාව / Muscle pain",
+    "kanjiBreakup": "筋肉 (muscle) + 痛 (pain)",
+    "story": "අධික වැඩ නිසා මස්පිඬුවල ඇති වන කැක්කුම."
+  },
+  {
+    "id": "hm_100",
+    "expression": "喉の痛み",
+    "category": "Health & Medical",
+    "furigana": "のどのいたみ",
+    "romaji": "nodo no itami",
+    "meaningSinhala": "උගුරේ අමාරුව / Sore throat",
+    "kanjiBreakup": "喉 (throat) + 痛み (pain)",
+    "story": "කෑම ගිලින විට උගුරට දැනෙන වේදනාව."
+  },
+  {
+    "id": "hm_101",
+    "expression": "悪心",
+    "category": "Health & Medical",
+    "furigana": "おしん",
+    "romaji": "oshin",
+    "meaningSinhala": "වමනය එන්න වගේ වීම / Nausea",
+    "kanjiBreakup": "悪 (bad) + 心 (heart)",
+    "story": "බඩේ අජීර්ණ නිසා දැනෙන අප්පිරියාව."
+  },
+  {
+    "id": "hm_102",
+    "expression": "下痢",
+    "category": "Health & Medical",
+    "furigana": "げり",
+    "romaji": "geri",
+    "meaningSinhala": "පාචනය / Diarrhea",
+    "kanjiBreakup": "下 (down) + 痢 (flux)",
+    "story": "බඩයන්නාක් මෙන් නිතර වැසිකිළි යාමට වීම."
+  },
+  {
+    "id": "hm_103",
+    "expression": "便秘",
+    "category": "Health & Medical",
+    "furigana": "べんぴ",
+    "romaji": "benpi",
+    "meaningSinhala": "බද්ධය / Constipation",
+    "kanjiBreakup": "便 (stool) + 秘 (secret/block)",
+    "story": "මළපහ පිටවීම අඩාල වන තත්ත්වය."
+  },
+  {
+    "id": "hm_104",
+    "expression": "貧血",
+    "category": "Health & Medical",
+    "furigana": "ひんけつ",
+    "romaji": "hinketsu",
+    "meaningSinhala": "ደምහීනතාව / Anemia",
+    "kanjiBreakup": "貧 (poor) + 血 (blood)",
+    "story": "මොළයට රුධිරය අඩුවීමෙන් ක්ලාන්ත ගතිය දැනීම."
+  },
+  {
+    "id": "hm_105",
+    "expression": "貧血気味",
+    "category": "Health & Medical",
+    "furigana": "ひんけつぎみ",
+    "romaji": "hinketsu gimi",
+    "meaningSinhala": "ක්ලාන්ත ගතියක් ඇති වීම / Feeling faint",
+    "kanjiBreakup": "貧血 (anemia) + 気味 (tendency)",
+    "story": "மயக்கம் එන්නාක් මෙන් දැනීම."
+  },
+  {
+    "id": "hm_106",
+    "expression": "動悸",
+    "category": "Health & Medical",
+    "furigana": "どうき",
+    "romaji": "douki",
+    "meaningSinhala": "හදවත ගැස්ම / Palpitation",
+    "kanjiBreakup": "動 (move) + 悸 (palpitate)",
+    "story": "හදවත වේගයෙන් ගැසෙනු දැනීම."
+  },
+  {
+    "id": "hm_107",
+    "expression": "息切れ",
+    "category": "Health & Medical",
+    "furigana": "いきぎれ",
+    "romaji": "ikigire",
+    "meaningSinhala": "හුස්ම ගැනීමේ අපහසුව / Shortness of breath",
+    "kanjiBreakup": "息 (breath) + 切れ (cut)",
+    "story": "පඩිපෙළ නඟින විට හුස්ම හිරවීම."
+  },
+  {
+    "id": "hm_108",
+    "expression": "倦怠",
+    "category": "Health & Medical",
+    "furigana": "けんたい",
+    "romaji": "kentai",
+    "meaningSinhala": "විඩාව / Lassitude / Weariness",
+    "kanjiBreakup": "倦怠 (fatigue)",
+    "story": "ශරීරයට කිසිදු උනන්දුවක් නොමැති මහන්සිය."
+  },
+  {
+    "id": "hm_109",
+    "expression": "不眠",
+    "category": "Health & Medical",
+    "furigana": "ふみん",
+    "romaji": "fumin",
+    "meaningSinhala": "නින්ද නොයාම / Sleeplessness",
+    "kanjiBreakup": "不 (not) + 眠 (sleep)",
+    "story": "රෑට නින්ද නොයන තත්ත්වය."
+  },
+  {
+    "id": "hm_110",
+    "expression": "食欲",
+    "category": "Health & Medical",
+    "furigana": "しょくよく",
+    "romaji": "shokuyoku",
+    "meaningSinhala": "කෑමට රුචිය / Appetite",
+    "kanjiBreakup": "食 (eat) + 欲 (desire)",
+    "story": "කෑම කන්නට ඇතිවන ඕනෑකම."
+  },
+  {
+    "id": "hm_111",
+    "expression": "消化",
+    "category": "Health & Medical",
+    "furigana": "しょうか",
+    "romaji": "shouka",
+    "meaningSinhala": "ජීර්ණය / Digestion",
+    "kanjiBreakup": "消 (dissolve) + 化 (change)",
+    "story": "කෑ කෑම උදරයේදී දියවීම."
+  },
+  {
+    "id": "hm_112",
+    "expression": "栄養失調",
+    "category": "Health & Medical",
+    "furigana": "えいようしっちょう",
+    "romaji": "eiyou shicchou",
+    "meaningSinhala": "පෝෂණ ඌනතාව / Malnutrition",
+    "kanjiBreakup": "栄養 (nutrition) + 失調 (disorder)",
+    "story": "ശරීරයට අවශ්‍ය පෝෂණය මදි වීම."
+  },
+  {
+    "id": "hm_113",
+    "expression": "過食",
+    "category": "Health & Medical",
+    "furigana": "かしょく",
+    "romaji": "kashoku",
+    "meaningSinhala": "අධික ලෙස කෑම / Overeating",
+    "kanjiBreakup": "過 (excess) + 食 (food)",
+    "story": "ප්‍රමාණයට වඩා වැඩිපුර කෑම කෑම."
+  },
+  {
+    "id": "hm_114",
+    "expression": "偏食",
+    "category": "Health & Medical",
+    "furigana": "へんしょく",
+    "romaji": "henshoku",
+    "meaningSinhala": "රුචි අරුචිකම් අනුව කෑම / Unbalanced diet",
+    "kanjiBreakup": "偏 (partial) + 食 (food)",
+    "story": "කැමති දේ පමණක් කෑමෙන් පෝෂණය අඩාල වීම."
+  },
+  {
+    "id": "hm_115",
+    "expression": "拒食症",
+    "category": "Health & Medical",
+    "furigana": "きょしょくしょう",
+    "romaji": "kyoshokushou",
+    "meaningSinhala": "කෑම ප්‍රතික්ෂේප කිරීමේ රෝගය / Anorexia",
+    "kanjiBreakup": "拒 (refuse) + 食 (food) + 症 (condition)",
+    "story": " මහත් වෙයි බයට කෑම නොකන මානසික තත්ත්වය."
+  },
+  {
+    "id": "hm_116",
+    "expression": "過食症",
+    "category": "Health & Medical",
+    "furigana": "かしょくしょう",
+    "romaji": "kashokushou",
+    "meaningSinhala": "අධික ලෙස කෑමේ රෝගය / Bulimia",
+    "kanjiBreakup": "過食 (overeat) + 症 (condition)",
+    "story": "පාලනයකින් තොරව අධික ලෙස කෑම කෑම."
+  },
+  {
+    "id": "hm_117",
+    "expression": "肥満",
+    "category": "Health & Medical",
+    "furigana": "ひまん",
+    "romaji": "himan",
+    "meaningSinhala": "স্থුලතාව / Obesity",
+    "kanjiBreakup": "肥 (fat) + 満 (full)",
+    "story": "ශරීර බර අධික ලෙස වැඩි වීම."
+  },
+  {
+    "id": "hm_118",
+    "expression": "生活習慣",
+    "category": "Health & Medical",
+    "furigana": "せいかつしゅうかん",
+    "romaji": "seikatsu shuukan",
+    "meaningSinhala": "ජීවන රටාව / Lifestyle",
+    "kanjiBreakup": "生活 (life) + 習慣 (habit)",
+    "story": "දිනපතා අනුගමනය කරන පුරුදු."
+  },
+  {
+    "id": "hm_119",
+    "expression": "生活環境",
+    "category": "Health & Medical",
+    "furigana": "せいかつかんきょう",
+    "romaji": "seikatsu kankyou",
+    "meaningSinhala": "ජීවන පරිසරය / Living environment",
+    "kanjiBreakup": "生活 (life) + 環境 (environment)",
+    "story": "අපි ජීවත් වන අවට පරිසරය."
+  },
+  {
+    "id": "hm_120",
+    "expression": "衛生",
+    "category": "Health & Medical",
+    "furigana": "えいせい",
+    "romaji": "eisei",
+    "meaningSinhala": "සනීපාරක්ෂාව / Hygiene / Sanitation",
+    "kanjiBreakup": "衛 (protect) + 生 (life)",
+    "story": "ශරීරය සහ පරිසරය පිරිසිදුව තබා ගැනීම."
+  },
+  {
+    "id": "hm_121",
+    "expression": "清潔",
+    "category": "Health & Medical",
+    "furigana": "せいけつ",
+    "romaji": "seiketsu",
+    "meaningSinhala": "පිරිසිදු / Clean",
+    "kanjiBreakup": "清 (clean) + 潔 (pure)",
+    "story": "කිසිදු කුණු දූවිල්ලක් නොමැති පිරිසිදුකම."
+  },
+  {
+    "id": "hm_122",
+    "expression": "不潔",
+    "category": "Health & Medical",
+    "furigana": "ふけつ",
+    "romaji": "fuketsu",
+    "meaningSinhala": "අපිරිසිදු / Unclean",
+    "kanjiBreakup": "不 (not) + 潔 (clean)",
+    "story": "කුණු දූවිලි හා විෂබීජ පිරුණු අපිරිසිදුකම."
+  },
+  {
+    "id": "hm_123",
+    "expression": "除菌",
+    "category": "Health & Medical",
+    "furigana": "じょきん",
+    "romaji": "jokin",
+    "meaningSinhala": "ක්ෂුද්‍ර ජීවීන් ඉවත් කිරීම / Sterilization",
+    "kanjiBreakup": "除 (remove) + 菌 (bacteria)",
+    "story": "භාණ්ඩවල ඇති බැක්ටීරියා ඉවත් කිරීම."
+  },
+  {
+    "id": "hm_124",
+    "expression": "殺菌",
+    "category": "Health & Medical",
+    "furigana": "さっきん",
+    "romaji": "sakkin",
+    "meaningSinhala": "බැක්ටීරියා නැසීම / Bactericidal",
+    "kanjiBreakup": "殺 (kill) + 菌 (bacteria)",
+    "story": "විෂබීජ මරා දැමීම."
+  },
+  {
+    "id": "hm_125",
+    "expression": "解毒",
+    "category": "Health & Medical",
+    "furigana": "げどく",
+    "romaji": "gedoku",
+    "meaningSinhala": "විෂ ඉවත් කිරීම / Detoxification",
+    "kanjiBreakup": "解 (release) + 毒 (poison)",
+    "story": "සිරුරේ ඇති විෂ සහිත දේ ඉවත් කිරීම."
+  },
+  {
+    "id": "hm_126",
+    "expression": "中毒",
+    "category": "Health & Medical",
+    "furigana": "ちゅうどく",
+    "romaji": "chuudoku",
+    "meaningSinhala": "විෂ වීම / Poisoning",
+    "kanjiBreakup": "中 (inside) + 毒 (poison)",
+    "story": "නරක් වූ දෙයක් කෑමෙන් සිරුරට විෂ වීම."
+  },
+  {
+    "id": "hm_127",
+    "expression": "蘇生",
+    "category": "Health & Medical",
+    "furigana": "そせい",
+    "romaji": "sosei",
+    "meaningSinhala": "පණ ගැන්වීම / Resuscitation",
+    "kanjiBreakup": "蘇 (revive) + 生 (life)",
+    "story": "සිහිසුන් වූ කෙනෙකුට කෘත්‍රිම ශ්වසනය දී පණ ගැන්වීම."
+  },
+  {
+    "id": "hm_128",
+    "expression": "人工呼吸",
+    "category": "Health & Medical",
+    "furigana": "じんこうこきゅう",
+    "romaji": "jinkou kokyuu",
+    "meaningSinhala": "කෘත්‍රිම ශ්වසනය / Artificial respiration",
+    "kanjiBreakup": "人工 (artificial) + 呼吸 (breath)",
+    "story": "හුස්ම නොගන්නා කෙනෙකුට හුස්ම ලබා දීම."
+  },
+  {
+    "id": "hm_129",
+    "expression": "救命",
+    "category": "Health & Medical",
+    "furigana": "きゅうめい",
+    "romaji": "kyuumei",
+    "meaningSinhala": "ජීවිත බේරා ගැනීම / Saving a life",
+    "kanjiBreakup": "救 (rescue) + 命 (life)",
+    "story": "අනතුරකට ලක් වූ අයෙකුගේ ජීවිතය බේරා ගැනීම."
+  },
+  {
+    "id": "hm_130",
+    "expression": "医療費",
+    "category": "Health & Medical",
+    "furigana": "いりょうひ",
+    "romaji": "iryouhi",
+    "meaningSinhala": "වෛද්‍ය වියදම් / Medical expenses",
+    "kanjiBreakup": "医療 (medical) + 費 (cost)",
+    "story": "බෙහෙත් සහ රෝහල් ප්‍රතිකාර සඳහා යන වියදම."
+  },
+  {
+    "id": "hm_131",
+    "expression": "医療保険",
+    "category": "Health & Medical",
+    "furigana": "いりょうほけん",
+    "romaji": "iryou hoken",
+    "meaningSinhala": "වෛද්‍ය රක්ෂණය / Medical insurance",
+    "kanjiBreakup": "医療 (medical) + 保険 (insurance)",
+    "story": "බෙහෙත් සහ රෝහල් ගාස්තු ආවරණය කරන රක්ෂණය."
+  },
+  {
+    "id": "hm_132",
+    "expression": "治療費",
+    "category": "Health & Medical",
+    "furigana": "ちりょうひ",
+    "romaji": "chiryouhi",
+    "meaningSinhala": "ප්‍රතිකාර ගාස්තුව / Treatment fee",
+    "kanjiBreakup": "治療 (treatment) + 費 (cost)",
+    "story": "ඩොක්ටර්ට සහ රෝහලට ගෙවන ගාස්තුව."
+  },
+  {
+    "id": "hm_133",
+    "expression": "入院費",
+    "category": "Health & Medical",
+    "furigana": "にゅういんひ",
+    "romaji": "nyuuinfi",
+    "meaningSinhala": "රෝහල්ගත වීමේ වියදම / Hospitalization cost",
+    "kanjiBreakup": "入院 (hospitalize) + 費 (cost)",
+    "story": "රෝහලේ නැවතී සිටින විට ගෙවන මුදල."
+  },
+  {
+    "id": "hm_134",
+    "expression": "福祉",
+    "category": "Health & Medical",
+    "furigana": "ふくし",
+    "romaji": "fukushi",
+    "meaningSinhala": "සුභසාධනය / Welfare",
+    "kanjiBreakup": "福 (happiness) + 祉 (welfare)",
+    "story": "රෝගීන්ට සහ වැඩිහිටියන්ට රජයෙන් දෙන ආධාර."
+  },
+  {
+    "id": "hm_135",
+    "expression": "介護",
+    "category": "Health & Medical",
+    "furigana": "かいご",
+    "romaji": "kaigo",
+    "meaningSinhala": "රෝගීන්/වැඩිහිටියන් බලාගැනීම / Nursing care",
+    "kanjiBreakup": "介 (aid) + 護 (protect)",
+    "story": "ඇඳට වැටුණු රෝගීන්ට උදව් කර බලාගැනීම."
+  },
+  {
+    "id": "hm_136",
+    "expression": "高齢化",
+    "category": "Health & Medical",
+    "furigana": "こうれいか",
+    "romaji": "koureika",
+    "meaningSinhala": "මහජනතාව වයසට යාම / Aging of population",
+    "kanjiBreakup": "高齢 (elderly) + 化 (change)",
+    "story": "රටක වැඩිහිටි ජනගහනය වැඩි වීම."
+  },
+  {
+    "id": "hm_137",
+    "expression": "平均寿命",
+    "category": "Health & Medical",
+    "furigana": "へいきんじゅみょう",
+    "romaji": "heikin jumyou",
+    "meaningSinhala": "සාමාන්‍ය ආයු අපේක්ෂාව / Average life expectancy",
+    "kanjiBreakup": "平均 (average) + 寿命 (lifespan)",
+    "story": "මිනිසුන් ජීවත් වන සාමාන්‍ය වයස් සීමාව."
+  },
+  {
+    "id": "hm_138",
+    "expression": "生存率",
+    "category": "Health & Medical",
+    "furigana": "せいぞんりつ",
+    "romaji": "seizonritsu",
+    "meaningSinhala": "ජීවත් වීමේ ප්‍රතිශතය / Survival rate",
+    "kanjiBreakup": "生存 (survival) + 率 (rate)",
+    "story": "බරපතල ලෙඩකින් සුව වී ජීවත් වීමේ ප්‍රතිශතය."
+  },
+  {
+    "id": "hm_139",
+    "expression": "死亡率",
+    "category": "Health & Medical",
+    "furigana": "しぼうりつ",
+    "romaji": "shibouritsu",
+    "meaningSinhala": "මරණ අනුපාතය / Mortality rate",
+    "kanjiBreakup": "死亡 (death) + 率 (rate)",
+    "story": "අනතුරකින් හෝ ලෙඩකින් මිය යෑමේ ප්‍රතිශතය."
+  },
+  {
+    "id": "hm_140",
+    "expression": "解剖",
+    "category": "Health & Medical",
+    "furigana": "かいぼう",
+    "romaji": "kaibou",
+    "meaningSinhala": "මළ සිරුරු පරීක්ෂාව / Autopsy",
+    "kanjiBreakup": "解 (unbind) + 剖 (divide)",
+    "story": "මරණයට හේතුව සෙවීමට සිරුර පරීක්ෂා කිරීම."
+  },
+  {
+    "id": "hm_141",
+    "expression": "臓器移植",
+    "category": "Health & Medical",
+    "furigana": "ぞうきいしょく",
+    "romaji": "zouki ishoku",
+    "meaningSinhala": "අංග ප්‍රතිස්ථාපනය / Organ transplant",
+    "kanjiBreakup": "臓器 (organ) + 移植 (transplant)",
+    "story": "වකුගඩුවක් හෝ හදවතක් වෙනත් අයෙකුට දීම."
+  },
+  {
+    "id": "hm_142",
+    "expression": "遺伝子",
+    "category": "Health & Medical",
+    "furigana": "いでんし",
+    "romaji": "idenshi",
+    "meaningSinhala": "ජාන / Gene",
+    "kanjiBreakup": "遺伝 (heredity) + 子 (child)",
+    "story": "මව්පියන්ගෙන් දරුවන්ට ගුණාංග ගෙන යන ජාන."
+  },
+  {
+    "id": "hm_143",
+    "expression": "遺伝",
+    "category": "Health & Medical",
+    "furigana": "いでん",
+    "romaji": "iden",
+    "meaningSinhala": "ජානමය / Heredity",
+    "kanjiBreakup": "遺伝 (heredity)",
+    "story": "මව්පියන්ගෙන් දරුවන්ට ලක්ෂණ ලැබීම."
+  },
+  {
+    "id": "hm_144",
+    "expression": "臨床",
+    "category": "Health & Medical",
+    "furigana": "りんしょう",
+    "romaji": "rinshou",
+    "meaningSinhala": " සායනික පරීක්ෂණ / Clinical",
+    "kanjiBreakup": "臨床 (clinical)",
+    "story": "රෝහල්වල රෝගීන් අසලට වී කරන වෛද්‍ය පරීක්ෂණ."
+  },
+  {
+    "id": "hm_145",
+    "expression": "健康保険",
+    "category": "Health & Medical",
+    "furigana": "けんこうほけん",
+    "romaji": "kenkou hoken",
+    "meaningSinhala": "සෞඛ්‍ය රක්ෂණය / Health insurance",
+    "kanjiBreakup": "健康 (health) + 保険 (insurance)",
+    "story": "వైද්‍ය ප්‍රතිකාර සඳහා රජයෙන් හෝ ආයතනයෙන් දෙන රක්ෂණය."
+  },
+  {
+    "id": "hm_146",
+    "expression": "総合病院",
+    "category": "Health & Medical",
+    "furigana": "そうごうびょういん",
+    "romaji": "sougou byouin",
+    "meaningSinhala": "මහ රෝහල / General hospital",
+    "kanjiBreakup": "総合 (general) + 病院 (hospital)",
+    "story": "විවිධ අංශ රැසකින් සමන්විත විශාල රෝහල."
+  },
+  {
+    "id": "hm_147",
+    "expression": "診療所",
+    "category": "Health & Medical",
+    "furigana": "しんりょうじょ",
+    "romaji": "shinryoujo",
+    "meaningSinhala": "පෞද්ගලික බෙහෙත් ශාලාව / Clinic",
+    "kanjiBreakup": "診療 (medical care) + 所 (place)",
+    "story": " වෛද්‍යවරයෙකු පෙන්වන කුඩා සායනය."
+  },
+  {
+    "id": "hm_148",
+    "expression": "内科医",
+    "category": "Health & Medical",
+    "furigana": "ないかい",
+    "romaji": "naikai",
+    "meaningSinhala": "සාමාන්‍ය වෛද්‍යවරයා / Internal physician",
+    "kanjiBreakup": "内科 (internal medicine) + 医 (doctor)",
+    "story": "අභ්‍යන්තර රෝග පිළිබඳ විශේෂඥ වෛද්‍යවරයා."
+  },
+  {
+    "id": "hm_149",
+    "expression": "外科医",
+    "category": "Health & Medical",
+    "furigana": "げかい",
+    "romaji": "gekai",
+    "meaningSinhala": "ශල්‍ය වෛද්‍යවරයා / Surgeon",
+    "kanjiBreakup": "外科 (surgery) + 医 (doctor)",
+    "story": "ශල්‍යකර්ම කරන විශේෂඥ වෛද්‍යවරයා."
+  },
+  {
+    "id": "hm_150",
+    "expression": "主治医",
+    "category": "Health & Medical",
+    "furigana": "しゅじい",
+    "romaji": "shujii",
+    "meaningSinhala": "ප්‍රතිකාර කරන වෛද්‍යවරයා / Attending physician",
+    "kanjiBreakup": "主治 (attending) + 医 (doctor)",
+    "story": "රෝගියාට නිරන්තරයෙන් ප්‍රතිකාර කරන ප්‍රධාන වෛද්‍යවරයා."
+  }
+]
