@@ -13,18 +13,18 @@
       -webkit-tap-highlight-color: transparent;
     }
 
-    /* පිටුව කිසිසේත්ම scroll වීම වළක්වයි */
+    /* Screen-e scroll bondho korar jonno */
     html, body {
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background-color: #f0f2f5;
+      background-color: #f2f3f7;
       display: flex;
       justify-content: center;
       align-items: center;
     }
 
-    /* Fixed Aspect Ratio Mobile Viewport */
+    /* Mobile Container Frame */
     .app-viewport {
       width: 100%;
       max-width: 380px;
@@ -41,16 +41,14 @@
       .app-viewport {
         height: 94vh;
         border-radius: 32px;
-        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.1);
+        border: 1px solid #e2e4e9;
       }
     }
 
     .screen {
       display: none;
       flex-direction: column;
-      align-items: center;
-      justify-content: space-between; /* ඉඩ ප්‍රමාණය එක හා සමානව බෙදා හරියි */
-      padding: 14px 22px 16px;
       width: 100%;
       height: 100%;
       overflow: hidden;
@@ -60,9 +58,17 @@
       display: flex;
     }
 
-    /* 1. HERO ANIMATION ZONE (ලොකුවට පෙන්වන ප්‍රධාන කොටස) */
+    /* =========================================================
+       1. LOGIN & SIGNUP SCREEN (PROTHOM PAGE-ER LIGHT THEME)
+       ========================================================= */
+    #loginScreen, #signupScreen {
+      background-color: #ffffff;
+      justify-content: space-between;
+      padding: 14px 22px 16px;
+    }
+
     .hero-section {
-      flex: 1 1 auto; /* ඉතිරි වන උපරිම ඉඩ ලබා ගනී */
+      flex: 1 1 auto;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -80,7 +86,6 @@
       filter: drop-shadow(0 4px 10px rgba(209, 59, 83, 0.12));
     }
 
-    /* 2. COMPACT CLOCK & DATE ZONE (අවම ඉඩක් ගන්නා ලෙස) */
     .info-section {
       flex: 0 0 auto;
       display: flex;
@@ -97,7 +102,7 @@
     }
 
     .live-clock {
-      font-size: 32px; /* අනවශ්‍ය උස ඉවත් කර compact කළා */
+      font-size: 32px;
       font-weight: 900;
       color: #050505;
       letter-spacing: -1px;
@@ -111,7 +116,6 @@
       color: #666666;
     }
 
-    /* 3. SCALED-DOWN LOGIN FORM ZONE (කැපී නොයන සංයුක්ත කොටස) */
     .form-container {
       flex: 0 0 auto;
       width: 100%;
@@ -136,7 +140,7 @@
 
     .input-field {
       width: 100%;
-      height: 35px; /* Input boxes සංයුක්ත කළා */
+      height: 35px;
       background-color: #faf8f2;
       border: 1px solid #333333;
       border-radius: 8px;
@@ -155,7 +159,7 @@
 
     .btn-main {
       width: 100%;
-      height: 36px; /* Button එක සංයුක්ත කළා */
+      height: 36px;
       background-color: #111111;
       color: #ffffff;
       border: none;
@@ -193,74 +197,399 @@
       line-height: 1;
     }
 
-    /* PRACTICE DASHBOARD SCREEN */
+    /* =========================================================
+       2. COMFORTABLE LIGHT THEME DASHBOARD (MATCHED WITH FIRST PAGE)
+       ========================================================= */
     #dashboardScreen {
-      justify-content: flex-start;
-      padding-top: 20px;
+      background-color: #fbfbf9;
+      color: #111111;
+      padding: 12px 18px 14px;
+      justify-content: space-between;
     }
 
-    .dashboard-header {
+    /* Top Bar: Buddha Statue, Maple Leaves & Profile Pill */
+    .dash-top-bar {
+      position: relative;
       width: 100%;
       display: flex;
-      justify-content: space-between;
+      justify-content: center;
       align-items: center;
-      padding-bottom: 12px;
-      border-bottom: 1px solid #ebebeb;
-      margin-bottom: 16px;
-      flex-shrink: 0;
+      padding-top: 4px;
+      margin-bottom: 6px;
     }
 
-    .user-badge {
-      font-size: 16px;
-      font-weight: 800;
-      color: #111111;
+    .leaves-img {
+      position: absolute;
+      top: -12px;
+      width: 58px;
+      height: auto;
+      pointer-events: none;
+      z-index: 1;
     }
 
-    .btn-logout {
-      padding: 6px 12px;
-      background: #fff0f2;
-      color: #d13b53;
-      border: 1px solid #ffd1d9;
-      border-radius: 8px;
-      font-weight: 700;
-      font-size: 11.5px;
-      cursor: pointer;
-    }
-
-    .menu-grid {
-      width: 100%;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-    }
-
-    .menu-card {
-      background: #ffffff;
-      border: 1px solid #e0e0e0;
-      border-radius: 12px;
-      padding: 16px 8px;
+    .buddha-container {
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
-      gap: 6px;
+      z-index: 2;
+    }
+
+    .buddha-img {
+      width: 44px;
+      height: 44px;
+      object-fit: contain;
+      filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.12));
+    }
+
+    .profile-pill {
+      position: absolute;
+      right: 0;
+      top: 2px;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: #ffffff;
+      padding: 2px;
       cursor: pointer;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.02);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      border: 1px solid #e2e4e9;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+    }
+
+    .profile-pill img {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    /* Filter Pills */
+    .filter-pills-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      margin-bottom: 10px;
+      width: 100%;
+    }
+
+    .pill-btn {
+      flex: 1;
+      height: 28px;
+      border-radius: 20px;
+      border: 1px solid #e7e8eb;
+      background: #ffffff;
+      color: #444444;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       transition: all 0.2s;
     }
 
-    .menu-card:active {
-      transform: scale(0.96);
+    .pill-btn.active {
+      background: #cbfb27;
+      color: #111111;
+      border-color: #b7e81b;
+      box-shadow: 0 2px 6px rgba(203, 251, 39, 0.35);
     }
 
-    .menu-card h4 {
-      font-size: 14px;
+    .pill-grid-btn {
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      background: #ffffff;
+      border: 1px solid #e7e8eb;
+      color: #111111;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 13px;
+    }
+
+    /* Dashboard Progress Card */
+    .progress-card {
+      width: 100%;
+      height: 140px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, #6c57f5 0%, #4e3dda 100%);
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 10px 22px rgba(83, 69, 221, 0.25);
+      margin-bottom: 10px;
+      cursor: pointer;
+    }
+
+    .progress-card::after {
+      content: "";
+      position: absolute;
+      right: -20px;
+      top: -20px;
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      border: 2px solid rgba(255, 255, 255, 0.18);
+      pointer-events: none;
+    }
+
+    .progress-card::before {
+      content: "";
+      position: absolute;
+      right: 15px;
+      top: 15px;
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 1.5px solid rgba(255, 255, 255, 0.25);
+      pointer-events: none;
+    }
+
+    .progress-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+    }
+
+    .progress-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: #ffffff;
+    }
+
+    .badge-arrow-lime {
+      width: 24px;
+      height: 24px;
+      background: #cbfb27;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #000000;
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .progress-val {
+      font-size: 32px;
+      font-weight: 900;
+      color: #ffffff;
+      letter-spacing: -1px;
+    }
+
+    /* 6 Modules Grid */
+    .modules-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .mod-card {
+      height: 96px;
+      border-radius: 16px;
+      background: #ffffff;
+      border: 1px solid #e8e9ed;
+      padding: 7px 7px 5px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.03);
+      transition: all 0.15s ease;
+    }
+
+    .mod-card:active {
+      transform: scale(0.96);
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+    }
+
+    .mod-top-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      z-index: 2;
+    }
+
+    .mod-label {
+      font-size: 10px;
+      font-weight: 700;
+      color: #222222;
+    }
+
+    .mod-badge-arrow {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #cbfb27;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #000000;
+      font-size: 8px;
+      font-weight: 900;
+    }
+
+    .mod-icon-wrapper {
+      width: 100%;
+      height: 52px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 2;
+      margin-bottom: 2px;
+    }
+
+    .mod-icon-img {
+      max-width: 44px;
+      max-height: 44px;
+      object-fit: contain;
+      filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.08));
+    }
+
+    /* Bookmark & Mistakes Review Banner */
+    .review-banner {
+      width: 100%;
+      height: 38px;
+      border-radius: 12px;
+      background: #236872;
+      display: flex;
+      align-items: center;
+      padding: 0 12px;
+      gap: 10px;
+      cursor: pointer;
+      margin-bottom: 8px;
+      box-shadow: 0 4px 10px rgba(35, 104, 114, 0.2);
+      transition: background 0.2s;
+    }
+
+    .review-banner:active {
+      background: #1c555d;
+    }
+
+    .review-icon-img {
+      width: 22px;
+      height: 22px;
+      object-fit: contain;
+    }
+
+    .review-text {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: #e3f9fc;
+    }
+
+    /* Today Task Footer */
+    .today-task-row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      width: 100%;
+      padding: 2px 0;
+    }
+
+    .today-task-label {
+      font-size: 12px;
+      font-weight: 700;
       color: #111111;
     }
 
-    .menu-card span {
-      font-size: 10.5px;
-      color: #777777;
+    .today-task-circle-btn {
+      position: absolute;
+      right: 0;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #cbfb27;
+      color: #000000;
+      border: 1px solid #b7e81b;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(203, 251, 39, 0.35);
+      padding: 4px;
+    }
+
+    .today-task-btn-img {
+      width: 16px;
+      height: 16px;
+      object-fit: contain;
+    }
+
+    /* Data Details Modal */
+    .app-modal {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(4px);
+      z-index: 100;
+      padding: 20px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .app-modal.active {
+      display: flex;
+    }
+
+    .modal-box {
+      width: 100%;
+      max-width: 310px;
+      background: #ffffff;
+      border: 1px solid #e2e4e9;
+      border-radius: 20px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      color: #111111;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .modal-box h3 {
+      font-size: 16px;
+      color: #4e3dda;
+      font-weight: 800;
+    }
+
+    .modal-box p {
+      font-size: 12px;
+      color: #555555;
+      line-height: 1.4;
+    }
+
+    .modal-close-btn {
+      height: 34px;
+      background: #cbfb27;
+      color: #111111;
+      border: none;
+      border-radius: 10px;
+      font-weight: 700;
+      font-size: 12px;
+      cursor: pointer;
+      margin-top: 6px;
     }
   </style>
 </head>
@@ -268,7 +597,9 @@
 
   <div class="app-viewport">
     
-    <!-- 1. LOGIN SCREEN -->
+    <!-- ==============================================
+         1. LOGIN SCREEN
+         ============================================== -->
     <div id="loginScreen" class="screen active">
       
       <!-- Top Hero Animation -->
@@ -287,7 +618,7 @@
       <div class="form-container">
         <div class="input-group">
           <label class="input-label">User Name</label>
-          <input type="text" id="loginUsername" class="input-field" placeholder="Username ඇතුළත් කරන්න" autocomplete="username">
+          <input type="text" id="loginUsername" class="input-field" placeholder="Username din" autocomplete="username">
         </div>
 
         <div class="input-group">
@@ -298,12 +629,14 @@
         <div id="loginError" class="error-msg"></div>
 
         <button type="button" class="btn-main" onclick="handleLogin()">Login</button>
-        <div class="switch-link" onclick="showScreen('signupScreen')">ගිණුමක් නැද්ද? <b>Sign Up වෙන්න</b></div>
+        <div class="switch-link" onclick="showScreen('signupScreen')">Account nei? <b>Sign Up korun</b></div>
       </div>
 
     </div>
 
-    <!-- 2. SIGN UP SCREEN -->
+    <!-- ==============================================
+         2. SIGN UP SCREEN
+         ============================================== -->
     <div id="signupScreen" class="screen">
       <div class="hero-section" style="max-height: 140px;">
         <img src="assets/First Page/Two Ladies.gif" alt="Ladies Graphic" class="hero-graphic" style="max-height: 130px;" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'120\' height=\'90\' viewBox=\'0 0 120 90\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'45\'>🎎</text></svg>'">
@@ -311,7 +644,7 @@
 
       <div class="info-section">
         <div class="greeting-text">Create Account</div>
-        <p style="font-size: 11.5px; color: #666;">නව User කෙනෙක් ලෙස ලියාපදිංචි වන්න</p>
+        <p style="font-size: 11.5px; color: #666;">Notun User hishebe register korun</p>
       </div>
 
       <div class="form-container">
@@ -322,61 +655,158 @@
 
         <div class="input-group">
           <label class="input-label">Password</label>
-          <input type="password" id="regPassword" class="input-field" placeholder="රහස්‍ය මුරපදයක් ලබා දෙන්න">
+          <input type="password" id="regPassword" class="input-field" placeholder="Gopon password din">
         </div>
 
         <div class="input-group">
           <label class="input-label">Confirm Password</label>
-          <input type="password" id="regConfirmPassword" class="input-field" placeholder="මුරපදය නැවත ඇතුළත් කරන්න">
+          <input type="password" id="regConfirmPassword" class="input-field" placeholder="Password abar likhun">
         </div>
 
         <div id="signupError" class="error-msg"></div>
 
         <button type="button" class="btn-main" onclick="handleSignUp()">Sign Up</button>
-        <div class="switch-link" onclick="showScreen('loginScreen')">දැනටමත් ගිණුමක් තිබේද? <b>Login වෙන්න</b></div>
+        <div class="switch-link" onclick="showScreen('loginScreen')">Account ache? <b>Login korun</b></div>
       </div>
     </div>
 
-    <!-- 3. PRACTICE DASHBOARD SCREEN -->
+    <!-- ==============================================
+         3. HOME SCREEN / DASHBOARD (COMFORTABLE THEME + PNGS)
+         ============================================== -->
     <div id="dashboardScreen" class="screen">
-      <div class="dashboard-header">
-        <div>
-          <span style="font-size: 11px; color: #777;">Welcome back,</span>
-          <div id="loggedUserName" class="user-badge">User</div>
+      
+      <!-- Top Leaves + Buddha + Profile Icon -->
+      <div class="dash-top-bar">
+        <!-- Maple Leave PNG -->
+        <img src="assets/Home Images/Maple Leave.png" alt="Maple Leaves" class="leaves-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'60\' height=\'60\' viewBox=\'0 0 60 60\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'30\'>🍁</text></svg>'">
+
+        <!-- Buddha Statue PNG -->
+        <div class="buddha-container">
+          <img src="assets/Home Images/Budda statue.png" alt="Buddha Statue" class="buddha-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'44\' height=\'44\' viewBox=\'0 0 44 44\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'30\'>🧘‍♂️</text></svg>'">
         </div>
-        <button class="btn-logout" onclick="handleLogout()">Logout</button>
+
+        <!-- Profile / Logout Avatar -->
+        <div class="profile-pill" onclick="handleLogout()" title="Click to Logout">
+          <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><circle cx='20' cy='20' r='20' fill='%23555'/><text x='50%' y='60%' dominant-baseline='middle' text-anchor='middle' font-size='20' fill='white'>👤</text></svg>" alt="User">
+        </div>
       </div>
 
-      <div class="greeting-text" style="font-size: 17px; margin-bottom: 14px; width: 100%; text-align: left;">JLPT N3 Practice Hub</div>
+      <!-- Filter Buttons Row -->
+      <div class="filter-pills-row">
+        <button class="pill-btn active" onclick="setFilter(this)">All</button>
+        <button class="pill-btn" onclick="setFilter(this)">Days</button>
+        <button class="pill-btn" onclick="setFilter(this)">Monthly</button>
+        <button class="pill-btn" onclick="setFilter(this)">Yearly</button>
+        <div class="pill-grid-btn">⊞</div>
+      </div>
 
-      <div class="menu-grid">
-        <div class="menu-card" onclick="alert('Vocabulary අංශය ඊළඟ පියවරේදී සම්බන්ධ කරමු!')">
-          <div style="font-size: 26px;">📖</div>
-          <h4>Vocabulary</h4>
-          <span>N3 වචන මාලාව</span>
+      <!-- Dashboard Progress Card -->
+      <div class="progress-card" onclick="openModule('Dashboard Progress', 'Shompurno JLPT N3 shob modules 100% complete kora hoyeche.')">
+        <div class="progress-header">
+          <span class="progress-title">Dashboard Progress</span>
+          <div class="badge-arrow-lime">▲</div>
         </div>
-        <div class="menu-card" onclick="alert('Kanji අංශය ඊළඟ පියවරේදී සම්බන්ධ කරමු!')">
-          <div style="font-size: 26px;">㊙️</div>
-          <h4>Kanji</h4>
-          <span>අක්ෂර පුහුණුව</span>
+        <div class="progress-val">100%</div>
+      </div>
+
+      <!-- 6 Modules Grid with exact PNG icons -->
+      <div class="modules-grid">
+        <!-- 1. Kanji -->
+        <div class="mod-card" onclick="openModule('Kanji N3', 'Kanji 370-ti, Onyomi/Kunyomi reading ebong stroke orders.')">
+          <div class="mod-top-row">
+            <span class="mod-label">Kanji</span>
+            <div class="mod-badge-arrow">▲</div>
+          </div>
+          <div class="mod-icon-wrapper">
+            <img src="assets/Home Images/Kanji.png" alt="Kanji" class="mod-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\' viewBox=\'0 0 40 40\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'28\'>🥷</text></svg>'">
+          </div>
         </div>
-        <div class="menu-card" onclick="alert('Grammar අංශය ඊළඟ පියවරේදී සම්බන්ධ කරමු!')">
-          <div style="font-size: 26px;">📑</div>
-          <h4>Grammar</h4>
-          <span>ව්‍යාකරණ රටා</span>
+
+        <!-- 2. Vocabulary -->
+        <div class="mod-card" onclick="openModule('Vocabulary N3', 'N3 porikkhar 1,800 shobdo, ortho ebong example sentence.')">
+          <div class="mod-top-row">
+            <span class="mod-label">Vocabulary</span>
+            <div class="mod-badge-arrow">▲</div>
+          </div>
+          <div class="mod-icon-wrapper">
+            <img src="assets/Home Images/Vocabulary.png" alt="Vocabulary" class="mod-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\' viewBox=\'0 0 40 40\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'28\'>👘</text></svg>'">
+          </div>
         </div>
-        <div class="menu-card" onclick="alert('Mock Exam අංශය ඊළඟ පියවරේදී සම්බන්ධ කරමු!')">
-          <div style="font-size: 26px;">⏱️</div>
-          <h4>Mock Test</h4>
-          <span>ප්‍රශ්න පත්‍ර</span>
+
+        <!-- 3. Listening -->
+        <div class="mod-card" onclick="openModule('Listening N3', 'Listening practice, audio dialogues ebong quick response.')">
+          <div class="mod-top-row">
+            <span class="mod-label">Listening</span>
+            <div class="mod-badge-arrow">▲</div>
+          </div>
+          <div class="mod-icon-wrapper">
+            <img src="assets/Home Images/Listening.png" alt="Listening" class="mod-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\' viewBox=\'0 0 40 40\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'28\'>🏯</text></svg>'">
+          </div>
         </div>
+
+        <!-- 4. Reading -->
+        <div class="mod-card" onclick="openModule('Reading N3', 'Choto, majhari ebong boro paragraph comprehension practice.')">
+          <div class="mod-top-row">
+            <span class="mod-label">Reading</span>
+            <div class="mod-badge-arrow">▲</div>
+          </div>
+          <div class="mod-icon-wrapper">
+            <img src="assets/Home Images/Reading.png" alt="Reading" class="mod-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\' viewBox=\'0 0 40 40\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'28\'>🏮</text></svg>'">
+          </div>
+        </div>
+
+        <!-- 5. Grammar -->
+        <div class="mod-card" onclick="openModule('Grammar N3', 'Prodhankari 130-ti grammar rules ebong sentence pattern.')">
+          <div class="mod-top-row">
+            <span class="mod-label">Grammar</span>
+            <div class="mod-badge-arrow">▲</div>
+          </div>
+          <div class="mod-icon-wrapper">
+            <img src="assets/Home Images/Grammar.png" alt="Grammar" class="mod-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\' viewBox=\'0 0 40 40\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'28\'>⛩️</text></svg>'">
+          </div>
+        </div>
+
+        <!-- 6. Quiz -->
+        <div class="mod-card" onclick="openModule('Quiz & Mock Tests', 'Real timer ebong scoring soho model question test.')">
+          <div class="mod-top-row">
+            <span class="mod-label">Quiz</span>
+            <div class="mod-badge-arrow">▲</div>
+          </div>
+          <div class="mod-icon-wrapper">
+            <img src="assets/Home Images/Quiz.png" alt="Quiz" class="mod-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\' viewBox=\'0 0 40 40\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'28\'>⚔️</text></svg>'">
+          </div>
+        </div>
+      </div>
+
+      <!-- Bookmark & Mistakes Review Banner with PNG -->
+      <div class="review-banner" onclick="openModule('Bookmark & Mistakes Review', 'Bookmark kora ebong vul kora proshno gulo abar practice korun.')">
+        <img src="assets/Home Images/Bookmark & Mistake Review.png" alt="Bookmark" class="review-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'24\' height=\'24\' viewBox=\'0 0 24 24\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'16\'>📅</text></svg>'">
+        <span class="review-text">Bookmark & Mistakes Review</span>
+      </div>
+
+      <!-- Today Task Footer with PNG -->
+      <div class="today-task-row">
+        <span class="today-task-label">Today Task</span>
+        <button class="today-task-circle-btn" onclick="openModule('Today Task', 'Ajker goal: 15 Vocabulary, 5 Kanji ebong 1 Reading comprehension.')">
+          <img src="assets/Home Images/Today Task.png" alt="Arrow" class="today-task-btn-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'16\' height=\'16\' viewBox=\'0 0 16 16\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'12\'>❯</text></svg>'">
+        </button>
+      </div>
+
+    </div>
+
+    <!-- Data Details Modal -->
+    <div id="dataModal" class="app-modal">
+      <div class="modal-box">
+        <h3 id="modalTitle">Module Name</h3>
+        <p id="modalDesc">Module-er bistarto tothyo ekhane dekhabe.</p>
+        <button class="modal-close-btn" onclick="closeModal()">Close</button>
       </div>
     </div>
 
   </div>
 
   <script>
-    // SHA-256 Security Hash
+    // 1. Password Hashing (SHA-256)
     async function sha256(message) {
       const msgBuffer = new TextEncoder().encode(message);
       const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
@@ -384,7 +814,7 @@
       return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
     }
 
-    // Default System Users
+    // 2. Default Users Setup
     async function initializeUsers() {
       if (!localStorage.getItem('n3_users')) {
         const adminHash = await sha256('9101001');
@@ -397,7 +827,7 @@
       }
     }
 
-    // Realtime Clock and Date
+    // 3. Live Clock Update
     function updateClock() {
       const now = new Date();
       const hours = String(now.getHours()).padStart(2, '0');
@@ -410,7 +840,7 @@
     setInterval(updateClock, 1000);
     updateClock();
 
-    // View Navigation
+    // 4. View Navigation
     function showScreen(screenId) {
       document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
       document.getElementById(screenId).classList.add('active');
@@ -418,25 +848,24 @@
       document.getElementById('signupError').textContent = '';
     }
 
-    // Persistent Session Check
+    // 5. Persistent Session Check
     function checkExistingSession() {
       const current = localStorage.getItem('n3_logged_user');
       if (current) {
-        document.getElementById('loggedUserName').textContent = current;
         showScreen('dashboardScreen');
       } else {
         showScreen('loginScreen');
       }
     }
 
-    // Login Handler
+    // 6. Login Functionality
     async function handleLogin() {
       const usernameInput = document.getElementById('loginUsername').value.trim();
       const passwordInput = document.getElementById('loginPassword').value.trim();
       const errBox = document.getElementById('loginError');
 
       if (!usernameInput || !passwordInput) {
-        errBox.textContent = 'කරුණාකර User Name සහ Password ඇතුළත් කරන්න.';
+        errBox.textContent = 'Doyakore User Name ebong Password din.';
         return;
       }
 
@@ -444,7 +873,7 @@
       const user = users[usernameInput];
 
       if (!user || !user.passwordHash) {
-        errBox.textContent = 'මෙම User Name එක ලියාපදිංචි කර නැත (Sign Up වන්න).';
+        errBox.textContent = 'Ei User Name register kora nei (Sign Up korun).';
         return;
       }
 
@@ -452,15 +881,14 @@
 
       if (inputHash === user.passwordHash) {
         localStorage.setItem('n3_logged_user', usernameInput);
-        document.getElementById('loggedUserName').textContent = usernameInput;
         document.getElementById('loginPassword').value = '';
         showScreen('dashboardScreen');
       } else {
-        errBox.textContent = 'මුරපදය වැරදියි! නැවත උත්සාහ කරන්න.';
+        errBox.textContent = 'Password vul! Abar chesta korun.';
       }
     }
 
-    // Sign Up Handler
+    // 7. Sign Up Functionality
     async function handleSignUp() {
       const username = document.getElementById('regUsername').value.trim();
       const password = document.getElementById('regPassword').value.trim();
@@ -468,24 +896,24 @@
       const errBox = document.getElementById('signupError');
 
       if (!username || !password) {
-        errBox.textContent = 'සියලු විස්තර සම්පූර්ණ කරන්න.';
+        errBox.textContent = 'Shob details puron korun.';
         return;
       }
 
       if (password !== confirmPassword) {
-        errBox.textContent = 'මුරපද දෙක සමාන නොවේ!';
+        errBox.textContent = 'Duti password mile nai!';
         return;
       }
 
       if (password.length < 4) {
-        errBox.textContent = 'මුරපදයට අවම වශයෙන් අකුරු/ඉලක්කම් 4ක් යොදන්න.';
+        errBox.textContent = 'Password-e ontoto 4-ti character thakhte hobe.';
         return;
       }
 
       const users = JSON.parse(localStorage.getItem('n3_users') || '{}');
 
       if (users[username] && users[username].passwordHash) {
-        errBox.textContent = 'මෙම User Name එක දැනටමත් භාවිතයේ පවතී.';
+        errBox.textContent = 'Ei User Name-ti agei bebohar kora hoyeche.';
         return;
       }
 
@@ -498,13 +926,32 @@
       showScreen('dashboardScreen');
     }
 
-    // Logout Handler
+    // 8. Logout Functionality
     function handleLogout() {
-      localStorage.removeItem('n3_logged_user');
-      showScreen('loginScreen');
+      if (confirm("Apni ki logout korte chan?")) {
+        localStorage.removeItem('n3_logged_user');
+        showScreen('loginScreen');
+      }
     }
 
-    // Init Execution
+    // 9. Dashboard Filter Selector
+    function setFilter(elem) {
+      document.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('active'));
+      elem.classList.add('active');
+    }
+
+    // 10. Module Data Connector
+    function openModule(title, description) {
+      document.getElementById('modalTitle').textContent = title;
+      document.getElementById('modalDesc').textContent = description;
+      document.getElementById('dataModal').classList.add('active');
+    }
+
+    function closeModal() {
+      document.getElementById('dataModal').classList.remove('active');
+    }
+
+    // Initialize System
     (async function init() {
       await initializeUsers();
       checkExistingSession();
