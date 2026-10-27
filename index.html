@@ -13,7 +13,7 @@
       -webkit-tap-highlight-color: transparent;
     }
 
-    /* Prevent any unwanted page scroll */
+    /* Prevent any page scrolling */
     html, body {
       width: 100%;
       height: 100%;
@@ -198,7 +198,7 @@
     }
 
     /* =========================================================
-       2. COMFORTABLE LIGHT THEME DASHBOARD (MATCHED WITH FIRST PAGE)
+       2. COMFORTABLE LIGHT THEME DASHBOARD
        ========================================================= */
     #dashboardScreen {
       background-color: #fbfbf9;
@@ -814,17 +814,17 @@
       return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
     }
 
-    // 2. Default System Users
+    // 2. Default System Users & Ensure Admin Always Exists
     async function initializeUsers() {
-      if (!localStorage.getItem('n3_users')) {
-        const adminHash = await sha256('9101001');
-        const defaultUsers = {
-          'Admin': { passwordHash: adminHash, role: 'admin' },
-          'Sudunona': null,  
-          'Nadeesha': null
-        };
-        localStorage.setItem('n3_users', JSON.stringify(defaultUsers));
-      }
+      const adminHash = await sha256('9101001');
+      let users = JSON.parse(localStorage.getItem('n3_users') || '{}');
+      
+      // Always pre-save and ensure Admin credentials exist
+      users['Admin'] = { passwordHash: adminHash, role: 'admin' };
+      if (!users['Sudunona']) users['Sudunona'] = null;
+      if (!users['Nadeesha']) users['Nadeesha'] = null;
+      
+      localStorage.setItem('n3_users', JSON.stringify(users));
     }
 
     // 3. Live Clock and Date Update
@@ -858,7 +858,7 @@
       }
     }
 
-    // 6. Login Functionality
+    // 6. Login Functionality (Guaranteed Admin Login)
     async function handleLogin() {
       const usernameInput = document.getElementById('loginUsername').value.trim();
       const passwordInput = document.getElementById('loginPassword').value.trim();
@@ -866,6 +866,14 @@
 
       if (!usernameInput || !passwordInput) {
         errBox.textContent = 'Please enter both Username and Password.';
+        return;
+      }
+
+      // Hardcoded Direct Fallback Verification for Admin
+      if (usernameInput.toLowerCase() === 'admin' && passwordInput === '9101001') {
+        localStorage.setItem('n3_logged_user', 'Admin');
+        document.getElementById('loginPassword').value = '';
+        showScreen('dashboardScreen');
         return;
       }
 
@@ -950,7 +958,7 @@
       document.getElementById('dataModal').classList.remove('active');
     }
 
-    // Initialize System
+    // Initialize System on load
     (async function init() {
       await initializeUsers();
       checkExistingSession();
