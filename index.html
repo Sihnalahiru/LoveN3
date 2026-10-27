@@ -13,7 +13,6 @@
       -webkit-tap-highlight-color: transparent;
     }
 
-    /* Prevent any page scrolling */
     html, body {
       width: 100%;
       height: 100%;
@@ -24,7 +23,7 @@
       align-items: center;
     }
 
-    /* Fixed Aspect Ratio Mobile Frame */
+    /* Mobile Container Frame */
     .app-viewport {
       width: 100%;
       max-width: 380px;
@@ -59,7 +58,7 @@
     }
 
     /* =========================================================
-       1. LOGIN & SIGNUP SCREEN (PROPORTIONALLY SCALED)
+       1. LOGIN & SIGNUP SCREEN
        ========================================================= */
     #loginScreen, #signupScreen {
       background-color: #ffffff;
@@ -198,7 +197,7 @@
     }
 
     /* =========================================================
-       2. COMFORTABLE LIGHT THEME DASHBOARD
+       2. DASHBOARD SCREEN
        ========================================================= */
     #dashboardScreen {
       background-color: #fbfbf9;
@@ -207,7 +206,6 @@
       justify-content: space-between;
     }
 
-    /* Top Bar: Buddha Statue, Maple Leaves & Profile Pill */
     .dash-top-bar {
       position: relative;
       width: 100%;
@@ -266,7 +264,6 @@
       object-fit: cover;
     }
 
-    /* Filter Pills */
     .filter-pills-row {
       display: flex;
       align-items: center;
@@ -313,7 +310,6 @@
       font-size: 13px;
     }
 
-    /* Dashboard Progress Card */
     .progress-card {
       width: 100%;
       height: 140px;
@@ -387,7 +383,6 @@
       letter-spacing: -1px;
     }
 
-    /* 6 Modules Grid */
     .modules-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -461,7 +456,6 @@
       filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.08));
     }
 
-    /* Bookmark & Mistakes Review Banner */
     .review-banner {
       width: 100%;
       height: 38px;
@@ -493,7 +487,6 @@
       color: #e3f9fc;
     }
 
-    /* Today Task Footer */
     .today-task-row {
       display: flex;
       justify-content: center;
@@ -532,7 +525,265 @@
       object-fit: contain;
     }
 
-    /* Data Details Modal */
+    /* =========================================================
+       3. KANJI GRID SCREEN
+       ========================================================= */
+    #kanjiScreen {
+      background-color: #fbfbf9;
+      padding: 14px 16px 12px;
+      justify-content: flex-start;
+      gap: 8px;
+    }
+
+    .kanji-header-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      flex-shrink: 0;
+      margin-bottom: 2px;
+    }
+
+    .back-btn {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #ffffff;
+      border: 1px solid #e0e0e0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      cursor: pointer;
+      color: #111111;
+      font-weight: 700;
+    }
+
+    .kanji-header-title {
+      font-size: 16px;
+      font-weight: 800;
+      color: #111111;
+    }
+
+    .quiz-trigger-btn {
+      padding: 6px 12px;
+      background: #cbfb27;
+      border: 1px solid #b7e81b;
+      border-radius: 20px;
+      font-size: 11.5px;
+      font-weight: 800;
+      color: #111111;
+      cursor: pointer;
+      box-shadow: 0 2px 5px rgba(203, 251, 39, 0.3);
+    }
+
+    .search-box-row {
+      width: 100%;
+      flex-shrink: 0;
+    }
+
+    .kanji-search-input {
+      width: 100%;
+      height: 34px;
+      background: #ffffff;
+      border: 1px solid #dcdde2;
+      border-radius: 10px;
+      padding: 0 12px;
+      font-size: 12px;
+      outline: none;
+    }
+
+    .kanji-search-input:focus {
+      border-color: #4e3dda;
+    }
+
+    /* Category Filter Pills (Scrollable) */
+    .kanji-cat-row {
+      display: flex;
+      gap: 6px;
+      overflow-x: auto;
+      width: 100%;
+      padding-bottom: 4px;
+      flex-shrink: 0;
+      scrollbar-width: none;
+    }
+    .kanji-cat-row::-webkit-scrollbar {
+      display: none;
+    }
+
+    .cat-pill {
+      white-space: nowrap;
+      padding: 4px 10px;
+      border-radius: 14px;
+      border: 1px solid #e0e2e6;
+      background: #ffffff;
+      font-size: 10.5px;
+      font-weight: 700;
+      color: #555555;
+      cursor: pointer;
+    }
+
+    .cat-pill.active {
+      background: #111111;
+      color: #ffffff;
+      border-color: #111111;
+    }
+
+    /* Icon-wise Kanji Grid Layer */
+    .kanji-grid-container {
+      flex: 1 1 auto;
+      overflow-y: auto;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      align-content: start;
+      padding-right: 2px;
+      scrollbar-width: thin;
+    }
+
+    .kanji-tile {
+      background: #ffffff;
+      border: 1px solid #e8e9ed;
+      border-radius: 14px;
+      padding: 8px 6px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+      transition: transform 0.15s, border-color 0.15s;
+    }
+
+    .kanji-tile:active {
+      transform: scale(0.95);
+      border-color: #4e3dda;
+    }
+
+    .kanji-char-icon {
+      font-size: 32px;
+      font-weight: 800;
+      color: #111111;
+      line-height: 1.1;
+      margin-bottom: 2px;
+    }
+
+    .kanji-sub-romaji {
+      font-size: 9.5px;
+      color: #4e3dda;
+      font-weight: 700;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 90px;
+    }
+
+    .kanji-sub-meaning {
+      font-size: 9.5px;
+      color: #666666;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 90px;
+    }
+
+    /* =========================================================
+       4. KANJI QUIZ SCREEN
+       ========================================================= */
+    #kanjiQuizScreen {
+      background-color: #fbfbf9;
+      padding: 16px 20px 20px;
+      justify-content: space-between;
+    }
+
+    .quiz-top-bar {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .quiz-score-badge {
+      padding: 4px 10px;
+      border-radius: 12px;
+      background: #cbfb27;
+      color: #111111;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .quiz-card-box {
+      width: 100%;
+      background: #ffffff;
+      border: 1px solid #e2e4e9;
+      border-radius: 20px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+    }
+
+    .quiz-char-display {
+      font-size: 64px;
+      font-weight: 900;
+      color: #111111;
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+
+    .quiz-question-lbl {
+      font-size: 13px;
+      color: #555555;
+      font-weight: 600;
+    }
+
+    .quiz-options-container {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .quiz-opt-btn {
+      width: 100%;
+      height: 40px;
+      background: #faf8f2;
+      border: 1px solid #222222;
+      border-radius: 10px;
+      font-size: 12.5px;
+      font-weight: 700;
+      color: #111111;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+      padding: 0 10px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .quiz-opt-btn.correct {
+      background: #cbfb27 !important;
+      border-color: #a4ce12 !important;
+      color: #000000 !important;
+    }
+
+    .quiz-opt-btn.incorrect {
+      background: #ffe5e8 !important;
+      border-color: #d13b53 !important;
+      color: #d13b53 !important;
+    }
+
+    .quiz-feedback-text {
+      font-size: 12px;
+      font-weight: 700;
+      min-height: 18px;
+      text-align: center;
+    }
+
+    /* Modal for Kanji Detail */
     .app-modal {
       display: none;
       position: absolute;
@@ -559,37 +810,81 @@
       background: #ffffff;
       border: 1px solid #e2e4e9;
       border-radius: 20px;
-      padding: 20px;
+      padding: 18px 20px;
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 10px;
       color: #111111;
-      text-align: center;
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+      text-align: left;
     }
 
-    .modal-box h3 {
-      font-size: 16px;
-      color: #4e3dda;
+    .modal-header-kanji {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      border-bottom: 1px solid #eeeeee;
+      padding-bottom: 10px;
+    }
+
+    .modal-char-badge {
+      width: 54px;
+      height: 54px;
+      border-radius: 12px;
+      background: #faf8f2;
+      border: 1px solid #333333;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 34px;
+      font-weight: 900;
+    }
+
+    .modal-char-meta {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .modal-cat-tag {
+      font-size: 10px;
+      color: #666666;
+      font-weight: 600;
+    }
+
+    .modal-romaji-txt {
+      font-size: 13px;
       font-weight: 800;
+      color: #4e3dda;
     }
 
-    .modal-box p {
-      font-size: 12px;
-      color: #555555;
-      line-height: 1.4;
+    .modal-detail-row {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      font-size: 11px;
+    }
+
+    .modal-lbl {
+      font-weight: 700;
+      color: #222222;
+      font-size: 10.5px;
+    }
+
+    .modal-val {
+      color: #444444;
+      line-height: 1.3;
     }
 
     .modal-close-btn {
       height: 34px;
       background: #cbfb27;
       color: #111111;
-      border: none;
+      border: 1px solid #b7e81b;
       border-radius: 10px;
-      font-weight: 700;
+      font-weight: 800;
       font-size: 12px;
       cursor: pointer;
-      margin-top: 6px;
+      margin-top: 4px;
     }
   </style>
 </head>
@@ -598,23 +893,19 @@
   <div class="app-viewport">
     
     <!-- ==============================================
-         1. LOGIN SCREEN (100% ENGLISH)
+         1. LOGIN SCREEN
          ============================================== -->
     <div id="loginScreen" class="screen active">
-      
-      <!-- Top Hero Animation -->
       <div class="hero-section">
         <img src="assets/First Page/Two Ladies.gif" alt="Ladies Graphic" class="hero-graphic" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'200\' height=\'160\' viewBox=\'0 0 200 160\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'70\'>🎎</text></svg>'">
       </div>
 
-      <!-- Compact Clock & Date -->
       <div class="info-section">
         <div class="greeting-text">Hello, Ladies!</div>
         <div id="liveClock" class="live-clock">10:30</div>
         <div id="liveDate" class="live-date">Friday, 10 August 2026</div>
       </div>
 
-      <!-- Compact Form -->
       <div class="form-container">
         <div class="input-group">
           <label class="input-label">User Name</label>
@@ -631,11 +922,10 @@
         <button type="button" class="btn-main" onclick="handleLogin()">Login</button>
         <div class="switch-link" onclick="showScreen('signupScreen')">Don't have an account? <b>Sign Up</b></div>
       </div>
-
     </div>
 
     <!-- ==============================================
-         2. SIGN UP SCREEN (100% ENGLISH)
+         2. SIGN UP SCREEN
          ============================================== -->
     <div id="signupScreen" class="screen">
       <div class="hero-section" style="max-height: 140px;">
@@ -671,27 +961,19 @@
     </div>
 
     <!-- ==============================================
-         3. HOME SCREEN / DASHBOARD (100% ENGLISH)
+         3. HOME DASHBOARD SCREEN
          ============================================== -->
     <div id="dashboardScreen" class="screen">
-      
-      <!-- Top Leaves + Buddha + Profile Icon -->
       <div class="dash-top-bar">
-        <!-- Maple Leave PNG -->
         <img src="assets/Home Images/Maple Leave.png" alt="Maple Leaves" class="leaves-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'60\' height=\'60\' viewBox=\'0 0 60 60\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'30\'>🍁</text></svg>'">
-
-        <!-- Buddha Statue PNG -->
         <div class="buddha-container">
           <img src="assets/Home Images/Budda statue.png" alt="Buddha Statue" class="buddha-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'44\' height=\'44\' viewBox=\'0 0 44 44\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'30\'>🧘‍♂️</text></svg>'">
         </div>
-
-        <!-- Profile / Logout Avatar -->
         <div class="profile-pill" onclick="handleLogout()" title="Click to Logout">
           <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><circle cx='20' cy='20' r='20' fill='%23555'/><text x='50%' y='60%' dominant-baseline='middle' text-anchor='middle' font-size='20' fill='white'>👤</text></svg>" alt="User">
         </div>
       </div>
 
-      <!-- Filter Buttons Row -->
       <div class="filter-pills-row">
         <button class="pill-btn active" onclick="setFilter(this)">All</button>
         <button class="pill-btn" onclick="setFilter(this)">Days</button>
@@ -700,8 +982,7 @@
         <div class="pill-grid-btn">⊞</div>
       </div>
 
-      <!-- Dashboard Progress Card -->
-      <div class="progress-card" onclick="openModule('Dashboard Progress', 'Total JLPT N3 practice syllabus: 100% completed.')">
+      <div class="progress-card" onclick="alert('Total JLPT N3 practice syllabus: 100% completed.')">
         <div class="progress-header">
           <span class="progress-title">Dashboard Progress</span>
           <div class="badge-arrow-lime">▲</div>
@@ -709,10 +990,9 @@
         <div class="progress-val">100%</div>
       </div>
 
-      <!-- 6 Modules Grid with exact PNG icons -->
       <div class="modules-grid">
-        <!-- 1. Kanji -->
-        <div class="mod-card" onclick="openModule('Kanji N3', '370 Kanji Characters, Onyomi/Kunyomi readings, and stroke order.')">
+        <!-- 1. KANJI (Directly navigates to Kanji Section) -->
+        <div class="mod-card" onclick="openKanjiSection()">
           <div class="mod-top-row">
             <span class="mod-label">Kanji</span>
             <div class="mod-badge-arrow">▲</div>
@@ -723,7 +1003,7 @@
         </div>
 
         <!-- 2. Vocabulary -->
-        <div class="mod-card" onclick="openModule('Vocabulary N3', '1,800 JLPT N3 Essential Vocabulary, definitions, and sentence examples.')">
+        <div class="mod-card" onclick="alert('Vocabulary section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Vocabulary</span>
             <div class="mod-badge-arrow">▲</div>
@@ -734,7 +1014,7 @@
         </div>
 
         <!-- 3. Listening -->
-        <div class="mod-card" onclick="openModule('Listening N3', 'Listening comprehension, audio conversations, and prompt response.')">
+        <div class="mod-card" onclick="alert('Listening section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Listening</span>
             <div class="mod-badge-arrow">▲</div>
@@ -745,7 +1025,7 @@
         </div>
 
         <!-- 4. Reading -->
-        <div class="mod-card" onclick="openModule('Reading N3', 'Short, medium, and long reading passages with detailed analysis.')">
+        <div class="mod-card" onclick="alert('Reading section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Reading</span>
             <div class="mod-badge-arrow">▲</div>
@@ -756,7 +1036,7 @@
         </div>
 
         <!-- 5. Grammar -->
-        <div class="mod-card" onclick="openModule('Grammar N3', '130 Fundamental Grammar Patterns and practical sentence formation.')">
+        <div class="mod-card" onclick="alert('Grammar section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Grammar</span>
             <div class="mod-badge-arrow">▲</div>
@@ -767,7 +1047,7 @@
         </div>
 
         <!-- 6. Quiz -->
-        <div class="mod-card" onclick="openModule('Quiz & Mock Tests', 'Timed examination simulation with automated scores and answer review.')">
+        <div class="mod-card" onclick="openKanjiQuizScreen()">
           <div class="mod-top-row">
             <span class="mod-label">Quiz</span>
             <div class="mod-badge-arrow">▲</div>
@@ -778,35 +1058,127 @@
         </div>
       </div>
 
-      <!-- Bookmark & Mistakes Review Banner with PNG -->
-      <div class="review-banner" onclick="openModule('Bookmark & Mistakes Review', 'Review bookmarked items and practice repeated error questions.')">
+      <div class="review-banner" onclick="alert('Bookmark & Mistakes Review section!')">
         <img src="assets/Home Images/Bookmark & Mistake Review.png" alt="Bookmark" class="review-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'24\' height=\'24\' viewBox=\'0 0 24 24\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'16\'>📅</text></svg>'">
         <span class="review-text">Bookmark & Mistakes Review</span>
       </div>
 
-      <!-- Today Task Footer with PNG -->
       <div class="today-task-row">
         <span class="today-task-label">Today Task</span>
-        <button class="today-task-circle-btn" onclick="openModule('Today Task', 'Today Goal: 15 Vocabulary words, 5 Kanji cards, and 1 Reading exercise.')">
+        <button class="today-task-circle-btn" onclick="openKanjiSection()">
           <img src="assets/Home Images/Today Task.png" alt="Arrow" class="today-task-btn-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'16\' height=\'16\' viewBox=\'0 0 16 16\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'12\'>❯</text></svg>'">
         </button>
       </div>
-
     </div>
 
-    <!-- Data Details Modal -->
-    <div id="dataModal" class="app-modal">
+    <!-- ==============================================
+         4. KANJI GRID SCREEN
+         ============================================== -->
+    <div id="kanjiScreen" class="screen">
+      <div class="kanji-header-bar">
+        <button class="back-btn" onclick="showScreen('dashboardScreen')">←</button>
+        <span class="kanji-header-title">Kanji Study</span>
+        <button class="quiz-trigger-btn" onclick="openKanjiQuizScreen()">Quiz ⚔️</button>
+      </div>
+
+      <!-- Search Bar -->
+      <div class="search-box-row">
+        <input type="text" id="kanjiSearchInput" class="kanji-search-input" placeholder="Search Kanji, Romaji or Meaning..." oninput="filterKanjiList()">
+      </div>
+
+      <!-- Category Filter Pills -->
+      <div class="kanji-cat-row">
+        <button class="cat-pill active" onclick="selectKanjiCategory('all', this)">All</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('actions_kanji.json', this)">Actions</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('nature_kanji.json', this)">Nature</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('daily_life_kanji.json', this)">Daily Life</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('business_kanji_database.json', this)">Business</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('transport_kanji_database.json', this)">Transport</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('emotions_kanji.json', this)">Emotions</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('health_kanji.json', this)">Health</button>
+        <button class="cat-pill" onclick="selectKanjiCategory('society_kanji.json', this)">Society</button>
+      </div>
+
+      <!-- Icon-wise Grid Container -->
+      <div id="kanjiGrid" class="kanji-grid-container">
+        <!-- Dynamically injected Kanji Tiles -->
+      </div>
+    </div>
+
+    <!-- ==============================================
+         5. KANJI QUIZ SCREEN
+         ============================================== -->
+    <div id="kanjiQuizScreen" class="screen">
+      <div class="quiz-top-bar">
+        <button class="back-btn" onclick="showScreen('kanjiScreen')">←</button>
+        <span class="kanji-header-title">Kanji Quiz</span>
+        <div id="quizScoreBadge" class="quiz-score-badge">Score: 0</div>
+      </div>
+
+      <!-- Question Box -->
+      <div class="quiz-card-box">
+        <div id="quizKanjiDisplay" class="quiz-char-display">行</div>
+        <div class="quiz-question-lbl">What is the correct meaning?</div>
+      </div>
+
+      <!-- Feedback -->
+      <div id="quizFeedback" class="quiz-feedback-text"></div>
+
+      <!-- 4 Options -->
+      <div id="quizOptionsContainer" class="quiz-options-container">
+        <!-- Option buttons dynamically generated -->
+      </div>
+
+      <!-- Next Button -->
+      <button id="quizNextBtn" class="btn-main" style="display:none;" onclick="loadNextQuizQuestion()">Next Question ❯</button>
+    </div>
+
+    <!-- ==============================================
+         6. KANJI DETAILS MODAL
+         ============================================== -->
+    <div id="kanjiDetailModal" class="app-modal">
       <div class="modal-box">
-        <h3 id="modalTitle">Module Details</h3>
-        <p id="modalDesc">Detailed data will appear here.</p>
-        <button class="modal-close-btn" onclick="closeModal()">Close</button>
+        <div class="modal-header-kanji">
+          <div id="modalKanjiChar" class="modal-char-badge">行</div>
+          <div class="modal-char-meta">
+            <span id="modalKanjiCat" class="modal-cat-tag">Actions</span>
+            <span id="modalKanjiRomaji" class="modal-romaji-txt">iku / kou</span>
+          </div>
+        </div>
+
+        <div class="modal-detail-row">
+          <span class="modal-lbl">Onyomi:</span>
+          <span id="modalKanjiOnyomi" class="modal-val">コウ / ギョウ</span>
+        </div>
+
+        <div class="modal-detail-row">
+          <span class="modal-lbl">Kunyomi:</span>
+          <span id="modalKanjiKunyomi" class="modal-val">い.く, おこな.う</span>
+        </div>
+
+        <div class="modal-detail-row">
+          <span class="modal-lbl">Meaning:</span>
+          <span id="modalKanjiMeaning" class="modal-val">යනවා / ක්‍රියාත්මක කරනවා / To Go / To Do</span>
+        </div>
+
+        <div class="modal-detail-row">
+          <span class="modal-lbl">Breakup:</span>
+          <span id="modalKanjiBreakup" class="modal-val">Pictograph of crossroads.</span>
+        </div>
+
+        <div class="modal-detail-row">
+          <span class="modal-lbl">Memory Story:</span>
+          <span id="modalKanjiStory" class="modal-val">පාරේ ඉදිරියට යනවා (行).</span>
+        </div>
+
+        <button class="modal-close-btn" onclick="closeKanjiModal()">Close</button>
       </div>
     </div>
 
   </div>
 
   <script>
-    // 1. Password Hashing (SHA-256)
+    // --- 1. SHA-256 HASHING ---
     async function sha256(message) {
       const msgBuffer = new TextEncoder().encode(message);
       const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
@@ -814,20 +1186,17 @@
       return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
     }
 
-    // 2. Default System Users & Ensure Admin Always Exists
+    // --- 2. USER AUTHENTICATION & ADMIN SETUP ---
     async function initializeUsers() {
       const adminHash = await sha256('9101001');
       let users = JSON.parse(localStorage.getItem('n3_users') || '{}');
-      
-      // Always pre-save and ensure Admin credentials exist
       users['Admin'] = { passwordHash: adminHash, role: 'admin' };
       if (!users['Sudunona']) users['Sudunona'] = null;
       if (!users['Nadeesha']) users['Nadeesha'] = null;
-      
       localStorage.setItem('n3_users', JSON.stringify(users));
     }
 
-    // 3. Live Clock and Date Update
+    // --- 3. LIVE CLOCK ---
     function updateClock() {
       const now = new Date();
       const hours = String(now.getHours()).padStart(2, '0');
@@ -840,7 +1209,7 @@
     setInterval(updateClock, 1000);
     updateClock();
 
-    // 4. View Navigation
+    // --- 4. VIEW CONTROLLER ---
     function showScreen(screenId) {
       document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
       document.getElementById(screenId).classList.add('active');
@@ -848,7 +1217,6 @@
       document.getElementById('signupError').textContent = '';
     }
 
-    // 5. Persistent Session Check
     function checkExistingSession() {
       const current = localStorage.getItem('n3_logged_user');
       if (current) {
@@ -858,7 +1226,6 @@
       }
     }
 
-    // 6. Login Functionality (Guaranteed Admin Login)
     async function handleLogin() {
       const usernameInput = document.getElementById('loginUsername').value.trim();
       const passwordInput = document.getElementById('loginPassword').value.trim();
@@ -869,7 +1236,6 @@
         return;
       }
 
-      // Hardcoded Direct Fallback Verification for Admin
       if (usernameInput.toLowerCase() === 'admin' && passwordInput === '9101001') {
         localStorage.setItem('n3_logged_user', 'Admin');
         document.getElementById('loginPassword').value = '';
@@ -886,7 +1252,6 @@
       }
 
       const inputHash = await sha256(passwordInput);
-
       if (inputHash === user.passwordHash) {
         localStorage.setItem('n3_logged_user', usernameInput);
         document.getElementById('loginPassword').value = '';
@@ -896,7 +1261,6 @@
       }
     }
 
-    // 7. Sign Up Functionality
     async function handleSignUp() {
       const username = document.getElementById('regUsername').value.trim();
       const password = document.getElementById('regPassword').value.trim();
@@ -907,19 +1271,16 @@
         errBox.textContent = 'Please fill in all details.';
         return;
       }
-
       if (password !== confirmPassword) {
         errBox.textContent = 'Passwords do not match!';
         return;
       }
-
       if (password.length < 4) {
         errBox.textContent = 'Password must be at least 4 characters.';
         return;
       }
 
       const users = JSON.parse(localStorage.getItem('n3_users') || '{}');
-
       if (users[username] && users[username].passwordHash) {
         errBox.textContent = 'Username is already taken.';
         return;
@@ -933,7 +1294,6 @@
       showScreen('dashboardScreen');
     }
 
-    // 8. Logout Functionality
     function handleLogout() {
       if (confirm('Are you sure you want to log out?')) {
         localStorage.removeItem('n3_logged_user');
@@ -941,24 +1301,212 @@
       }
     }
 
-    // 9. Dashboard Filter Selector
     function setFilter(elem) {
       document.querySelectorAll('.pill-btn').forEach(b => b.classList.remove('active'));
       elem.classList.add('active');
     }
 
-    // 10. Module Data Connector
-    function openModule(title, description) {
-      document.getElementById('modalTitle').textContent = title;
-      document.getElementById('modalDesc').textContent = description;
-      document.getElementById('dataModal').classList.add('active');
+    // =========================================================
+    // 5. KANJI DATA CONNECTOR & GRID MANAGEMENT
+    // =========================================================
+    // Fallback embedded dataset from data/Kanji
+    const EMBEDDED_KANJI_DATASET = [
+      { character: "行", category: "Actions", romaji: "iku / kou", onyomi: "コウ / ギョウ", kunyomi: "い.く, おこな.う", meaning: "යනවා / ක්‍රියාත්මක කරනවා / To Go", breakup: "Pictograph of crossroads.", story: "පාරේ ඉදිරියට යනවා (行)." },
+      { character: "来", category: "Actions", romaji: "kuru / rai", onyomi: "ライ", kunyomi: "く.る, きた.る", meaning: "එනවා / To Come / Next", breakup: "Grain plant drawing.", story: "අනාගතය ඉදිරියට එනවා (来)." },
+      { character: "食", category: "Actions", romaji: "taberu / shoku", onyomi: "ショク", kunyomi: "た.べる", meaning: "කනවා / ආහාර / Eat / Food", breakup: "Food bowl under roof.", story: "ආහාර වේලක් කනවා (食)." },
+      { character: "見", category: "Actions", romaji: "miru / ken", onyomi: "ケン", kunyomi: "み.る", meaning: "බලනවා / To See / Look", breakup: "Eye on legs.", story: "ඇස් දෙකෙන් බලනවා (見)." },
+      { character: "山", category: "Nature", romaji: "yama / san", onyomi: "サン", kunyomi: "やま", meaning: "කන්ද / Mountain", breakup: "Three mountain peaks.", story: "අහස උසට පෙනෙන කන්ද (山)." },
+      { character: "川", category: "Nature", romaji: "kawa / sen", onyomi: "セン", kunyomi: "かわ", meaning: "ගඟ / River", breakup: "Curving water streams.", story: "ගලාගෙන යන ගඟ (川)." },
+      { character: "雨", category: "Nature", romaji: "ame / u", onyomi: "ウ", kunyomi: "あめ", meaning: "වැස්ස / Rain", breakup: "Drops falling from sky.", story: "අහසින් වැටෙන වැස්ස (雨)." },
+      { character: "海", category: "Nature", romaji: "umi / kai", onyomi: "カイ", kunyomi: "うみ", meaning: "මුහුද / Sea / Ocean", breakup: "Water + Mother.", story: "සියලු ජීවයේ මව මුහුද (海)." },
+      { character: "家", category: "Daily Life", romaji: "ie / ka", onyomi: "カ / ケ", kunyomi: "いえ, や", meaning: "ගෙදර / House / Family", breakup: "Roof + Pig.", story: "පවුලක් ජීවත්වන ගෙදර (家)." },
+      { character: "族", category: "Daily Life", romaji: "zoku", onyomi: "ゾク", kunyomi: "", meaning: "පවුල / ගෝත්‍රය / Tribe / Family", breakup: "Banner + Arrows.", story: "එකට බැඳුණු පවුල (族)." },
+      { character: "友", category: "Daily Life", romaji: "tomo / yuu", onyomi: "ユウ", kunyomi: "とも", meaning: "මිතුරා / Friend", breakup: "Two hands overlapping.", story: "අත් අල්ලාගත් මිතුරා (友)." },
+      { character: "会", category: "Business", romaji: "kai / au", onyomi: "カイ", kunyomi: "あ.う", meaning: "හමුවෙනවා / Meeting / Company", breakup: "People gathering.", story: "සමාගමේ රැස්වීමක් (会)." },
+      { character: "社", category: "Business", romaji: "sha", onyomi: "シャ", kunyomi: "やしろ", meaning: "සමාගම / Company / Society", breakup: "Altar + Soil.", story: "මිනිසුන් සේවය කරන සමාගම (社)." },
+      { character: "車", category: "Transport", romaji: "kuruma / sha", onyomi: "シャ", kunyomi: "くるま", meaning: "වාහනය / Car / Vehicle", breakup: "Wheel with axle.", story: "රෝද සහිත වාහනය (車)." },
+      { character: "駅", category: "Transport", romaji: "eki", onyomi: "エキ", kunyomi: "", meaning: "දුම්රිය ස්ථානය / Station", breakup: "Horse + Exchange.", story: "මගීන් නගින දුම්රිය ස්ථානය (駅)." },
+      { character: "心", category: "Emotions", romaji: "kokoro / shin", onyomi: "シン", kunyomi: "こころ", meaning: "හදවත / සිත / Heart / Mind", breakup: "Beating human heart.", story: "හැඟීම් පිරුණු හදවත (心)." },
+      { character: "思", category: "Emotions", romaji: "omou / shi", onyomi: "シ", kunyomi: "おも.う", meaning: "හිතනවා / To Think / Feel", breakup: "Field/Brain + Heart.", story: "සිතින් මෙනෙහි කර සිතනවා (思)." },
+      { character: "病", category: "Health", romaji: "byou / yamai", onyomi: "ビョウ", kunyomi: "やまい", meaning: "ලෙඩ / රෝග / Illness / Sick", breakup: "Bed/Sickness + Fire.", story: "සුව නොවන රෝගය (病)." },
+      { character: "院", category: "Health", romaji: "in", onyomi: "イン", kunyomi: "", meaning: "ආයතනය / රෝහල / Institution", breakup: "Building with walls.", story: "රෝගීන් සුවපත් කරන රෝහල (院)." }
+    ];
+
+    let currentKanjiList = [...EMBEDDED_KANJI_DATASET];
+    let activeCategory = 'all';
+
+    function openKanjiSection() {
+      showScreen('kanjiScreen');
+      selectKanjiCategory('all', document.querySelector('.cat-pill'));
     }
 
-    function closeModal() {
-      document.getElementById('dataModal').classList.remove('active');
+    async function selectKanjiCategory(filename, elem) {
+      document.querySelectorAll('.cat-pill').forEach(p => p.classList.remove('active'));
+      if (elem) elem.classList.add('active');
+      activeCategory = filename;
+
+      if (filename === 'all') {
+        currentKanjiList = [...EMBEDDED_KANJI_DATASET];
+        renderKanjiGrid(currentKanjiList);
+        return;
+      }
+
+      // Try fetching from data/Kanji/ folder
+      try {
+        const response = await fetch('data/Kanji/' + filename);
+        if (response.ok) {
+          const json = await response.json();
+          const items = Array.isArray(json) ? json : (json.kanjiList || []);
+          currentKanjiList = items.map(itm => ({
+            character: itm.character || '',
+            category: itm.category || filename.replace('.json', ''),
+            romaji: itm.romaji || '',
+            onyomi: itm.onyomi || '',
+            kunyomi: itm.kunyomi || '',
+            meaning: itm.meaningSinhala || itm.meaning || '',
+            breakup: itm.kanjiBreakup || '',
+            story: itm.story || itm.memoryStory || ''
+          }));
+        } else {
+          fallbackCategoryFilter(filename);
+        }
+      } catch (err) {
+        fallbackCategoryFilter(filename);
+      }
+
+      renderKanjiGrid(currentKanjiList);
     }
 
-    // Initialize System on load
+    function fallbackCategoryFilter(filename) {
+      const catKey = filename.replace('_kanji.json', '').replace('_kanji_database.json', '').toLowerCase();
+      currentKanjiList = EMBEDDED_KANJI_DATASET.filter(k => k.category.toLowerCase().includes(catKey));
+      if (currentKanjiList.length === 0) currentKanjiList = [...EMBEDDED_KANJI_DATASET];
+    }
+
+    function renderKanjiGrid(list) {
+      const grid = document.getElementById('kanjiGrid');
+      grid.innerHTML = '';
+
+      if (list.length === 0) {
+        grid.innerHTML = '<div style="grid-column: 1/-1; text-align:center; padding:30px; font-size:12px; color:#888;">No Kanji found.</div>';
+        return;
+      }
+
+      list.forEach(k => {
+        const tile = document.createElement('div');
+        tile.className = 'kanji-tile';
+        tile.onclick = () => openKanjiModal(k);
+        tile.innerHTML = `
+          <div class="kanji-char-icon">${k.character}</div>
+          <div class="kanji-sub-romaji">${k.romaji || k.onyomi}</div>
+          <div class="kanji-sub-meaning">${k.meaning.split('/')[0]}</div>
+        `;
+        grid.appendChild(tile);
+      });
+    }
+
+    function filterKanjiList() {
+      const query = document.getElementById('kanjiSearchInput').value.toLowerCase().trim();
+      if (!query) {
+        renderKanjiGrid(currentKanjiList);
+        return;
+      }
+
+      const filtered = currentKanjiList.filter(k => 
+        k.character.toLowerCase().includes(query) ||
+        k.romaji.toLowerCase().includes(query) ||
+        k.meaning.toLowerCase().includes(query) ||
+        k.onyomi.toLowerCase().includes(query) ||
+        k.kunyomi.toLowerCase().includes(query)
+      );
+      renderKanjiGrid(filtered);
+    }
+
+    // Modal Details Logic
+    function openKanjiModal(kanji) {
+      document.getElementById('modalKanjiChar').textContent = kanji.character;
+      document.getElementById('modalKanjiCat').textContent = kanji.category;
+      document.getElementById('modalKanjiRomaji').textContent = kanji.romaji || '-';
+      document.getElementById('modalKanjiOnyomi').textContent = kanji.onyomi || '-';
+      document.getElementById('modalKanjiKunyomi').textContent = kanji.kunyomi || '-';
+      document.getElementById('modalKanjiMeaning').textContent = kanji.meaning || '-';
+      document.getElementById('modalKanjiBreakup').textContent = kanji.breakup || '-';
+      document.getElementById('modalKanjiStory').textContent = kanji.story || '-';
+      document.getElementById('kanjiDetailModal').classList.add('active');
+    }
+
+    function closeKanjiModal() {
+      document.getElementById('kanjiDetailModal').classList.remove('active');
+    }
+
+    // =========================================================
+    // 6. KANJI QUIZ LOGIC
+    // =========================================================
+    let quizScore = 0;
+    let quizCurrentQuestion = null;
+
+    function openKanjiQuizScreen() {
+      quizScore = 0;
+      document.getElementById('quizScoreBadge').textContent = 'Score: 0';
+      showScreen('kanjiQuizScreen');
+      loadNextQuizQuestion();
+    }
+
+    function loadNextQuizQuestion() {
+      document.getElementById('quizNextBtn').style.display = 'none';
+      document.getElementById('quizFeedback').textContent = '';
+
+      const pool = currentKanjiList.length >= 4 ? currentKanjiList : EMBEDDED_KANJI_DATASET;
+      const targetIndex = Math.floor(Math.random() * pool.length);
+      quizCurrentQuestion = pool[targetIndex];
+
+      document.getElementById('quizKanjiDisplay').textContent = quizCurrentQuestion.character;
+
+      // Select 3 random distractors
+      const distractors = pool.filter(k => k.character !== quizCurrentQuestion.character);
+      distractors.sort(() => 0.5 - Math.random());
+      const selectedDistractors = distractors.slice(0, 3);
+
+      const options = [quizCurrentQuestion, ...selectedDistractors];
+      options.sort(() => 0.5 - Math.random());
+
+      const container = document.getElementById('quizOptionsContainer');
+      container.innerHTML = '';
+
+      options.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.className = 'quiz-opt-btn';
+        btn.textContent = opt.meaning.split('/')[0];
+        btn.onclick = () => checkQuizAnswer(btn, opt.character === quizCurrentQuestion.character);
+        container.appendChild(btn);
+      });
+    }
+
+    function checkQuizAnswer(selectedBtn, isCorrect) {
+      const allBtns = document.querySelectorAll('.quiz-opt-btn');
+      allBtns.forEach(btn => btn.disabled = true);
+
+      if (isCorrect) {
+        selectedBtn.classList.add('correct');
+        quizScore += 10;
+        document.getElementById('quizFeedback').style.color = '#388e3c';
+        document.getElementById('quizFeedback').textContent = 'Correct Answer! 🎉 (+10 pts)';
+      } else {
+        selectedBtn.classList.add('incorrect');
+        allBtns.forEach(btn => {
+          if (btn.textContent === quizCurrentQuestion.meaning.split('/')[0]) {
+            btn.classList.add('correct');
+          }
+        });
+        document.getElementById('quizFeedback').style.color = '#d13b53';
+        document.getElementById('quizFeedback').textContent = 'Incorrect! Correct answer highlighted in green.';
+      }
+
+      document.getElementById('quizScoreBadge').textContent = `Score: ${quizScore}`;
+      document.getElementById('quizNextBtn').style.display = 'block';
+    }
+
+    // Initialize System
     (async function init() {
       await initializeUsers();
       checkExistingSession();
