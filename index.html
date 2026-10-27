@@ -17,7 +17,7 @@
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background-color: #f2f3f7;
+      background-color: #f0f2f5;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -63,7 +63,7 @@
     #loginScreen, #signupScreen {
       background-color: #ffffff;
       justify-content: space-between;
-      padding: 16px 24px 20px;
+      padding: 14px 22px 16px;
     }
 
     .hero-section {
@@ -526,7 +526,7 @@
     }
 
     /* =========================================================
-       3. KANJI GRID SCREEN
+       4. KANJI GRID SCREEN
        ========================================================= */
     #kanjiScreen {
       background-color: #fbfbf9;
@@ -597,7 +597,6 @@
       border-color: #4e3dda;
     }
 
-    /* Category Filter Pills (Scrollable) */
     .kanji-cat-row {
       display: flex;
       gap: 6px;
@@ -629,7 +628,6 @@
       border-color: #111111;
     }
 
-    /* Icon-wise Kanji Grid Layer */
     .kanji-grid-container {
       flex: 1 1 auto;
       overflow-y: auto;
@@ -689,7 +687,7 @@
     }
 
     /* =========================================================
-       4. KANJI QUIZ SCREEN
+       5. KANJI QUIZ SCREEN (JAPANESE ONLY + FURIGANA)
        ========================================================= */
     #kanjiQuizScreen {
       background-color: #fbfbf9;
@@ -702,6 +700,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin-bottom: 10px;
     }
 
     .quiz-score-badge {
@@ -725,12 +724,20 @@
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
     }
 
-    .quiz-char-display {
-      font-size: 64px;
-      font-weight: 900;
-      color: #111111;
-      line-height: 1;
-      margin-bottom: 8px;
+    /* Container for Kanji Stroke Animation */
+    .quiz-stroke-container {
+      width: 90px;
+      height: 90px;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .quiz-stroke-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
 
     .quiz-question-lbl {
@@ -748,11 +755,11 @@
 
     .quiz-opt-btn {
       width: 100%;
-      height: 40px;
+      height: 44px;
       background: #faf8f2;
       border: 1px solid #222222;
       border-radius: 10px;
-      font-size: 12.5px;
+      font-size: 14px;
       font-weight: 700;
       color: #111111;
       cursor: pointer;
@@ -783,7 +790,7 @@
       text-align: center;
     }
 
-    /* Modal for Kanji Detail */
+    /* Modal for Kanji Detail (With Stroke Animation) */
     .app-modal {
       display: none;
       position: absolute;
@@ -828,16 +835,22 @@
     }
 
     .modal-char-badge {
-      width: 54px;
-      height: 54px;
+      width: 60px;
+      height: 60px;
       border-radius: 12px;
       background: #faf8f2;
       border: 1px solid #333333;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 34px;
-      font-weight: 900;
+      overflow: hidden;
+      padding: 2px;
+    }
+    
+    .modal-char-badge img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
 
     .modal-char-meta {
@@ -892,77 +905,60 @@
 
   <div class="app-viewport">
     
-    <!-- ==============================================
-         1. LOGIN SCREEN
-         ============================================== -->
+    <!-- 1. LOGIN SCREEN -->
     <div id="loginScreen" class="screen active">
       <div class="hero-section">
         <img src="assets/First Page/Two Ladies.gif" alt="Ladies Graphic" class="hero-graphic" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'200\' height=\'160\' viewBox=\'0 0 200 160\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'70\'>🎎</text></svg>'">
       </div>
-
       <div class="info-section">
         <div class="greeting-text">Hello, Ladies!</div>
         <div id="liveClock" class="live-clock">10:30</div>
         <div id="liveDate" class="live-date">Friday, 10 August 2026</div>
       </div>
-
       <div class="form-container">
         <div class="input-group">
           <label class="input-label">User Name</label>
           <input type="text" id="loginUsername" class="input-field" placeholder="Enter username" autocomplete="username">
         </div>
-
         <div class="input-group">
           <label class="input-label">Password</label>
           <input type="password" id="loginPassword" class="input-field" placeholder="••••••••" autocomplete="current-password">
         </div>
-
         <div id="loginError" class="error-msg"></div>
-
         <button type="button" class="btn-main" onclick="handleLogin()">Login</button>
         <div class="switch-link" onclick="showScreen('signupScreen')">Don't have an account? <b>Sign Up</b></div>
       </div>
     </div>
 
-    <!-- ==============================================
-         2. SIGN UP SCREEN
-         ============================================== -->
+    <!-- 2. SIGN UP SCREEN -->
     <div id="signupScreen" class="screen">
       <div class="hero-section" style="max-height: 140px;">
         <img src="assets/First Page/Two Ladies.gif" alt="Ladies Graphic" class="hero-graphic" style="max-height: 130px;" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'120\' height=\'90\' viewBox=\'0 0 120 90\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'45\'>🎎</text></svg>'">
       </div>
-
       <div class="info-section">
         <div class="greeting-text">Create Account</div>
         <p style="font-size: 11.5px; color: #666;">Register as a new student</p>
       </div>
-
       <div class="form-container">
         <div class="input-group">
           <label class="input-label">User Name</label>
           <input type="text" id="regUsername" class="input-field" placeholder="Sudunona / Nadeesha">
         </div>
-
         <div class="input-group">
           <label class="input-label">Password</label>
           <input type="password" id="regPassword" class="input-field" placeholder="Enter secure password">
         </div>
-
         <div class="input-group">
           <label class="input-label">Confirm Password</label>
           <input type="password" id="regConfirmPassword" class="input-field" placeholder="Re-enter password">
         </div>
-
         <div id="signupError" class="error-msg"></div>
-
         <button type="button" class="btn-main" onclick="handleSignUp()">Sign Up</button>
         <div class="switch-link" onclick="showScreen('loginScreen')">Already have an account? <b>Login</b></div>
       </div>
     </div>
 
-    <!-- ==============================================
-         3. HOME DASHBOARD SCREEN
-         ============================================== -->
+    <!-- 3. HOME DASHBOARD SCREEN -->
     <div id="dashboardScreen" class="screen">
       <div class="dash-top-bar">
         <img src="assets/Home Images/Maple Leave.png" alt="Maple Leaves" class="leaves-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'60\' height=\'60\' viewBox=\'0 0 60 60\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'30\'>🍁</text></svg>'">
@@ -991,7 +987,6 @@
       </div>
 
       <div class="modules-grid">
-        <!-- 1. KANJI (Directly navigates to Kanji Section) -->
         <div class="mod-card" onclick="openKanjiSection()">
           <div class="mod-top-row">
             <span class="mod-label">Kanji</span>
@@ -1002,7 +997,6 @@
           </div>
         </div>
 
-        <!-- 2. Vocabulary -->
         <div class="mod-card" onclick="alert('Vocabulary section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Vocabulary</span>
@@ -1013,7 +1007,6 @@
           </div>
         </div>
 
-        <!-- 3. Listening -->
         <div class="mod-card" onclick="alert('Listening section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Listening</span>
@@ -1024,7 +1017,6 @@
           </div>
         </div>
 
-        <!-- 4. Reading -->
         <div class="mod-card" onclick="alert('Reading section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Reading</span>
@@ -1035,7 +1027,6 @@
           </div>
         </div>
 
-        <!-- 5. Grammar -->
         <div class="mod-card" onclick="alert('Grammar section will be connected in next step!')">
           <div class="mod-top-row">
             <span class="mod-label">Grammar</span>
@@ -1046,7 +1037,6 @@
           </div>
         </div>
 
-        <!-- 6. Quiz -->
         <div class="mod-card" onclick="openKanjiQuizScreen()">
           <div class="mod-top-row">
             <span class="mod-label">Quiz</span>
@@ -1081,12 +1071,10 @@
         <button class="quiz-trigger-btn" onclick="openKanjiQuizScreen()">Quiz ⚔️</button>
       </div>
 
-      <!-- Search Bar -->
       <div class="search-box-row">
         <input type="text" id="kanjiSearchInput" class="kanji-search-input" placeholder="Search Kanji, Romaji or Meaning..." oninput="filterKanjiList()">
       </div>
 
-      <!-- Category Filter Pills -->
       <div class="kanji-cat-row">
         <button class="cat-pill active" onclick="selectKanjiCategory('all', this)">All</button>
         <button class="cat-pill" onclick="selectKanjiCategory('actions_kanji.json', this)">Actions</button>
@@ -1099,14 +1087,13 @@
         <button class="cat-pill" onclick="selectKanjiCategory('society_kanji.json', this)">Society</button>
       </div>
 
-      <!-- Icon-wise Grid Container -->
       <div id="kanjiGrid" class="kanji-grid-container">
         <!-- Dynamically injected Kanji Tiles -->
       </div>
     </div>
 
     <!-- ==============================================
-         5. KANJI QUIZ SCREEN
+         5. KANJI QUIZ SCREEN (JAPANESE ONLY + STROKE ANIMATION)
          ============================================== -->
     <div id="kanjiQuizScreen" class="screen">
       <div class="quiz-top-bar">
@@ -1115,26 +1102,26 @@
         <div id="quizScoreBadge" class="quiz-score-badge">Score: 0</div>
       </div>
 
-      <!-- Question Box -->
       <div class="quiz-card-box">
-        <div id="quizKanjiDisplay" class="quiz-char-display">行</div>
-        <div class="quiz-question-lbl">What is the correct meaning?</div>
+        <!-- Live Kanji Stroke Animation via KanjiVG -->
+        <div class="quiz-stroke-container" id="quizKanjiDisplayContainer">
+          <div class="quiz-char-display" id="quizKanjiDisplay">行</div>
+        </div>
+        <div class="quiz-question-lbl">正しい読み方は何ですか？ (What is the correct reading?)</div>
       </div>
 
-      <!-- Feedback -->
       <div id="quizFeedback" class="quiz-feedback-text"></div>
 
-      <!-- 4 Options -->
+      <!-- 4 Options (Only Hiragana/Katakana Furigana) -->
       <div id="quizOptionsContainer" class="quiz-options-container">
         <!-- Option buttons dynamically generated -->
       </div>
 
-      <!-- Next Button -->
       <button id="quizNextBtn" class="btn-main" style="display:none;" onclick="loadNextQuizQuestion()">Next Question ❯</button>
     </div>
 
     <!-- ==============================================
-         6. KANJI DETAILS MODAL
+         6. KANJI DETAILS MODAL (WITH STROKE ANIMATION)
          ============================================== -->
     <div id="kanjiDetailModal" class="app-modal">
       <div class="modal-box">
@@ -1158,7 +1145,7 @@
 
         <div class="modal-detail-row">
           <span class="modal-lbl">Meaning:</span>
-          <span id="modalKanjiMeaning" class="modal-val">යනවා / ක්‍රියාත්මක කරනවා / To Go / To Do</span>
+          <span id="modalKanjiMeaning" class="modal-val">To Go / To Do</span>
         </div>
 
         <div class="modal-detail-row">
@@ -1168,7 +1155,7 @@
 
         <div class="modal-detail-row">
           <span class="modal-lbl">Memory Story:</span>
-          <span id="modalKanjiStory" class="modal-val">පාරේ ඉදිරියට යනවා (行).</span>
+          <span id="modalKanjiStory" class="modal-val">Moving forward on the road.</span>
         </div>
 
         <button class="modal-close-btn" onclick="closeKanjiModal()">Close</button>
@@ -1309,27 +1296,17 @@
     // =========================================================
     // 5. KANJI DATA CONNECTOR & GRID MANAGEMENT
     // =========================================================
-    // Fallback embedded dataset from data/Kanji
     const EMBEDDED_KANJI_DATASET = [
-      { character: "行", category: "Actions", romaji: "iku / kou", onyomi: "コウ / ギョウ", kunyomi: "い.く, おこな.う", meaning: "යනවා / ක්‍රියාත්මක කරනවා / To Go", breakup: "Pictograph of crossroads.", story: "පාරේ ඉදිරියට යනවා (行)." },
-      { character: "来", category: "Actions", romaji: "kuru / rai", onyomi: "ライ", kunyomi: "く.る, きた.る", meaning: "එනවා / To Come / Next", breakup: "Grain plant drawing.", story: "අනාගතය ඉදිරියට එනවා (来)." },
-      { character: "食", category: "Actions", romaji: "taberu / shoku", onyomi: "ショク", kunyomi: "た.べる", meaning: "කනවා / ආහාර / Eat / Food", breakup: "Food bowl under roof.", story: "ආහාර වේලක් කනවා (食)." },
-      { character: "見", category: "Actions", romaji: "miru / ken", onyomi: "ケン", kunyomi: "み.る", meaning: "බලනවා / To See / Look", breakup: "Eye on legs.", story: "ඇස් දෙකෙන් බලනවා (見)." },
-      { character: "山", category: "Nature", romaji: "yama / san", onyomi: "サン", kunyomi: "やま", meaning: "කන්ද / Mountain", breakup: "Three mountain peaks.", story: "අහස උසට පෙනෙන කන්ද (山)." },
-      { character: "川", category: "Nature", romaji: "kawa / sen", onyomi: "セン", kunyomi: "かわ", meaning: "ගඟ / River", breakup: "Curving water streams.", story: "ගලාගෙන යන ගඟ (川)." },
-      { character: "雨", category: "Nature", romaji: "ame / u", onyomi: "ウ", kunyomi: "あめ", meaning: "වැස්ස / Rain", breakup: "Drops falling from sky.", story: "අහසින් වැටෙන වැස්ස (雨)." },
-      { character: "海", category: "Nature", romaji: "umi / kai", onyomi: "カイ", kunyomi: "うみ", meaning: "මුහුද / Sea / Ocean", breakup: "Water + Mother.", story: "සියලු ජීවයේ මව මුහුද (海)." },
-      { character: "家", category: "Daily Life", romaji: "ie / ka", onyomi: "カ / ケ", kunyomi: "いえ, や", meaning: "ගෙදර / House / Family", breakup: "Roof + Pig.", story: "පවුලක් ජීවත්වන ගෙදර (家)." },
-      { character: "族", category: "Daily Life", romaji: "zoku", onyomi: "ゾク", kunyomi: "", meaning: "පවුල / ගෝත්‍රය / Tribe / Family", breakup: "Banner + Arrows.", story: "එකට බැඳුණු පවුල (族)." },
-      { character: "友", category: "Daily Life", romaji: "tomo / yuu", onyomi: "ユウ", kunyomi: "とも", meaning: "මිතුරා / Friend", breakup: "Two hands overlapping.", story: "අත් අල්ලාගත් මිතුරා (友)." },
-      { character: "会", category: "Business", romaji: "kai / au", onyomi: "カイ", kunyomi: "あ.う", meaning: "හමුවෙනවා / Meeting / Company", breakup: "People gathering.", story: "සමාගමේ රැස්වීමක් (会)." },
-      { character: "社", category: "Business", romaji: "sha", onyomi: "シャ", kunyomi: "やしろ", meaning: "සමාගම / Company / Society", breakup: "Altar + Soil.", story: "මිනිසුන් සේවය කරන සමාගම (社)." },
-      { character: "車", category: "Transport", romaji: "kuruma / sha", onyomi: "シャ", kunyomi: "くるま", meaning: "වාහනය / Car / Vehicle", breakup: "Wheel with axle.", story: "රෝද සහිත වාහනය (車)." },
-      { character: "駅", category: "Transport", romaji: "eki", onyomi: "エキ", kunyomi: "", meaning: "දුම්රිය ස්ථානය / Station", breakup: "Horse + Exchange.", story: "මගීන් නගින දුම්රිය ස්ථානය (駅)." },
-      { character: "心", category: "Emotions", romaji: "kokoro / shin", onyomi: "シン", kunyomi: "こころ", meaning: "හදවත / සිත / Heart / Mind", breakup: "Beating human heart.", story: "හැඟීම් පිරුණු හදවත (心)." },
-      { character: "思", category: "Emotions", romaji: "omou / shi", onyomi: "シ", kunyomi: "おも.う", meaning: "හිතනවා / To Think / Feel", breakup: "Field/Brain + Heart.", story: "සිතින් මෙනෙහි කර සිතනවා (思)." },
-      { character: "病", category: "Health", romaji: "byou / yamai", onyomi: "ビョウ", kunyomi: "やまい", meaning: "ලෙඩ / රෝග / Illness / Sick", breakup: "Bed/Sickness + Fire.", story: "සුව නොවන රෝගය (病)." },
-      { character: "院", category: "Health", romaji: "in", onyomi: "イン", kunyomi: "", meaning: "ආයතනය / රෝහල / Institution", breakup: "Building with walls.", story: "රෝගීන් සුවපත් කරන රෝහල (院)." }
+      { character: "行", category: "Actions", romaji: "iku / kou", onyomi: "コウ / ギョウ", kunyomi: "い.く, おこな.う", meaning: "To Go / To Do", breakup: "Pictograph of crossroads.", story: "Moving forward on the road." },
+      { character: "来", category: "Actions", romaji: "kuru / rai", onyomi: "ライ", kunyomi: "く.る, きた.る", meaning: "To Come / Next", breakup: "Grain plant drawing.", story: "The future is coming." },
+      { character: "食", category: "Actions", romaji: "taberu / shoku", onyomi: "ショク", kunyomi: "た.べる", meaning: "To Eat / Food", breakup: "Food bowl under roof.", story: "Eating a meal." },
+      { character: "見", category: "Actions", romaji: "miru / ken", onyomi: "ケン", kunyomi: "み.る", meaning: "To See / Look", breakup: "Eye on legs.", story: "Looking with eyes." },
+      { character: "山", category: "Nature", romaji: "yama / san", onyomi: "サン", kunyomi: "やま", meaning: "Mountain", breakup: "Three mountain peaks.", story: "Mountain reaching the sky." },
+      { character: "川", category: "Nature", romaji: "kawa / sen", onyomi: "セン", kunyomi: "かわ", meaning: "River", breakup: "Curving water streams.", story: "Flowing river." },
+      { character: "家", category: "Daily Life", romaji: "ie / ka", onyomi: "カ / ケ", kunyomi: "いえ, や", meaning: "House / Family", breakup: "Roof + Pig.", story: "Family living in a house." },
+      { character: "会", category: "Business", romaji: "kai / au", onyomi: "カイ", kunyomi: "あ.う", meaning: "Meeting / Company", breakup: "People gathering.", story: "A company meeting." },
+      { character: "車", category: "Transport", romaji: "kuruma / sha", onyomi: "シャ", kunyomi: "くるま", meaning: "Car / Vehicle", breakup: "Wheel with axle.", story: "Vehicle with wheels." },
+      { character: "心", category: "Emotions", romaji: "kokoro / shin", onyomi: "シン", kunyomi: "こころ", meaning: "Heart / Mind", breakup: "Beating human heart.", story: "Heart full of emotions." }
     ];
 
     let currentKanjiList = [...EMBEDDED_KANJI_DATASET];
@@ -1351,7 +1328,6 @@
         return;
       }
 
-      // Try fetching from data/Kanji/ folder
       try {
         const response = await fetch('data/Kanji/' + filename);
         if (response.ok) {
@@ -1373,7 +1349,6 @@
       } catch (err) {
         fallbackCategoryFilter(filename);
       }
-
       renderKanjiGrid(currentKanjiList);
     }
 
@@ -1422,9 +1397,18 @@
       renderKanjiGrid(filtered);
     }
 
-    // Modal Details Logic
+    // --- Kanji Stroke Animation Generator ---
+    // Uses animCJK / KanjiVG standard URL structure for live SVG animations
+    function getStrokeAnimationNode(character) {
+      const code = character.charCodeAt(0).toString(16).padStart(5, '0');
+      // Using an open source Kanji SVG animation provider
+      const svgUrl = `https://kanjivg.tagaini.net/kanjivg/kanji/${code}.svg`;
+      return `<img src="${svgUrl}" alt="${character}" style="width:100%; height:100%; object-fit:contain;" onerror="this.outerHTML='<div style=\\'font-size:50px; font-weight:900; line-height:1;\\'>${character}</div>'">`;
+    }
+
+    // --- Modal Details Logic ---
     function openKanjiModal(kanji) {
-      document.getElementById('modalKanjiChar').textContent = kanji.character;
+      document.getElementById('modalKanjiChar').innerHTML = getStrokeAnimationNode(kanji.character);
       document.getElementById('modalKanjiCat').textContent = kanji.category;
       document.getElementById('modalKanjiRomaji').textContent = kanji.romaji || '-';
       document.getElementById('modalKanjiOnyomi').textContent = kanji.onyomi || '-';
@@ -1440,7 +1424,7 @@
     }
 
     // =========================================================
-    // 6. KANJI QUIZ LOGIC
+    // 6. KANJI QUIZ LOGIC (JAPANESE FURIGANA ONLY)
     // =========================================================
     let quizScore = 0;
     let quizCurrentQuestion = null;
@@ -1460,7 +1444,8 @@
       const targetIndex = Math.floor(Math.random() * pool.length);
       quizCurrentQuestion = pool[targetIndex];
 
-      document.getElementById('quizKanjiDisplay').textContent = quizCurrentQuestion.character;
+      // Inject Kanji Stroke Animation into Quiz
+      document.getElementById('quizKanjiDisplayContainer').innerHTML = getStrokeAnimationNode(quizCurrentQuestion.character);
 
       // Select 3 random distractors
       const distractors = pool.filter(k => k.character !== quizCurrentQuestion.character);
@@ -1476,13 +1461,19 @@
       options.forEach(opt => {
         const btn = document.createElement('button');
         btn.className = 'quiz-opt-btn';
-        btn.textContent = opt.meaning.split('/')[0];
-        btn.onclick = () => checkQuizAnswer(btn, opt.character === quizCurrentQuestion.character);
+        
+        // Japanese Only: Prioritize Kunyomi, fallback to Onyomi, fallback to Hiragana
+        let displayReading = opt.kunyomi;
+        if (!displayReading || displayReading === '-') displayReading = opt.onyomi;
+        if (!displayReading || displayReading === '-') displayReading = opt.character;
+        
+        btn.textContent = displayReading;
+        btn.onclick = () => checkQuizAnswer(btn, opt.character === quizCurrentQuestion.character, displayReading);
         container.appendChild(btn);
       });
     }
 
-    function checkQuizAnswer(selectedBtn, isCorrect) {
+    function checkQuizAnswer(selectedBtn, isCorrect, correctFurigana) {
       const allBtns = document.querySelectorAll('.quiz-opt-btn');
       allBtns.forEach(btn => btn.disabled = true);
 
@@ -1490,16 +1481,18 @@
         selectedBtn.classList.add('correct');
         quizScore += 10;
         document.getElementById('quizFeedback').style.color = '#388e3c';
-        document.getElementById('quizFeedback').textContent = 'Correct Answer! 🎉 (+10 pts)';
+        document.getElementById('quizFeedback').textContent = '正解! (Correct!) 🎉 (+10 pts)';
       } else {
         selectedBtn.classList.add('incorrect');
         allBtns.forEach(btn => {
-          if (btn.textContent === quizCurrentQuestion.meaning.split('/')[0]) {
+          let expectedFurigana = quizCurrentQuestion.kunyomi;
+          if (!expectedFurigana || expectedFurigana === '-') expectedFurigana = quizCurrentQuestion.onyomi;
+          if (btn.textContent === expectedFurigana) {
             btn.classList.add('correct');
           }
         });
         document.getElementById('quizFeedback').style.color = '#d13b53';
-        document.getElementById('quizFeedback').textContent = 'Incorrect! Correct answer highlighted in green.';
+        document.getElementById('quizFeedback').textContent = '不正解 (Incorrect).';
       }
 
       document.getElementById('quizScoreBadge').textContent = `Score: ${quizScore}`;
