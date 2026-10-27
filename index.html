@@ -13,7 +13,7 @@
       -webkit-tap-highlight-color: transparent;
     }
 
-    /* Screen-e scroll bondho korar jonno */
+    /* Prevent any unwanted page scroll */
     html, body {
       width: 100%;
       height: 100%;
@@ -24,7 +24,7 @@
       align-items: center;
     }
 
-    /* Mobile Container Frame */
+    /* Fixed Aspect Ratio Mobile Frame */
     .app-viewport {
       width: 100%;
       max-width: 380px;
@@ -59,12 +59,12 @@
     }
 
     /* =========================================================
-       1. LOGIN & SIGNUP SCREEN (PROTHOM PAGE-ER LIGHT THEME)
+       1. LOGIN & SIGNUP SCREEN (PROPORTIONALLY SCALED)
        ========================================================= */
     #loginScreen, #signupScreen {
       background-color: #ffffff;
       justify-content: space-between;
-      padding: 14px 22px 16px;
+      padding: 16px 24px 20px;
     }
 
     .hero-section {
@@ -598,7 +598,7 @@
   <div class="app-viewport">
     
     <!-- ==============================================
-         1. LOGIN SCREEN
+         1. LOGIN SCREEN (100% ENGLISH)
          ============================================== -->
     <div id="loginScreen" class="screen active">
       
@@ -614,11 +614,11 @@
         <div id="liveDate" class="live-date">Friday, 10 August 2026</div>
       </div>
 
-      <!-- Scaled-Down Form -->
+      <!-- Compact Form -->
       <div class="form-container">
         <div class="input-group">
           <label class="input-label">User Name</label>
-          <input type="text" id="loginUsername" class="input-field" placeholder="Username din" autocomplete="username">
+          <input type="text" id="loginUsername" class="input-field" placeholder="Enter username" autocomplete="username">
         </div>
 
         <div class="input-group">
@@ -629,13 +629,13 @@
         <div id="loginError" class="error-msg"></div>
 
         <button type="button" class="btn-main" onclick="handleLogin()">Login</button>
-        <div class="switch-link" onclick="showScreen('signupScreen')">Account nei? <b>Sign Up korun</b></div>
+        <div class="switch-link" onclick="showScreen('signupScreen')">Don't have an account? <b>Sign Up</b></div>
       </div>
 
     </div>
 
     <!-- ==============================================
-         2. SIGN UP SCREEN
+         2. SIGN UP SCREEN (100% ENGLISH)
          ============================================== -->
     <div id="signupScreen" class="screen">
       <div class="hero-section" style="max-height: 140px;">
@@ -644,7 +644,7 @@
 
       <div class="info-section">
         <div class="greeting-text">Create Account</div>
-        <p style="font-size: 11.5px; color: #666;">Notun User hishebe register korun</p>
+        <p style="font-size: 11.5px; color: #666;">Register as a new student</p>
       </div>
 
       <div class="form-container">
@@ -655,23 +655,23 @@
 
         <div class="input-group">
           <label class="input-label">Password</label>
-          <input type="password" id="regPassword" class="input-field" placeholder="Gopon password din">
+          <input type="password" id="regPassword" class="input-field" placeholder="Enter secure password">
         </div>
 
         <div class="input-group">
           <label class="input-label">Confirm Password</label>
-          <input type="password" id="regConfirmPassword" class="input-field" placeholder="Password abar likhun">
+          <input type="password" id="regConfirmPassword" class="input-field" placeholder="Re-enter password">
         </div>
 
         <div id="signupError" class="error-msg"></div>
 
         <button type="button" class="btn-main" onclick="handleSignUp()">Sign Up</button>
-        <div class="switch-link" onclick="showScreen('loginScreen')">Account ache? <b>Login korun</b></div>
+        <div class="switch-link" onclick="showScreen('loginScreen')">Already have an account? <b>Login</b></div>
       </div>
     </div>
 
     <!-- ==============================================
-         3. HOME SCREEN / DASHBOARD (COMFORTABLE THEME + PNGS)
+         3. HOME SCREEN / DASHBOARD (100% ENGLISH)
          ============================================== -->
     <div id="dashboardScreen" class="screen">
       
@@ -701,7 +701,7 @@
       </div>
 
       <!-- Dashboard Progress Card -->
-      <div class="progress-card" onclick="openModule('Dashboard Progress', 'Shompurno JLPT N3 shob modules 100% complete kora hoyeche.')">
+      <div class="progress-card" onclick="openModule('Dashboard Progress', 'Total JLPT N3 practice syllabus: 100% completed.')">
         <div class="progress-header">
           <span class="progress-title">Dashboard Progress</span>
           <div class="badge-arrow-lime">▲</div>
@@ -712,7 +712,7 @@
       <!-- 6 Modules Grid with exact PNG icons -->
       <div class="modules-grid">
         <!-- 1. Kanji -->
-        <div class="mod-card" onclick="openModule('Kanji N3', 'Kanji 370-ti, Onyomi/Kunyomi reading ebong stroke orders.')">
+        <div class="mod-card" onclick="openModule('Kanji N3', '370 Kanji Characters, Onyomi/Kunyomi readings, and stroke order.')">
           <div class="mod-top-row">
             <span class="mod-label">Kanji</span>
             <div class="mod-badge-arrow">▲</div>
@@ -723,7 +723,7 @@
         </div>
 
         <!-- 2. Vocabulary -->
-        <div class="mod-card" onclick="openModule('Vocabulary N3', 'N3 porikkhar 1,800 shobdo, ortho ebong example sentence.')">
+        <div class="mod-card" onclick="openModule('Vocabulary N3', '1,800 JLPT N3 Essential Vocabulary, definitions, and sentence examples.')">
           <div class="mod-top-row">
             <span class="mod-label">Vocabulary</span>
             <div class="mod-badge-arrow">▲</div>
@@ -734,7 +734,7 @@
         </div>
 
         <!-- 3. Listening -->
-        <div class="mod-card" onclick="openModule('Listening N3', 'Listening practice, audio dialogues ebong quick response.')">
+        <div class="mod-card" onclick="openModule('Listening N3', 'Listening comprehension, audio conversations, and prompt response.')">
           <div class="mod-top-row">
             <span class="mod-label">Listening</span>
             <div class="mod-badge-arrow">▲</div>
@@ -745,7 +745,7 @@
         </div>
 
         <!-- 4. Reading -->
-        <div class="mod-card" onclick="openModule('Reading N3', 'Choto, majhari ebong boro paragraph comprehension practice.')">
+        <div class="mod-card" onclick="openModule('Reading N3', 'Short, medium, and long reading passages with detailed analysis.')">
           <div class="mod-top-row">
             <span class="mod-label">Reading</span>
             <div class="mod-badge-arrow">▲</div>
@@ -756,7 +756,7 @@
         </div>
 
         <!-- 5. Grammar -->
-        <div class="mod-card" onclick="openModule('Grammar N3', 'Prodhankari 130-ti grammar rules ebong sentence pattern.')">
+        <div class="mod-card" onclick="openModule('Grammar N3', '130 Fundamental Grammar Patterns and practical sentence formation.')">
           <div class="mod-top-row">
             <span class="mod-label">Grammar</span>
             <div class="mod-badge-arrow">▲</div>
@@ -767,7 +767,7 @@
         </div>
 
         <!-- 6. Quiz -->
-        <div class="mod-card" onclick="openModule('Quiz & Mock Tests', 'Real timer ebong scoring soho model question test.')">
+        <div class="mod-card" onclick="openModule('Quiz & Mock Tests', 'Timed examination simulation with automated scores and answer review.')">
           <div class="mod-top-row">
             <span class="mod-label">Quiz</span>
             <div class="mod-badge-arrow">▲</div>
@@ -779,7 +779,7 @@
       </div>
 
       <!-- Bookmark & Mistakes Review Banner with PNG -->
-      <div class="review-banner" onclick="openModule('Bookmark & Mistakes Review', 'Bookmark kora ebong vul kora proshno gulo abar practice korun.')">
+      <div class="review-banner" onclick="openModule('Bookmark & Mistakes Review', 'Review bookmarked items and practice repeated error questions.')">
         <img src="assets/Home Images/Bookmark & Mistake Review.png" alt="Bookmark" class="review-icon-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'24\' height=\'24\' viewBox=\'0 0 24 24\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'16\'>📅</text></svg>'">
         <span class="review-text">Bookmark & Mistakes Review</span>
       </div>
@@ -787,7 +787,7 @@
       <!-- Today Task Footer with PNG -->
       <div class="today-task-row">
         <span class="today-task-label">Today Task</span>
-        <button class="today-task-circle-btn" onclick="openModule('Today Task', 'Ajker goal: 15 Vocabulary, 5 Kanji ebong 1 Reading comprehension.')">
+        <button class="today-task-circle-btn" onclick="openModule('Today Task', 'Today Goal: 15 Vocabulary words, 5 Kanji cards, and 1 Reading exercise.')">
           <img src="assets/Home Images/Today Task.png" alt="Arrow" class="today-task-btn-img" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'16\' height=\'16\' viewBox=\'0 0 16 16\'><text x=\'50%\' y=\'50%\' dominant-baseline=\'middle\' text-anchor=\'middle\' font-size=\'12\'>❯</text></svg>'">
         </button>
       </div>
@@ -797,8 +797,8 @@
     <!-- Data Details Modal -->
     <div id="dataModal" class="app-modal">
       <div class="modal-box">
-        <h3 id="modalTitle">Module Name</h3>
-        <p id="modalDesc">Module-er bistarto tothyo ekhane dekhabe.</p>
+        <h3 id="modalTitle">Module Details</h3>
+        <p id="modalDesc">Detailed data will appear here.</p>
         <button class="modal-close-btn" onclick="closeModal()">Close</button>
       </div>
     </div>
@@ -814,7 +814,7 @@
       return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
     }
 
-    // 2. Default Users Setup
+    // 2. Default System Users
     async function initializeUsers() {
       if (!localStorage.getItem('n3_users')) {
         const adminHash = await sha256('9101001');
@@ -827,7 +827,7 @@
       }
     }
 
-    // 3. Live Clock Update
+    // 3. Live Clock and Date Update
     function updateClock() {
       const now = new Date();
       const hours = String(now.getHours()).padStart(2, '0');
@@ -865,7 +865,7 @@
       const errBox = document.getElementById('loginError');
 
       if (!usernameInput || !passwordInput) {
-        errBox.textContent = 'Doyakore User Name ebong Password din.';
+        errBox.textContent = 'Please enter both Username and Password.';
         return;
       }
 
@@ -873,7 +873,7 @@
       const user = users[usernameInput];
 
       if (!user || !user.passwordHash) {
-        errBox.textContent = 'Ei User Name register kora nei (Sign Up korun).';
+        errBox.textContent = 'Username not registered. Please Sign Up.';
         return;
       }
 
@@ -884,7 +884,7 @@
         document.getElementById('loginPassword').value = '';
         showScreen('dashboardScreen');
       } else {
-        errBox.textContent = 'Password vul! Abar chesta korun.';
+        errBox.textContent = 'Incorrect password! Please try again.';
       }
     }
 
@@ -896,24 +896,24 @@
       const errBox = document.getElementById('signupError');
 
       if (!username || !password) {
-        errBox.textContent = 'Shob details puron korun.';
+        errBox.textContent = 'Please fill in all details.';
         return;
       }
 
       if (password !== confirmPassword) {
-        errBox.textContent = 'Duti password mile nai!';
+        errBox.textContent = 'Passwords do not match!';
         return;
       }
 
       if (password.length < 4) {
-        errBox.textContent = 'Password-e ontoto 4-ti character thakhte hobe.';
+        errBox.textContent = 'Password must be at least 4 characters.';
         return;
       }
 
       const users = JSON.parse(localStorage.getItem('n3_users') || '{}');
 
       if (users[username] && users[username].passwordHash) {
-        errBox.textContent = 'Ei User Name-ti agei bebohar kora hoyeche.';
+        errBox.textContent = 'Username is already taken.';
         return;
       }
 
@@ -922,13 +922,12 @@
       localStorage.setItem('n3_users', JSON.stringify(users));
 
       localStorage.setItem('n3_logged_user', username);
-      document.getElementById('loggedUserName').textContent = username;
       showScreen('dashboardScreen');
     }
 
     // 8. Logout Functionality
     function handleLogout() {
-      if (confirm("Apni ki logout korte chan?")) {
+      if (confirm('Are you sure you want to log out?')) {
         localStorage.removeItem('n3_logged_user');
         showScreen('loginScreen');
       }
